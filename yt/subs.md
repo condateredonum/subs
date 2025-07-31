@@ -30,6 +30,8 @@
 
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
 
+[Not So Erudite](https://www.youtube.com/@notsoErudite/videos)
+
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
 
 [Vic Pyrrhichos](https://www.youtube.com/@pyrrhichos/videos)
