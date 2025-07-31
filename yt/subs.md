@@ -22,6 +22,8 @@
 
 [Mayuko](https://www.youtube.com/@hellomayuko/videos)
 
+[Michel Janse](https://www.youtube.com/@MichelJanse/videos)
+
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
