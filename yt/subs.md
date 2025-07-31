@@ -34,6 +34,8 @@
 
 [Vic Pyrrhichos](https://www.youtube.com/@pyrrhichos/videos)
 
+[Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
+
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
 
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
