@@ -20,6 +20,8 @@
 
 [Legal Mindset](https://www.youtube.com/@LegalMindset/videos)
 
+[Mayuko](https://www.youtube.com/@hellomayuko/videos)
+
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
