@@ -1,3 +1,3 @@
 # subs
 
-[yt](yt/subs)
+## [yt](yt/subs.md)
