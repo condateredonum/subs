@@ -1,14 +1,13 @@
 # yt
 
-[Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis)
+[Faye Bate](https://www.youtube.com/@DrFayeBate/videos)
 
-[Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial)
+[Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
-[oliSUNvia](https://www.youtube.com/@oliSUNvia)
+[Lana Blakely](https://www.youtube.com/@LanaBlakely/videos)
 
-[Lana Blakely](https://www.youtube.com/@LanaBlakely)
+[oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
 
-[Sierra Roselyn](https://www.youtube.com/@sierraroselyn)
+[Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
 
-[Faye Bate](https://www.youtube.com/@DrFayeBate)
-
+[Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
