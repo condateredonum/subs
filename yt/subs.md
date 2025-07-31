@@ -8,6 +8,8 @@
 
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
 
+[Izzy Sealeys](https://www.youtube.com/@IzzySealey/videos)
+
 [Jubilee](https://www.youtube.com/@jubilee)
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
