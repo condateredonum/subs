@@ -1,5 +1,7 @@
 # yt
 
+[Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
+
 [Destiny](https://www.youtube.com/@destiny/videos)
 
 [Faye Bate](https://www.youtube.com/@DrFayeBate/videos)
