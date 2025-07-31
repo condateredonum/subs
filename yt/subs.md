@@ -16,6 +16,8 @@
 
 [Legal Mindset](https://www.youtube.com/@LegalMindset/videos)
 
+[Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
+
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
@@ -25,3 +27,5 @@
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
 
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
+
+[Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
