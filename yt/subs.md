@@ -10,7 +10,7 @@
 
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
 
-[Izzy Sealeys](https://www.youtube.com/@IzzySealey/videos)
+[Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
 
 [Jubilee](https://www.youtube.com/@jubilee)
 
