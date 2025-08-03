@@ -16,6 +16,8 @@
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
 
+[Kamikaze_Shortbus](https://www.youtube.com/@Kamikaze_Shortbus/videos)
+
 [Lana Blakely](https://www.youtube.com/@LanaBlakely/videos)
 
 [Leena Norms](https://www.youtube.com/@leenanorms/videos)
