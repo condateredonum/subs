@@ -36,11 +36,13 @@
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
 
-[Vic Pyrrhichos](https://www.youtube.com/@pyrrhichos/videos)
+[Pyrrhichos Vic](https://www.youtube.com/@pyrrhichos/videos)
 
 [Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
 
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
+
+[State of Kait](https://www.youtube.com/@StateofKait/videos)
 
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
 
