@@ -2,6 +2,8 @@
 
 [Amy Wang](https://www.youtube.com/@wamyy5/videos)
 
+[Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
+
 [Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
 
 [Destiny](https://www.youtube.com/@destiny/videos)
