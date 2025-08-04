@@ -1,5 +1,7 @@
 # yt
 
+[Amy Wang](https://www.youtube.com/@wamyy5/videos)
+
 [Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
 
 [Destiny](https://www.youtube.com/@destiny/videos)
