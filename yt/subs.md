@@ -4,6 +4,8 @@
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
 
+[Brittany Venti](http://youtube.com/brittanyventi/videos)
+
 [Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
 
 [Destiny](https://www.youtube.com/@destiny/videos)
