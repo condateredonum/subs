@@ -52,4 +52,6 @@
 
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
 
+[Sydney Watson](https://www.youtube.com/channel/UCSFy-1JrpZf0tFlRZfo-Rvw)
+
 [Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
