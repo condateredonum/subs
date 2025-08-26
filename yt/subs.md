@@ -36,6 +36,8 @@
 
 [Michel Janse](https://www.youtube.com/@MichelJanse/videos)
 
+[Mina Le](https://www.youtube.com/channel/UCoOss5XiPpnLHGmLrBvNkJg)
+
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
