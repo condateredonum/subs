@@ -8,6 +8,8 @@
 
 [Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
 
+[Critical Drinker](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
+
 [Destiny](https://www.youtube.com/@destiny/videos)
 
 [Elephant Graveyard](https://www.youtube.com/channel/UCZ1q3ZqXAFCvym4jrGozdRg)
