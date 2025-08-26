@@ -10,6 +10,8 @@
 
 [Destiny](https://www.youtube.com/@destiny/videos)
 
+[Elephant Graveyard](https://www.youtube.com/channel/UCZ1q3ZqXAFCvym4jrGozdRg)
+
 [Faye Bate](https://www.youtube.com/@DrFayeBate/videos)
 
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
@@ -41,6 +43,8 @@
 [Not So Erudite](https://www.youtube.com/@notsoErudite/videos)
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
+
+[Podcast Cringe](https://www.youtube.com/channel/UCSmxtnPw-aVg_hQ9zLb_Fug)
 
 [Pyrrhichos Vic](https://www.youtube.com/@pyrrhichos/videos)
 
