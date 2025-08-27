@@ -12,6 +12,8 @@
 
 [Destiny](https://www.youtube.com/@destiny/videos)
 
+[Disparu](https://www.youtube.com/channel/UCk7X9Wzqmrgpv9TrBpUnT-g)
+
 [Elephant Graveyard](https://www.youtube.com/channel/UCZ1q3ZqXAFCvym4jrGozdRg)
 
 [Faye Bate](https://www.youtube.com/@DrFayeBate/videos)
