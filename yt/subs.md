@@ -8,13 +8,13 @@
 
 [Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
 
-[Critical Drinker](https://www.youtube.com/channel/UCSJPFQdZwrOutnmSFYtbstA)
+[Critical Drinker](https://www.youtube.com/@TheCriticalDrinker/videos)
 
 [Destiny](https://www.youtube.com/@destiny/videos)
 
-[Disparu](https://www.youtube.com/channel/UCk7X9Wzqmrgpv9TrBpUnT-g)
+[Disparu](https://www.youtube.com/@disparutoo/videos)
 
-[Elephant Graveyard](https://www.youtube.com/channel/UCZ1q3ZqXAFCvym4jrGozdRg)
+[Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
 [Faye Bate](https://www.youtube.com/@DrFayeBate/videos)
 
@@ -22,9 +22,11 @@
 
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
 
+[How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
+
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
 
-[Jubilee](https://www.youtube.com/@jubilee)
+[Jubilee](https://www.youtube.com/@jubilee/videos)
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
 
@@ -40,7 +42,7 @@
 
 [Michel Janse](https://www.youtube.com/@MichelJanse/videos)
 
-[Mina Le](https://www.youtube.com/channel/UCoOss5XiPpnLHGmLrBvNkJg)
+[Mina Le](https://www.youtube.com/@gremlita/videos)
 
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
@@ -50,7 +52,7 @@
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
 
-[Podcast Cringe](https://www.youtube.com/channel/UCSmxtnPw-aVg_hQ9zLb_Fug)
+[Podcast Cringe](https://www.youtube.com/@PodcastCringe/videos)
 
 [Pyrrhichos Vic](https://www.youtube.com/@pyrrhichos/videos)
 
@@ -62,8 +64,8 @@
 
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
 
-[Sydney Watson](https://www.youtube.com/channel/UCSFy-1JrpZf0tFlRZfo-Rvw)
+[Sydney Watson](https://www.youtube.com/@SydneyWatson/videos)
 
-[Tiffany Ferg](https://www.youtube.com/channel/UCY6DpwQetygtye7GM1zVHmw)
+[Tiffany Ferg](https://www.youtube.com/@tiffanyferg/videos)
 
 [Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
