@@ -26,6 +26,8 @@
 
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
 
+[Jimmy the Giant](https://www.youtube.com/@JimmyTheGiant/videos)
+
 [Jubilee](https://www.youtube.com/@jubilee/videos)
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
