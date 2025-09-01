@@ -42,6 +42,8 @@
 
 [Legal Mindset](https://www.youtube.com/@LegalMindset/videos)
 
+[Marina McBain](https://www.youtube.com/@marinamcbain/videos)
+
 [Mayuko](https://www.youtube.com/@hellomayuko/videos)
 
 [Michel Janse](https://www.youtube.com/@MichelJanse/videos)
