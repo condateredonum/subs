@@ -10,8 +10,6 @@
 
 [Critical Drinker](https://www.youtube.com/@TheCriticalDrinker/videos)
 
-[Destiny](https://www.youtube.com/@destiny/videos)
-
 [Disparu](https://www.youtube.com/@disparutoo/videos)
 
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
