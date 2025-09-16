@@ -6,6 +6,8 @@
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
 
+[Business Insider](https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA)
+
 [Brittany Venti](http://youtube.com/brittanyventi/videos)
 
 [Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
