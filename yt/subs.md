@@ -48,6 +48,8 @@
 
 [Mina Le](https://www.youtube.com/@gremlita/videos)
 
+[Ming](https://www.youtube.com/channel/UClrSwyZsTOqfTkN7YkCKo5Q)
+
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
