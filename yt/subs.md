@@ -2,8 +2,6 @@
 
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
 
-[Amy Wang](https://www.youtube.com/@wamyy5/videos)
-
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
 
 [Business Insider](https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA)
