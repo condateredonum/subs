@@ -74,4 +74,6 @@
 
 [Tiffany Ferg](https://www.youtube.com/@tiffanyferg/videos)
 
+[Tom Nicholas](https://www.youtube.com/@Tom_Nicholas/videos)
+
 [Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
