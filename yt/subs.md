@@ -22,6 +22,8 @@
 
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
+[Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
+
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
 
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
