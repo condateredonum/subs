@@ -64,6 +64,8 @@
 
 [Pyrrhichos Vic](https://www.youtube.com/@pyrrhichos/videos)
 
+[Rachel Oates](https://www.youtube.com/@RachelOates/videos)
+
 [Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
 
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
