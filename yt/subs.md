@@ -4,6 +4,8 @@
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
 
+[Big A](https://www.youtube.com/@AtriocClips/videos)
+
 [Business Insider](https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA)
 
 [Brittany Venti](http://youtube.com/brittanyventi/videos)
