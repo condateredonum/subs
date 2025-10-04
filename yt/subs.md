@@ -56,6 +56,8 @@
 
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
 
+[Not Even Emily](vhttps://www.youtube.com/@notevenemily/videos)
+
 [Not So Erudite](https://www.youtube.com/@notsoErudite/videos)
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
