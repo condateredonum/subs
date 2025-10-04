@@ -10,7 +10,7 @@
 
 [Big A](https://www.youtube.com/@AtriocClips/videos)
 
-[Business Insider](https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA)
+[Business Insider](https://www.youtube.com/@BusinessInsider/videos)
 
 [Brittany Venti](http://youtube.com/brittanyventi/videos)
 
@@ -54,7 +54,7 @@
 
 [Mina Le](https://www.youtube.com/@gremlita/videos)
 
-[Ming](https://www.youtube.com/channel/UClrSwyZsTOqfTkN7YkCKo5Q)
+[Ming](https://www.youtube.com/@MingLLC/videos)
 
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
