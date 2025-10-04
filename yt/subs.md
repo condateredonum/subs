@@ -18,8 +18,6 @@
 
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
-[Faye Bate](https://www.youtube.com/@DrFayeBate/videos)
-
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
 [Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
