@@ -74,6 +74,8 @@
 
 [Rachel Oates](https://www.youtube.com/@RachelOates/videos)
 
+[Second Story](https://www.youtube.com/@HilaryLayne/videos)
+
 [Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
 
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
