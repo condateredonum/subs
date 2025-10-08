@@ -1,7 +1,7 @@
 # yt/scripts/utils.py
 from datetime import datetime
 
-def save_to_md(videos, file_path='yt/latest_videos.md'):
+def save_to_md(videos, file_path='yt/latest.md'):
     """Save scraped video data to a Markdown file with a timestamp."""
 
     # Get the current timestamp
