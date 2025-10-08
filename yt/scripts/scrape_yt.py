@@ -1,7 +1,5 @@
 import os
 from googleapiclient.discovery import build
-# from yt.scripts.channel_ids import get_channel_ids, get_usernames
-# from yt.scripts.utils import save_to_md
 from channel_info import get_channel_ids, get_usernames
 from utils import save_to_md
 
@@ -76,7 +74,7 @@ def scrape_videos(md_file_path):
 
 if __name__ == "__main__":
     # Specify your Markdown file path
-    channel_ids_file = 'yt/subs.md'
+    channel_ids_file = 'yt/test.md'
     videos = scrape_videos(channel_ids_file)
     
     # Optionally, save or format the output
