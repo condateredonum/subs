@@ -75,7 +75,8 @@ def scrape_videos(md_file_path):
 if __name__ == "__main__":
     # Specify your Markdown file path
     channel_ids_file = 'yt/test.md'
+    output_path='yt/test_output.md'
     videos = scrape_videos(channel_ids_file)
     
     # Optionally, save or format the output
-    save_to_md(videos)
+    save_to_md(videos, file_path=output_path)
