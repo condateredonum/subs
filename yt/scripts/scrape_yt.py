@@ -59,16 +59,16 @@ def scrape_videos(md_file_path):
     usernames = get_usernames(md_file_path)
     
     all_videos = {}
-
-    # Scrape videos for channel IDs
-    for channel_id in channel_ids:
-        videos = get_latest_videos(f"https://www.youtube.com/channel/{channel_id}")
-        all_videos[channel_id] = videos
     
     # Scrape videos for usernames
     for username in usernames:
         videos = get_latest_videos(f"https://www.youtube.com/@{username}/videos")
         all_videos[username] = videos
+
+    # # Scrape videos for channel IDs
+    # for channel_id in channel_ids:
+    #     videos = get_latest_videos(f"https://www.youtube.com/channel/{channel_id}")
+    #     all_videos[channel_id] = videos
     
     return all_videos
 
