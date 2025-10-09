@@ -85,5 +85,5 @@ def main(md_file_path, output_file):
 
 if __name__ == "__main__":
     md_file_path = 'yt/subs.md'
-    output_file = 'channel_ids.json'
+    output_file = 'yt/data/channel_ids.json'
     main(md_file_path, output_file)
