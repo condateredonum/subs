@@ -33,4 +33,12 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.KEY_API_GOOGLE_CLOUD }}
         run: |
-          python yt/scripts/channel_info.py yt/subs.md channel_ids.json
+          python yt/scripts/channel_info.py # yt/subs.md channel_ids.json
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-action@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git add .  
+          git commit -m "Updated channel info" || echo "No changes to commit"
+          git push
