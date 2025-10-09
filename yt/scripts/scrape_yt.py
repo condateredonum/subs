@@ -53,6 +53,33 @@ def get_latest_videos(channel_id_or_username):
             })
     return video_list
 
+def get_first_video(channel_id):
+    # Step 1: Get the uploads playlist ID
+    channel_request = youtube.channels().list(
+        part='contentDetails',
+        id=channel_id
+    )
+    channel_response = channel_request.execute()
+
+    uploads_playlist_id = channel_response['items'][0]['contentDetails']['relatedPlaylists']['uploads']
+
+    # Step 2: Get the videos from the uploads playlist
+    playlist_request = youtube.playlistItems().list(
+        part='snippet',
+        playlistId=uploads_playlist_id,
+        maxResults=1  # We only want the first video
+    )
+    playlist_response = playlist_request.execute()
+
+    # Step 3: Retrieve the video details
+    if playlist_response['items']:
+        first_video = playlist_response['items'][0]['snippet']
+        video_title = first_video['title']
+        video_id = first_video['resourceId']['videoId']
+        return {'title': video_title, 'video_id': video_id}
+    else:
+        return None
+
 def scrape_videos(md_file_path):
     """Scrape videos for both channel IDs and usernames."""
     channel_ids = get_channel_ids(md_file_path)
