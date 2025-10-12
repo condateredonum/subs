@@ -93,19 +93,11 @@ def main(md_file_path, output_file):
         }
         channel_ids.append(channel_entry)
 
-    # Remove duplicates in channel_ids based on username
-    unique_channel_ids = {entry['username']: entry for entry in channel_ids}.values()
+    # Remove existing entries for the usernames being updated
+    existing_data = [entry for entry in existing_data if entry['username'] not in usernames]
 
-    # Update existing records in existing_data or add new ones
-    for entry in existing_data:
-        for channel in unique_channel_ids:
-            if entry['username'] == channel['username']:
-                entry['channel_id'] = channel['channel_id']
-                entry['uploads_playlist_id'] = channel['uploads_playlist_id']
-                break
-        else:
-            # If username wasn't found, append a new entry
-            existing_data.append(channel)
+    # Add updated channel entries to existing_data
+    existing_data.extend(channel_ids)
 
     # Update the output file with the new user data
     update_channel_ids(output_file, list(existing_data))
