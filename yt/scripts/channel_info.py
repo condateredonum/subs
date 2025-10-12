@@ -42,7 +42,7 @@ def fetch_channel_id(username):
     base_url2 = f'https://youtube.googleapis.com/youtube/v3/search?'
     params2 = {
         'part': 'snippet',
-        'type': 'channel'
+        'type': 'channel',
         'q': username,
         'key': api_key
     }
