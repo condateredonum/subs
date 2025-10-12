@@ -32,23 +32,31 @@ def fetch_channel_id(username):
     base_url = f'https://www.googleapis.com/youtube/v3/channels?'
     # Request to get channel details
     params = {
-        'part': 'id',
-        'forUsername': username,
+        'part': 'contentDetails',
+        'forHandle': username,
         'key': api_key
     }
     response = requests.get(base_url, params=params)
-    print(f'Channel response: \n {response.json()} \n\n ')
 
-    base_url2 = f'https://youtube.googleapis.com/youtube/v3/search?'
-    params2 = {
-        'part': 'snippet',
-        'type': 'channel',
-        'q': username,
-        'key': api_key
-    }
-    response2 = requests.get(base_url2, params=params2)
-    resp_json = response2.json()['items'][0]['id']['channelId']
-    print(f'Search response: \n {resp_json} \n\n ')
+    resp_data = response.json()
+
+    channel_id = resp_data['items'][0]['id']
+    print(f'Channel id: {channel_id}')
+
+    uploads_id = resp_data['items'][0]['contentDetails']['relatedPlaylists']['uploads']
+    print(f'Uploads id: {uploads_id}')
+    
+
+    # base_url2 = f'https://youtube.googleapis.com/youtube/v3/search?'
+    # params2 = {
+    #     'part': 'snippet',
+    #     'type': 'channel',
+    #     'q': username,
+    #     'key': api_key
+    # }
+    # response2 = requests.get(base_url2, params=params2)
+    # resp_json = response2.json()['items'][0]['id']['channelId']
+    # print(f'Search response: \n {resp_json} \n\n ')
 
 
     if response.status_code == 200:
