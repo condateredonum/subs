@@ -27,20 +27,32 @@ def get_usernames_from_md(md_file_path):
 def fetch_channel_id(username):
     """Fetch the channel ID for a given username from YouTube."""
     api_key = os.environ.get('YOUTUBE_API_KEY')
-    base_url = f'https://www.googleapis.com/youtube/v3/channels?'
 
+
+    base_url = f'https://www.googleapis.com/youtube/v3/channels?'
     # Request to get channel details
     params = {
         'part': 'id',
         'forUsername': username,
         'key': api_key
     }
-    
     response = requests.get(base_url, params=params)
+    print(f'Channel response: \n {response} \n\n ')
+
+    base_url2 = f'https://youtube.googleapis.com/youtube/v3/search?'
+    params2 = {
+        'part': 'snippet',
+        'type': 'channel'
+        'q': username,
+        'key': api_key
+    }
+    response2 = requests.get(base_url2, params=params2)
+    print(f'Search response: \n {response2} \n\n ')
+
 
     if response.status_code == 200:
         data = response.json()
-        print(f'{username} : {data} \n')
+        print(f'{username} \n {data} \n\n')
         if data.get('items'):
             channel_id = data['items'][0]['id']['channelId']  
             # print(f'{username} : {channel_id}')
