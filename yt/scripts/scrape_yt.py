@@ -7,11 +7,7 @@ from utils import save_to_md
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
-# Channel ID curl
-# curl "https://youtube.googleapis.com/youtube/v3/search?part=snippet&type=channel&q=2lazy2tryYT&key=API_KEY
-
-# Username curl
-# curl "https://youtube.googleapis.com/youtube/v3/channels?part=id&id=UCJjSDX-jUChzOEyok9XYRJQ&key=API_KEY
+# https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UUUUe2Q6fFgu5Dzk_y2OyPYw&key=
 
 def get_latest_videos(channel_id_or_username):
     """Fetch the latest 3 videos from the provided channel ID or username."""
@@ -76,7 +72,9 @@ def get_first_video(channel_id):
     if playlist_response['items']:
         first_video = playlist_response['items'][0]['snippet']
         video_title = first_video['title']
+        print(video_title)
         video_id = first_video['resourceId']['videoId']
+        print(video_id)
         return {'title': video_title, 'video_id': video_id}
     else:
         return None
