@@ -48,13 +48,16 @@ def load_existing_data(output_file):
     """Load existing usernames and channel IDs from JSON file."""
     if os.path.exists(output_file):
         with open(output_file, 'r') as json_file:
-            return json.load(json_file)
-    return []  # Return empty list if the file doesn't exist
+            try:
+                channel_ids = json.load(json_file)
+            except
+                channel_ids = []
+    return channel_ids
 
-def update_user_data(output_file, user_data):
+def update_user_data(output_file, channel_ids):
     """Update user data in the JSON output file."""
     with open(output_file, 'w') as json_file:
-        json.dump(user_data, json_file, indent=4)
+        json.dump(channel_ids, json_file, indent=4)
 
 def main(md_file_path, output_file):
     """Main function to manage the workflow."""
