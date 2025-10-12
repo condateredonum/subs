@@ -3,6 +3,7 @@ from googleapiclient.discovery import build
 from channel_info import get_channel_ids, get_usernames
 from utils import save_to_md
 
+# https://console.cloud.google.com
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
