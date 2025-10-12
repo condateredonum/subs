@@ -103,7 +103,7 @@ def main(md_file_path, output_file):
     update_channel_ids(output_file, list(existing_data))
 
 if __name__ == "__main__":
-    # md_file_path = 'yt/subs.md'
-    md_file_path = 'yt/test.md'
+    md_file_path = 'yt/subs.md'
+    # md_file_path = 'yt/test.md'
     output_file = 'yt/data/channel_info.json'
     main(md_file_path, output_file)
