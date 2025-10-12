@@ -37,11 +37,15 @@ def fetch_channel_id(username):
     }
     
     response = requests.get(base_url, params=params)
-    
+
     if response.status_code == 200:
         data = response.json()
+        print(f'{username} : {data} \n')
         if data.get('items'):
-            return data['items'][0]['id']  # Return the channel ID
+            channel_id = data['items'][0]['id']  
+            # print(f'{username} : {channel_id}')
+            return channel_id
+    
     return None  # Return None if no channel ID is found
 
 def load_existing_data(output_file):
