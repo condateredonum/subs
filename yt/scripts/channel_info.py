@@ -50,11 +50,11 @@ def load_existing_data(output_file):
         with open(output_file, 'r') as json_file:
             try:
                 channel_ids = json.load(json_file)
-            except
+            except json.JSONDecodeError:
                 channel_ids = []
     return channel_ids
 
-def update_user_data(output_file, channel_ids):
+def update_channel_ids(output_file, channel_ids):
     """Update user data in the JSON output file."""
     with open(output_file, 'w') as json_file:
         json.dump(channel_ids, json_file, indent=4)
@@ -67,24 +67,24 @@ def main(md_file_path, output_file):
     # Create a dictionary for fast lookup of existing usernames and their IDs
     existing_dict = {entry['username']: entry['channel_id'] for entry in existing_data}
 
-    user_data = []
+    channel_ids = []
     
     for username in usernames:
         channel_id = existing_dict.get(username)  # Check if we already have the ID
         if not channel_id:  # If not found, fetch it from YouTube
             channel_id = fetch_channel_id(username)
         
-        # Append to the user_data list
-        user_data.append({
+        # Append to the channel_ids list
+        channel_ids.append({
             'username': username,
             'channel_id': channel_id
         })
 
-    # Remove duplicates in user_data based on username
-    user_data = {entry['username']: entry for entry in user_data}.values()
+    # Remove duplicates in channel_ids based on username
+    channel_ids = {entry['username']: entry for entry in channel_ids}.values()
 
     # Update the output file with the new user data
-    update_user_data(output_file, list(user_data))
+    update_channel_ids(output_file, list(channel_ids))
 
 if __name__ == "__main__":
     md_file_path = 'yt/subs.md'
