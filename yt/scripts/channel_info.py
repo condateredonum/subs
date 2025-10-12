@@ -42,10 +42,10 @@ def fetch_channel_info(username):
         data = response.json()
         print(f'{username} \n {data} \n\n')
         if data.get('items'):
-            channel_id = resp_data['items'][0]['id']
+            channel_id = data['items'][0]['id']
             print(f'Channel id: {channel_id}')
 
-            uploads_playlist_id = resp_data['items'][0]['contentDetails']['relatedPlaylists']['uploads']
+            uploads_playlist_id = data['items'][0]['contentDetails']['relatedPlaylists']['uploads']
             print(f'Uploads id: {uploads_playlist_id}')
 
             return channel_id, uploads_playlist_id
