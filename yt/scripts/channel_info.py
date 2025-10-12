@@ -47,7 +47,8 @@ def fetch_channel_id(username):
         'key': api_key
     }
     response2 = requests.get(base_url2, params=params2)
-    print(f'Search response: \n {response2.json()} \n\n ')
+    resp_json = response2.json()['items'][0]['id']['channelId']
+    print(f'Search response: \n {resp_json} \n\n ')
 
 
     if response.status_code == 200:
