@@ -37,7 +37,7 @@ def fetch_channel_id(username):
         'key': api_key
     }
     response = requests.get(base_url, params=params)
-    print(f'Channel response: \n {response} \n\n ')
+    print(f'Channel response: \n {response.json()} \n\n ')
 
     base_url2 = f'https://youtube.googleapis.com/youtube/v3/search?'
     params2 = {
@@ -47,7 +47,7 @@ def fetch_channel_id(username):
         'key': api_key
     }
     response2 = requests.get(base_url2, params=params2)
-    print(f'Search response: \n {response2} \n\n ')
+    print(f'Search response: \n {response2.json()} \n\n ')
 
 
     if response.status_code == 200:
