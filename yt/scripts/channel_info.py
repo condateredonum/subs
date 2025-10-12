@@ -40,7 +40,6 @@ def fetch_channel_info(username):
     
     if response.status_code == 200:
         data = response.json()
-        print(f'{username} \n {data} \n\n')
         if data.get('items'):
             channel_id = data['items'][0]['id']
             print(f'Channel id: {channel_id}')
