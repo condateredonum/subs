@@ -1,4 +1,5 @@
 import os
+import json
 from googleapiclient.discovery import build
 # from channel_info import get_channel_ids, get_usernames
 from utils import save_to_md
@@ -13,7 +14,12 @@ youtube = build('youtube', 'v3', developerKey=API_KEY)
 def get_channel_info(channel_info_file_path):
     """Featch the Username and Uploads Playlist ID associated."""
     with open(channel_info_file_path, 'r') as file:
+        print('Attempt 1: \n')
         print(file)
+        print('Attempt 2: \n')
+        print(file.json())
+        print('Attempt 3: \n')
+        print(file.json()[0])
         return file
 
 
