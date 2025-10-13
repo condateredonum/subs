@@ -24,9 +24,9 @@ def get_latest_videos(channel_data, num_videos=2):
     """Fetch the latest x videos from a certain playlist"""
     print('\nRunning: get_latest_videos')
     for channel in channel_data:
-        username = channel_data['username']
+        username = channel['username']
         print(f'\nUsername: {username}')
-        uploads_playlist_id = channel_data['uploads_playlist_id']
+        uploads_playlist_id = channel['uploads_playlist_id']
         print(f'Uploads ID: {uploads_playlist_id}')
 
         playlist_request = youtube.playlistItems().list(
@@ -45,10 +45,10 @@ def get_latest_videos(channel_data, num_videos=2):
         if playlist_items:
             for playlist_video in playlist_items:
                 snippet = playlist_video['snippet']
-                print(f'Snippet: {snippet}')
+                # print(f'Snippet: {snippet}')
                 video_title = snippet['title']
                 video_id = snippet['resourceId']['videoId']
-                print(f'Title: {video_title}\nVideoID:{video_id}')
+                print(f'\n\nTitle: {video_title}\nVideoID:{video_id}')
             # return {'title': video_title, 'video_id': video_id}
         else:
             return None
