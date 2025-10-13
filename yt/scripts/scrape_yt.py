@@ -12,7 +12,8 @@ youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 
 def get_channel_info(channel_info_file_path):
-    """Featch the Username and Uploads Playlist ID associated."""
+    """Fetch the Username and Uploads Playlist ID associated."""
+    print('\n Running: get_channel_info')
     with open(channel_info_file_path, 'r') as file:
         data = json.load(file)
         # return data
@@ -20,6 +21,7 @@ def get_channel_info(channel_info_file_path):
 
 def get_latest_videos(channel_data, num_videos=1):
     """Fetch the latest x videos from a certain playlist"""
+    print('\n Running: get_latest_videos')
     for channel in channel_data:
         username = channel_data['username']
         print(f'Username: {username}')
