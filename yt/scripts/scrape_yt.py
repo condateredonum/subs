@@ -17,6 +17,8 @@ def get_channel_info(channel_info_file_path):
         data = json.load(file)
         print('\n Attempt 1:')
         print(data[0])
+        print('\n Attempt 2:')
+        print(data)
         return data[0]
 
 
