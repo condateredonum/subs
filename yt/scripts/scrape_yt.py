@@ -22,7 +22,7 @@ def get_channel_info(channel_info_file_path):
 
 def get_latest_videos(channel_data, num_videos=2):
     """Fetch the latest x videos from a certain playlist"""
-    print('\n Running: get_latest_videos')
+    print('\nRunning: get_latest_videos')
     for channel in channel_data:
         username = channel_data['username']
         print(f'\nUsername: {username}')
@@ -40,13 +40,15 @@ def get_latest_videos(channel_data, num_videos=2):
         # uploaded = playlist_response['items']['snippet']['publishedAt']
         # title = playlist_response['title']
         # print(f'Uploaded: {uploaded}\nTitle:{title}')
-        
-        if playlist_response['items']:
-            first_video = playlist_response['items'][0]['snippet']
-            video_title = first_video['title']
-            print(video_title)
-            video_id = first_video['resourceId']['videoId']
-            print(video_id)
+
+        playlist_items = playlist_response['items']
+        if playlist_items:
+            for playlist_video in playlist_items:
+                snippet = playlist_video['snippet']
+                video_title = playlist_video['title']
+                print(video_title)
+                video_id = playlist_video['resourceId']['videoId']
+                print(video_id)
             # return {'title': video_title, 'video_id': video_id}
         else:
             return None
