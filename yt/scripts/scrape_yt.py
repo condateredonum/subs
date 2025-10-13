@@ -1,6 +1,6 @@
 import os
 from googleapiclient.discovery import build
-from channel_info import get_channel_ids, get_usernames
+# from channel_info import get_channel_ids, get_usernames
 from utils import save_to_md
 
 # https://console.cloud.google.com
