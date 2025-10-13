@@ -24,7 +24,8 @@ def get_latest_videos(channel_data, num_videos=2):
     """Fetch the latest x videos from a certain playlist"""
     print('\nRunning: get_latest_videos')
     for channel in channel_data:
-        print(channel)
+        print(f'\n\nchannel_data:\n{channel_data}')
+        print(f'\n\nchannel:\n{channel}')
 
         # username = channel_data['username']
         # print(f'\nUsername: {username}')
