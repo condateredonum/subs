@@ -16,9 +16,9 @@ def get_channel_info(channel_info_file_path):
     print('\nRunning: get_channel_info')
     with open(channel_info_file_path, 'r') as file:
         data = json.load(file)
-        print(f'Data: {data}')
-        # return data
-        return data[1]
+        # print(f'Data: {data}')
+        return data
+        # return data[1]
 
 def get_latest_videos(channel_data, num_videos=2):
     """Fetch the latest x videos from a certain playlist"""
