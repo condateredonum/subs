@@ -16,23 +16,24 @@ def get_channel_info(channel_info_file_path):
     with open(channel_info_file_path, 'r') as file:
         data = json.load(file)
         # return data
-        return data[0]
+        return data[:1]
 
 def get_latest_videos(channel_data, num_videos=1):
     """Fetch the latest x videos from a certain playlist"""
     for channel in channel_data:
         username = channel_data['username']
-        print(username)
+        print(f'Username: {username}')
         uploads_playlist_id = channel_data['uploads_playlist_id']
-        print(uploads_playlist_id)
+        print(f'Uploads ID: {uploads_playlist_id}')
 
         playlist_request = youtube.playlistItems().list(
             part='snippet',
             playlistId=uploads_playlist_id,
             maxResults=num_videos 
         )
+        print('Executing request \n \n ')
         playlist_response = playlist_request.execute()
-        print(playlist_response)
+        print(f'Playlist response: \n {playlist_response} \n \n ')
     # return playlist_response
 
 
