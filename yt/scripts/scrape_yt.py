@@ -14,12 +14,12 @@ youtube = build('youtube', 'v3', developerKey=API_KEY)
 def get_channel_info(channel_info_file_path):
     """Featch the Username and Uploads Playlist ID associated."""
     with open(channel_info_file_path, 'r') as file:
-        print('Attempt 1: \n')
+        print('\n Attempt 1:')
         print(file)
-        print('Attempt 2: \n')
-        print(file.json())
-        print('Attempt 3: \n')
-        print(file.json()[0])
+        print('\n Attempt 2:')
+        print(file[0])
+        # print('\n Attempt 3:')
+        # print(file.json()[0])
         return file
 
 
