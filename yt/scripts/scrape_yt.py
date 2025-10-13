@@ -24,34 +24,37 @@ def get_latest_videos(channel_data, num_videos=2):
     """Fetch the latest x videos from a certain playlist"""
     print('\nRunning: get_latest_videos')
     for channel in channel_data:
-        username = channel['username']
-        print(f'\nUsername: {username}')
-        uploads_playlist_id = channel['uploads_playlist_id']
-        print(f'Uploads ID: {uploads_playlist_id}')
+        print(channel)
 
-        playlist_request = youtube.playlistItems().list(
-            part='snippet',
-            playlistId=uploads_playlist_id,
-            maxResults=num_videos
-        )
-        print('Executing request.')
-        playlist_response = playlist_request.execute()
+        # username = channel_data['username']
+        # print(f'\nUsername: {username}')
 
-        # uploaded = playlist_response['items']['snippet']['publishedAt']
-        # title = playlist_response['title']
-        # print(f'Uploaded: {uploaded}\nTitle:{title}')
+        # uploads_playlist_id = channel_data['uploads_playlist_id']
+        # print(f'Uploads ID: {uploads_playlist_id}')
 
-        playlist_items = playlist_response['items']
-        if playlist_items:
-            for playlist_video in playlist_items:
-                snippet = playlist_video['snippet']
-                # print(f'Snippet: {snippet}')
-                video_title = snippet['title']
-                video_id = snippet['resourceId']['videoId']
-                print(f'\n\nTitle: {video_title}\nVideoID:{video_id}')
-            # return {'title': video_title, 'video_id': video_id}
-        else:
-            return None
+        # playlist_request = youtube.playlistItems().list(
+        #     part='snippet',
+        #     playlistId=uploads_playlist_id,
+        #     maxResults=num_videos
+        # )
+        # print('Executing request.')
+        # playlist_response = playlist_request.execute()
+
+        # # uploaded = playlist_response['items']['snippet']['publishedAt']
+        # # title = playlist_response['title']
+        # # print(f'Uploaded: {uploaded}\nTitle:{title}')
+
+        # playlist_items = playlist_response['items']
+        # if playlist_items:
+        #     for playlist_video in playlist_items:
+        #         snippet = playlist_video['snippet']
+        #         # print(f'Snippet: {snippet}')
+        #         video_title = snippet['title']
+        #         video_id = snippet['resourceId']['videoId']
+        #         print(f'\n\nTitle: {video_title}\nVideoID:{video_id}')
+        #     # return {'title': video_title, 'video_id': video_id}
+        # else:
+        #     return None
 
 
 
