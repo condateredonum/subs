@@ -46,10 +46,9 @@ def get_latest_videos(channel_data, num_videos=2):
             for playlist_video in playlist_items:
                 snippet = playlist_video['snippet']
                 print(f'Snippet: {snippet}')
-                video_title = playlist_video['title']
-                print(video_title)
-                video_id = playlist_video['resourceId']['videoId']
-                print(video_id)
+                video_title = snippet['title']
+                video_id = snippet['resourceId']['videoId']
+                print('Title: {video_title}\nVideoID:{video_id}')
             # return {'title': video_title, 'video_id': video_id}
         else:
             return None
