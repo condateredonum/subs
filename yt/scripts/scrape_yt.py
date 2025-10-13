@@ -123,7 +123,7 @@ def get_channel_info(channel_info_file_path):
 #     return all_videos
 
 if __name__ == "__main__":
-    channel_info_file_path = '../data/channel_info.json'
+    channel_info_file_path = 'yt/data/channel_info.json'
     get_channel_info(channel_info_file_path)
 
     # Specify your Markdown file path
