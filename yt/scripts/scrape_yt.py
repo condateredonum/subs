@@ -13,31 +13,44 @@ youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def get_channel_info(channel_info_file_path):
     """Fetch the Username and Uploads Playlist ID associated."""
-    print('\n Running: get_channel_info')
+    print('\nRunning: get_channel_info')
     with open(channel_info_file_path, 'r') as file:
         data = json.load(file)
         print(f'Data: {data}')
         # return data
         return data[1]
 
-def get_latest_videos(channel_data, num_videos=1):
+def get_latest_videos(channel_data, num_videos=2):
     """Fetch the latest x videos from a certain playlist"""
     print('\n Running: get_latest_videos')
     for channel in channel_data:
         username = channel_data['username']
-        print(f'Username: {username}')
+        print(f'\nUsername: {username}')
         uploads_playlist_id = channel_data['uploads_playlist_id']
         print(f'Uploads ID: {uploads_playlist_id}')
 
         playlist_request = youtube.playlistItems().list(
             part='snippet',
             playlistId=uploads_playlist_id,
-            maxResults=num_videos 
+            maxResults=num_videos
         )
-        print('Executing request \n \n ')
+        print('Executing request.')
         playlist_response = playlist_request.execute()
-        print(f'Playlist response: \n {playlist_response} \n \n ')
-    # return playlist_response
+
+        # uploaded = playlist_response['items']['snippet']['publishedAt']
+        # title = playlist_response['title']
+        # print(f'Uploaded: {uploaded}\nTitle:{title}')
+        
+        if playlist_response['items']:
+            first_video = playlist_response['items'][0]['snippet']
+            video_title = first_video['title']
+            print(video_title)
+            video_id = first_video['resourceId']['videoId']
+            print(video_id)
+            # return {'title': video_title, 'video_id': video_id}
+        else:
+            return None
+
 
 
 
