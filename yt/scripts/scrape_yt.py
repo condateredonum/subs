@@ -15,13 +15,25 @@ def get_channel_info(channel_info_file_path):
     """Featch the Username and Uploads Playlist ID associated."""
     with open(channel_info_file_path, 'r') as file:
         data = json.load(file)
-        print('\n Attempt 1:')
-        print(data[0])
-        print('\n Attempt 2:')
-        print(data)
+        # return data
         return data[0]
 
+def get_latest_videos(channel_data, num_videos=1):
+    """Fetch the latest x videos from a certain playlist"""
+    for channel in channel_data:
+        username = channel_data['username']
+        print(username)
+        uploads_playlist_id = channel_data['uploads_playlist_id']
+        print(uploads_playlist_id)
 
+        playlist_request = youtube.playlistItems().list(
+            part='snippet',
+            playlistId=uploads_playlist_id,
+            maxResults=num_videos 
+        )
+        playlist_response = playlist_request.execute()
+        print(playlist_response)
+    # return playlist_response
 
 
 
@@ -129,7 +141,9 @@ def get_channel_info(channel_info_file_path):
 
 if __name__ == "__main__":
     channel_info_file_path = 'yt/data/channel_info.json'
-    get_channel_info(channel_info_file_path)
+    channel_data = get_channel_info(channel_info_file_path)
+
+    get_latest_videos(channel_data)
 
     # Specify your Markdown file path
     # channel_ids_file = 'yt/subs.md'
