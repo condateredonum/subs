@@ -38,12 +38,8 @@ def get_latest_videos(channel_data, num_videos=2):
             playlistId=uploads_playlist_id,
             maxResults=num_videos
         )
-        # print('Executing request.')
-        playlist_response = playlist_request.execute()
 
-        # uploaded = playlist_response['items']['snippet']['publishedAt']
-        # title = playlist_response['title']
-        # print(f'Uploaded: {uploaded}\nTitle:{title}')
+        playlist_response = playlist_request.execute()
 
         playlist_items = playlist_response['items']
         if playlist_items:
