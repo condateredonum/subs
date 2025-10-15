@@ -43,7 +43,7 @@ def get_latest_videos(channel_data, num_videos=2):
             for playlist_video in playlist_items:
                 snippet = playlist_video['snippet']
 
-                video_thumbnail = snippet['thumbnails']['default']
+                video_thumbnail = snippet['thumbnails']['maxres']['url']
                 video_upload_date = snippet['publishedAt']
                 video_title = snippet['title']
                 video_id = snippet['resourceId']['videoId']
@@ -56,19 +56,20 @@ def get_latest_videos(channel_data, num_videos=2):
                     id=video_id
                 )
                 video_content_response = video_content_request.execute()
-                print(video_content_response)
-                # print(video_content_response['items'][0])
-                video_duration = video_content_response['items'][0]['contentDetails']['duration']
-
+                try:
+                    if video_content_response['items']:
+                        video_duration = video_content_response['items'][0]['contentDetails']['duration']
+                    else:
+                        video_duration = 'Live'
+                except (IndexError, KeyError):
+                    video_duration = 'Duration-Error'
 
                 print(f'\t Video Thumbnail: \t {video_thumbnail}')
                 print(f'\t Video Upload Date: \t {video_upload_date}')
-                print(f'\t Video Title: \t {video_title}')
-                print(f'\t Video ID: \t {video_id}')
+                print(f'\t Video Title: \t\t {video_title}')
+                print(f'\t Video ID: \t\t {video_id}')
                 print(f'\t Video Duration: \t {video_duration}')
 
-
-                print(f'\t Title: {video_title} \n\t VideoID: {video_id}')
             # return {'title': video_title, 'video_id': video_id}
         else:
             return None
