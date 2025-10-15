@@ -42,9 +42,28 @@ def get_latest_videos(channel_data, num_videos=2):
         if playlist_items:
             for playlist_video in playlist_items:
                 snippet = playlist_video['snippet']
-                # print(f'Snippet: {snippet}')
+
+                video_thumbnail = snippet['thumbnails']['default']
+                video_upload_date = snippet['publishedAt']
                 video_title = snippet['title']
                 video_id = snippet['resourceId']['videoId']
+
+                # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
+                video_content_request = youtube.playlistItems().list(
+                    part='contentDetails',
+                    id=video_id
+                )
+                video_content_response = video_content_request.execute()
+                video_duration = video_content_response['items'][0]['contentDetails']['duration']
+
+
+                print(f'\t Video Thumbnail: \t {video_thumbnail}')
+                print(f'\t Video Upload Date: \t {video_upload_date}')
+                print(f'\t Video Title: \t {video_title}')
+                print(f'\t Video ID: \t {video_id}')
+                print(f'\t Video Duration: \t {video_duration}')
+
+
                 print(f'\t Title: {video_title} \n\t VideoID: {video_id}')
             # return {'title': video_title, 'video_id': video_id}
         else:
