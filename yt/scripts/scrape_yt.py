@@ -28,7 +28,7 @@ def get_latest_videos(channel_data, num_videos=2):
         # print(f'\n\nchannel:\n{channel}')
 
         username = channel['username']
-        print(f'\nUsername: {username}')
+        print(f'\n Username: {username}')
 
         uploads_playlist_id = channel['uploads_playlist_id']
         print(f'Uploads ID: {uploads_playlist_id}')
