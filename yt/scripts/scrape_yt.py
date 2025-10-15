@@ -48,13 +48,15 @@ def get_latest_videos(channel_data, num_videos=2):
                 video_title = snippet['title']
                 video_id = snippet['resourceId']['videoId']
 
+                # WRAP INTO OWN FUNCTION
                 # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
                 video_content_request = youtube.playlistItems().list(
                     part='contentDetails',
                     id=video_id
                 )
                 video_content_response = video_content_request.execute()
-                print(video_content_response['items'][0])
+                print(video_content_response)
+                # print(video_content_response['items'][0])
                 video_duration = video_content_response['items'][0]['contentDetails']['duration']
 
 
