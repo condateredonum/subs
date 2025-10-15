@@ -54,6 +54,7 @@ def get_latest_videos(channel_data, num_videos=2):
                     id=video_id
                 )
                 video_content_response = video_content_request.execute()
+                print(video_content_response['items'][0])
                 video_duration = video_content_response['items'][0]['contentDetails']['duration']
 
 
