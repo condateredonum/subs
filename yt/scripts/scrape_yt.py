@@ -38,7 +38,7 @@ def get_latest_videos(channel_data, num_videos=2):
             playlistId=uploads_playlist_id,
             maxResults=num_videos
         )
-        print('Executing request.')
+        # print('Executing request.')
         playlist_response = playlist_request.execute()
 
         # uploaded = playlist_response['items']['snippet']['publishedAt']
@@ -52,7 +52,7 @@ def get_latest_videos(channel_data, num_videos=2):
                 # print(f'Snippet: {snippet}')
                 video_title = snippet['title']
                 video_id = snippet['resourceId']['videoId']
-                print(f'\n\nTitle: {video_title}\nVideoID:{video_id}')
+                print(f' \n\t Title: {video_title} \n\t VideoID: {video_id}')
             # return {'title': video_title, 'video_id': video_id}
         else:
             return None
