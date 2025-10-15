@@ -50,7 +50,8 @@ def get_latest_videos(channel_data, num_videos=2):
 
                 # WRAP INTO OWN FUNCTION
                 # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
-                video_content_request = youtube.playlistItems().list(
+                print(f'\t Video ID: \t {video_id}')
+                video_content_request = youtube.videos().list(
                     part='contentDetails',
                     id=video_id
                 )
