@@ -27,12 +27,16 @@ def save_to_md(videos, file_path='yt/latest.md'):
             file.write("\n")  # Add a newline between channels
 
 def convert_to_hhmmss(iso_duration):
-    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', iso_duration)
-    hours = match.group(1) or '0'
-    minutes = match.group(2) or '0'
-    seconds = match.group(3) or '0'
+    # Updated regex: Makes both hours and minutes completely optional
+    match = re.match(r'PT(?:(\d+H)?(?![^M])|(?:\d+M)?|(?:\d+S))', iso_duration)
 
-    # Format as HH:MM:SS
+    if match is None:
+        raise ValueError(f"Invalid duration format: {iso_duration}")
+
+    hours = match.group(1)[:-1] if match.group(1) else '0'
+    minutes = match.group(2)[:-1] if match.group(2) else '0'
+    seconds = match.group(3)[:-1] if match.group(3) else '0'
+
     return f"{int(hours):02}:{int(minutes):02}:{int(seconds):02}"
 
 def api_get_video_duration(video_id):
