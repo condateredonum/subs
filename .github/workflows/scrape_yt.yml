@@ -31,7 +31,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install google-auth google-api-python-client
 
-      - name: Run the scraping script
+      - name: Run the scraper
         env:
           YOUTUBE_API_KEY: ${{ secrets.KEY_API_GOOGLE_CLOUD }}
         run: |
@@ -44,3 +44,7 @@ jobs:
           git add .  # Adjust this to specify what to add if needed
           git commit -m "Updated video list" || echo "No changes to commit"
           git push
+
+      - name: Clean up __pycache__
+        run: |
+          find . -name '__pycache__' -exec rm -r {} +

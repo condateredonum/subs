@@ -29,11 +29,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests  # Install the requests library
           
-      - name: Run the script
+      - name: Generate channel info
         env:
           YOUTUBE_API_KEY: ${{ secrets.KEY_API_GOOGLE_CLOUD }}
         run: |
-          python yt/scripts/channel_info.py # yt/subs.md channel_ids.json
+          python yt/scripts/channel_info.py 
 
       - name: Commit changes
         run: |
@@ -42,3 +42,7 @@ jobs:
           git add .  
           git commit -m "Updated channel info" || echo "No changes to commit"
           git push
+
+      - name: Clean up __pycache__
+        run: |
+          find . -name '__pycache__' -exec rm -r {} +
