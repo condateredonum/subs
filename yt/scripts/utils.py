@@ -46,22 +46,15 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
     print(f"Data saved to {file_path}.")
 
 def thumbnail_parser(snippet):
-    try:
+    thumbnail_keys = ['maxres', 'standard', 'high', 'medium', 'default']
+    for key in thumbnail_keys:
         try:
-            video_thumbnail = snippet['thumbnails']['maxres']['url']
-        except:
-            try:
-                video_thumbnail = snippet['thumbnails']['standard']['url']
-            except:
-                try:
-                    video_thumbnail = snippet['thumbnails']['high']['url']
-                except:
-                    try:
-                        video_thumbnail = snippet['thumbnails']['medium']['url']
-                    except:
-                        video_thumbnail = snippet['thumbnails']['default']['url']
-    except (IndexError, KeyError):
-        video_thumbnail = 'Thumbnail-Error'
+            # Attempt to retrieve the thumbnail URL
+            return snippet['thumbnails'][key]['url']
+        except (KeyError, IndexError):
+            continue  # If this key fails, move to the next one
+
+    return 'Thumbnail-Error'
 
 def duration_to_seconds(time_str):
     """Convert string of format HH:MM:SS to seconds."""
