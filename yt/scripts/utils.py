@@ -7,8 +7,6 @@ from googleapiclient.discovery import build
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
-
-
 def save_to_md(all_videos, file_path='yt/latest.md'):
     """Save scraped video data to a Markdown file with a timestamp."""
 
@@ -16,7 +14,8 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     # Create the new content with the video data
-    new_content = f"Last updated: {timestamp}\n\n"
+    new_content = "-------------------\n"
+    new_content += f"Last updated: {timestamp}\n\n"
     new_content += f"# Latest Videos\n"
     
     # Add the Markdown table header with the specified format
@@ -32,6 +31,7 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
             f"{video['Video Duration']} | "
             f"[Thumbnail]({video['Video Thumbnail']}) |\n"
         )
+    new_content += "-------------------\n"
 
     # Append the new content to the existing file
     if os.path.exists(file_path):
@@ -80,7 +80,7 @@ def api_get_video_duration(video_id):
     
     return video_duration
 
-def api_get_playlist_items(uploads_playlist_id, num_videos=2):
+def api_get_playlist_items(uploads_playlist_id, num_videos=5):
     """Get the video duration from the unique video ID."""
     playlist_request = youtube.playlistItems().list(
         part='snippet',
