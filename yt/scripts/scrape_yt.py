@@ -38,7 +38,7 @@ def get_latest_videos(channel_data):
                     video_thumbnail = 'Thumbnail-Error'
 
                 video_upload_date = snippet['publishedAt']
-                video_title = snippet['title']
+                video_title = snippet['title'].replace('|', r'\|')
                 video_id = snippet['resourceId']['videoId']
                 video_duration = api_get_video_duration(video_id)
 
