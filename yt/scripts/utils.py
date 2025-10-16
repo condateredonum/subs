@@ -31,11 +31,11 @@ def convert_to_hhmmss(iso_duration):
     match = re.match(r'PT(?:(\d+H)?(?![^M])|(?:\d+M)?|(?:\d+S))', iso_duration)
 
     if match is None:
-        raise ValueError(f"Invalid duration format: {iso_duration}")
+        return iso_duration
 
-    hours = match.group(1)[:-1] if match.group(1) else '0'
-    minutes = match.group(2)[:-1] if match.group(2) else '0'
-    seconds = match.group(3)[:-1] if match.group(3) else '0'
+    hours = match.group(1) if match.group(1) is not None else '0'
+    minutes = match.group(2) if match.group(2) is not None else '0'
+    seconds = match.group(3) if match.group(3) is not None else '0'
 
     return f"{int(hours):02}:{int(minutes):02}:{int(seconds):02}"
 
