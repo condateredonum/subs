@@ -74,5 +74,5 @@ if __name__ == "__main__":
 
     all_videos = get_latest_videos(channel_data)
 
-    output_path='yt/test_latest.md'
+    output_path='yt/latest_videos.md'
     save_to_md(all_videos, file_path=output_path)
