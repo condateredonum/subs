@@ -19,8 +19,8 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
     new_content += f"# Latest Videos\n"
     
     # Add the Markdown table header with the specified format
-    new_content += "| Uploaded | Thumb | Title | Duration |\n"
-    new_content += "|----------|-------|-------|----------|\n"
+    new_content += "| Uploaded | Thumb | Title |\n"
+    new_content += "|----------|-------|-------|\n"
 
     # Write the video data to the new content
     for video in all_videos:
@@ -29,7 +29,7 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
             f"![]({video['Video Thumbnail']}) |"
             f"{video['Username']}<br>"
             f"[{video['Video Title']}](https://www.youtube.com/watch?v={video['Video ID']})<br>"
-            f"{video['Video Duration']} |\n"
+            f"[{video['Video Duration']}] |\n"
         )
     new_content += "-------------------\n"
 
@@ -44,6 +44,24 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
             file.write(new_content)  # Create the file if it doesn't exist
 
     print(f"Data saved to {file_path}.")
+
+def thumbnail_parser(snippet):
+    try:
+        try:
+            video_thumbnail = snippet['thumbnails']['maxres']['url']
+        except:
+            try:
+                video_thumbnail = snippet['thumbnails']['standard']['url']
+            except:
+                try:
+                    video_thumbnail = snippet['thumbnails']['high']['url']
+                except:
+                    try:
+                        video_thumbnail = snippet['thumbnails']['medium']['url']
+                    except:
+                        video_thumbnail = snippet['thumbnails']['default']['url']
+    except (IndexError, KeyError):
+        video_thumbnail = 'Thumbnail-Error'
 
 def duration_to_seconds(time_str):
     """Convert string of format HH:MM:SS to seconds."""

@@ -1,7 +1,7 @@
 import os
 import json
 import datetime
-from utils import duration_to_seconds, api_get_playlist_items, api_get_video_duration, save_to_md
+from utils import thumbnail_parser, duration_to_seconds, api_get_playlist_items, api_get_video_duration, save_to_md
 
 def get_channel_info(channel_info_file_path):
     """Fetch the Username and Uploads Playlist ID associated."""
@@ -29,13 +29,14 @@ def get_latest_videos(channel_data):
         if playlist_items:
             for playlist_video in playlist_items:
                 snippet = playlist_video['snippet']
-                try:
-                    try:
-                        video_thumbnail = snippet['thumbnails']['maxres']['url']
-                    except:
-                        video_thumbnail = snippet['thumbnails']['default']['url']
-                except (IndexError, KeyError):
-                    video_thumbnail = 'Thumbnail-Error'
+                video_thumbnail = thumbnail_parser(snippet)
+                # try:
+                #     try:
+                #         video_thumbnail = snippet['thumbnails']['maxres']['url']
+                #     except:
+                #         video_thumbnail = snippet['thumbnails']['default']['url']
+                # except (IndexError, KeyError):
+                #     video_thumbnail = 'Thumbnail-Error'
 
                 video_upload_date = snippet['publishedAt']
                 video_title = snippet['title'].replace('|', r'\|')
