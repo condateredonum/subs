@@ -44,8 +44,21 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
 
     print(f"Data saved to {file_path}.")
 
+def duration_to_seconds(time_str):
+    """Convert string of format HH:MM:SS to seconds."""
+    try:
+        # Split the input string by the colon ':'
+        hours, minutes, seconds = map(int, time_str.split(':'))
+
+        # Calculate total seconds
+        total_seconds = hours * 3600 + minutes * 60 + seconds
+    except:
+        total_seconds = 600
+
+    return total_seconds
+
 def convert_to_hhmmss(iso_duration):
-    """Conver ISO 8601 duration string to format HH:MM:SS"""
+    """Convert ISO 8601 duration string to format HH:MM:SS"""
     try:
         hours_match = re.search(r'(\d+)H', iso_duration)
         minutes_match = re.search(r'(\d+)M', iso_duration)

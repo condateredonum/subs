@@ -1,7 +1,7 @@
 import os
 import json
 import datetime
-from utils import api_get_playlist_items, api_get_video_duration, save_to_md
+from utils import duration_to_seconds, api_get_playlist_items, api_get_video_duration, save_to_md
 
 def get_channel_info(channel_info_file_path):
     """Fetch the Username and Uploads Playlist ID associated."""
@@ -42,21 +42,24 @@ def get_latest_videos(channel_data):
                 video_id = snippet['resourceId']['videoId']
                 video_duration = api_get_video_duration(video_id)
 
-                video_info = {
-                    'Username': username,
-                    'Video Title': video_title,
-                    'Video Upload Date': video_upload_date,
-                    'Video ID': video_id,
-                    'Video Duration': video_duration,
-                    'Video Thumbnail': video_thumbnail
-                }
-                all_videos.append(video_info)
+                duration_seconds = duration_to_seconds(video_duration)
+                
+                if duration_seconds > 120:
+                    video_info = {
+                        'Username': username,
+                        'Video Title': video_title,
+                        'Video Upload Date': video_upload_date,
+                        'Video ID': video_id,
+                        'Video Duration': video_duration,
+                        'Video Thumbnail': video_thumbnail
+                    }
+                    all_videos.append(video_info)
 
-                print(f'\t Video Title: \t\t {video_title}')
-                print(f'\t Video Upload Date: \t {video_upload_date}')
-                print(f'\t Video ID: \t\t {video_id}')
-                print(f'\t Video Duration: \t {video_duration}')
-                print(f'\t Video Thumbnail: \t {video_thumbnail} \n')
+                    print(f'\t Video Title: \t\t {video_title}')
+                    print(f'\t Video Upload Date: \t {video_upload_date}')
+                    print(f'\t Video ID: \t\t {video_id}')
+                    print(f'\t Video Duration: \t {video_duration}')
+                    print(f'\t Video Thumbnail: \t {video_thumbnail} \n')
         else:
             return print('No videos found for {username}')
 
