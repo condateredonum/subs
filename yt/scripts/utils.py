@@ -44,7 +44,7 @@ def api_get_video_duration(video_id):
     return video_duration
 
 
-def api_get_playlist_items(uploads_playlist_id, num_videos=2)
+def api_get_playlist_items(uploads_playlist_id, num_videos=2):
     """Get the video duration from the unique video ID."""
     playlist_request = youtube.playlistItems().list(
         part='snippet',
