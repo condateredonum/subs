@@ -19,17 +19,17 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
     new_content += f"# Latest Videos\n"
     
     # Add the Markdown table header with the specified format
-    new_content += "| Username | Uploaded | Title | Duration | Thumbnail |\n"
-    new_content += "|----------|----------|-------|----------|-----------|\n"
+    new_content += "| Username | Uploaded | Thumb | Title | Duration |\n"
+    new_content += "|----------|----------|-------|-------|----------|\n"
 
     # Write the video data to the new content
     for video in all_videos:
         new_content += (
             f"| {video['Username']} | "
             f"{video['Video Upload Date']} | "
+            f"![]({video['Video Thumbnail']}) |"
             f"[{video['Video Title']}](https://www.youtube.com/watch?v={video['Video ID']}) | "
-            f"{video['Video Duration']} | "
-            f"[Thumbnail]({video['Video Thumbnail']}) |\n"
+            f"{video['Video Duration']} |\n"
         )
     new_content += "-------------------\n"
 
