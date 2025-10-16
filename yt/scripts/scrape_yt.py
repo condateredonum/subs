@@ -30,9 +30,9 @@ def get_latest_videos(channel_data):
             for playlist_video in playlist_items:
                 snippet = playlist_video['snippet']
                 try:
-                    if snippet['thumbnails']['maxres']:
+                    try:
                         video_thumbnail = snippet['thumbnails']['maxres']['url']
-                    else:
+                    except:
                         video_thumbnail = snippet['thumbnails']['default']['url']
                 except (IndexError, KeyError):
                     video_thumbnail = 'Thumbnail-Error'

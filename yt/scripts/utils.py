@@ -94,6 +94,8 @@ def api_get_video_duration(video_id):
 
 def api_get_playlist_items(uploads_playlist_id, num_videos=5):
     """Get the video duration from the unique video ID."""
+    # https://youtube.googleapis.com/youtube/v3/playlistItems?
+    # part=snippet&playlistId=UUZZHPXsg6LopvdOKF7qM6cQ&key=
     playlist_request = youtube.playlistItems().list(
         part='snippet',
         playlistId=uploads_playlist_id,
