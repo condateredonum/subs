@@ -7,7 +7,9 @@ from googleapiclient.discovery import build
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
-def save_to_md(videos, file_path='yt/latest.md'):
+
+
+def save_to_md(all_videos, file_path='yt/latest.md'):
     """Save scraped video data to a Markdown file with a timestamp."""
 
     # Get the current timestamp
@@ -19,12 +21,12 @@ def save_to_md(videos, file_path='yt/latest.md'):
         file.write(f"Last updated: {timestamp}\n\n")
         file.write(f"# Latest Videos\n")
         
-        # Write the video data
-        for channel, video_list in videos.items():
-            file.write(f"## Videos from {channel}\n")
-            for video in video_list:
-                file.write(f"- [{video['title']}]({video['url']})\n")
-            file.write("\n")  # Add a newline between channels
+        file.write("| Username | Video Upload Date | Video Title  | Video Duration | Video Thumbnail |\n")
+        file.write("|----------|-------------------|--------------|----------------|-----------------|\n")        
+        for video in all_videos:
+            file.write(f"| {video['Username']} | {video['Video Upload Date']} | [{video['Video Title']}](youtube.com/what?v={video['Video ID']}) | {video['Video Duration']} | [Thumbnail]({video['Video Thumbnail']})|\n")
+
+    print(f"Data saved to {file_path}.")
 
 def convert_to_hhmmss(iso_duration):
     """Conver ISO 8601 duration string to format HH:MM:SS"""
