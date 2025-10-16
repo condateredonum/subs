@@ -1,8 +1,13 @@
 import os
 import json
 import datetime
-from utils import thumbnail_parser, duration_to_seconds, api_get_playlist_items, api_get_video_duration, save_to_md
-
+from utils import (
+    thumbnail_parser,
+    duration_to_seconds,
+    api_get_playlist_items,
+    api_get_video_duration,
+    save_to_md
+)
 def get_channel_info(channel_info_file_path):
     """Fetch the Username and Uploads Playlist ID associated."""
     print('\nRunning: get_channel_info')
