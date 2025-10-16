@@ -4,7 +4,7 @@ Last updated: 2025-10-16 19:06:46
 # Latest Videos
 | Uploaded | Thumb | Title | Duration |
 |----------|-------|-------|----------|
-2025-10-16T18:37:01Z | ![](https://i.ytimg.com/vi/v828JFvtupI/maxresdefault.jpg) |@BusinessInsider [Redefining Resilience For The Age Of AI](https://www.youtube.com/watch?v=v828JFvtupI) | 00:22:14 |
+2025-10-16T18:37:01Z | ![](https://i.ytimg.com/vi/v828JFvtupI/maxresdefault.jpg) |@BusinessInsider \n [Redefining Resilience For The Age Of AI](https://www.youtube.com/watch?v=v828JFvtupI) | 00:22:14 |
 2025-10-16T17:53:35Z | ![](https://i.ytimg.com/vi/Nv0fks4SZFY/maxresdefault.jpg) |@H3PodcastHighlights [Hasan Calls Concerned Viewers Mentally ill](https://www.youtube.com/watch?v=Nv0fks4SZFY) | 00:08:02 |
 2025-10-16T13:38:33Z | ![](https://i.ytimg.com/vi/T-Cu_gFsm2k/maxresdefault.jpg) |@2lazy2tryYT [Joe Rogan Finally Snaps At Marc Maron For Trashing Him and His Friends](https://www.youtube.com/watch?v=T-Cu_gFsm2k) | 00:13:37 |
 2025-10-16T05:21:05Z | ![](https://i.ytimg.com/vi/zr8XG4TPfXQ/maxresdefault.jpg) |@AtriocClips [China's Insane Fast Food Scandal](https://www.youtube.com/watch?v=zr8XG4TPfXQ) | 00:21:05 |
