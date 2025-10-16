@@ -1,5 +1,6 @@
 import os
 import json
+import datetime
 from utils import api_get_playlist_items, api_get_video_duration, save_to_md
 
 def get_channel_info(channel_info_file_path):
