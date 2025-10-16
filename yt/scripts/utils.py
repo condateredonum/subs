@@ -28,11 +28,6 @@ def save_to_md(videos, file_path='yt/latest.md'):
 
 def convert_to_hhmmss(iso_duration):
     """Conver ISO 8601 duration string to format HH:MM:SS"""
-    # Updated regex: Makes both hours and minutes completely optional
-    # match = re.match(r'PT(?:(\d+H)?(?![^M])|(?:\d+M)?|(?:\d+S))', iso_duration)
-    # if match is None:
-    #     video_duration = iso_duration
-
     try:
         hours_match = re.search(r'(\d+)H', iso_duration)
         minutes_match = re.search(r'(\d+)M', iso_duration)
@@ -41,7 +36,6 @@ def convert_to_hhmmss(iso_duration):
         hours = int(hours_match.group(1)) if hours_match else 0
         minutes = int(minutes_match.group(1)) if minutes_match else 0
         seconds = int(seconds_match.group(1)) if seconds_match else 0
-        print(f'\t\tHours: {hours} Minutes: {minutes} Seconds: {seconds}')
         video_duration = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
     except:
         video_duration = iso_duration
@@ -67,7 +61,6 @@ def api_get_video_duration(video_id):
     
     return video_duration
 
-
 def api_get_playlist_items(uploads_playlist_id, num_videos=2):
     """Get the video duration from the unique video ID."""
     playlist_request = youtube.playlistItems().list(
@@ -78,7 +71,6 @@ def api_get_playlist_items(uploads_playlist_id, num_videos=2):
     playlist_response = playlist_request.execute()
 
     return playlist_response
-
 
 if __name__ == "__main__":
     iso_duration = 'PT17M23S'
