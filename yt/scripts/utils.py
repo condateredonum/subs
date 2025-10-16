@@ -1,3 +1,4 @@
+import re
 import os
 from datetime import datetime
 from googleapiclient.discovery import build
@@ -25,6 +26,15 @@ def save_to_md(videos, file_path='yt/latest.md'):
                 file.write(f"- [{video['title']}]({video['url']})\n")
             file.write("\n")  # Add a newline between channels
 
+def convert_to_hhmmss(iso_duration):
+    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', iso_duration)
+    hours = match.group(1) or '0'
+    minutes = match.group(2) or '0'
+    seconds = match.group(3) or '0'
+
+    # Format as HH:MM:SS
+    return f"{int(hours):02}:{int(minutes):02}:{int(seconds):02}"
+
 def api_get_video_duration(video_id):
     """Get the video duration from the unique video ID."""
     # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
@@ -36,6 +46,7 @@ def api_get_video_duration(video_id):
     try:
         if video_content_response['items']:
             video_duration = video_content_response['items'][0]['contentDetails']['duration']
+            video_duration = convert_to_hhmmss(video_duration)
         else:
             video_duration = 'Live'
     except (IndexError, KeyError):
