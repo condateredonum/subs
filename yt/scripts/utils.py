@@ -27,17 +27,22 @@ def save_to_md(videos, file_path='yt/latest.md'):
             file.write("\n")  # Add a newline between channels
 
 def convert_to_hhmmss(iso_duration):
+    """Conver ISO 8601 duration string to format HH:MM:SS"""
     # Updated regex: Makes both hours and minutes completely optional
-    match = re.match(r'PT(?:(\d+H)?(?![^M])|(?:\d+M)?|(?:\d+S))', iso_duration)
-    if match is None:
-        video_duration = iso_duration
+    # match = re.match(r'PT(?:(\d+H)?(?![^M])|(?:\d+M)?|(?:\d+S))', iso_duration)
+    # if match is None:
+    #     video_duration = iso_duration
 
     try:
-        hours = match.group(1) if match.group(1) is not None else '0'
-        minutes = match.group(2) if match.group(2) is not None else '0'
-        seconds = match.group(3) if match.group(3) is not None else '0'
+        hours_match = re.match(r'(\d+)H', iso_duration)
+        minutes_match = re.match(r'(\d+)M', iso_duration)
+        seconds_match = re.match(r'(\d+)S', iso_duration)
+
+        hours = int(hours_match.group(1)) if hours_match else 0
+        minutes = int(minutes_match.group(2)) if minutes_match else 0
+        seconds = int(seconds_match.group(3)) if seconds_match else 0
         
-        video_duration = f"{int(hours):02}:{int(minutes):02}:{int(seconds):02}"
+        video_duration = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
     except:
         video_duration = iso_duration
 
