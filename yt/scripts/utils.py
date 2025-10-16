@@ -29,15 +29,19 @@ def save_to_md(videos, file_path='yt/latest.md'):
 def convert_to_hhmmss(iso_duration):
     # Updated regex: Makes both hours and minutes completely optional
     match = re.match(r'PT(?:(\d+H)?(?![^M])|(?:\d+M)?|(?:\d+S))', iso_duration)
-
     if match is None:
-        return iso_duration
+        video_duration = iso_duration
 
-    hours = match.group(1) if match.group(1) is not None else '0'
-    minutes = match.group(2) if match.group(2) is not None else '0'
-    seconds = match.group(3) if match.group(3) is not None else '0'
+    try:
+        hours = match.group(1) if match.group(1) is not None else '0'
+        minutes = match.group(2) if match.group(2) is not None else '0'
+        seconds = match.group(3) if match.group(3) is not None else '0'
+        
+        video_duration = f"{int(hours):02}:{int(minutes):02}:{int(seconds):02}"
+    except:
+        video_duration = iso_duration
 
-    return f"{int(hours):02}:{int(minutes):02}:{int(seconds):02}"
+    return video_duration
 
 def api_get_video_duration(video_id):
     """Get the video duration from the unique video ID."""
@@ -70,3 +74,7 @@ def api_get_playlist_items(uploads_playlist_id, num_videos=2):
 
     return playlist_response
 
+
+if __name__ == "__main__":
+    iso_duration = 'PT17M23S'
+    convert_to_hhmmss(iso_duration)
