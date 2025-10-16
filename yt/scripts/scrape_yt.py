@@ -2,14 +2,13 @@ import os
 import json
 from googleapiclient.discovery import build
 # from channel_info import get_channel_ids, get_usernames
-from utils import save_to_md
+from utils import save_to_md, api_get_video_duration
 
 # https://console.cloud.google.com
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 # https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UUUUe2Q6fFgu5Dzk_y2OyPYw&key=
-
 
 def get_channel_info(channel_info_file_path):
     """Fetch the Username and Uploads Playlist ID associated."""
@@ -53,27 +52,29 @@ def get_latest_videos(channel_data, num_videos=2):
                 video_title = snippet['title']
                 video_id = snippet['resourceId']['videoId']
 
-                # WRAP INTO OWN FUNCTION
-                # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
-                print(f'\t Video ID: \t {video_id}')
-                video_content_request = youtube.videos().list(
-                    part='contentDetails',
-                    id=video_id
-                )
-                video_content_response = video_content_request.execute()
-                try:
-                    if video_content_response['items']:
-                        video_duration = video_content_response['items'][0]['contentDetails']['duration']
-                    else:
-                        video_duration = 'Live'
-                except (IndexError, KeyError):
-                    video_duration = 'Duration-Error'
+                ##########################################################################################
+                # # WRAP INTO OWN FUNCTION
+                # # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
+                # video_content_request = youtube.videos().list(
+                #     part='contentDetails',
+                #     id=video_id
+                # )
+                # video_content_response = video_content_request.execute()
+                # try:
+                #     if video_content_response['items']:
+                #         video_duration = video_content_response['items'][0]['contentDetails']['duration']
+                #     else:
+                #         video_duration = 'Live'
+                # except (IndexError, KeyError):
+                #     video_duration = 'Duration-Error'
+                video_duration = api_get_video_duration(video_id)
+                ##########################################################################################
 
-                print(f'\t Video Thumbnail: \t {video_thumbnail}')
-                print(f'\t Video Upload Date: \t {video_upload_date}')
                 print(f'\t Video Title: \t\t {video_title}')
+                print(f'\t Video Upload Date: \t {video_upload_date}')
                 print(f'\t Video ID: \t\t {video_id}')
-                print(f'\t Video Duration: \t {video_duration}')
+                print(f'\t Video Duration: \t {video_duration} \n')
+                print(f'\t Video Thumbnail: \t {video_thumbnail}')
 
             # return {'title': video_title, 'video_id': video_id}
         else:
