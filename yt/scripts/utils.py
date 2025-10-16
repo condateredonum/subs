@@ -27,7 +27,8 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
         new_content += (
             f"{video['Video Upload Date']} | "
             f"![]({video['Video Thumbnail']}) |"
-            f"{video['Username']}\n[{video['Video Title']}](https://www.youtube.com/watch?v={video['Video ID']}) | "
+            f"{video['Username']}<br>"
+            f"[{video['Video Title']}](https://www.youtube.com/watch?v={video['Video ID']})<br>"
             f"{video['Video Duration']} |\n"
         )
     new_content += "-------------------\n"
