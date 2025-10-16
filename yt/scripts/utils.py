@@ -26,6 +26,7 @@ def save_to_md(videos, file_path='yt/latest.md'):
             file.write("\n")  # Add a newline between channels
 
 def api_get_video_duration(video_id):
+    """Get the video duration from the unique video ID."""
     # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
     video_content_request = youtube.videos().list(
         part='contentDetails',
@@ -41,3 +42,16 @@ def api_get_video_duration(video_id):
         video_duration = 'Duration-Error'
     
     return video_duration
+
+
+def api_get_playlist_items(uploads_playlist_id, num_videos=2)
+    """Get the video duration from the unique video ID."""
+    playlist_request = youtube.playlistItems().list(
+        part='snippet',
+        playlistId=uploads_playlist_id,
+        maxResults=num_videos
+    )
+    playlist_response = playlist_request.execute()
+
+    return playlist_response
+

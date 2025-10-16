@@ -1,14 +1,6 @@
 import os
 import json
-from googleapiclient.discovery import build
-# from channel_info import get_channel_ids, get_usernames
-from utils import save_to_md, api_get_video_duration
-
-# https://console.cloud.google.com
-API_KEY = os.environ.get('YOUTUBE_API_KEY')
-youtube = build('youtube', 'v3', developerKey=API_KEY)
-
-# https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UUUUe2Q6fFgu5Dzk_y2OyPYw&key=
+from utils import save_to_md, api_get_video_duration, api_get_playlist_items
 
 def get_channel_info(channel_info_file_path):
     """Fetch the Username and Uploads Playlist ID associated."""
@@ -19,7 +11,7 @@ def get_channel_info(channel_info_file_path):
         return data
         # return data[1]
 
-def get_latest_videos(channel_data, num_videos=2):
+def get_latest_videos(channel_data):
     """Fetch the latest x videos from a certain playlist"""
     print('\nRunning: get_latest_videos')
     for channel in channel_data:
@@ -29,13 +21,7 @@ def get_latest_videos(channel_data, num_videos=2):
         uploads_playlist_id = channel['uploads_playlist_id']
         print(f'Uploads ID: {uploads_playlist_id}')
 
-        playlist_request = youtube.playlistItems().list(
-            part='snippet',
-            playlistId=uploads_playlist_id,
-            maxResults=num_videos
-        )
-
-        playlist_response = playlist_request.execute()
+        playlist_response = api_get_playlist_items(uploads_playlist_id)
 
         playlist_items = playlist_response['items']
         if playlist_items:
@@ -52,29 +38,13 @@ def get_latest_videos(channel_data, num_videos=2):
                 video_title = snippet['title']
                 video_id = snippet['resourceId']['videoId']
 
-                ##########################################################################################
-                # # WRAP INTO OWN FUNCTION
-                # # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
-                # video_content_request = youtube.videos().list(
-                #     part='contentDetails',
-                #     id=video_id
-                # )
-                # video_content_response = video_content_request.execute()
-                # try:
-                #     if video_content_response['items']:
-                #         video_duration = video_content_response['items'][0]['contentDetails']['duration']
-                #     else:
-                #         video_duration = 'Live'
-                # except (IndexError, KeyError):
-                #     video_duration = 'Duration-Error'
                 video_duration = api_get_video_duration(video_id)
-                ##########################################################################################
 
                 print(f'\t Video Title: \t\t {video_title}')
                 print(f'\t Video Upload Date: \t {video_upload_date}')
                 print(f'\t Video ID: \t\t {video_id}')
-                print(f'\t Video Duration: \t {video_duration} \n')
-                print(f'\t Video Thumbnail: \t {video_thumbnail}')
+                print(f'\t Video Duration: \t {video_duration}')
+                print(f'\t Video Thumbnail: \t {video_thumbnail} \n')
 
             # return {'title': video_title, 'video_id': video_id}
         else:
