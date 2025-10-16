@@ -38,9 +38,9 @@ def convert_to_hhmmss(iso_duration):
         minutes_match = re.match(r'(\d+)M', iso_duration)
         seconds_match = re.match(r'(\d+)S', iso_duration)
 
-        hours = int(hours_match.group(1)) if hours_match else 0
-        minutes = int(minutes_match.group(2)) if minutes_match else 0
-        seconds = int(seconds_match.group(3)) if seconds_match else 0
+        hours = int(hours_match.group(0)) if hours_match else 0
+        minutes = int(minutes_match.group(0)) if minutes_match else 0
+        seconds = int(seconds_match.group(0)) if seconds_match else 0
         print(f'\t\tHours: {hours} Minutes: {minutes} Seconds: {seconds}')
         video_duration = f"{hours:02d}:{minutes:02d}:{seconds:02d}"
     except:
