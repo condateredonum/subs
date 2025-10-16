@@ -60,10 +60,11 @@ def get_latest_videos(channel_data):
         else:
             return print('No videos found for {username}')
 
-    # all_videos = sorted(
-    #     all_videos,
-    #     key=lambda x: (x['Username'], -datetime.fromisoformat(x['Video Upload Date']).timestamp())
-    # )
+    all_videos = sorted(
+        all_videos,
+        key=lambda x: x['Video Upload Date'],
+        reverse=True
+    )
 
     return all_videos
 
