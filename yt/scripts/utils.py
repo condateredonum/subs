@@ -14,17 +14,34 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
 
     # Get the current timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+    # Create the new content with the video data
+    new_content = f"Last updated: {timestamp}\n\n"
+    new_content += f"# Latest Videos\n"
     
-    # Open the file in write mode, overwriting it each time
-    with open(file_path, 'w') as file:
-        # Write the timestamp at the top
-        file.write(f"Last updated: {timestamp}\n\n")
-        file.write(f"# Latest Videos\n")
-        
-        file.write("| Username | Video Upload Date | Video Title  | Video Duration | Video Thumbnail |\n")
-        file.write("|----------|-------------------|--------------|----------------|-----------------|\n")        
-        for video in all_videos:
-            file.write(f"| {video['Username']} | {video['Video Upload Date']} | [{video['Video Title']}](youtube.com/what?v={video['Video ID']}) | {video['Video Duration']} | [Thumbnail]({video['Video Thumbnail']})|\n")
+    # Add the Markdown table header with the specified format
+    new_content += "| Username | Video Upload Date | Video Title  | Video Duration | Video Thumbnail |\n"
+    new_content += "|----------|-------------------|--------------|----------------|-----------------|\n"
+
+    # Write the video data to the new content
+    for video in all_videos:
+        new_content += (
+            f"| {video['Username']} | "
+            f"{video['Video Upload Date']} | "
+            f"[{video['Video Title']}](https://www.youtube.com/watch?v={video['Video ID']}) | "
+            f"{video['Video Duration']} | "
+            f"[Thumbnail]({video['Video Thumbnail']}) |\n"
+        )
+
+    # Append the new content to the existing file
+    if os.path.exists(file_path):
+        with open(file_path, 'r+') as file:
+            existing_content = file.read()
+            file.seek(0) 
+            file.write(new_content + existing_content) 
+    else:
+        with open(file_path, 'w') as file:
+            file.write(new_content)  # Create the file if it doesn't exist
 
     print(f"Data saved to {file_path}.")
 
