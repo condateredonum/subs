@@ -44,7 +44,7 @@ def get_latest_videos(channel_data):
                 print(f'\t Video Upload Date: \t {video_upload_date}')
                 print(f'\t Video ID: \t\t {video_id}')
                 print(f'\t Video Duration: \t {video_duration}')
-                print(f'\t Video Thumbnail: \t {video_thumbnail} \n')
+                print(f'\t Video Thumbnail: \t {video_thumbnail} \n', flush=True)
 
             # return {'title': video_title, 'video_id': video_id}
         else:
