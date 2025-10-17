@@ -2,6 +2,7 @@ import os
 import json
 import datetime
 from utils import (
+    convert_timestamp,
     thumbnail_parser,
     duration_to_seconds,
     api_get_playlist_items,
