@@ -8,44 +8,6 @@ from googleapiclient.discovery import build
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
-def save_to_md(all_videos, file_path='yt/latest.md'):
-    """Save scraped video data to a Markdown file with a timestamp."""
-
-    # Get the current timestamp
-    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-
-    # Create the new content with the video data
-    new_content = "-------------------\n"
-    new_content += f"Last updated: {timestamp}\n\n"
-    new_content += f"# Latest Videos\n"
-    
-    # Add the Markdown table header with the specified format
-    new_content += "| Thumb | Title |\n"
-    new_content += "|-------|-------|\n"
-
-    # Write the video data to the new content
-    for video in all_videos:
-        new_content += (
-            f"|![]({video['Video Thumbnail']}) |"
-            f"{video['Video Upload Date']}<br>"
-            f"{video['Username']}<br>"
-            f"[{video['Video Title']}](https://www.youtube.com/watch?v={video['Video ID']})<br>"
-            f"[{video['Video Duration']}] |\n"
-        )
-    new_content += "-------------------\n"
-
-    # Append the new content to the existing file
-    if os.path.exists(file_path):
-        with open(file_path, 'r+') as file:
-            existing_content = file.read()
-            file.seek(0) 
-            file.write(new_content + existing_content) 
-    else:
-        with open(file_path, 'w') as file:
-            file.write(new_content)  # Create the file if it doesn't exist
-
-    print(f"Data saved to {file_path}.")
-
 def convert_timestamp(source_datetime, target_time='Europe/London'):
     """Convert to 'Europe/London' or alternative if specified."""
     try:
@@ -132,6 +94,45 @@ def api_get_playlist_items(uploads_playlist_id, num_videos=5):
     playlist_response = playlist_request.execute()
 
     return playlist_response
+
+def save_to_md(all_videos, file_path='yt/latest.md'):
+    """Save scraped video data to a Markdown file with a timestamp."""
+
+    # Get the current timestamp
+    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    timestamp = convert_timestamp(timestamp)
+
+    # Create the new content with the video data
+    new_content = "-------------------\n"
+    new_content += f"Last updated: {timestamp}\n\n"
+    new_content += f"# Latest Videos\n"
+    
+    # Add the Markdown table header with the specified format
+    new_content += "| Thumb | Title |\n"
+    new_content += "|-------|-------|\n"
+
+    # Write the video data to the new content
+    for video in all_videos:
+        new_content += (
+            f"|![]({video['Video Thumbnail']}) |"
+            f"{video['Video Upload Date']}<br>"
+            f"{video['Username']}<br>"
+            f"[{video['Video Title']}](https://www.youtube.com/watch?v={video['Video ID']})<br>"
+            f"[{video['Video Duration']}] |\n"
+        )
+    new_content += "-------------------\n"
+
+    # Append the new content to the existing file
+    if os.path.exists(file_path):
+        with open(file_path, 'r+') as file:
+            existing_content = file.read()
+            file.seek(0) 
+            file.write(new_content + existing_content) 
+    else:
+        with open(file_path, 'w') as file:
+            file.write(new_content)  # Create the file if it doesn't exist
+
+    print(f"Data saved to {file_path}.")
 
 if __name__ == "__main__":
     iso_duration = 'PT17M23S'
