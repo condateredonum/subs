@@ -1,6 +1,7 @@
-import re
 import os
+import re
 from datetime import datetime
+import pytz
 from googleapiclient.discovery import build
 
 # https://console.cloud.google.com
@@ -44,6 +45,21 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
             file.write(new_content)  # Create the file if it doesn't exist
 
     print(f"Data saved to {file_path}.")
+
+def convert_timestamp(source_datetime, target_time='Europe/London'):
+    """Convert to 'Europe/London' or alternative if specified."""
+    try:
+        # Parse the source datetime string into a datetime object
+        utc_datetime = datetime.fromisoformat(source_datetime[:-1])
+        utc_datetime = utc_datetime.replace(tzinfo=pytz.utc)  # Set timezone to UTC
+
+        # Convert to the target timezone
+        target_timezone = pytz.timezone(target_time)
+        target_datetime = utc_datetime.astimezone(target_timezone)
+
+        return target_datetime.strftime('%Y-%m-%d %H:%M:%S')
+    except:
+        return source_datetime
 
 def thumbnail_parser(snippet):
     thumbnail_keys = ['maxres', 'standard', 'high', 'medium', 'default']

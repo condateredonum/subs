@@ -35,15 +35,9 @@ def get_latest_videos(channel_data):
             for playlist_video in playlist_items:
                 snippet = playlist_video['snippet']
                 video_thumbnail = thumbnail_parser(snippet)
-                # try:
-                #     try:
-                #         video_thumbnail = snippet['thumbnails']['maxres']['url']
-                #     except:
-                #         video_thumbnail = snippet['thumbnails']['default']['url']
-                # except (IndexError, KeyError):
-                #     video_thumbnail = 'Thumbnail-Error'
 
                 video_upload_date = snippet['publishedAt']
+                video_upload_date = convert_timestamp(video_upload_date)
                 video_title = snippet['title'].replace('|', r'\|')
                 video_id = snippet['resourceId']['videoId']
                 video_duration = api_get_video_duration(video_id)
