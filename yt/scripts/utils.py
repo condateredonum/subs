@@ -104,8 +104,8 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
 
     # Create the new content with the video data
     new_content = "-------------------\n"
-    new_content += f"Last updated: {timestamp}\n\n"
-    new_content += f"# Latest Videos\n"
+    new_content += f"# Last updated: {timestamp}\n\n"
+    # new_content += f"# Latest Videos\n"
     
     # Add the Markdown table header with the specified format
     new_content += "| Thumb | Title |\n"
