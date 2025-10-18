@@ -26,6 +26,8 @@
 
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
+[Erica Mallett](https://www.youtube.com/@ericamallett/videos)
+
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
 [Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
