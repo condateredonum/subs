@@ -99,7 +99,7 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
     """Save scraped video data to a Markdown file with a timestamp."""
 
     # Get the current timestamp
-    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    timestamp = datetime.now(tz=pytz.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     timestamp = convert_timestamp(timestamp)
 
     # Create the new content with the video data
