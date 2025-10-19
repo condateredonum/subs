@@ -194,8 +194,3 @@
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 -------------------
-# Last updated: 2025-10-18 21:37:47
-
-| Thumb | Title |
-|-------|-------|
-|![](https://i.ytimg.com/vi/h35LdhZgG1w/maxresdefault.jpg) |2025-10-18 20:30:17<br>@notevenemily<br>[We Must Discuss Motherhood...](https://www.youtube.com/watch?v=h35LdhZgG1w)<br>[00:54:05] |
