@@ -1,0 +1,51 @@
+name: Scrape YouTube Videos
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+  
+  schedule:
+    - cron: '0 10 * * *'
+
+permissions:
+  contents: write 
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' 
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-auth google-api-python-client
+          pip install pytz
+
+      - name: Run the scraper
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.KEY_API_GOOGLE_CLOUD }}
+        run: |
+          python yt/scripts/scrape_yt.py
+
+      - name: Commit changes if any
+        run: |
+          git config --local user.email "github-action@users.noreply.github.com"
+          git config --local user.name "GitHub Action"
+          git add .  # Adjust this to specify what to add if needed
+          git commit -m "Updated video list" || echo "No changes to commit"
+          git push
+
+      - name: Clean up __pycache__
+        run: |
+          find . -name '__pycache__' -exec rm -r {} +
