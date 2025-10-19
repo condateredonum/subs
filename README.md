@@ -1,5 +1,6 @@
 # subs
 
-### [yt](yt/subs.md)
+### [yt](yt/subs.md) > [latest_videos](yt/latest_videos.md)
 
-### [latest_videos](yt/latest_videos.md)
+
+ 
