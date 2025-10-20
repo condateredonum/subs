@@ -2,13 +2,12 @@ name: Scrape YouTube Videos
 
 on:
   workflow_dispatch:
-
   push:
     branches:
       - main
-  
   schedule:
     - cron: '0 10 * * *'
+    - cron: '0 17 * * *'
 
 permissions:
   contents: write 
