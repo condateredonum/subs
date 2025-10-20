@@ -29,8 +29,11 @@ def get_latest_videos(channel_data):
         uploads_playlist_id = channel['uploads_playlist_id']
         print(f'Uploads ID: {uploads_playlist_id}')
 
-        playlist_response = api_get_playlist_items(uploads_playlist_id)
-        playlist_items = playlist_response['items']
+        try:
+            playlist_response = api_get_playlist_items(uploads_playlist_id)
+            playlist_items = playlist_response['items']
+        except:
+            print(f'\t Error parsing playlist: {uploads_playlist_id}')
 
         if playlist_items:
             for playlist_video in playlist_items:
@@ -44,7 +47,7 @@ def get_latest_videos(channel_data):
                 video_duration = api_get_video_duration(video_id)
 
                 duration_seconds = duration_to_seconds(video_duration)
-                
+
                 if duration_seconds > 120:
                     video_info = {
                         'Username': username,
