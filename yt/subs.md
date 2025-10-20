@@ -4,8 +4,6 @@
 
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
 
-[According To Nicole](https://www.youtube.com/@AccordingtoNicole/videos)
-
 [Alyssa Grenfell](https://www.youtube.com/@alyssadgrenfell/videos) 
 
 [Antibot](https://www.youtube.com/@theantibot/videos) 
