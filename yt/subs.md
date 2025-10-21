@@ -60,6 +60,8 @@
 
 [Ming](https://www.youtube.com/@MingLLC/videos)
 
+[More Pegasus](https://www.youtube.com/@moresus/videos)
+
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
 [Nectar](https://www.youtube.com/@lovecommanectar/videos)
