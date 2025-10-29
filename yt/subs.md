@@ -10,6 +10,8 @@
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
 
+[Atrioc](https://www.youtube.com/@atrioc/videos)
+
 [Big A](https://www.youtube.com/@AtriocClips/videos)
 
 [Business Insider](https://www.youtube.com/@BusinessInsider/videos)
