@@ -50,6 +50,8 @@
 
 [Legal Mindset](https://www.youtube.com/@LegalMindset/videos)
 
+[Lil A Clips](https://www.youtube.com/@LilAClip/videos)
+
 [Marina McBain](https://www.youtube.com/@marinamcbain/videos)
 
 [Mayuko](https://www.youtube.com/@hellomayuko/videos)
