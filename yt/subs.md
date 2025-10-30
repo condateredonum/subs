@@ -16,6 +16,8 @@
 
 [Business Insider](https://www.youtube.com/@BusinessInsider/videos)
 
+[Brit Monkey](https://www.youtube.com/@BritMonkey/videos)
+
 [Brittany Venti](http://youtube.com/brittanyventi/videos)
 
 [Cam Kirkham](https://www.youtube.com/@CamKirkham/videos)
