@@ -1,5 +1,7 @@
 # yt
 
+[1420](https://www.youtube.com/@1420channel)
+
 [2lazy2try](https://www.youtube.com/@2lazy2tryYT/videos)
 
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
