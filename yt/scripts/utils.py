@@ -127,7 +127,8 @@ def save_to_md(all_videos, file_path='yt/latest.md'):
         with open(file_path, 'r+') as file:
             existing_content = file.read()
             file.seek(0) 
-            file.write(new_content + existing_content) 
+            # file.write(new_content + existing_content) 
+            file.write(new_content)
     else:
         with open(file_path, 'w') as file:
             file.write(new_content)  # Create the file if it doesn't exist
