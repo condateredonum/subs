@@ -36,6 +36,8 @@
 
 [Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
 
+[Good Work](https://www.youtube.com/@GoodWorkMB/videos)
+
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
 
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
@@ -47,6 +49,8 @@
 [Jubilee](https://www.youtube.com/@jubilee/videos)
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
+
+[Kraut](https://www.youtube.com/@Kraut_the_Parrot/videos)
 
 [Lana Blakely](https://www.youtube.com/@LanaBlakely/videos)
 
@@ -66,6 +70,8 @@
 
 [Ming](https://www.youtube.com/@MingLLC/videos)
 
+[Money & Macro](https://www.youtube.com/@MoneyMacro/videos)
+
 [More Pegasus](https://www.youtube.com/@moresus/videos)
 
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
@@ -77,6 +83,10 @@
 [Not So Erudite](https://www.youtube.com/@notsoErudite/videos)
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
+
+[Patrick Boyle](https://www.youtube.com/@PBoyle/videos)
+
+[PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
 [Podcast Cringe](https://www.youtube.com/@PodcastCringe/videos)
 
