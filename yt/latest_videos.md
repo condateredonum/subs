@@ -1,10 +1,14 @@
 -------------------
-# 2025-11-01 15:08:23
+# 2025-11-01 17:11:19
 
 | Thumb | Title |
 |-------|-------|
+|![](https://i.ytimg.com/vi/WcQMrGmTXSI/maxresdefault.jpg) |2025-11-01 16:30:23<br>@jubilee<br>[When Hollywood hits too close to home #middleground #religion #midsommar](https://www.youtube.com/watch?v=WcQMrGmTXSI)<br>[00:02:14] |
+|![](https://i.ytimg.com/vi/-LvvT2p9jpQ/maxresdefault.jpg) |2025-11-01 16:00:02<br>@lovecommanectar<br>[10 singles begin a 100 hour date \| nectarhouse](https://www.youtube.com/watch?v=-LvvT2p9jpQ)<br>[00:43:33] |
+|![](https://i.ytimg.com/vi/LZ22waX_x0Y/maxresdefault.jpg) |2025-11-01 15:45:05<br>@BritMonkey<br>[The Race to Save the Titanic](https://www.youtube.com/watch?v=LZ22waX_x0Y)<br>[00:33:25] |
+|![](https://i.ytimg.com/vi/a2VKUrPeXUI/maxresdefault.jpg) |2025-11-01 15:33:02<br>@CamKirkham<br>[Hotel Hell's Most Brutal Episode Ever](https://www.youtube.com/watch?v=a2VKUrPeXUI)<br>[01:06:13] |
 |![](https://i.ytimg.com/vi/I9yvuKKp2VA/maxresdefault.jpg) |2025-11-01 15:00:35<br>@moresus<br>[Hasan Just F**ked Up Real Bad..](https://www.youtube.com/watch?v=I9yvuKKp2VA)<br>[00:35:57] |
-|![](https://i.ytimg.com/vi/q95xzDQUxzI/maxresdefault.jpg) |2025-11-01 15:00:07<br>@PBoyle<br>[China’s Rare Earth Weapon: Why the U.S. Is Vulnerable!](https://www.youtube.com/watch?v=q95xzDQUxzI)<br>[Duration-Error] |
+|![](https://i.ytimg.com/vi/q95xzDQUxzI/maxresdefault.jpg) |2025-11-01 15:00:07<br>@PBoyle<br>[China’s Rare Earth Chokehold!](https://www.youtube.com/watch?v=q95xzDQUxzI)<br>[00:29:07] |
 |![](https://i.ytimg.com/vi/ItnIT1IvNMA/maxresdefault.jpg) |2025-11-01 12:17:26<br>@GirlGoneLondonofficial<br>[USA vs British advertising (why is America so insane?)](https://www.youtube.com/watch?v=ItnIT1IvNMA)<br>[00:18:02] |
 |![](https://i.ytimg.com/vi/LQlGuahgCHk/maxresdefault.jpg) |2025-11-01 12:00:44<br>@BusinessInsider<br>[How 9 Entrepreneurs Turned Ideas Into Empires \| Big Business \| Business Insider](https://www.youtube.com/watch?v=LQlGuahgCHk)<br>[02:06:46] |
 |![](https://i.ytimg.com/vi/TbEXIOF_MTk/maxresdefault.jpg) |2025-11-01 02:35:10<br>@AtriocClips<br>[The Shutdown Just Keeps Going](https://www.youtube.com/watch?v=TbEXIOF_MTk)<br>[00:15:13] |
@@ -40,8 +44,6 @@
 |![](https://i.ytimg.com/vi/Hm0vnr9bweg/maxresdefault.jpg) |2025-10-29 19:00:20<br>@MichelJanse<br>[SHOP WITH ME: antiques, thrifting + secondhand furniture (Sip + Thrift?!)](https://www.youtube.com/watch?v=Hm0vnr9bweg)<br>[00:21:50] |
 |![](https://i.ytimg.com/vi/Q4LKuvAikso/sddefault.jpg) |2025-10-29 18:00:34<br>@TheCriticalDrinker<br>[A House Of Dynamite - Much Ado About Nothing](https://www.youtube.com/watch?v=Q4LKuvAikso)<br>[00:07:37] |
 |![](https://i.ytimg.com/vi/NhYQxJvWizM/maxresdefault.jpg) |2025-10-29 17:00:38<br>@PodcastCringe<br>[Bryan Callen's Comeback Is a Complete Disaster](https://www.youtube.com/watch?v=NhYQxJvWizM)<br>[00:18:38] |
-|![](https://i.ytimg.com/vi/k6PsdWCFf7I/maxresdefault.jpg) |2025-10-29 16:30:18<br>@jubilee<br>[A survivor tells his tale on #spectrum #bodybuilders](https://www.youtube.com/watch?v=k6PsdWCFf7I)<br>[00:02:52] |
-|![](https://i.ytimg.com/vi/p8gevjOfWfY/maxresdefault.jpg) |2025-10-29 16:01:35<br>@lovecommanectar<br>[flirting with 50 strangers \| season 7](https://www.youtube.com/watch?v=p8gevjOfWfY)<br>[00:38:32] |
 |![](https://i.ytimg.com/vi/8Ku3id94UW4/maxresdefault.jpg) |2025-10-29 16:00:09<br>@gremlita<br>[The Crazy History of the Hair Loss Industry](https://www.youtube.com/watch?v=8Ku3id94UW4)<br>[00:41:24] |
 |![](https://i.ytimg.com/vi/-wB408TptdA/maxresdefault.jpg) |2025-10-29 15:46:32<br>@theantibot<br>[The "Jesus is My Husband" Christians of TikTok](https://www.youtube.com/watch?v=-wB408TptdA)<br>[00:58:27] |
 |![](https://i.ytimg.com/vi/YA8JI8kmJ1Q/maxresdefault.jpg) |2025-10-29 15:01:09<br>@moresus<br>[They Have Actually Lost Their Minds.. #154](https://www.youtube.com/watch?v=YA8JI8kmJ1Q)<br>[00:36:24] |
@@ -117,7 +119,6 @@
 |![](https://i.ytimg.com/vi/HGgWRawwsdE/maxresdefault.jpg) |2025-10-14 15:58:43<br>@2lazy2tryYT<br>[Whitney Cummings vs Chris D'Elia](https://www.youtube.com/watch?v=HGgWRawwsdE)<br>[00:11:03] |
 |![](https://i.ytimg.com/vi/oNxII9O5KKI/maxresdefault.jpg) |2025-10-13 19:00:53<br>@GirlGoneLondonofficial<br>[I watched every British public information film from 1945 - 1950 and it got WEIRD](https://www.youtube.com/watch?v=oNxII9O5KKI)<br>[00:33:52] |
 |![](https://i.ytimg.com/vi/LnlQPXk3d-Q/maxresdefault.jpg) |2025-10-13 14:00:48<br>@susannahfriesenofficial<br>[BookTok Influencers Are FED UP… and Honestly, So Am I](https://www.youtube.com/watch?v=LnlQPXk3d-Q)<br>[00:25:34] |
-|![](https://i.ytimg.com/vi/XjHyax6rOT8/maxresdefault.jpg) |2025-10-12 17:07:51<br>@CamKirkham<br>[The Most Brutal British TV Show Ever Made](https://www.youtube.com/watch?v=XjHyax6rOT8)<br>[00:48:54] |
 |![](https://i.ytimg.com/vi/aDO3tr5xDAo/maxresdefault.jpg) |2025-10-12 14:30:00<br>@kate.cassidy<br>[The Dark Side of Social Media: Performance Economy & Online Pressure](https://www.youtube.com/watch?v=aDO3tr5xDAo)<br>[00:25:27] |
 |![](https://i.ytimg.com/vi/NQEOMgdzBI4/maxresdefault.jpg) |2025-10-12 13:00:41<br>@VanessaWing%C3%A5rdh<br>[AI Was Supposed to Cure Cancer - We Got This Instead](https://www.youtube.com/watch?v=NQEOMgdzBI4)<br>[00:12:06] |
 |![](https://i.ytimg.com/vi/m8aCwlHED_Q/maxresdefault.jpg) |2025-10-11 20:30:06<br>@notevenemily<br>[They Made An AI Actress...](https://www.youtube.com/watch?v=m8aCwlHED_Q)<br>[00:48:26] |
@@ -233,13 +234,13 @@
 |![](https://i.ytimg.com/vi/AMuAku5oD0w/maxresdefault.jpg) |2023-11-28 17:00:13<br>@naynaflorence<br>[a perfect little sunday](https://www.youtube.com/watch?v=AMuAku5oD0w)<br>[00:17:12] |
 |![](https://i.ytimg.com/vi/4rFxdt9x5S4/maxresdefault.jpg) |2023-11-24 22:27:12<br>@pyrrhichos<br>[bear spotting in Canada!](https://www.youtube.com/watch?v=4rFxdt9x5S4)<br>[00:26:14] |
 |![](https://i.ytimg.com/vi/JQH5zD7n3nQ/maxresdefault.jpg) |2023-11-07 00:10:55<br>@pyrrhichos<br>[put me in the bin](https://www.youtube.com/watch?v=JQH5zD7n3nQ)<br>[00:08:26] |
-|![](https://i.ytimg.com/vi/smi_iIoKybg/maxresdefault.jpg) |2023-11-01 12:00:52<br>@BritMonkey<br>[The Power of Land: Georgism 101](https://www.youtube.com/watch?v=smi_iIoKybg)<br>[00:19:53] |
 |![](https://i.ytimg.com/vi/KmHe_QUCATQ/maxresdefault.jpg) |2023-06-21 20:00:08<br>@hellomayuko<br>[Software Engineer Desk Setup 2023](https://www.youtube.com/watch?v=KmHe_QUCATQ)<br>[00:13:55] |
 |![](https://i.ytimg.com/vi/qCZzxS3eUqg/maxresdefault.jpg) |2023-02-28 02:51:36<br>@pyrrhichos<br>[I stepped on a sea urchin in Croatia](https://www.youtube.com/watch?v=qCZzxS3eUqg)<br>[00:16:59] |
 |![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
+--------
 Yt85SeQ/maxresdefault.jpg) |2025-10-31 15:02:15<br>@JimmyTheGiant<br>[WTF Happened to... British Culture?](https://www.youtube.com/watch?v=zz4QYt85SeQ)<br>[00:50:28] |
 |![](https://i.ytimg.com/vi/ODuuTVKx91Y/maxresdefault.jpg) |2025-10-31 15:01:00<br>@DodfordYT<br>[Jordan Peele Saw It Coming](https://www.youtube.com/watch?v=ODuuTVKx91Y)<br>[00:25:45] |
 |![](https://i.ytimg.com/vi/5LYB6fqXi6g/maxresdefault.jpg) |2025-10-31 15:00:12<br>@moresus<br>[They Just Responded In The Worst Way..](https://www.youtube.com/watch?v=5LYB6fqXi6g)<br>[00:36:06] |
