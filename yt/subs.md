@@ -50,6 +50,8 @@
 
 [Jubilee](https://www.youtube.com/@jubilee/videos)
 
+[JREG](https://www.youtube.com/@JREG/videos)
+
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
 
 [Kraut](https://www.youtube.com/@Kraut_the_Parrot/videos)
