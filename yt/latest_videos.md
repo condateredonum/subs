@@ -1,8 +1,13 @@
 -------------------
-# 2025-11-03 10:31:47
+# 2025-11-03 17:14:20
 
 | Thumb | Title |
 |-------|-------|
+|![](https://i.ytimg.com/vi/bbmmjEsNo94/maxresdefault.jpg) |2025-11-03 15:01:18<br>@moresus<br>[They Just Got Completely F**ked..](https://www.youtube.com/watch?v=bbmmjEsNo94)<br>[00:36:57] |
+|![](https://i.ytimg.com/vi/Nman5pow5Ow/maxresdefault.jpg) |2025-11-03 14:51:46<br>@tiffanyferg<br>[oops I love external validation... 🙏](https://www.youtube.com/watch?v=Nman5pow5Ow)<br>[00:03:00] |
+|![](https://i.ytimg.com/vi/3TWUlc5prUw/maxresdefault.jpg) |2025-11-03 14:00:07<br>@susannahfriesenofficial<br>[The Queen of Overconsumption Is Back — and It’s Worse Than Before](https://www.youtube.com/watch?v=3TWUlc5prUw)<br>[00:17:09] |
+|![](https://i.ytimg.com/vi/ZYYMc7lTdRk/maxresdefault.jpg) |2025-11-03 12:01:13<br>@Tom_Nicholas<br>[Student Loans are More Exploitative Than You Think!](https://www.youtube.com/watch?v=ZYYMc7lTdRk)<br>[00:02:54] |
+|![](https://i.ytimg.com/vi/vdLZMgXHvYQ/maxresdefault.jpg) |2025-11-03 11:01:49<br>@BusinessInsider<br>[Why Millennials And Gen Z Struggle To Buy Homes \| Well Spent \| Business Insider](https://www.youtube.com/watch?v=vdLZMgXHvYQ)<br>[00:41:26] |
 |![](https://i.ytimg.com/vi/VxU372uA64s/maxresdefault.jpg) |2025-11-03 03:36:36<br>@AtriocClips<br>[The Real Reason They Voted](https://www.youtube.com/watch?v=VxU372uA64s)<br>[00:10:24] |
 |![](https://i.ytimg.com/vi/DUIo20nsBEQ/maxresdefault.jpg) |2025-11-03 00:27:16<br>@2lazy2tryYT<br>[Joe Rogans AI Slop Addiction Is Totally Out Of Control](https://www.youtube.com/watch?v=DUIo20nsBEQ)<br>[00:11:06] |
 |![](https://i.ytimg.com/vi/oTXLibojDX8/maxresdefault.jpg) |2025-11-02 21:01:00<br>@LilAClip<br>[How Putin Lost Chess - Atrioc Reacts](https://www.youtube.com/watch?v=oTXLibojDX8)<br>[00:18:40] |
@@ -44,7 +49,6 @@
 |![](https://i.ytimg.com/vi/qw4fDU18RcU/maxresdefault.jpg) |2025-10-31 14:42:18<br>@PewDiePie<br>[STOP. Using AI Right now](https://www.youtube.com/watch?v=qw4fDU18RcU)<br>[00:26:15] |
 |![](https://i.ytimg.com/vi/MeBsN_t84Q0/maxresdefault.jpg) |2025-10-31 14:00:42<br>@MoneyMacro<br>[Why humanity will shrink far sooner than we thought](https://www.youtube.com/watch?v=MeBsN_t84Q0)<br>[00:13:40] |
 |![](https://i.ytimg.com/vi/KW80Yjib7RA/maxresdefault.jpg) |2025-10-31 13:00:49<br>@GoodWorkMB<br>[What does Oracle actually do?](https://www.youtube.com/watch?v=KW80Yjib7RA)<br>[00:11:48] |
-|![](https://i.ytimg.com/vi/5Vn6OxMX0o8/maxresdefault.jpg) |2025-10-31 12:00:09<br>@BusinessInsider<br>[What It Takes To Guard The Tomb Of The Unknown Soldier \| Boot Camp \| Business Insider](https://www.youtube.com/watch?v=5Vn6OxMX0o8)<br>[00:19:16] |
 |![](https://i.ytimg.com/vi/riRVQSBD6YA/maxresdefault.jpg) |2025-10-31 07:31:05<br>@notsoErudite<br>[Men are Not Getting Laid and Might Be Feminism's Fault @counterpointspol](https://www.youtube.com/watch?v=riRVQSBD6YA)<br>[00:52:26] |
 |![](https://i.ytimg.com/vi/5VrVWQoy5d8/maxresdefault.jpg) |2025-10-31 03:04:59<br>@AtriocClips<br>[The Best Interview Ever](https://www.youtube.com/watch?v=5VrVWQoy5d8)<br>[00:14:42] |
 |![](https://i.ytimg.com/vi/zpRhR4vl01w/maxresdefault.jpg) |2025-10-31 01:08:41<br>@SydneyWatson<br>[Rachel Zegler is trying SO HARD to make a come back](https://www.youtube.com/watch?v=zpRhR4vl01w)<br>[00:16:55] |
@@ -60,7 +64,6 @@
 |![](https://i.ytimg.com/vi/NhYQxJvWizM/maxresdefault.jpg) |2025-10-29 17:00:38<br>@PodcastCringe<br>[Bryan Callen's Comeback Is a Complete Disaster](https://www.youtube.com/watch?v=NhYQxJvWizM)<br>[00:18:38] |
 |![](https://i.ytimg.com/vi/8Ku3id94UW4/maxresdefault.jpg) |2025-10-29 16:00:09<br>@gremlita<br>[The Crazy History of the Hair Loss Industry](https://www.youtube.com/watch?v=8Ku3id94UW4)<br>[00:41:24] |
 |![](https://i.ytimg.com/vi/-wB408TptdA/maxresdefault.jpg) |2025-10-29 15:46:32<br>@theantibot<br>[The "Jesus is My Husband" Christians of TikTok](https://www.youtube.com/watch?v=-wB408TptdA)<br>[00:58:27] |
-|![](https://i.ytimg.com/vi/YA8JI8kmJ1Q/maxresdefault.jpg) |2025-10-29 15:01:09<br>@moresus<br>[They Have Actually Lost Their Minds.. #154](https://www.youtube.com/watch?v=YA8JI8kmJ1Q)<br>[00:36:24] |
 |![](https://i.ytimg.com/vi/TNF9DCi0wBs/maxresdefault.jpg) |2025-10-29 12:01:17<br>@Tom_Nicholas<br>[The “RPG-ification” of Politics](https://www.youtube.com/watch?v=TNF9DCi0wBs)<br>[00:02:20] |
 |![](https://i.ytimg.com/vi/ZTzoIv9vW-I/maxresdefault.jpg) |2025-10-28 22:30:10<br>@LilAClip<br>[Are Multiplayer Games Dying?](https://www.youtube.com/watch?v=ZTzoIv9vW-I)<br>[00:12:15] |
 |![](https://i.ytimg.com/vi/2M8yN0geqmk/maxresdefault.jpg) |2025-10-28 22:30:00<br>@H3PodcastHighlights<br>[Ludwig Responds To Backlash For Confronting Hasan](https://www.youtube.com/watch?v=2M8yN0geqmk)<br>[00:13:06] |
@@ -77,7 +80,6 @@
 |![](https://i.ytimg.com/vi/09z_Nw41xEs/maxresdefault.jpg) |2025-10-27 12:52:16<br>@GirlGoneLondonofficial<br>[this is the most real I've been online](https://www.youtube.com/watch?v=09z_Nw41xEs)<br>[00:31:27] |
 |![](https://i.ytimg.com/vi/n_uROficFTI/maxresdefault.jpg) |2025-10-27 12:01:28<br>@Tom_Nicholas<br>[How Has the Internet Changed Political Debate?](https://www.youtube.com/watch?v=n_uROficFTI)<br>[00:02:07] |
 |![](https://i.ytimg.com/vi/ilSNzlUUu3U/maxresdefault.jpg) |2025-10-27 11:01:31<br>@sierraroselyn<br>[watch this if you feel hopeless about food (binge eating recovery)](https://www.youtube.com/watch?v=ilSNzlUUu3U)<br>[00:42:47] |
-|![](https://i.ytimg.com/vi/i2Y8al_Pkv0/maxresdefault.jpg) |2025-10-26 16:49:30<br>@Tom_Nicholas<br>[How Political Debate Got So Frustrating](https://www.youtube.com/watch?v=i2Y8al_Pkv0)<br>[00:37:08] |
 |![](https://i.ytimg.com/vi/GGI6Z0GUcO0/maxresdefault.jpg) |2025-10-26 15:33:57<br>@CamKirkham<br>[The Evil Reality Show Canceled After One Episode](https://www.youtube.com/watch?v=GGI6Z0GUcO0)<br>[01:01:32] |
 |![](https://i.ytimg.com/vi/Ih4gR3fRUCs/maxresdefault.jpg) |2025-10-26 13:00:40<br>@VanessaWing%C3%A5rdh<br>[The West Is Destroying Online Privacy](https://www.youtube.com/watch?v=Ih4gR3fRUCs)<br>[00:14:07] |
 |![](https://i.ytimg.com/vi/GCalxQCXt7A/maxresdefault.jpg) |2025-10-25 22:06:02<br>@1420channel<br>[What will happen in Russia after the war? Interview with Russian prof. of economics Igor Lipsitc.](https://www.youtube.com/watch?v=GCalxQCXt7A)<br>[00:05:23] |
@@ -94,12 +96,12 @@
 |![](https://i.ytimg.com/vi/IbV_OIUwxwA/maxresdefault.jpg) |2025-10-23 17:17:10<br>@leenanorms<br>[This is a plea to the universe](https://www.youtube.com/watch?v=IbV_OIUwxwA)<br>[00:02:05] |
 |![](https://i.ytimg.com/vi/OWD4-CkDqvU/maxresdefault.jpg) |2025-10-23 15:53:46<br>@CamKirkham<br>[Netflix's Most Horrifying Documentary Ever: The Perfect Neighbour](https://www.youtube.com/watch?v=OWD4-CkDqvU)<br>[00:55:26] |
 |![](https://i.ytimg.com/vi/HoyuaEHo94o/maxresdefault.jpg) |2025-10-23 02:30:25<br>@SydneyWatson<br>[Actresses are FINALLY defending JK Rowling](https://www.youtube.com/watch?v=HoyuaEHo94o)<br>[00:26:21] |
+|![](https://i.ytimg.com/vi/ZvWyS9zd358/maxresdefault.jpg) |2025-10-22 09:51:56<br>@leenanorms<br>[Was mascara better in the 1930s?](https://www.youtube.com/watch?v=ZvWyS9zd358)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/stG7lNNnyrg/maxresdefault.jpg) |2025-10-21 22:26:07<br>@disparutoo<br>[Lord of the Rings is STILL At War With Evil](https://www.youtube.com/watch?v=stG7lNNnyrg)<br>[00:20:22] |
 |![](https://i.ytimg.com/vi/J5kZoTzTAhw/maxresdefault.jpg) |2025-10-21 20:59:08<br>@2lazy2tryYT<br>[Andrew Santino vs Andrew Schulz](https://www.youtube.com/watch?v=J5kZoTzTAhw)<br>[00:10:05] |
 |![](https://i.ytimg.com/vi/nKwaUn3UFGY/maxresdefault.jpg) |2025-10-21 19:54:38<br>@RachelOates<br>[BookTok's Worst: Haunting Adeline](https://www.youtube.com/watch?v=nKwaUn3UFGY)<br>[02:55:37] |
 |![](https://i.ytimg.com/vi/-A4A0lYyTiM/maxresdefault.jpg) |2025-10-21 16:50:08<br>@GirlGoneLondonofficial<br>[9 British Things Americans Don't Even Have a Word For](https://www.youtube.com/watch?v=-A4A0lYyTiM)<br>[00:09:30] |
 |![](https://i.ytimg.com/vi/-loW7xS73BM/maxresdefault.jpg) |2025-10-21 14:00:01<br>@MoneyMacro<br>[If the economy is so bad, why are stock markets booming?](https://www.youtube.com/watch?v=-loW7xS73BM)<br>[00:20:36] |
-|![](https://i.ytimg.com/vi/PnmLyhW4S4Q/maxresdefault.jpg) |2025-10-21 12:03:21<br>@leenanorms<br>[I’m trapped](https://www.youtube.com/watch?v=PnmLyhW4S4Q)<br>[00:02:34] |
 |![](https://i.ytimg.com/vi/Bo2t9h69vLI/maxresdefault.jpg) |2025-10-21 02:14:05<br>@SydneyWatson<br>[Hasan Piker's LONG history of hurting dogs...](https://www.youtube.com/watch?v=Bo2t9h69vLI)<br>[00:31:23] |
 |![](https://i.ytimg.com/vi/Jk68px6ND0U/maxresdefault.jpg) |2025-10-20 16:38:43<br>@kate.cassidy<br>[Is Google Destroying the Internet? \| AI, Search, and Digital Feudalism](https://www.youtube.com/watch?v=Jk68px6ND0U)<br>[00:29:33] |
 |![](https://i.ytimg.com/vi/buTUeajsVzA/maxresdefault.jpg) |2025-10-20 16:07:40<br>@AshleyEmbers<br>[Is this the end of the influencer economy?](https://www.youtube.com/watch?v=buTUeajsVzA)<br>[00:33:53] |
@@ -158,7 +160,6 @@
 |![](https://i.ytimg.com/vi/7E0EV4aBygI/maxresdefault.jpg) |2025-09-29 19:30:08<br>@kate.cassidy<br>[How AI Will Ruin YouTube (it's not just slop)](https://www.youtube.com/watch?v=7E0EV4aBygI)<br>[00:27:06] |
 |![](https://i.ytimg.com/vi/8tuIkJsEv0o/maxresdefault.jpg) |2025-09-29 16:00:17<br>@AshleyEmbers<br>[How the rich gaslight you into staying poor](https://www.youtube.com/watch?v=8tuIkJsEv0o)<br>[00:31:10] |
 |![](https://i.ytimg.com/vi/UfC4-FDp7co/maxresdefault.jpg) |2025-09-29 15:00:56<br>@JimmyTheGiant<br>[The "Islamification" of Britain?](https://www.youtube.com/watch?v=UfC4-FDp7co)<br>[00:56:52] |
-|![](https://i.ytimg.com/vi/U8q4D7Ma7M4/maxresdefault.jpg) |2025-09-29 14:01:05<br>@susannahfriesenofficial<br>[Mukbang Influencers Have Taken Things Too Far](https://www.youtube.com/watch?v=U8q4D7Ma7M4)<br>[00:21:58] |
 |![](https://i.ytimg.com/vi/iQjHqIdPvQo/maxresdefault.jpg) |2025-09-29 10:23:56<br>@RachelOates<br>[Surprise Live Stream and Catch Up 🙂](https://www.youtube.com/watch?v=iQjHqIdPvQo)<br>[02:45:40] |
 |![](https://i.ytimg.com/vi/Bp4i3kBqAWo/maxresdefault.jpg) |2025-09-28 18:30:03<br>@AbbieRee<br>[Every SINGLE The Vampire Diaries Cast Controversy EXPLAINED…](https://www.youtube.com/watch?v=Bp4i3kBqAWo)<br>[00:20:52] |
 |![](https://i.ytimg.com/vi/CGDU1ASnnFs/maxresdefault.jpg) |2025-09-28 17:45:01<br>@LanaBlakely<br>[the secret to staying beautiful & young forever (it’s not what you think)](https://www.youtube.com/watch?v=CGDU1ASnnFs)<br>[00:11:02] |
@@ -208,7 +209,6 @@
 |![](https://i.ytimg.com/vi/APeXNIvEJu4/maxresdefault.jpg) |2025-07-24 16:00:18<br>@DodfordYT<br>[The Pedro Pascal Overdose](https://www.youtube.com/watch?v=APeXNIvEJu4)<br>[00:20:10] |
 |![](https://i.ytimg.com/vi/aPWL9FhdFPo/sddefault.jpg) |2025-07-22 04:00:01<br>@MingLLC<br>[Jackie Chan Had Enough](https://www.youtube.com/watch?v=aPWL9FhdFPo)<br>[00:23:59] |
 |![](https://i.ytimg.com/vi/vDzVdg7ViDk/maxresdefault.jpg) |2025-07-18 20:53:03<br>@TheElephantGraveyardMusic<br>[American Quakening (Elephant Graveyard Radio Hour Ep. 3)](https://www.youtube.com/watch?v=vDzVdg7ViDk)<br>[01:10:16] |
-|![](https://i.ytimg.com/vi/fn7cgCJirRk/maxresdefault.jpg) |2025-07-15 18:16:26<br>@tiffanyferg<br>[family vloggers try to defend themselves... 😬 "Born to be Viral" documentary \| Internet Analysis](https://www.youtube.com/watch?v=fn7cgCJirRk)<br>[00:43:27] |
 |![](https://i.ytimg.com/vi/M51v1dmhp1k/maxresdefault.jpg) |2025-07-14 23:14:26<br>@Shoe0nHead<br>[The Male Loser Epidemic](https://www.youtube.com/watch?v=M51v1dmhp1k)<br>[00:29:25] |
 |![](https://i.ytimg.com/vi/hK_1a36ifG8/maxresdefault.jpg) |2025-07-11 18:00:10<br>@Galatea-and-Acis<br>[Did Sabrina Carpenter Go Too Far?](https://www.youtube.com/watch?v=hK_1a36ifG8)<br>[01:14:57] |
 |![](https://i.ytimg.com/vi/XPk-efest5M/maxresdefault.jpg) |2025-07-11 12:19:27<br>@Kraut_the_Parrot<br>[The Difference between Cultures and Institutions](https://www.youtube.com/watch?v=XPk-efest5M)<br>[00:46:59] |
@@ -246,6 +246,7 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
+--------------
 )<br>[00:14:42] |
 |![](https://i.ytimg.com/vi/zpRhR4vl01w/maxresdefault.jpg) |2025-10-31 01:08:41<br>@SydneyWatson<br>[Rachel Zegler is trying SO HARD to make a come back](https://www.youtube.com/watch?v=zpRhR4vl01w)<br>[00:16:55] |
 |![](https://i.ytimg.com/vi/XsNHSDNfGVk/maxresdefault.jpg) |2025-10-30 19:28:34<br>@gremlita<br>[historic cures for baldness](https://www.youtube.com/watch?v=XsNHSDNfGVk)<br>[00:02:44] |
