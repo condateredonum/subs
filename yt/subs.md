@@ -34,6 +34,8 @@
 
 [Erica Mallett](https://www.youtube.com/@ericamallett/videos)
 
+[Fern](https://www.youtube.com/@fern-tv/videos)
+
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
 [Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
