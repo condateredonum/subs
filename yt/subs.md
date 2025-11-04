@@ -48,6 +48,8 @@
 
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
 
+[Jared Henderson](https://www.youtube.com/@_jared/videos)
+
 [Jimmy the Giant](https://www.youtube.com/@JimmyTheGiant/videos)
 
 [Jubilee](https://www.youtube.com/@jubilee/videos)
