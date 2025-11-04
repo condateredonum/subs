@@ -76,6 +76,8 @@
 
 [Money & Macro](https://www.youtube.com/@MoneyMacro/videos)
 
+[Morbid Zoo](https://www.youtube.com/@themorbidzoo/videos)
+
 [More Pegasus](https://www.youtube.com/@moresus/videos)
 
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
