@@ -1,9 +1,9 @@
 -------------------
-# 2025-11-04 17:12:31
+# 2025-11-04 19:25:01
 
 | Thumb | Title |
 |-------|-------|
-|![](https://i.ytimg.com/vi/JZWYik0e9KU/maxresdefault.jpg) |2025-11-04 17:00:37<br>@PodcastCringe<br>[Famous Comedian Has Existential Crisis](https://www.youtube.com/watch?v=JZWYik0e9KU)<br>[00:24:07] |
+|![](https://i.ytimg.com/vi/JZWYik0e9KU/maxresdefault.jpg) |2025-11-04 17:00:37<br>@PodcastCringe<br>[Bert Kreischer Is Having an Existential Crisis](https://www.youtube.com/watch?v=JZWYik0e9KU)<br>[00:24:07] |
 |![](https://i.ytimg.com/vi/UO0-MLydIns/maxresdefault.jpg) |2025-11-04 15:00:53<br>@moresus<br>[Hasan Just Got F**king Humiliated..](https://www.youtube.com/watch?v=UO0-MLydIns)<br>[00:34:11] |
 |![](https://i.ytimg.com/vi/aUjTmYa0xKQ/maxresdefault.jpg) |2025-11-04 13:00:06<br>@BusinessInsider<br>[Life Lessons From Senior Athletes Who Started Competing Late In Life \| Life Lessons](https://www.youtube.com/watch?v=aUjTmYa0xKQ)<br>[00:16:18] |
 |![](https://i.ytimg.com/vi/JFdHcfIaNL4/maxresdefault.jpg) |2025-11-04 08:09:51<br>@notsoErudite<br>[@SNEAKO  Destroys Myron Proving RACISM is UnAmerican](https://www.youtube.com/watch?v=JFdHcfIaNL4)<br>[00:57:26] |
@@ -11,13 +11,12 @@
 |![](https://i.ytimg.com/vi/pNF48pY1gcI/maxresdefault.jpg) |2025-11-04 00:41:45<br>@notsoErudite<br>[Separation of Church and State with @BTIPod](https://www.youtube.com/watch?v=pNF48pY1gcI)<br>[01:54:01] |
 |![](https://i.ytimg.com/vi/AsghuVh68Gg/maxresdefault.jpg) |2025-11-03 20:00:10<br>@MichelJanse<br>[THRIFT + GIFT: dream earthy capsule wardrobe for a middle-aged COOL mom 🍂](https://www.youtube.com/watch?v=AsghuVh68Gg)<br>[00:30:35] |
 |![](https://i.ytimg.com/vi/aeRfUxKnuNY/maxresdefault.jpg) |2025-11-03 20:00:01<br>@notsoErudite<br>[A Blackpiller So BROKEN I Kicked Him Off My STREAM](https://www.youtube.com/watch?v=aeRfUxKnuNY)<br>[00:41:35] |
-|![](https://i.ytimg.com/vi/ZvWyS9zd358/maxresdefault.jpg) |2025-11-03 18:00:11<br>@leenanorms<br>[Was mascara better in the 1930s?](https://www.youtube.com/watch?v=ZvWyS9zd358)<br>[00:22:13] |
+|![](https://i.ytimg.com/vi/ZvWyS9zd358/maxresdefault.jpg) |2025-11-03 18:00:11<br>@leenanorms<br>[Mascara is getting worse. Here’s why.](https://www.youtube.com/watch?v=ZvWyS9zd358)<br>[00:22:13] |
 |![](https://i.ytimg.com/vi/jxSJsFD-jKo/sddefault.jpg) |2025-11-03 17:30:18<br>@TheCriticalDrinker<br>[The Witcher Season 4 - A Show So Awful, It Broke Me](https://www.youtube.com/watch?v=jxSJsFD-jKo)<br>[00:09:15] |
 |![](https://i.ytimg.com/vi/bbmmjEsNo94/maxresdefault.jpg) |2025-11-03 15:01:18<br>@moresus<br>[They Just Got Completely F**ked.. #159](https://www.youtube.com/watch?v=bbmmjEsNo94)<br>[00:36:57] |
 |![](https://i.ytimg.com/vi/Nman5pow5Ow/maxresdefault.jpg) |2025-11-03 14:51:46<br>@tiffanyferg<br>[oops I love external validation... 🙏](https://www.youtube.com/watch?v=Nman5pow5Ow)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/3TWUlc5prUw/maxresdefault.jpg) |2025-11-03 14:00:07<br>@susannahfriesenofficial<br>[The Queen of Overconsumption Is Back — and It’s Worse Than Before](https://www.youtube.com/watch?v=3TWUlc5prUw)<br>[00:17:09] |
 |![](https://i.ytimg.com/vi/ZYYMc7lTdRk/maxresdefault.jpg) |2025-11-03 12:01:13<br>@Tom_Nicholas<br>[Student Loans are More Exploitative Than You Think!](https://www.youtube.com/watch?v=ZYYMc7lTdRk)<br>[00:02:54] |
-|![](https://i.ytimg.com/vi/vdLZMgXHvYQ/maxresdefault.jpg) |2025-11-03 11:01:49<br>@BusinessInsider<br>[Why Millennials And Gen Z Struggle To Buy Homes \| Well Spent \| Business Insider](https://www.youtube.com/watch?v=vdLZMgXHvYQ)<br>[00:41:26] |
 |![](https://i.ytimg.com/vi/VxU372uA64s/maxresdefault.jpg) |2025-11-03 03:36:36<br>@AtriocClips<br>[The Real Reason They Voted](https://www.youtube.com/watch?v=VxU372uA64s)<br>[00:10:24] |
 |![](https://i.ytimg.com/vi/DUIo20nsBEQ/maxresdefault.jpg) |2025-11-03 00:27:16<br>@2lazy2tryYT<br>[Joe Rogans AI Slop Addiction Is Totally Out Of Control](https://www.youtube.com/watch?v=DUIo20nsBEQ)<br>[00:11:06] |
 |![](https://i.ytimg.com/vi/oTXLibojDX8/maxresdefault.jpg) |2025-11-02 21:01:00<br>@LilAClip<br>[How Putin Lost Chess - Atrioc Reacts](https://www.youtube.com/watch?v=oTXLibojDX8)<br>[00:18:40] |
@@ -50,7 +49,6 @@
 |![](https://i.ytimg.com/vi/UnkCnqlAVQI/maxresdefault.jpg) |2025-10-31 16:30:24<br>@jubilee<br>[Ex-Scientologists and Ex-Jehovah's Witnesses on leaving the church #middleground #religion](https://www.youtube.com/watch?v=UnkCnqlAVQI)<br>[00:02:46] |
 |![](https://i.ytimg.com/vi/Y0wdLOidFEE/maxresdefault.jpg) |2025-10-31 16:18:18<br>@alyssadgrenfell<br>[Mormon Leaders Taught I was Porn](https://www.youtube.com/watch?v=Y0wdLOidFEE)<br>[01:40:14] |
 |![](https://i.ytimg.com/vi/uTogTcngHPA/maxresdefault.jpg) |2025-10-31 16:00:50<br>@Shoe0nHead<br>[Men on Reddit Are Not Ok](https://www.youtube.com/watch?v=uTogTcngHPA)<br>[00:28:17] |
-|![](https://i.ytimg.com/vi/592sOIePWpc/maxresdefault.jpg) |2025-10-31 16:00:18<br>@jubilee<br>["My former religion was a cult" Ex-Scientologists & Jehovah's Witnesses \| Middle Ground](https://www.youtube.com/watch?v=592sOIePWpc)<br>[00:59:55] |
 |![](https://i.ytimg.com/vi/zz4QYt85SeQ/maxresdefault.jpg) |2025-10-31 15:02:15<br>@JimmyTheGiant<br>[WTF Happened to... British Culture?](https://www.youtube.com/watch?v=zz4QYt85SeQ)<br>[00:50:28] |
 |![](https://i.ytimg.com/vi/ODuuTVKx91Y/maxresdefault.jpg) |2025-10-31 15:01:00<br>@DodfordYT<br>[Jordan Peele Saw It Coming](https://www.youtube.com/watch?v=ODuuTVKx91Y)<br>[00:25:45] |
 |![](https://i.ytimg.com/vi/5LYB6fqXi6g/maxresdefault.jpg) |2025-10-31 15:00:12<br>@moresus<br>[They Just Got F**king Embarrassed.. #156](https://www.youtube.com/watch?v=5LYB6fqXi6g)<br>[00:36:06] |
@@ -119,7 +117,6 @@
 |![](https://i.ytimg.com/vi/bfUOPDOLHvE/maxresdefault.jpg) |2025-10-18 12:15:07<br>@PBoyle<br>[Private Equity’s Quiet Crisis!](https://www.youtube.com/watch?v=bfUOPDOLHvE)<br>[00:25:17] |
 |![](https://i.ytimg.com/vi/BVOKaUavy20/maxresdefault.jpg) |2025-10-18 03:48:27<br>@atrioc<br>[Crypto Shark Tank Is Back. It's So Much More Insane.](https://www.youtube.com/watch?v=BVOKaUavy20)<br>[00:36:45] |
 |![](https://i.ytimg.com/vi/eBduZ6b61Uk/maxresdefault.jpg) |2025-10-17 17:01:15<br>@PodcastCringe<br>[The Stand Up Comedy Situation Is Crazy](https://www.youtube.com/watch?v=eBduZ6b61Uk)<br>[00:26:35] |
-|![](https://i.ytimg.com/vi/aBVRrYlMwUo/maxresdefault.jpg) |2025-10-17 16:15:16<br>@gremlita<br>[The Downfall of Culty “Eat the Rich” A24-Core Movies](https://www.youtube.com/watch?v=aBVRrYlMwUo)<br>[00:41:50] |
 |![](https://i.ytimg.com/vi/BRc3XUzzxGM/maxresdefault.jpg) |2025-10-17 14:45:22<br>@2lazy2tryYT<br>[Andrew Schulz Goes Off On Comedians That Turned On Joe Rogan](https://www.youtube.com/watch?v=BRc3XUzzxGM)<br>[00:14:55] |
 |![](https://i.ytimg.com/vi/YRuYb3H3mvA/maxresdefault.jpg) |2025-10-17 14:01:13<br>@MoneyMacro<br>[Why Russia's war economy is stronger than you think](https://www.youtube.com/watch?v=YRuYb3H3mvA)<br>[00:18:57] |
 |![](https://i.ytimg.com/vi/1gTyQHbMmgQ/maxresdefault.jpg) |2025-10-17 14:00:05<br>@MingLLC<br>[The Disturbing Downfall of Marlon Brando](https://www.youtube.com/watch?v=1gTyQHbMmgQ)<br>[00:19:50] |
@@ -245,6 +242,10 @@
 |![](https://i.ytimg.com/vi/KmHe_QUCATQ/maxresdefault.jpg) |2023-06-21 20:00:08<br>@hellomayuko<br>[Software Engineer Desk Setup 2023](https://www.youtube.com/watch?v=KmHe_QUCATQ)<br>[00:13:55] |
 |![](https://i.ytimg.com/vi/qCZzxS3eUqg/maxresdefault.jpg) |2023-02-28 02:51:36<br>@pyrrhichos<br>[I stepped on a sea urchin in Croatia](https://www.youtube.com/watch?v=qCZzxS3eUqg)<br>[00:16:59] |
 |![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
+|![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
+|![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+-------------------
+vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
