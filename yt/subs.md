@@ -98,6 +98,8 @@
 
 [Podcast Cringe](https://www.youtube.com/@PodcastCringe/videos)
 
+[Psychology with Dr.Ana](https://www.youtube.com/@AnaPsychology/videos)
+
 [Pyrrhichos Vic](https://www.youtube.com/@pyrrhichos/videos)
 
 [Rachel Oates](https://www.youtube.com/@RachelOates/videos)
