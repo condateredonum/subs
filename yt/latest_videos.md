@@ -1,7 +1,7 @@
 -------------------
-# 2025-11-04 20:24:26
+# 2025-11-04 20:26:09
 
-| Thumb | Title |
+| Thumbnail | Title |
 |-------|-------|
 |![](https://i.ytimg.com/vi/JZWYik0e9KU/maxresdefault.jpg) |2025-11-04 17:00:37<br>@PodcastCringe<br>[Bert Kreischer Is Having an Existential Crisis](https://www.youtube.com/watch?v=JZWYik0e9KU)<br>[00:24:07] |
 |![](https://i.ytimg.com/vi/K4E1u3_S1p8/maxresdefault.jpg) |2025-11-04 15:30:48<br>@fern-tv<br>[How Meth Is Killing Europe](https://www.youtube.com/watch?v=K4E1u3_S1p8)<br>[00:30:12] |
