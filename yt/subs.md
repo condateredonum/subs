@@ -66,6 +66,8 @@
 
 [Legal Mindset](https://www.youtube.com/@LegalMindset/videos)
 
+[Lemonade Stand](https://www.youtube.com/@LemonadeStandPodcast/videos)
+
 [Lil A Clips](https://www.youtube.com/@LilAClip/videos)
 
 [Marina McBain](https://www.youtube.com/@marinamcbain/videos)
