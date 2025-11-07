@@ -1,8 +1,12 @@
 -------------------
-# 2025-11-07 10:29:27
+# 2025-11-07 17:13:51
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/FJCpX3m1Tdk/maxresdefault.jpg) |2025-11-07 17:03:00<br>@alyssadgrenfell<br>[These Mormon Cartoons are the saddest thing ever…](https://www.youtube.com/watch?v=FJCpX3m1Tdk)<br>[01:46:46] |
+|![](https://i.ytimg.com/vi/uk1YHToPgug/maxresdefault.jpg) |2025-11-07 17:01:39<br>@jubilee<br>[Steroids or Natural? \| Test Your Radar](https://www.youtube.com/watch?v=uk1YHToPgug)<br>[00:32:48] |
+|![](https://i.ytimg.com/vi/iJ7vPT79YEM/maxresdefault.jpg) |2025-11-07 15:01:22<br>@moresus<br>[Hasan’s Fans Are Finally Turning On Him..](https://www.youtube.com/watch?v=iJ7vPT79YEM)<br>[00:36:06] |
+|![](https://i.ytimg.com/vi/NUCwIYLE9Qc/maxresdefault.jpg) |2025-11-07 12:00:58<br>@Tom_Nicholas<br>[Why You Can’t Get a Job.](https://www.youtube.com/watch?v=NUCwIYLE9Qc)<br>[00:02:59] |
 |![](https://i.ytimg.com/vi/MtF4Tc5qDLA/maxresdefault.jpg) |2025-11-07 01:46:07<br>@AtriocClips<br>[This Question Pissed Him Off](https://www.youtube.com/watch?v=MtF4Tc5qDLA)<br>[00:13:33] |
 |![](https://i.ytimg.com/vi/FjFcfmgbgyQ/maxresdefault.jpg) |2025-11-07 00:30:14<br>@LilAClip<br>[Why Are Malls Dying?](https://www.youtube.com/watch?v=FjFcfmgbgyQ)<br>[00:13:11] |
 |![](https://i.ytimg.com/vi/zyWAmq_g-AQ/maxresdefault.jpg) |2025-11-06 23:13:51<br>@oliSUNvia<br>[i asked philosophy professors to define RESPONSIBILITY](https://www.youtube.com/watch?v=zyWAmq_g-AQ)<br>[00:52:39] |
@@ -19,10 +23,8 @@
 |![](https://i.ytimg.com/vi/JhUk4BvIICc/maxresdefault.jpg) |2025-11-05 21:30:04<br>@LilAClip<br>[How a Gambling Legend Saved Houston](https://www.youtube.com/watch?v=JhUk4BvIICc)<br>[00:10:27] |
 |![](https://i.ytimg.com/vi/-xuGCZYk7nM/maxresdefault.jpg) |2025-11-05 21:27:21<br>@disparutoo<br>[All's Fair NUKED By Critics Over Girlboss Fantasy](https://www.youtube.com/watch?v=-xuGCZYk7nM)<br>[00:20:38] |
 |![](https://i.ytimg.com/vi/dLnvwmNoEik/maxresdefault.jpg) |2025-11-05 21:00:47<br>@LemonadeStandPodcast<br>[The Longest Shutdown Ever \| Lemonade Stand 🍋](https://www.youtube.com/watch?v=dLnvwmNoEik)<br>[01:40:10] |
-|![](https://i.ytimg.com/vi/U-X8w2q6YqI/maxresdefault.jpg) |2025-11-05 19:59:50<br>@BusinessInsider<br>[How enterprise data becomes an innovation accelerant](https://www.youtube.com/watch?v=U-X8w2q6YqI)<br>[00:21:25] |
 |![](https://i.ytimg.com/vi/IDKsLaVBrdY/hqdefault.jpg) |2025-11-05 18:00:29<br>@TheCriticalDrinker<br>[Crash And Burn - The Amy Schumer Story](https://www.youtube.com/watch?v=IDKsLaVBrdY)<br>[00:09:45] |
 |![](https://i.ytimg.com/vi/-30wlMaJ45c/maxresdefault.jpg) |2025-11-05 18:00:00<br>@AnaPsychology<br>[Life's an audition—here's how to get the lead role](https://www.youtube.com/watch?v=-30wlMaJ45c)<br>[00:08:37] |
-|![](https://i.ytimg.com/vi/RPBAjK5h_Ho/maxresdefault.jpg) |2025-11-05 17:00:49<br>@jubilee<br>[What No One Tells You About Teen Parenthood \| Spectrum](https://www.youtube.com/watch?v=RPBAjK5h_Ho)<br>[00:23:46] |
 |![](https://i.ytimg.com/vi/cHdnSqpNidg/maxresdefault.jpg) |2025-11-05 15:52:21<br>@CamKirkham<br>[I Can't Believe this Reality Show is Real](https://www.youtube.com/watch?v=cHdnSqpNidg)<br>[00:56:49] |
 |![](https://i.ytimg.com/vi/yTniD9_D2l8/maxresdefault.jpg) |2025-11-05 15:00:33<br>@kate.cassidy<br>[what tech bros get wrong](https://www.youtube.com/watch?v=yTniD9_D2l8)<br>[00:17:44] |
 |![](https://i.ytimg.com/vi/IMhgSbXO3PQ/maxresdefault.jpg) |2025-11-05 15:00:27<br>@moresus<br>[Hasan Actually Had A Complete Meltdown..](https://www.youtube.com/watch?v=IMhgSbXO3PQ)<br>[00:33:12] |
@@ -51,7 +53,6 @@
 |![](https://i.ytimg.com/vi/oTXLibojDX8/maxresdefault.jpg) |2025-11-02 21:01:00<br>@LilAClip<br>[How Putin Killed Chess](https://www.youtube.com/watch?v=oTXLibojDX8)<br>[00:18:40] |
 |![](https://i.ytimg.com/vi/gN2HDLkfi0A/maxresdefault.jpg) |2025-11-02 19:16:58<br>@HilaryLayne<br>[Antiheroes Are Our Only Hope](https://www.youtube.com/watch?v=gN2HDLkfi0A)<br>[00:55:43] |
 |![](https://i.ytimg.com/vi/-WM5U9xUrgY/maxresdefault.jpg) |2025-11-02 18:55:22<br>@LanaBlakely<br>[$0 luxuries that elevate your everyday life](https://www.youtube.com/watch?v=-WM5U9xUrgY)<br>[00:14:44] |
-|![](https://i.ytimg.com/vi/vIKez8MpmY0/maxresdefault.jpg) |2025-11-02 15:01:48<br>@moresus<br>[Hasan Has Completely F**king Lost It.. #158](https://www.youtube.com/watch?v=vIKez8MpmY0)<br>[00:36:15] |
 |![](https://i.ytimg.com/vi/2wnRMKtbtcw/maxresdefault.jpg) |2025-11-02 15:00:07<br>@themorbidzoo<br>[Debate and the Ritual Theory of Propaganda](https://www.youtube.com/watch?v=2wnRMKtbtcw)<br>[00:40:49] |
 |![](https://i.ytimg.com/vi/-VSvaiXeNI8/maxresdefault.jpg) |2025-11-02 13:00:00<br>@VanessaWing%C3%A5rdh<br>[Billionaires Owning Everything Just Got Worse…](https://www.youtube.com/watch?v=-VSvaiXeNI8)<br>[00:13:04] |
 |![](https://i.ytimg.com/vi/tAXKxKTGWFQ/maxresdefault.jpg) |2025-11-02 10:26:31<br>@HowMoneyWorks<br>[If Not Bubble... Why Bubble Shaped?](https://www.youtube.com/watch?v=tAXKxKTGWFQ)<br>[00:11:05] |
@@ -89,7 +90,6 @@
 |![](https://i.ytimg.com/vi/d7HMbnmzh-U/maxresdefault.jpg) |2025-10-29 16:01:18<br>@AnaPsychology<br>[Quizzing my husband on niche psychology terms (HIGH difficulty questions)](https://www.youtube.com/watch?v=d7HMbnmzh-U)<br>[00:15:58] |
 |![](https://i.ytimg.com/vi/8Ku3id94UW4/maxresdefault.jpg) |2025-10-29 16:00:09<br>@gremlita<br>[The Crazy History of the Hair Loss Industry](https://www.youtube.com/watch?v=8Ku3id94UW4)<br>[00:41:24] |
 |![](https://i.ytimg.com/vi/-wB408TptdA/maxresdefault.jpg) |2025-10-29 15:46:32<br>@theantibot<br>[The "Jesus is My Husband" Christians of TikTok](https://www.youtube.com/watch?v=-wB408TptdA)<br>[00:58:27] |
-|![](https://i.ytimg.com/vi/TNF9DCi0wBs/maxresdefault.jpg) |2025-10-29 12:01:17<br>@Tom_Nicholas<br>[The “RPG-ification” of Politics](https://www.youtube.com/watch?v=TNF9DCi0wBs)<br>[00:02:20] |
 |![](https://i.ytimg.com/vi/2M8yN0geqmk/maxresdefault.jpg) |2025-10-28 22:30:00<br>@H3PodcastHighlights<br>[Ludwig Responds To Backlash For Confronting Hasan](https://www.youtube.com/watch?v=2M8yN0geqmk)<br>[00:13:06] |
 |![](https://i.ytimg.com/vi/FgFagquz3yI/maxresdefault.jpg) |2025-10-28 21:00:19<br>@H3PodcastHighlights<br>[The QTCinderella & Vanillamace Situation Is INSANE](https://www.youtube.com/watch?v=FgFagquz3yI)<br>[00:27:49] |
 |![](https://i.ytimg.com/vi/zy9dC3Doh78/maxresdefault.jpg) |2025-10-28 20:56:04<br>@urmomashley<br>[i went to JAPAN for my MATCHA BUSINESS! 🍵 matcha research, cafes & farms](https://www.youtube.com/watch?v=zy9dC3Doh78)<br>[00:18:56] |
@@ -130,7 +130,7 @@
 |![](https://i.ytimg.com/vi/Rc0kNnYgImg/maxresdefault.jpg) |2025-10-19 13:01:00<br>@VanessaWing%C3%A5rdh<br>[Tech Billionaires Know the AI Bubble Will Burst (They're Already Building Bunkers)](https://www.youtube.com/watch?v=Rc0kNnYgImg)<br>[00:14:35] |
 |![](https://i.ytimg.com/vi/h35LdhZgG1w/maxresdefault.jpg) |2025-10-18 20:30:17<br>@notevenemily<br>[Why Don’t People Want Kids Anymore?](https://www.youtube.com/watch?v=h35LdhZgG1w)<br>[00:54:05] |
 |![](https://i.ytimg.com/vi/YsJGK-c32U8/maxresdefault.jpg) |2025-10-18 15:11:44<br>@GirlGoneLondonofficial<br>[how celebrity worship culture is RUINING America (and why the UK is better)](https://www.youtube.com/watch?v=YsJGK-c32U8)<br>[00:11:41] |
-|![](https://i.ytimg.com/vi/pt309onrQNE/maxresdefault.jpg) |2025-10-18 15:11:11<br>@fern-tv<br>[The Battle for Fox](https://www.youtube.com/watch?v=pt309onrQNE)<br>[00:56:29] |
+|![](https://i.ytimg.com/vi/pt309onrQNE/maxresdefault.jpg) |2025-10-18 15:11:11<br>@fern-tv<br>[The Family That Broke News](https://www.youtube.com/watch?v=pt309onrQNE)<br>[00:56:29] |
 |![](https://i.ytimg.com/vi/bfUOPDOLHvE/maxresdefault.jpg) |2025-10-18 12:15:07<br>@PBoyle<br>[Private Equity’s Quiet Crisis!](https://www.youtube.com/watch?v=bfUOPDOLHvE)<br>[00:25:17] |
 |![](https://i.ytimg.com/vi/BVOKaUavy20/maxresdefault.jpg) |2025-10-18 03:48:27<br>@atrioc<br>[Crypto Shark Tank Is Back. It's So Much More Insane.](https://www.youtube.com/watch?v=BVOKaUavy20)<br>[00:36:45] |
 |![](https://i.ytimg.com/vi/eBduZ6b61Uk/maxresdefault.jpg) |2025-10-17 17:01:15<br>@PodcastCringe<br>[The Stand Up Comedy Situation Is Crazy](https://www.youtube.com/watch?v=eBduZ6b61Uk)<br>[00:26:35] |
@@ -264,3 +264,4 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
+-----------------
