@@ -5,6 +5,7 @@ from utils import (
     convert_timestamp,
     thumbnail_parser,
     duration_to_seconds,
+    url_to_html,
     api_get_playlist_items,
     api_get_video_duration,
     save_to_md
@@ -40,6 +41,7 @@ def get_latest_videos(channel_data):
                 snippet = playlist_video['snippet']
                 video_thumbnail = thumbnail_parser(snippet)
 
+                username = url_to_html(username)
                 video_upload_date = snippet['publishedAt']
                 video_upload_date = convert_timestamp(video_upload_date)
                 video_title = snippet['title'].replace('|', r'\|')
