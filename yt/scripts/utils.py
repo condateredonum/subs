@@ -63,6 +63,18 @@ def convert_to_hhmmss(iso_duration):
 
     return video_duration
 
+def url_to_html(string):
+    replacements = {'%C3%A5':'&aring;'}
+
+    decoded_string = urllib.parse.unquote(string)
+    
+    # Replace the specified URL-encoded characters with HTML entities
+    for url_encoded, html_entity in replacements.items():
+        decoded_string = decoded_string.replace(url_encoded, html_entity)
+    
+    return decoded_string    
+
+
 def api_get_video_duration(video_id):
     """Get the video duration from the unique video ID."""
     # https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails&id=0pUlHrVNZqA&key=
