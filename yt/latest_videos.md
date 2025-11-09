@@ -1,8 +1,11 @@
 -------------------
-# 2025-11-09 17:12:30
+# 2025-11-09 19:37:46
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/tsunvwjC-Ow/maxresdefault.jpg) |2025-11-09 19:30:49<br>@H3PodcastHighlights<br>[Ian & Anisa Are Being Cancelled & The Reason Is Hilarious...](https://www.youtube.com/watch?v=tsunvwjC-Ow)<br>[00:13:57] |
+|![](https://i.ytimg.com/vi/v_LbO6h6VkY/maxresdefault.jpg) |2025-11-09 17:15:10<br>@jubilee<br>[Debating Zohran Mamdani on #roundtable #zohranmamdani #newyork #politics](https://www.youtube.com/watch?v=v_LbO6h6VkY)<br>[00:02:07] |
+|![](https://i.ytimg.com/vi/uYviZdcrVXs/maxresdefault.jpg) |2025-11-09 17:01:32<br>@Channel4Documentaries<br>[The Rise Of Slap Fighting: UK's Most Dangerous Contact Sport? \| Slap Fighting: Uncovered \| C4 Docs](https://www.youtube.com/watch?v=uYviZdcrVXs)<br>[00:19:50] |
 |![](https://i.ytimg.com/vi/TJZPK4wujio/maxresdefault.jpg) |2025-11-09 17:00:43<br>@jubilee<br>[Liberals vs MAGA: The Debate Over America’s Future \| Roundtable](https://www.youtube.com/watch?v=TJZPK4wujio)<br>[01:14:46] |
 |![](https://i.ytimg.com/vi/cd1RcSZJxAo/maxresdefault.jpg) |2025-11-09 16:54:51<br>@LanaBlakely<br>[Curing your 'I need a fresh start' and 'new era' obsession in 7 mins](https://www.youtube.com/watch?v=cd1RcSZJxAo)<br>[00:07:20] |
 |![](https://i.ytimg.com/vi/V_ETvOn9s1s/maxresdefault.jpg) |2025-11-09 15:43:58<br>@GirlGoneLondonofficial<br>[British taxes make WAY more sense than American taxes. here's how.](https://www.youtube.com/watch?v=V_ETvOn9s1s)<br>[00:10:32] |
@@ -30,7 +33,6 @@
 |![](https://i.ytimg.com/vi/1xclzuq1dNM/sddefault.jpg) |2025-11-07 19:00:02<br>@TheCriticalDrinker<br>[Predator: Badlands - Disney Consumes Another Franchise](https://www.youtube.com/watch?v=1xclzuq1dNM)<br>[00:08:20] |
 |![](https://i.ytimg.com/vi/LgOQgNl6Ha4/maxresdefault.jpg) |2025-11-07 18:19:18<br>@gremlita<br>[How important is pretty privilege for you?](https://www.youtube.com/watch?v=LgOQgNl6Ha4)<br>[00:02:03] |
 |![](https://i.ytimg.com/vi/FJCpX3m1Tdk/maxresdefault.jpg) |2025-11-07 17:03:00<br>@alyssadgrenfell<br>[These Mormon Cartoons are the saddest thing ever…](https://www.youtube.com/watch?v=FJCpX3m1Tdk)<br>[01:46:46] |
-|![](https://i.ytimg.com/vi/uk1YHToPgug/maxresdefault.jpg) |2025-11-07 17:01:39<br>@jubilee<br>[Who's On Steroids? \| Test Your Radar](https://www.youtube.com/watch?v=uk1YHToPgug)<br>[00:32:48] |
 |![](https://i.ytimg.com/vi/iJ7vPT79YEM/maxresdefault.jpg) |2025-11-07 15:01:22<br>@moresus<br>[Hasan’s Fans Are Finally Turning On Him.. #163](https://www.youtube.com/watch?v=iJ7vPT79YEM)<br>[00:36:06] |
 |![](https://i.ytimg.com/vi/NUCwIYLE9Qc/maxresdefault.jpg) |2025-11-07 12:00:58<br>@Tom_Nicholas<br>[Why You Can’t Get a Job.](https://www.youtube.com/watch?v=NUCwIYLE9Qc)<br>[00:02:59] |
 |![](https://i.ytimg.com/vi/MtF4Tc5qDLA/maxresdefault.jpg) |2025-11-07 01:46:07<br>@AtriocClips<br>[This Question Pissed Him Off](https://www.youtube.com/watch?v=MtF4Tc5qDLA)<br>[00:13:33] |
@@ -103,7 +105,6 @@
 |![](https://i.ytimg.com/vi/8Ku3id94UW4/maxresdefault.jpg) |2025-10-29 16:00:09<br>@gremlita<br>[The Crazy History of the Hair Loss Industry](https://www.youtube.com/watch?v=8Ku3id94UW4)<br>[00:41:24] |
 |![](https://i.ytimg.com/vi/-wB408TptdA/maxresdefault.jpg) |2025-10-29 15:46:32<br>@theantibot<br>[The "Jesus is My Husband" Christians of TikTok](https://www.youtube.com/watch?v=-wB408TptdA)<br>[00:58:27] |
 |![](https://i.ytimg.com/vi/2M8yN0geqmk/maxresdefault.jpg) |2025-10-28 22:30:00<br>@H3PodcastHighlights<br>[Ludwig Responds To Backlash For Confronting Hasan](https://www.youtube.com/watch?v=2M8yN0geqmk)<br>[00:13:06] |
-|![](https://i.ytimg.com/vi/FgFagquz3yI/maxresdefault.jpg) |2025-10-28 21:00:19<br>@H3PodcastHighlights<br>[The QTCinderella & Vanillamace Situation Is INSANE](https://www.youtube.com/watch?v=FgFagquz3yI)<br>[00:27:49] |
 |![](https://i.ytimg.com/vi/zy9dC3Doh78/maxresdefault.jpg) |2025-10-28 20:56:04<br>@urmomashley<br>[i went to JAPAN for my MATCHA BUSINESS! 🍵 matcha research, cafes & farms](https://www.youtube.com/watch?v=zy9dC3Doh78)<br>[00:18:56] |
 |![](https://i.ytimg.com/vi/Dc7dEvtREUM/maxresdefault.jpg) |2025-10-28 20:01:43<br>@1420channel<br>[Can Russians Understand Basic English?](https://www.youtube.com/watch?v=Dc7dEvtREUM)<br>[00:07:59] |
 |![](https://i.ytimg.com/vi/XNiu5CPFvCs/maxresdefault.jpg) |2025-10-27 18:00:11<br>@leenanorms<br>[recommending books to dead people](https://www.youtube.com/watch?v=XNiu5CPFvCs)<br>[00:18:42] |
