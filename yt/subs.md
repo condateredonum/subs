@@ -12,6 +12,8 @@
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
 
+[Atheist Republic](https://www.youtube.com/@AtheistRepublic/videos)
+
 [Atrioc](https://www.youtube.com/@atrioc/videos)
 
 [Big A](https://www.youtube.com/@AtriocClips/videos)
@@ -47,6 +49,8 @@
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
 
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
+
+[Israel Advocacy Movement](https://www.youtube.com/@Israel_Advocacy/videos)
 
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
 
@@ -132,4 +136,4 @@
 
 [Vanessa Wingårdh](https://www.youtube.com/@VanessaWing%C3%A5rdh)
 
-
+[Yishai Fleisher](https://www.youtube.com/@YishaiFleisherTV/videos)
