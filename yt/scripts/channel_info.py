@@ -79,19 +79,23 @@ def main(md_file_path, output_file):
     channel_ids = []
 
     for username in usernames:
-        channel_id, uploads_playlist_id = existing_dict.get(username, (None, None))  # Check if we already have the ID and playlist ID
-
-        # Fetch info if either channel_id or uploads_playlist_id is missing
-        if not channel_id or not uploads_playlist_id:
-            channel_id, uploads_playlist_id = fetch_channel_info(username)
-
-        # Prepare the updated channel entry
-        channel_entry = {
-            'username': username,
-            'channel_id': channel_id,
-            'uploads_playlist_id': uploads_playlist_id
-        }
-        channel_ids.append(channel_entry)
+        try:
+            channel_id, uploads_playlist_id = existing_dict.get(username, (None, None))
+            
+            # Fetch info if either channel_id or uploads_playlist_id is missing
+            if not channel_id or not uploads_playlist_id:
+                channel_id, uploads_playlist_id = fetch_channel_info(username)
+            
+            # Prepare the updated channel entry
+            channel_entry = {
+                'username': username,
+                'channel_id': channel_id,
+                'uploads_playlist_id': uploads_playlist_id
+            }
+            channel_ids.append(channel_entry)  
+        except Exception as e: 
+            print(f'Failed to retrieve {username}: {e}')
+            continue
 
     # Remove existing entries for the usernames being updated
     existing_data = [entry for entry in existing_data if entry['username'] not in usernames]
