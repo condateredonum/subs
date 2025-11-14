@@ -96,7 +96,7 @@
 
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
 
-[Nectar](https://www.youtube.com/@ lovecommanectar/videos)
+[Nectar](https://www.youtube.com/@@lovecommanectar/videos)
 
 [Not Even Emily](https://www.youtube.com/@notevenemily/videos)
 
