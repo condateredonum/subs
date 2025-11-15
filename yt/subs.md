@@ -8,6 +8,8 @@
 
 [Alyssa Grenfell](https://www.youtube.com/@alyssadgrenfell/videos) 
 
+[American Redact](https://www.youtube.com/@americanredact/videos)
+
 [Antibot](https://www.youtube.com/@theantibot/videos) 
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
