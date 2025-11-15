@@ -76,6 +76,8 @@
 
 [Lil A Clips](https://www.youtube.com/@LilAClip/videos)
 
+[Lou Extras](https://www.youtube.com/@LouExtras/videos)
+
 [Lucy Moon](https://www.youtube.com/@lucymoon/videos)
 
 [Marina McBain](https://www.youtube.com/@marinamcbain/videos)
