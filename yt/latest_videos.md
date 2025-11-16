@@ -1,5 +1,5 @@
 -------------------
-# 2025-11-16 15:38:33
+# 2025-11-16 16:42:58
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -18,12 +18,10 @@
 |![](https://i.ytimg.com/vi/UA5Sm1f78cI/maxresdefault.jpg) |2025-11-15 19:00:27<br>@urmomashley<br>[birthday SELF-CARE day in NYC \| hair, shopping, pilates, reset](https://www.youtube.com/watch?v=UA5Sm1f78cI)<br>[00:21:14] |
 |![](https://i.ytimg.com/vi/1nMCrlMsA0A/maxresdefault.jpg) |2025-11-15 17:43:42<br>@theantibot<br>[The OF Model to Christian Influencer Pipeline \| Nala Ray](https://www.youtube.com/watch?v=1nMCrlMsA0A)<br>[01:04:26] |
 |![](https://i.ytimg.com/vi/jX68JfE5pAQ/maxresdefault.jpg) |2025-11-15 17:30:11<br>@jubilee<br>[Shaun Weiss's harrowing journey through Hollywood and beyond on #spectrum #actor #fame #hollywood](https://www.youtube.com/watch?v=jX68JfE5pAQ)<br>[00:02:05] |
-|![](https://i.ytimg.com/vi/bmMOPp1icVM/maxresdefault.jpg) |2025-11-15 17:01:03<br>@lovecommanectar<br>[12 drunk singles confront their crushes \| episode 3 \| nectarhouse s2](https://www.youtube.com/watch?v=bmMOPp1icVM)<br>[01:03:37] |
 |![](https://i.ytimg.com/vi/tiUsXpbuPTU/maxresdefault.jpg) |2025-11-15 15:01:50<br>@moresus<br>[They Actually Got F**king Embarrassed.. #171](https://www.youtube.com/watch?v=tiUsXpbuPTU)<br>[00:36:07] |
 |![](https://i.ytimg.com/vi/kUZnbhvBI04/maxresdefault.jpg) |2025-11-15 14:18:32<br>@GirlGoneLondonofficial<br>[7 Ways British and American DRINKING Culture is Very Different](https://www.youtube.com/watch?v=kUZnbhvBI04)<br>[00:11:55] |
 |![](https://i.ytimg.com/vi/kMK78kboyp8/maxresdefault.jpg) |2025-11-15 14:01:25<br>@BusinessInsider<br>[Why Air Traffic Controllers Have One Of The Hardest Jobs In The World](https://www.youtube.com/watch?v=kMK78kboyp8)<br>[00:11:22] |
 |![](https://i.ytimg.com/vi/g79m5vpoxUI/maxresdefault.jpg) |2025-11-15 04:29:11<br>@AtriocClips<br>[The Debt Trap](https://www.youtube.com/watch?v=g79m5vpoxUI)<br>[00:11:57] |
-|![](https://i.ytimg.com/vi/kYQZCRBjo0w/maxresdefault.jpg) |2025-11-15 04:00:04<br>@AtheistRepublic<br>[Iran: Man Shot Dead After Pro-Pahlavi Video](https://www.youtube.com/watch?v=kYQZCRBjo0w)<br>[00:02:07] |
 |![](https://i.ytimg.com/vi/k3vDPzoUsic/maxresdefault.jpg) |2025-11-15 01:00:07<br>@LegalMindset<br>[Hasan Legally Can't China (Fast Facts)](https://www.youtube.com/watch?v=k3vDPzoUsic)<br>[00:12:22] |
 |![](https://i.ytimg.com/vi/wqIu-FQok4k/maxresdefault.jpg) |2025-11-14 23:01:27<br>@jubilee<br>[They Were Child Stars Here’s What Happened Next \| Spectrum](https://www.youtube.com/watch?v=wqIu-FQok4k)<br>[00:31:00] |
 |![](https://i.ytimg.com/vi/Q8FcRbLCwEk/maxresdefault.jpg) |2025-11-14 22:15:07<br>@PBoyle<br>[Trump’s 50-Year Mortgage Plan: What You MUST Know!](https://www.youtube.com/watch?v=Q8FcRbLCwEk)<br>[00:21:38] |
@@ -291,6 +289,9 @@
 |![](https://i.ytimg.com/vi/qCZzxS3eUqg/maxresdefault.jpg) |2023-02-28 02:51:36<br>@pyrrhichos<br>[I stepped on a sea urchin in Croatia](https://www.youtube.com/watch?v=qCZzxS3eUqg)<br>[00:16:59] |
 |![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
+|![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+-------------------
+:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
