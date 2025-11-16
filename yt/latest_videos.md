@@ -1,8 +1,11 @@
 -------------------
-# 2025-11-16 16:42:58
+# 2025-11-16 17:13:01
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/YfT4MrmWq_8/maxresdefault.jpg) |2025-11-16 17:10:00<br>@jubilee<br>["I'm not arguing for immortality, I'm arguing for don't die." Bryan Johnson debates his skeptics](https://www.youtube.com/watch?v=YfT4MrmWq_8)<br>[00:02:03] |
+|![](https://i.ytimg.com/vi/sPCZhLCkJaY/maxresdefault.jpg) |2025-11-16 17:01:32<br>@jubilee<br>[Bryan Johnson vs 20 Skeptics \| Surrounded](https://www.youtube.com/watch?v=sPCZhLCkJaY)<br>[01:33:27] |
+|![](https://i.ytimg.com/vi/RI4A2AsrY8M/maxresdefault.jpg) |2025-11-16 17:00:41<br>@LilAClip<br>[Why Young People are Fleeing New Zealand](https://www.youtube.com/watch?v=RI4A2AsrY8M)<br>[00:17:49] |
 |![](https://i.ytimg.com/vi/VeHTTrg44Hs/maxresdefault.jpg) |2025-11-16 15:15:06<br>@moresus<br>[Hasan’s Own Fans Are F**king Destroying Him..](https://www.youtube.com/watch?v=VeHTTrg44Hs)<br>[00:32:11] |
 |![](https://i.ytimg.com/vi/J7a_xVWmpIg/maxresdefault.jpg) |2025-11-16 13:00:38<br>@VanessaWingårdh<br>[This Tech Billionaire Just Destroyed Your Financial Protections](https://www.youtube.com/watch?v=J7a_xVWmpIg)<br>[00:13:11] |
 |![](https://i.ytimg.com/vi/6DXZMXZCY0I/maxresdefault.jpg) |2025-11-16 12:33:38<br>@HowMoneyWorks<br>[If We Tax Rich People... They Will Just Leave!](https://www.youtube.com/watch?v=6DXZMXZCY0I)<br>[00:13:32] |
@@ -23,7 +26,6 @@
 |![](https://i.ytimg.com/vi/kMK78kboyp8/maxresdefault.jpg) |2025-11-15 14:01:25<br>@BusinessInsider<br>[Why Air Traffic Controllers Have One Of The Hardest Jobs In The World](https://www.youtube.com/watch?v=kMK78kboyp8)<br>[00:11:22] |
 |![](https://i.ytimg.com/vi/g79m5vpoxUI/maxresdefault.jpg) |2025-11-15 04:29:11<br>@AtriocClips<br>[The Debt Trap](https://www.youtube.com/watch?v=g79m5vpoxUI)<br>[00:11:57] |
 |![](https://i.ytimg.com/vi/k3vDPzoUsic/maxresdefault.jpg) |2025-11-15 01:00:07<br>@LegalMindset<br>[Hasan Legally Can't China (Fast Facts)](https://www.youtube.com/watch?v=k3vDPzoUsic)<br>[00:12:22] |
-|![](https://i.ytimg.com/vi/wqIu-FQok4k/maxresdefault.jpg) |2025-11-14 23:01:27<br>@jubilee<br>[They Were Child Stars Here’s What Happened Next \| Spectrum](https://www.youtube.com/watch?v=wqIu-FQok4k)<br>[00:31:00] |
 |![](https://i.ytimg.com/vi/Q8FcRbLCwEk/maxresdefault.jpg) |2025-11-14 22:15:07<br>@PBoyle<br>[Trump’s 50-Year Mortgage Plan: What You MUST Know!](https://www.youtube.com/watch?v=Q8FcRbLCwEk)<br>[00:21:38] |
 |![](https://i.ytimg.com/vi/KSfs6EAuRDQ/maxresdefault.jpg) |2025-11-14 18:08:33<br>@Tom_Nicholas<br>[Donald Trump’s Attack on the BBC](https://www.youtube.com/watch?v=KSfs6EAuRDQ)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/MggZ_tBf9MM/sddefault.jpg) |2025-11-14 18:00:34<br>@TheCriticalDrinker<br>[The Running Man - Can't Outrun This Disaster](https://www.youtube.com/watch?v=MggZ_tBf9MM)<br>[00:08:57] |
@@ -80,7 +82,6 @@
 |![](https://i.ytimg.com/vi/k8WfS1C0bg0/maxresdefault.jpg) |2025-11-10 16:14:07<br>@AshleyEmbers<br>[We’ve sold our souls for 2-day shipping](https://www.youtube.com/watch?v=k8WfS1C0bg0)<br>[00:36:28] |
 |![](https://i.ytimg.com/vi/jU5D7coSa6E/maxresdefault.jpg) |2025-11-10 14:25:39<br>@IzzySealey<br>[How to Transform Your Life Before 2026 (using science)](https://www.youtube.com/watch?v=jU5D7coSa6E)<br>[00:12:15] |
 |![](https://i.ytimg.com/vi/4pc34l91or8/maxresdefault.jpg) |2025-11-10 14:00:07<br>@susannahfriesenofficial<br>[BookTok Is Changing… and Perhaps Not for the Best](https://www.youtube.com/watch?v=4pc34l91or8)<br>[00:33:57] |
-|![](https://i.ytimg.com/vi/PX25NyP3xbE/maxresdefault.jpg) |2025-11-09 23:15:03<br>@LilAClip<br>[The Scandal that Broke the 70s](https://www.youtube.com/watch?v=PX25NyP3xbE)<br>[00:28:41] |
 |![](https://i.ytimg.com/vi/uYviZdcrVXs/maxresdefault.jpg) |2025-11-09 17:01:32<br>@Channel4Documentaries<br>[Inside Britain's Rising Slap Fighting Scene \| Slap Fighting: Uncovered \| Channel 4 Documentaries](https://www.youtube.com/watch?v=uYviZdcrVXs)<br>[00:19:50] |
 |![](https://i.ytimg.com/vi/cd1RcSZJxAo/maxresdefault.jpg) |2025-11-09 16:54:51<br>@LanaBlakely<br>[Curing your 'I need a fresh start' and 'new era' obsession in 7 mins](https://www.youtube.com/watch?v=cd1RcSZJxAo)<br>[00:07:20] |
 |![](https://i.ytimg.com/vi/V_ETvOn9s1s/maxresdefault.jpg) |2025-11-09 15:43:58<br>@GirlGoneLondonofficial<br>[British taxes make WAY more sense than American taxes. here's how.](https://www.youtube.com/watch?v=V_ETvOn9s1s)<br>[00:10:32] |
@@ -291,8 +292,7 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
-:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
-|![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+1 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
