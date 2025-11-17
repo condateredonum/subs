@@ -60,6 +60,8 @@
 
 [Jimmy the Giant](https://www.youtube.com/@JimmyTheGiant/videos)
 
+[Jordan Kang](https://www.youtube.com/@jordankang/videos)
+
 [Jubilee](https://www.youtube.com/@jubilee/videos)
 
 [JREG](https://www.youtube.com/@JREG/videos)
