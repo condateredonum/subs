@@ -1,5 +1,15 @@
 [
     {
+        "username": "@thoughtbug",
+        "channel_id": "UC_156pm443sCMBd6BZvRpnA",
+        "uploads_playlist_id": "UU_156pm443sCMBd6BZvRpnA"
+    },
+    {
+        "username": "@KianaDocherty",
+        "channel_id": "UCNGkAYEhcVdlwJITJSnB73A",
+        "uploads_playlist_id": "UUNGkAYEhcVdlwJITJSnB73A"
+    },
+    {
         "username": "@1420channel",
         "channel_id": "UCl4R4M9YVfYjjPmILU2Ie1A",
         "uploads_playlist_id": "UUl4R4M9YVfYjjPmILU2Ie1A"
@@ -163,11 +173,6 @@
         "username": "@kate.cassidy",
         "channel_id": "UCAJCDTBxmvPbNAIhQULVr6g",
         "uploads_playlist_id": "UUAJCDTBxmvPbNAIhQULVr6g"
-    },
-    {
-        "username": "@KianaDocherty",
-        "channel_id": "UCNGkAYEhcVdlwJITJSnB73A",
-        "uploads_playlist_id": "UUNGkAYEhcVdlwJITJSnB73A"
     },
     {
         "username": "@Kraut_the_Parrot",
