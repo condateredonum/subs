@@ -1,13 +1,5 @@
 # yt
 
-[thought bug](https://www.youtube.com/@thoughtbug/videos)
-
-[Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
-
-moocake
-
-oompaville
-
 paper will
 
 ---
@@ -80,6 +72,8 @@ paper will
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
 
+[Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
+
 [Kraut](https://www.youtube.com/@Kraut_the_Parrot/videos)
 
 [Lana Blakely](https://www.youtube.com/@LanaBlakely/videos)
@@ -108,6 +102,8 @@ paper will
 
 [Money & Macro](https://www.youtube.com/@MoneyMacro/videos)
 
+[Moocake](https://www.youtube.com/@Moocake/videos)
+
 [Morbid Zoo](https://www.youtube.com/@themorbidzoo/videos)
 
 [More Pegasus](https://www.youtube.com/@moresus/videos)
@@ -121,6 +117,8 @@ paper will
 [Not So Erudite](https://www.youtube.com/@notsoErudite/videos)
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
+
+[Oompaville](https://www.youtube.com/@oompaville/videos)
 
 [Patrick Boyle](https://www.youtube.com/@PBoyle/videos)
 
@@ -147,6 +145,8 @@ paper will
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
 
 [Sydney Watson](https://www.youtube.com/@SydneyWatson/videos)
+
+[thought bug](https://www.youtube.com/@thought_bug/videos)
 
 [Tiffany Ferg](https://www.youtube.com/@tiffanyferg/videos)
 
