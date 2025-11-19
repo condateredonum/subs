@@ -1,5 +1,5 @@
 -------------------
-# 2025-11-19 19:05:42
+# 2025-11-19 19:15:10
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -237,6 +237,7 @@
 |![](https://i.ytimg.com/vi/GPD4AGN1NNQ/maxresdefault.jpg) |2025-09-30 17:00:33<br>@jordankang<br>[Netflix Rom Coms Are Getting Worse](https://www.youtube.com/watch?v=GPD4AGN1NNQ)<br>[00:20:29] |
 |![](https://i.ytimg.com/vi/v1RxLl1HQGc/maxresdefault.jpg) |2025-09-30 16:51:16<br>@theantibot<br>[Evangelicals are COPING HARD After Failed Rapture Prediction](https://www.youtube.com/watch?v=v1RxLl1HQGc)<br>[01:05:13] |
 |![](https://i.ytimg.com/vi/iiHrvlce7bg/maxresdefault.jpg) |2025-09-30 16:00:08<br>@StateofKait<br>[The End of Mainstream](https://www.youtube.com/watch?v=iiHrvlce7bg)<br>[00:16:17] |
+|![](https://i.ytimg.com/vi/b6b_uVA1ZSo/maxresdefault.jpg) |2025-09-30 10:28:31<br>@kaptainkristian<br>[an eccentric \| a mad-man \| a nobody](https://www.youtube.com/watch?v=b6b_uVA1ZSo)<br>[00:06:13] |
 |![](https://i.ytimg.com/vi/Lk3p-BmxNlg/maxresdefault.jpg) |2025-09-30 03:27:03<br>@atrioc<br>[They let us into a Speedrunning event... it was a disaster](https://www.youtube.com/watch?v=Lk3p-BmxNlg)<br>[00:19:59] |
 |![](https://i.ytimg.com/vi/Bp4i3kBqAWo/maxresdefault.jpg) |2025-09-28 18:30:03<br>@AbbieRee<br>[Every SINGLE The Vampire Diaries Cast Controversy EXPLAINED…](https://www.youtube.com/watch?v=Bp4i3kBqAWo)<br>[00:20:52] |
 |![](https://i.ytimg.com/vi/CGDU1ASnnFs/maxresdefault.jpg) |2025-09-28 17:45:01<br>@LanaBlakely<br>[the secret to staying beautiful & young forever (it’s not what you think)](https://www.youtube.com/watch?v=CGDU1ASnnFs)<br>[00:11:02] |
@@ -271,6 +272,7 @@
 |![](https://i.ytimg.com/vi/NTwJxM9J3aQ/maxresdefault.jpg) |2025-08-10 15:30:02<br>@sierraroselyn<br>[10 BEST TIPS to control hunger (and finally lose weight)](https://www.youtube.com/watch?v=NTwJxM9J3aQ)<br>[00:12:40] |
 |![](https://i.ytimg.com/vi/U_lmU1TVdOg/maxresdefault.jpg) |2025-08-08 18:00:06<br>@Moocake<br>[Digesting The Liver King](https://www.youtube.com/watch?v=U_lmU1TVdOg)<br>[00:55:53] |
 |![](https://i.ytimg.com/vi/ffvRhsViyIQ/maxresdefault.jpg) |2025-08-03 17:28:24<br>@HilaryLayne<br>[The Absolute Degeneracy of Modern Writing](https://www.youtube.com/watch?v=ffvRhsViyIQ)<br>[00:37:45] |
+|![](https://i.ytimg.com/vi/01BrRGEzPaQ/maxresdefault.jpg) |2025-07-31 11:46:36<br>@kaptainkristian<br>[When Tarantino Learned To Shut Up](https://www.youtube.com/watch?v=01BrRGEzPaQ)<br>[00:10:38] |
 |![](https://i.ytimg.com/vi/xTiBF2Hq40I/maxresdefault.jpg) |2025-07-30 15:39:44<br>@_jared<br>[Everyone is Cheating (Even the Professors)](https://www.youtube.com/watch?v=xTiBF2Hq40I)<br>[00:19:28] |
 |![](https://i.ytimg.com/vi/vhK1mnOqJKs/maxresdefault.jpg) |2025-07-29 18:02:12<br>@Galatea-and-Acis<br>[Shallow Influencers are Ruining Your Relationships: demonising men is not the answer](https://www.youtube.com/watch?v=vhK1mnOqJKs)<br>[01:51:55] |
 |![](https://i.ytimg.com/vi/RBBilH65opA/maxresdefault.jpg) |2025-07-29 13:50:09<br>@ericamallett<br>[This hidden psychology will make people obsessed with you](https://www.youtube.com/watch?v=RBBilH65opA)<br>[00:07:20] |
@@ -286,6 +288,7 @@
 |![](https://i.ytimg.com/vi/XPk-efest5M/maxresdefault.jpg) |2025-07-11 12:19:27<br>@Kraut_the_Parrot<br>[The Difference between Cultures and Institutions](https://www.youtube.com/watch?v=XPk-efest5M)<br>[00:46:59] |
 |![](https://i.ytimg.com/vi/-4s23sNq6mM/maxresdefault.jpg) |2025-07-05 22:19:16<br>@HilaryLayne<br>[Modern Heroes are Weak and Boring](https://www.youtube.com/watch?v=-4s23sNq6mM)<br>[00:41:57] |
 |![](https://i.ytimg.com/vi/ocC58Od-fWY/maxresdefault.jpg) |2025-07-05 19:32:59<br>@Moocake<br>[Why You Should Despise Tinder](https://www.youtube.com/watch?v=ocC58Od-fWY)<br>[00:32:03] |
+|![](https://i.ytimg.com/vi/4O9RY2n-ckg/maxresdefault.jpg) |2025-07-01 12:00:17<br>@kaptainkristian<br>[100 Years of History in 100 Films](https://www.youtube.com/watch?v=4O9RY2n-ckg)<br>[00:13:01] |
 |![](https://i.ytimg.com/vi/S2OjueAZGFo/maxresdefault.jpg) |2025-06-23 19:02:31<br>@oliSUNvia<br>["where are the neurotypicals?": neurodivergence & the cultural assimilation of psychiatry](https://www.youtube.com/watch?v=S2OjueAZGFo)<br>[00:34:12] |
 |![](https://i.ytimg.com/vi/YKQ6DsEj5y4/maxresdefault.jpg) |2025-06-21 16:00:06<br>@themorbidzoo<br>[The Philosophy of Final Destination](https://www.youtube.com/watch?v=YKQ6DsEj5y4)<br>[01:22:21] |
 |![](https://i.ytimg.com/vi/Ot_SJrF7YrM/maxresdefault.jpg) |2025-06-08 12:54:08<br>@ericamallett<br>[The secret strategy that built the cult of Huberman](https://www.youtube.com/watch?v=Ot_SJrF7YrM)<br>[00:07:03] |
@@ -300,8 +303,10 @@
 |![](https://i.ytimg.com/vi/qgBU3ch6T1s/maxresdefault.jpg) |2025-03-15 19:14:21<br>@oliSUNvia<br>[why grief is good for us: finding value in harsh loss](https://www.youtube.com/watch?v=qgBU3ch6T1s)<br>[00:20:48] |
 |![](https://i.ytimg.com/vi/_v3KiaAjpY8/maxresdefault.jpg) |2025-03-08 18:00:27<br>@TheElephantGraveyardMusic<br>[How Comedy Became a Dystopian Imperial Hell World](https://www.youtube.com/watch?v=_v3KiaAjpY8)<br>[00:46:08] |
 |![](https://i.ytimg.com/vi/U6LKw9by6X8/maxresdefault.jpg) |2025-02-25 19:30:04<br>@thought_bug<br>[yung filly allegations: why are so many youtubers violent against women?](https://www.youtube.com/watch?v=U6LKw9by6X8)<br>[00:25:43] |
+|![](https://i.ytimg.com/vi/2qZjAnUqZBM/maxresdefault.jpg) |2025-01-20 16:02:37<br>@kaptainkristian<br>[Tolkien's Secret Ingredient To Worldbuilding](https://www.youtube.com/watch?v=2qZjAnUqZBM)<br>[00:10:01] |
 |![](https://i.ytimg.com/vi/C1cs536u9u0/maxresdefault.jpg) |2024-12-06 20:00:05<br>@hellomayuko<br>[what I've been working on.](https://www.youtube.com/watch?v=C1cs536u9u0)<br>[00:02:55] |
 |![](https://i.ytimg.com/vi/56yeSMi_Qzg/maxresdefault.jpg) |2024-11-15 14:00:05<br>@BritMonkey<br>[The Zapruder Nightmare](https://www.youtube.com/watch?v=56yeSMi_Qzg)<br>[00:32:59] |
+|![](https://i.ytimg.com/vi/14wwlcYZVwM/maxresdefault.jpg) |2024-10-03 19:52:20<br>@kaptainkristian<br>[The Nine Cursed Swords of the Viking Age](https://www.youtube.com/watch?v=14wwlcYZVwM)<br>[00:35:53] |
 |![](https://i.ytimg.com/vi/JqIdmgBQl3Q/maxresdefault.jpg) |2024-08-24 03:00:12<br>@BritMonkey<br>[A Simple Solution To Fake News? (Vox parody)](https://www.youtube.com/watch?v=JqIdmgBQl3Q)<br>[00:10:43] |
 |![](https://i.ytimg.com/vi/b5aJ-57_YsQ/maxresdefault.jpg) |2024-06-03 20:30:03<br>@BritMonkey<br>[BRITAIN IS A DUMP!!!!!!!!!!!!](https://www.youtube.com/watch?v=b5aJ-57_YsQ)<br>[01:25:16] |
 |![](https://i.ytimg.com/vi/-6QQS2kKpCM/maxresdefault.jpg) |2024-02-25 10:00:00<br>@naynaflorence<br>[cosy study days ❤️‍🩹 recipes, writing, room updates and chats](https://www.youtube.com/watch?v=-6QQS2kKpCM)<br>[00:18:12] |
