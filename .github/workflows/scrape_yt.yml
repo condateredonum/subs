@@ -20,6 +20,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Fetch and merge remote changes
+        run: |
+          git fetch origin
+          git merge origin/main
+
       - name: Pull latest changes
         run: git pull
 
