@@ -72,6 +72,8 @@ paper will
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
 
+[Kaptain Kristian](https://www.youtube.com/@kaptainkristian/videos)
+
 [Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
 
 [Kraut](https://www.youtube.com/@Kraut_the_Parrot/videos)
