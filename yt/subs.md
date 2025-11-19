@@ -68,6 +68,8 @@
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
 
+[Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
+
 [Kraut](https://www.youtube.com/@Kraut_the_Parrot/videos)
 
 [Lana Blakely](https://www.youtube.com/@LanaBlakely/videos)
