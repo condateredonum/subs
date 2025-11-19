@@ -1,5 +1,11 @@
 # yt
 
+[thought bug](https://www.youtube.com/@thoughtbug/videos)
+
+[Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
+
+---
+
 [1420](https://www.youtube.com/@1420channel)
 
 [2lazy2try](https://www.youtube.com/@2lazy2tryYT/videos)
@@ -67,8 +73,6 @@
 [JREG](https://www.youtube.com/@JREG/videos)
 
 [Kate Cassidy](https://www.youtube.com/@kate.cassidy/videos)
-
-[Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
 
 [Kraut](https://www.youtube.com/@Kraut_the_Parrot/videos)
 
