@@ -10,6 +10,8 @@ paper will
 
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
 
+[AI Search](https://www.youtube.com/@theAIsearch/videos)
+
 [Alyssa Grenfell](https://www.youtube.com/@alyssadgrenfell/videos) 
 
 [American Redact](https://www.youtube.com/@americanredact/videos)
