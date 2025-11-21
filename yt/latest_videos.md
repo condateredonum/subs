@@ -1,8 +1,12 @@
 -------------------
-# 2025-11-21 17:14:21
+# 2025-11-21 19:14:07
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/vdKGU4PcT-Y/maxresdefault.jpg) |2025-11-21 19:01:08<br>@AbbieRee<br>[We Need To Talk About WICKED FOR GOOD...](https://www.youtube.com/watch?v=vdKGU4PcT-Y)<br>[00:10:16] |
+|![](https://i.ytimg.com/vi/SDBKCd71Q90/hqdefault.jpg) |2025-11-21 18:08:20<br>@TheCriticalDrinker<br>[Crash And Burn - The James Corden Story](https://www.youtube.com/watch?v=SDBKCd71Q90)<br>[00:09:26] |
+|![](https://i.ytimg.com/vi/n41espIW-fI/maxresdefault.jpg) |2025-11-21 18:04:06<br>@YishaiFleisherTV<br>[EMOTIONAL! These Stickers Honor IDF Soldiers Who Paid The Ultimate Sacrifice.](https://www.youtube.com/watch?v=n41espIW-fI)<br>[00:21:18] |
+|![](https://i.ytimg.com/vi/kLIr4PNeIRQ/maxresdefault.jpg) |2025-11-21 18:00:53<br>@LouExtras<br>[The Victims of Dr Umar](https://www.youtube.com/watch?v=kLIr4PNeIRQ)<br>[00:20:09] |
 |![](https://i.ytimg.com/vi/AfbI6VdS9gs/maxresdefault.jpg) |2025-11-21 17:00:31<br>@LilAClip<br>[How He Fooled 400,000 People...](https://www.youtube.com/watch?v=AfbI6VdS9gs)<br>[00:29:53] |
 |![](https://i.ytimg.com/vi/5dEp0Ioj9sU/maxresdefault.jpg) |2025-11-21 17:00:17<br>@jubilee<br>[Who's gay? Test your radar](https://www.youtube.com/watch?v=5dEp0Ioj9sU)<br>[00:24:44] |
 |![](https://i.ytimg.com/vi/zVgj3dFjWhs/maxresdefault.jpg) |2025-11-21 15:02:06<br>@fern-tv<br>[How a Cult Took Over Fiji](https://www.youtube.com/watch?v=zVgj3dFjWhs)<br>[00:37:43] |
@@ -39,7 +43,7 @@
 |![](https://i.ytimg.com/vi/FDViQtHRz98/maxresdefault.jpg) |2025-11-19 20:00:15<br>@MichelJanse<br>[VLOG \| mission: make my house a coastal cottage (construction + house projects!!)](https://www.youtube.com/watch?v=FDViQtHRz98)<br>[00:26:42] |
 |![](https://i.ytimg.com/vi/KcOtpgFROS8/sddefault.jpg) |2025-11-19 18:00:32<br>@TheCriticalDrinker<br>[Project Hail Mary - Please Be Good!](https://www.youtube.com/watch?v=KcOtpgFROS8)<br>[00:07:08] |
 |![](https://i.ytimg.com/vi/wJF4Nt9d5ek/maxresdefault.jpg) |2025-11-19 17:01:43<br>@Channel4Documentaries<br>[Hitler’s DNA: The Genetics Of The Dictator Examined \| Blueprint of a Dictator \| Channel 4 Docs](https://www.youtube.com/watch?v=wJF4Nt9d5ek)<br>[00:46:57] |
-|![](https://i.ytimg.com/vi/vvO4uWsb_7c/maxresdefault.jpg) |2025-11-19 16:27:58<br>@oompaville<br>[The Files Are Out: 1,500 Times His Name Appears](https://www.youtube.com/watch?v=vvO4uWsb_7c)<br>[00:51:36] |
+|![](https://i.ytimg.com/vi/vvO4uWsb_7c/maxresdefault.jpg) |2025-11-19 16:27:58<br>@oompaville<br>[The Files They Said Didn't Exist Just Dropped](https://www.youtube.com/watch?v=vvO4uWsb_7c)<br>[00:51:36] |
 |![](https://i.ytimg.com/vi/mt4v2VKhWBA/maxresdefault.jpg) |2025-11-19 16:01:23<br>@JimmyTheGiant<br>[The Great British Drug Culture, Explained](https://www.youtube.com/watch?v=mt4v2VKhWBA)<br>[00:55:47] |
 |![](https://i.ytimg.com/vi/djSBg4VPC4w/maxresdefault.jpg) |2025-11-19 15:01:20<br>@moresus<br>[Hasan Just Got Badly Exposed…](https://www.youtube.com/watch?v=djSBg4VPC4w)<br>[00:34:11] |
 |![](https://i.ytimg.com/vi/dcvs8qyU-TY/maxresdefault.jpg) |2025-11-19 12:31:01<br>@Channel4Documentaries<br>[“He was just a baby.” Arthur was born in the UK’s largest puppy farm #intoodeep](https://www.youtube.com/watch?v=dcvs8qyU-TY)<br>[00:02:10] |
@@ -110,7 +114,6 @@
 |![](https://i.ytimg.com/vi/PWEJZBKNS-M/maxresdefault.jpg) |2025-11-10 19:00:25<br>@AnaPsychology<br>[Former Therapist Reacts to NYT Article About Unethical Therapists](https://www.youtube.com/watch?v=PWEJZBKNS-M)<br>[00:19:35] |
 |![](https://i.ytimg.com/vi/L3ml0hPIQAo/maxresdefault.jpg) |2025-11-10 18:00:11<br>@leenanorms<br>[No more M&S knickers. I’m making my own.](https://www.youtube.com/watch?v=L3ml0hPIQAo)<br>[00:16:47] |
 |![](https://i.ytimg.com/vi/SZLf6Q8BMH4/maxresdefault.jpg) |2025-11-10 17:53:14<br>@Galatea-and-Acis<br>[Lil Tay, Bonnie Blue & The Lie of "Empowerment"](https://www.youtube.com/watch?v=SZLf6Q8BMH4)<br>[01:37:19] |
-|![](https://i.ytimg.com/vi/bVfIhLwIguo/sddefault.jpg) |2025-11-10 17:01:10<br>@TheCriticalDrinker<br>[Production Hell - Groundhog Day](https://www.youtube.com/watch?v=bVfIhLwIguo)<br>[00:08:52] |
 |![](https://i.ytimg.com/vi/k8WfS1C0bg0/maxresdefault.jpg) |2025-11-10 16:14:07<br>@AshleyEmbers<br>[We’ve sold our souls for 2-day shipping](https://www.youtube.com/watch?v=k8WfS1C0bg0)<br>[00:36:28] |
 |![](https://i.ytimg.com/vi/jU5D7coSa6E/maxresdefault.jpg) |2025-11-10 14:25:39<br>@IzzySealey<br>[How to Transform Your Life Before 2026 (using science)](https://www.youtube.com/watch?v=jU5D7coSa6E)<br>[00:12:15] |
 |![](https://i.ytimg.com/vi/4pc34l91or8/maxresdefault.jpg) |2025-11-10 14:00:07<br>@susannahfriesenofficial<br>[BookTok Is Changing… and Perhaps Not for the Best](https://www.youtube.com/watch?v=4pc34l91or8)<br>[00:33:57] |
@@ -188,7 +191,6 @@
 |![](https://i.ytimg.com/vi/GCalxQCXt7A/maxresdefault.jpg) |2025-10-25 22:06:02<br>@1420channel<br>[What will happen in Russia after the war? Interview with Russian prof. of economics Igor Lipsitc.](https://www.youtube.com/watch?v=GCalxQCXt7A)<br>[00:05:23] |
 |![](https://i.ytimg.com/vi/8_DYkWrI0MA/maxresdefault.jpg) |2025-10-25 20:30:01<br>@notevenemily<br>[Reacting To Your LGBT Confessions...](https://www.youtube.com/watch?v=8_DYkWrI0MA)<br>[00:36:41] |
 |![](https://i.ytimg.com/vi/6O2L_Br43qA/maxresdefault.jpg) |2025-10-25 18:15:00<br>@marinamcbain<br>[They’re Not Misunderstood, They’re MONSTERS...](https://www.youtube.com/watch?v=6O2L_Br43qA)<br>[00:26:32] |
-|![](https://i.ytimg.com/vi/Fjy5TrTdM14/maxresdefault.jpg) |2025-10-25 16:00:34<br>@LouExtras<br>[How Dan Bilzerian Lost Everything](https://www.youtube.com/watch?v=Fjy5TrTdM14)<br>[00:31:07] |
 |![](https://i.ytimg.com/vi/56NHJex7etA/maxresdefault.jpg) |2025-10-25 00:37:51<br>@SydneyWatson<br>[Addressing right wing "infighting"](https://www.youtube.com/watch?v=56NHJex7etA)<br>[00:27:49] |
 |![](https://i.ytimg.com/vi/CiH39U9mGFA/maxresdefault.jpg) |2025-10-24 23:15:01<br>@jordankang<br>[The Age of Road Rage... It's Getting Worse](https://www.youtube.com/watch?v=CiH39U9mGFA)<br>[00:20:32] |
 |![](https://i.ytimg.com/vi/NbL7yZCF-6Q/maxresdefault.jpg) |2025-10-24 19:45:07<br>@PBoyle<br>[Is AI’s Circular Financing Inflating a Bubble?](https://www.youtube.com/watch?v=NbL7yZCF-6Q)<br>[00:25:14] |
@@ -251,7 +253,6 @@
 |![](https://i.ytimg.com/vi/C47G8furBTU/maxresdefault.jpg) |2025-09-22 15:00:25<br>@MingLLC<br>[Jokes That Launched Careers](https://www.youtube.com/watch?v=C47G8furBTU)<br>[00:31:21] |
 |![](https://i.ytimg.com/vi/BuLBGFR0_l0/maxresdefault.jpg) |2025-09-21 09:00:07<br>@lucymoon<br>[in my "start before you're ready" era](https://www.youtube.com/watch?v=BuLBGFR0_l0)<br>[00:19:19] |
 |![](https://i.ytimg.com/vi/1hP_hx9-kqI/maxresdefault.jpg) |2025-09-19 19:41:39<br>@StateofKait<br>[The Most Out of Touch Social Media Trends of 2025](https://www.youtube.com/watch?v=1hP_hx9-kqI)<br>[00:26:00] |
-|![](https://i.ytimg.com/vi/Q96anXBq_Bw/maxresdefault.jpg) |2025-09-19 19:30:29<br>@AbbieRee<br>[Actors OBSESSION With Aging Is KILLING Cinema…](https://www.youtube.com/watch?v=Q96anXBq_Bw)<br>[00:11:57] |
 |![](https://i.ytimg.com/vi/gKekyBl6kLk/maxresdefault.jpg) |2025-09-19 18:22:26<br>@Galatea-and-Acis<br>[Will Smith’s “Masculinity in Crisis”: a cautionary tale of desperately seeking approval](https://www.youtube.com/watch?v=gKekyBl6kLk)<br>[01:41:25] |
 |![](https://i.ytimg.com/vi/eJENP0Rr8p0/maxresdefault.jpg) |2025-09-18 20:31:49<br>@Shoe0nHead<br>[These People Are Sick](https://www.youtube.com/watch?v=eJENP0Rr8p0)<br>[00:23:16] |
 |![](https://i.ytimg.com/vi/wG-o4rk_W64/maxresdefault.jpg) |2025-09-18 12:08:15<br>@PewDiePie<br>[they said moving to japan was a mistake..](https://www.youtube.com/watch?v=wG-o4rk_W64)<br>[00:32:28] |
@@ -324,6 +325,5 @@
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
-nd creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
-|![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
+v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
