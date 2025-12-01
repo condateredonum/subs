@@ -1,9 +1,16 @@
 -------------------
-# 2025-12-01 17:17:58
+# 2025-12-01 19:53:48
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/QQwz0ri7r0o/maxresdefault.jpg) |2025-12-01 17:00:53<br>@theantibot<br>[Explaining TLC''s Seeking Sister Wife to My Atheist Husband](https://www.youtube.com/watch?v=QQwz0ri7r0o)<br>[01:18:58] |
+|![](https://i.ytimg.com/vi/DKgRTq8rc_E/maxresdefault_live.jpg) |2025-12-01 19:49:28<br>@AtheistRepublic<br>[Trump Signals Venezuela Intervention After Airspace Order](https://www.youtube.com/watch?v=DKgRTq8rc_E)<br>[01:48:26] |
+|![](https://i.ytimg.com/vi/mRueB1_cEA4/maxresdefault.jpg) |2025-12-01 19:00:55<br>@AnaPsychology<br>[How estranged parents tell on themselves in the comments](https://www.youtube.com/watch?v=mRueB1_cEA4)<br>[00:21:43] |
+|![](https://i.ytimg.com/vi/G8d3y1lWch4/maxresdefault.jpg) |2025-12-01 18:53:21<br>@OfficialSaharTV<br>[Candace Owens is PANICKING After Charlie's Security Guard Reveals What Happened!](https://www.youtube.com/watch?v=G8d3y1lWch4)<br>[00:08:01] |
+|![](https://i.ytimg.com/vi/LezaKKYBi7A/maxresdefault.jpg) |2025-12-01 18:05:00<br>@jubilee<br>[Why Donald Trump won the election according to Piers Morgan on #surrounded #trump #politics #debate](https://www.youtube.com/watch?v=LezaKKYBi7A)<br>[00:02:34] |
+|![](https://i.ytimg.com/vi/ErkPNJWggX4/maxresdefault.jpg) |2025-12-01 18:00:25<br>@TheCriticalDrinker<br>[Stranger Things Season 5 - The Last Real TV Event?](https://www.youtube.com/watch?v=ErkPNJWggX4)<br>[00:09:59] |
+|![](https://i.ytimg.com/vi/RAUeImo9ydA/sddefault.jpg) |2025-12-01 18:00:11<br>@leenanorms<br>[Capsule Wardrobe but make it *WICKED*](https://www.youtube.com/watch?v=RAUeImo9ydA)<br>[00:23:03] |
+|![](https://i.ytimg.com/vi/ifEm-AaHCCM/maxresdefault.jpg) |2025-12-01 17:32:33<br>@AshleyEmbers<br>[Gen Alpha skincare has gotten so much worse](https://www.youtube.com/watch?v=ifEm-AaHCCM)<br>[00:27:08] |
+|![](https://i.ytimg.com/vi/QQwz0ri7r0o/maxresdefault.jpg) |2025-12-01 17:00:53<br>@theantibot<br>[Explaining TLC's Seeking Sister Wife to My Atheist Husband](https://www.youtube.com/watch?v=QQwz0ri7r0o)<br>[01:18:58] |
 |![](https://i.ytimg.com/vi/yXYmYIi6Amc/maxresdefault.jpg) |2025-12-01 16:03:45<br>@OfficialSaharTV<br>[Pro Palestinian Muslim CRASHES OUT After Passerby Refuses To Say 'Free Palestine'!](https://www.youtube.com/watch?v=yXYmYIi6Amc)<br>[00:05:21] |
 |![](https://i.ytimg.com/vi/xxll1wrW0JU/maxresdefault.jpg) |2025-12-01 15:02:00<br>@moresus<br>[Hasan Has Officially Given Up..](https://www.youtube.com/watch?v=xxll1wrW0JU)<br>[00:36:12] |
 |![](https://i.ytimg.com/vi/mrtmwbkSaVE/maxresdefault.jpg) |2025-12-01 14:01:23<br>@susannahfriesenofficial<br>[This TikTok Influencer Hairstylist Just SABOTAGED Her Career…](https://www.youtube.com/watch?v=mrtmwbkSaVE)<br>[00:35:43] |
@@ -12,7 +19,6 @@
 |![](https://i.ytimg.com/vi/3hS1NCR01ZI/maxresdefault.jpg) |2025-12-01 06:45:19<br>@OfficialSaharTV<br>[Polish Leader: "Proof, Something CATASTROPHIC Is Happening in Europe..."](https://www.youtube.com/watch?v=3hS1NCR01ZI)<br>[00:16:54] |
 |![](https://i.ytimg.com/vi/PFUvoISrsGA/maxresdefault.jpg) |2025-12-01 06:31:38<br>@AtriocClips<br>[Black Friday Was Different This Year](https://www.youtube.com/watch?v=PFUvoISrsGA)<br>[00:19:52] |
 |![](https://i.ytimg.com/vi/qspWxaZTIbY/maxresdefault.jpg) |2025-12-01 04:25:42<br>@YishaiFleisherTV<br>[Fmr. Special Forces: TRUE Motive of Afghani CIA Immigrant Shooter Explained](https://www.youtube.com/watch?v=qspWxaZTIbY)<br>[00:53:47] |
-|![](https://i.ytimg.com/vi/yR2Kyjdi_ig/maxresdefault.jpg) |2025-12-01 04:11:03<br>@OfficialSaharTV<br>[Antifa Protesters Try To Block ICE Trucks With Illegal Aliens, Then Get CHECKED!](https://www.youtube.com/watch?v=yR2Kyjdi_ig)<br>[00:04:32] |
 |![](https://i.ytimg.com/vi/ScNvce_MwdA/maxresdefault.jpg) |2025-12-01 04:10:57<br>@LegalMindset<br>[Reverse Migration & Breeding Visa (LIVE)](https://www.youtube.com/watch?v=ScNvce_MwdA)<br>[01:30:50] |
 |![](https://i.ytimg.com/vi/i7kcbnfDFqg/maxresdefault.jpg) |2025-12-01 04:00:06<br>@LegalMindset<br>[Reducing US Immigration LEGALLY (Fast Facts)](https://www.youtube.com/watch?v=i7kcbnfDFqg)<br>[00:21:03] |
 |![](https://i.ytimg.com/vi/-Be0B4B7YOs/maxresdefault.jpg) |2025-12-01 03:13:29<br>@SydneyWatson<br>[The age of gluttony](https://www.youtube.com/watch?v=-Be0B4B7YOs)<br>[00:27:45] |
@@ -21,7 +27,6 @@
 |![](https://i.ytimg.com/vi/chzMFs7Db-k/maxresdefault.jpg) |2025-11-30 19:26:04<br>@YishaiFleisherTV<br>[🚨Shocking: New Reports Show DC Attacker Was Shouting Allah Huakbar](https://www.youtube.com/watch?v=chzMFs7Db-k)<br>[02:16:35] |
 |![](https://i.ytimg.com/vi/1IMGANRpvXA/maxresdefault.jpg) |2025-11-30 17:50:00<br>@jubilee<br>[Piers Morgan and Mason dissect the modern meaning of wokeism on #surrounded #woke #debate #politics](https://www.youtube.com/watch?v=1IMGANRpvXA)<br>[00:02:20] |
 |![](https://i.ytimg.com/vi/H1OhjA9Nov0/maxresdefault.jpg) |2025-11-30 17:10:00<br>@jubilee<br>[Piers Morgan and Parker get in a heated exchange over therapy and participation trophies](https://www.youtube.com/watch?v=H1OhjA9Nov0)<br>[00:02:16] |
-|![](https://i.ytimg.com/vi/o_DByg8bjtw/maxresdefault.jpg) |2025-11-30 17:01:23<br>@jubilee<br>[Piers Morgan vs 20 Woke Liberals \| Surrounded](https://www.youtube.com/watch?v=o_DByg8bjtw)<br>[01:52:17] |
 |![](https://i.ytimg.com/vi/9BTobDn6Fhc/maxresdefault.jpg) |2025-11-30 17:00:13<br>@LilAClip<br>[The Future is Here... Kinda](https://www.youtube.com/watch?v=9BTobDn6Fhc)<br>[00:21:26] |
 |![](https://i.ytimg.com/vi/KhEfWMtMKqo/maxresdefault.jpg) |2025-11-30 15:56:03<br>@2lazy2tryYT<br>[Akaash Singh Tries To Defend His Wife and Fails Miserably](https://www.youtube.com/watch?v=KhEfWMtMKqo)<br>[00:12:56] |
 |![](https://i.ytimg.com/vi/3zY8ioknD90/maxresdefault.jpg) |2025-11-30 15:43:12<br>@LanaBlakely<br>[why your life feels on pause (and how to get moving again)](https://www.youtube.com/watch?v=3zY8ioknD90)<br>[00:10:37] |
@@ -57,7 +62,6 @@
 |![](https://i.ytimg.com/vi/fmpNhNw-ysg/maxresdefault.jpg) |2025-11-28 12:31:00<br>@Channel4Documentaries<br>[Caught on live feed in Seven Sisters, London’s snatch hotspot #intoodeep](https://www.youtube.com/watch?v=fmpNhNw-ysg)<br>[00:02:19] |
 |![](https://i.ytimg.com/vi/s8SNvtYYhe4/maxresdefault.jpg) |2025-11-28 07:00:07<br>@lucymoon<br>[some bad news and learning to live with the unknowns](https://www.youtube.com/watch?v=s8SNvtYYhe4)<br>[00:27:17] |
 |![](https://i.ytimg.com/vi/OTQ70eJVCL4/maxresdefault.jpg) |2025-11-28 01:55:32<br>@AtriocClips<br>[He Responded...](https://www.youtube.com/watch?v=OTQ70eJVCL4)<br>[00:22:16] |
-|![](https://i.ytimg.com/vi/RAUeImo9ydA/sddefault.jpg) |2025-11-27 22:36:37<br>@leenanorms<br>[Capsule Wardrobe but make it *WICKED*](https://www.youtube.com/watch?v=RAUeImo9ydA)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/gV_AnL2o3D0/maxresdefault.jpg) |2025-11-27 17:01:27<br>@PewDiePie<br>[Everything is different..](https://www.youtube.com/watch?v=gV_AnL2o3D0)<br>[00:29:37] |
 |![](https://i.ytimg.com/vi/tpn8_ZpQ-Ho/maxresdefault.jpg) |2025-11-27 16:59:28<br>@fern-tv<br>[The Insane Themepark That Killed 6 People](https://www.youtube.com/watch?v=tpn8_ZpQ-Ho)<br>[00:24:32] |
 |![](https://i.ytimg.com/vi/ahrwy3OgL60/hqdefault.jpg) |2025-11-27 15:00:07<br>@moresus<br>[Hasan Just Got Exposed Real Bad.. #182](https://www.youtube.com/watch?v=ahrwy3OgL60)<br>[00:34:00] |
@@ -139,7 +143,6 @@
 |![](https://i.ytimg.com/vi/tzxd5I-EzyA/maxresdefault.jpg) |2025-11-18 13:00:24<br>@MoneyMacro<br>[Economist reacts to podcast guests bashing economic science](https://www.youtube.com/watch?v=tzxd5I-EzyA)<br>[00:28:43] |
 |![](https://i.ytimg.com/vi/JmJwkXkb-SY/maxresdefault.jpg) |2025-11-17 22:55:05<br>@KianaDocherty<br>[I can't believe people fell for this...](https://www.youtube.com/watch?v=JmJwkXkb-SY)<br>[00:24:09] |
 |![](https://i.ytimg.com/vi/GlBiDG4NnCE/sddefault.jpg) |2025-11-17 18:34:24<br>@H3PodcastHighlights<br>[Did Epstein Secretly Run Trumps Campaign?](https://www.youtube.com/watch?v=GlBiDG4NnCE)<br>[00:19:40] |
-|![](https://i.ytimg.com/vi/YZAcN_6PDn0/maxresdefault.jpg) |2025-11-17 18:00:48<br>@TheCriticalDrinker<br>[The Avatar Paradox - Why Nobody Talks About These Movies](https://www.youtube.com/watch?v=YZAcN_6PDn0)<br>[00:09:21] |
 |![](https://i.ytimg.com/vi/KyiFe7_V-kU/maxresdefault.jpg) |2025-11-17 18:00:11<br>@leenanorms<br>[Struggling to make friends as an adult? Me too.](https://www.youtube.com/watch?v=KyiFe7_V-kU)<br>[00:20:09] |
 |![](https://i.ytimg.com/vi/ClhyXtoneOc/maxresdefault.jpg) |2025-11-17 17:56:06<br>@_jared<br>[You didn't lose your attention span. It was stolen.](https://www.youtube.com/watch?v=ClhyXtoneOc)<br>[00:16:12] |
 |![](https://i.ytimg.com/vi/iRMV-3-byRg/maxresdefault.jpg) |2025-11-17 14:01:16<br>@susannahfriesenofficial<br>[Why Everyone is OBSESSED with the Starbucks Bearista Cup](https://www.youtube.com/watch?v=iRMV-3-byRg)<br>[00:28:10] |
@@ -321,11 +324,7 @@
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
-2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
-|![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
-|![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
--------------------
-a_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
+oughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
 r>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
