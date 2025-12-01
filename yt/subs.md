@@ -110,6 +110,8 @@ paper will
 
 [Morbid Zoo](https://www.youtube.com/@themorbidzoo/videos)
 
+[More Cringe](https://www.youtube.com/@MoreCringe)
+
 [More Pegasus](https://www.youtube.com/@moresus/videos)
 
 [Nayna Florence](https://www.youtube.com/@naynaflorence/videos)
