@@ -28,6 +28,8 @@ paper will
 
 [Business Insider](https://www.youtube.com/@BusinessInsider/videos)
 
+[Briarchats](https://www.youtube.com/@briarchats/videos)
+
 [Brit Monkey](https://www.youtube.com/@BritMonkey/videos)
 
 [Brittany Venti](http://youtube.com/brittanyventi/videos)
