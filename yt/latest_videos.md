@@ -1,9 +1,9 @@
 -------------------
-# 2025-12-08 12:11:03
+# 2025-12-08 12:12:21
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/fhsrkvEY55s/maxresdefault.jpg) |2025-12-08 11:45:07<br>@PBoyle<br>[The Infinite Money Glitch is Broken!](https://www.youtube.com/watch?v=fhsrkvEY55s)<br>[Duration-Error] |
+|![](https://i.ytimg.com/vi/fhsrkvEY55s/maxresdefault.jpg) |2025-12-08 11:45:07<br>@PBoyle<br>[The Infinite Money Glitch is Broken!](https://www.youtube.com/watch?v=fhsrkvEY55s)<br>[00:24:56] |
 |![](https://i.ytimg.com/vi/LCFkBPl79Uo/maxresdefault.jpg) |2025-12-08 02:45:28<br>@OfficialSaharTV<br>[Muslim Migrant THREATENS To K*LL Tommy Robinson, Then Gets KNOCKED Out Cold!](https://www.youtube.com/watch?v=LCFkBPl79Uo)<br>[00:07:07] |
 |![](https://i.ytimg.com/vi/SSPyU7NG2JM/maxresdefault.jpg) |2025-12-08 02:09:52<br>@AtriocClips<br>[Cheating Is Getting Crazy](https://www.youtube.com/watch?v=SSPyU7NG2JM)<br>[00:13:12] |
 |![](https://i.ytimg.com/vi/pRwEnjosCMk/maxresdefault.jpg) |2025-12-07 23:39:43<br>@OfficialSaharTV<br>[Journalist Travels To Muslim Town in England, He Can't Believe What He Caught on Camera!](https://www.youtube.com/watch?v=pRwEnjosCMk)<br>[00:08:06] |
@@ -49,6 +49,7 @@
 |![](https://i.ytimg.com/vi/mg1Ozm3xcUk/maxresdefault.jpg) |2025-12-05 19:38:10<br>@Galatea-and-Acis<br>["Get Ready With Me To Breakup With My Boyfriend": influencer self obsession has gone too far](https://www.youtube.com/watch?v=mg1Ozm3xcUk)<br>[01:09:35] |
 |![](https://i.ytimg.com/vi/pBt_A4JbKww/maxresdefault.jpg) |2025-12-05 18:46:49<br>@H3PodcastHighlights<br>[We Have To Talk About The Asmongold Situation.](https://www.youtube.com/watch?v=pBt_A4JbKww)<br>[00:15:39] |
 |![](https://i.ytimg.com/vi/BMs1Eq4ss-s/maxresdefault.jpg) |2025-12-05 18:30:13<br>@Kraut_the_Parrot<br>[A History of Hungary - From Nomads to Kings](https://www.youtube.com/watch?v=BMs1Eq4ss-s)<br>[00:31:17] |
+|![](https://i.ytimg.com/vi/BMs1Eq4ss-s/maxresdefault.jpg) |2025-12-05 18:30:13<br>@laelvlogs<br>[A History of Hungary - From Nomads to Kings](https://www.youtube.com/watch?v=BMs1Eq4ss-s)<br>[00:31:17] |
 |![](https://i.ytimg.com/vi/vrd0_Y6oG20/maxresdefault.jpg) |2025-12-05 17:14:24<br>@Tom_Nicholas<br>[Democracy for Sale. Again.](https://www.youtube.com/watch?v=vrd0_Y6oG20)<br>[00:02:31] |
 |![](https://i.ytimg.com/vi/2IfLXRhbivY/maxresdefault.jpg) |2025-12-05 16:21:52<br>@GirlGoneLondonofficial<br>[Britain is WAY BETTER at recycling than wasteful America. here's why.](https://www.youtube.com/watch?v=2IfLXRhbivY)<br>[00:11:31] |
 |![](https://i.ytimg.com/vi/f2HrSnfBBsc/maxresdefault.jpg) |2025-12-05 15:01:27<br>@moresus<br>[Hasan Is Threatening Asmongold Now.. #190](https://www.youtube.com/watch?v=f2HrSnfBBsc)<br>[00:35:03] |
@@ -237,6 +238,7 @@
 |![](https://i.ytimg.com/vi/lAbf8bhvINY/sddefault.jpg) |2025-11-01 01:37:52<br>@JREG<br>[I went on Atrioc and every political streamer got mad at me](https://www.youtube.com/watch?v=lAbf8bhvINY)<br>[00:20:46] |
 |![](https://i.ytimg.com/vi/QJEhUl3Wsrw/maxresdefault.jpg) |2025-10-31 19:30:06<br>@AbbieRee<br>[The Colleen Hoover Effect, Is KILLING Cinema…](https://www.youtube.com/watch?v=QJEhUl3Wsrw)<br>[00:18:43] |
 |![](https://i.ytimg.com/vi/BE6kJoSc8j0/maxresdefault.jpg) |2025-10-31 19:15:06<br>@Kraut_the_Parrot<br>[A Critique of Cultural Determinism](https://www.youtube.com/watch?v=BE6kJoSc8j0)<br>[03:02:48] |
+|![](https://i.ytimg.com/vi/BE6kJoSc8j0/maxresdefault.jpg) |2025-10-31 19:15:06<br>@laelvlogs<br>[A Critique of Cultural Determinism](https://www.youtube.com/watch?v=BE6kJoSc8j0)<br>[03:02:48] |
 |![](https://i.ytimg.com/vi/uTogTcngHPA/maxresdefault.jpg) |2025-10-31 16:00:50<br>@Shoe0nHead<br>[Men on Reddit Are Not Ok](https://www.youtube.com/watch?v=uTogTcngHPA)<br>[00:28:17] |
 |![](https://i.ytimg.com/vi/ODuuTVKx91Y/maxresdefault.jpg) |2025-10-31 15:01:00<br>@DodfordYT<br>[Jordan Peele Saw It Coming](https://www.youtube.com/watch?v=ODuuTVKx91Y)<br>[00:25:45] |
 |![](https://i.ytimg.com/vi/ew7QYoMRW6I/maxresdefault.jpg) |2025-10-31 14:59:47<br>@_jared<br>[AI Writing is Taking Over](https://www.youtube.com/watch?v=ew7QYoMRW6I)<br>[00:18:13] |
@@ -309,16 +311,19 @@
 |![](https://i.ytimg.com/vi/MgzevNh5ONo/maxresdefault.jpg) |2025-07-19 16:00:06<br>@themorbidzoo<br>[I Want to Talk About "Elevated Horror"](https://www.youtube.com/watch?v=MgzevNh5ONo)<br>[00:29:41] |
 |![](https://i.ytimg.com/vi/vDzVdg7ViDk/maxresdefault.jpg) |2025-07-18 20:53:03<br>@TheElephantGraveyardMusic<br>[American Quakening (Elephant Graveyard Radio Hour Ep. 3)](https://www.youtube.com/watch?v=vDzVdg7ViDk)<br>[01:10:16] |
 |![](https://i.ytimg.com/vi/XPk-efest5M/maxresdefault.jpg) |2025-07-11 12:19:27<br>@Kraut_the_Parrot<br>[The Difference between Cultures and Institutions](https://www.youtube.com/watch?v=XPk-efest5M)<br>[00:46:59] |
+|![](https://i.ytimg.com/vi/XPk-efest5M/maxresdefault.jpg) |2025-07-11 12:19:27<br>@laelvlogs<br>[The Difference between Cultures and Institutions](https://www.youtube.com/watch?v=XPk-efest5M)<br>[00:46:59] |
 |![](https://i.ytimg.com/vi/ocC58Od-fWY/maxresdefault.jpg) |2025-07-05 19:32:59<br>@Moocake<br>[Why You Should Despise Tinder](https://www.youtube.com/watch?v=ocC58Od-fWY)<br>[00:32:03] |
 |![](https://i.ytimg.com/vi/4O9RY2n-ckg/maxresdefault.jpg) |2025-07-01 12:00:17<br>@kaptainkristian<br>[100 Years of History in 100 Films](https://www.youtube.com/watch?v=4O9RY2n-ckg)<br>[00:13:01] |
 |![](https://i.ytimg.com/vi/S2OjueAZGFo/maxresdefault.jpg) |2025-06-23 19:02:31<br>@oliSUNvia<br>["where are the neurotypicals?": neurodivergence & the cultural assimilation of psychiatry](https://www.youtube.com/watch?v=S2OjueAZGFo)<br>[00:34:12] |
 |![](https://i.ytimg.com/vi/YKQ6DsEj5y4/maxresdefault.jpg) |2025-06-21 16:00:06<br>@themorbidzoo<br>[The Philosophy of Final Destination](https://www.youtube.com/watch?v=YKQ6DsEj5y4)<br>[01:22:21] |
 |![](https://i.ytimg.com/vi/8nKHNYiyFes/maxresdefault.jpg) |2025-05-27 18:30:06<br>@TheElephantGraveyardMusic<br>[Back From the Dead (Elephant Graveyard Radio Hour Ep. 2)](https://www.youtube.com/watch?v=8nKHNYiyFes)<br>[01:23:49] |
 |![](https://i.ytimg.com/vi/p6uxLHWVYRg/maxresdefault.jpg) |2025-05-26 18:44:55<br>@Kraut_the_Parrot<br>[Nuclear Weapons in the Trump/Putin Era](https://www.youtube.com/watch?v=p6uxLHWVYRg)<br>[00:31:42] |
+|![](https://i.ytimg.com/vi/p6uxLHWVYRg/maxresdefault.jpg) |2025-05-26 18:44:55<br>@laelvlogs<br>[Nuclear Weapons in the Trump/Putin Era](https://www.youtube.com/watch?v=p6uxLHWVYRg)<br>[00:31:42] |
 |![](https://i.ytimg.com/vi/AYQCmzlmsRc/maxresdefault.jpg) |2025-05-20 22:10:24<br>@oliSUNvia<br>[your humor is inherently political.](https://www.youtube.com/watch?v=AYQCmzlmsRc)<br>[00:25:42] |
 |![](https://i.ytimg.com/vi/xyXGePacE24/maxresdefault.jpg) |2025-05-10 19:36:39<br>@TheElephantGraveyardMusic<br>[One Last Broadcast (Elephant Graveyard Radio Hour Ep. 1)](https://www.youtube.com/watch?v=xyXGePacE24)<br>[01:13:19] |
 |![](https://i.ytimg.com/vi/y9aXE0zPB5Q/maxresdefault.jpg) |2025-05-05 21:39:30<br>@oliSUNvia<br>[i asked philosophy professors to define PSEUDO-INTELLECTUALISM](https://www.youtube.com/watch?v=y9aXE0zPB5Q)<br>[00:33:53] |
 |![](https://i.ytimg.com/vi/TdSCf-tyBu4/maxresdefault.jpg) |2025-04-11 18:07:13<br>@Kraut_the_Parrot<br>[Poland confronts Belarus and Russia](https://www.youtube.com/watch?v=TdSCf-tyBu4)<br>[00:17:27] |
+|![](https://i.ytimg.com/vi/TdSCf-tyBu4/maxresdefault.jpg) |2025-04-11 18:07:13<br>@laelvlogs<br>[Poland confronts Belarus and Russia](https://www.youtube.com/watch?v=TdSCf-tyBu4)<br>[00:17:27] |
 |![](https://i.ytimg.com/vi/qgBU3ch6T1s/maxresdefault.jpg) |2025-03-15 19:14:21<br>@oliSUNvia<br>[why grief is good for us: finding value in harsh loss](https://www.youtube.com/watch?v=qgBU3ch6T1s)<br>[00:20:48] |
 |![](https://i.ytimg.com/vi/_v3KiaAjpY8/maxresdefault.jpg) |2025-03-08 18:00:27<br>@TheElephantGraveyardMusic<br>[How Comedy Became a Dystopian Imperial Hell World](https://www.youtube.com/watch?v=_v3KiaAjpY8)<br>[00:46:08] |
 |![](https://i.ytimg.com/vi/2qZjAnUqZBM/maxresdefault.jpg) |2025-01-20 16:02:37<br>@kaptainkristian<br>[Tolkien's Secret Ingredient To Worldbuilding](https://www.youtube.com/watch?v=2qZjAnUqZBM)<br>[00:10:01] |
