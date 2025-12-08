@@ -1,14 +1,15 @@
 -------------------
-# 2025-12-08 10:33:58
+# 2025-12-08 12:02:07
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/fhsrkvEY55s/maxresdefault.jpg) |2025-12-08 11:45:07<br>@PBoyle<br>[The Infinite Money Glitch is Broken!](https://www.youtube.com/watch?v=fhsrkvEY55s)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/LCFkBPl79Uo/maxresdefault.jpg) |2025-12-08 02:45:28<br>@OfficialSaharTV<br>[Muslim Migrant THREATENS To K*LL Tommy Robinson, Then Gets KNOCKED Out Cold!](https://www.youtube.com/watch?v=LCFkBPl79Uo)<br>[00:07:07] |
 |![](https://i.ytimg.com/vi/SSPyU7NG2JM/maxresdefault.jpg) |2025-12-08 02:09:52<br>@AtriocClips<br>[Cheating Is Getting Crazy](https://www.youtube.com/watch?v=SSPyU7NG2JM)<br>[00:13:12] |
 |![](https://i.ytimg.com/vi/pRwEnjosCMk/maxresdefault.jpg) |2025-12-07 23:39:43<br>@OfficialSaharTV<br>[Journalist Travels To Muslim Town in England, He Can't Believe What He Caught on Camera!](https://www.youtube.com/watch?v=pRwEnjosCMk)<br>[00:08:06] |
 |![](https://i.ytimg.com/vi/WEN9ESfobFA/maxresdefault.jpg) |2025-12-07 23:19:08<br>@YishaiFleisherTV<br>[The Jewish Exodus OUT of America Is STARTING!](https://www.youtube.com/watch?v=WEN9ESfobFA)<br>[00:17:31] |
 |![](https://i.ytimg.com/vi/mYcqt54cKjk/maxresdefault.jpg) |2025-12-07 21:16:43<br>@disparutoo<br>[Hollywood PANICS - Everybody HATES Netflix](https://www.youtube.com/watch?v=mYcqt54cKjk)<br>[00:23:46] |
-|![](https://i.ytimg.com/vi/qgDfmD_Jyr0/maxresdefault.jpg) |2025-12-07 20:26:06<br>@H3PodcastHighlights<br>[James Charles Has Another Accuser...](https://www.youtube.com/watch?v=qgDfmD_Jyr0)<br>[01:00:29] |
+|![](https://i.ytimg.com/vi/qgDfmD_Jyr0/maxresdefault.jpg) |2025-12-07 20:26:06<br>@H3PodcastHighlights<br>[The James Charles Situation Is Terrifying](https://www.youtube.com/watch?v=qgDfmD_Jyr0)<br>[01:00:29] |
 |![](https://i.ytimg.com/vi/WdLI1iczWL8/maxresdefault.jpg) |2025-12-07 19:59:54<br>@OfficialSaharTV<br>[Anti-Israel Student LOST For Words When Sahar TV Calmly Destroys His Argument \| Let's Do Something](https://www.youtube.com/watch?v=WdLI1iczWL8)<br>[00:29:38] |
 |![](https://i.ytimg.com/vi/d3r1CEU7O5s/maxresdefault.jpg) |2025-12-07 19:22:13<br>@AtheistRepublic<br>[Somali Clan Wars Are Destroying Minnesota](https://www.youtube.com/watch?v=d3r1CEU7O5s)<br>[01:13:54] |
 |![](https://i.ytimg.com/vi/7OwNi3PV4tw/maxresdefault.jpg) |2025-12-07 19:15:14<br>@YishaiFleisherTV<br>[🚨 "America First” Is Freaking Out At Me Over This Tweet](https://www.youtube.com/watch?v=7OwNi3PV4tw)<br>[02:09:58] |
@@ -228,7 +229,6 @@
 |![](https://i.ytimg.com/vi/2wnRMKtbtcw/maxresdefault.jpg) |2025-11-02 15:00:07<br>@themorbidzoo<br>[Debate and the Ritual Theory of Propaganda](https://www.youtube.com/watch?v=2wnRMKtbtcw)<br>[00:40:49] |
 |![](https://i.ytimg.com/vi/-VSvaiXeNI8/maxresdefault.jpg) |2025-11-02 13:00:00<br>@VanessaWingårdh<br>[Billionaires Owning Everything Just Got Worse…](https://www.youtube.com/watch?v=-VSvaiXeNI8)<br>[00:13:04] |
 |![](https://i.ytimg.com/vi/LZ22waX_x0Y/maxresdefault.jpg) |2025-11-01 15:45:05<br>@BritMonkey<br>[The Race to Save the Titanic](https://www.youtube.com/watch?v=LZ22waX_x0Y)<br>[00:33:25] |
-|![](https://i.ytimg.com/vi/q95xzDQUxzI/maxresdefault.jpg) |2025-11-01 15:00:07<br>@PBoyle<br>[China’s Rare Earth Chokehold!](https://www.youtube.com/watch?v=q95xzDQUxzI)<br>[00:29:07] |
 |![](https://i.ytimg.com/vi/lAbf8bhvINY/sddefault.jpg) |2025-11-01 01:37:52<br>@JREG<br>[I went on Atrioc and every political streamer got mad at me](https://www.youtube.com/watch?v=lAbf8bhvINY)<br>[00:20:46] |
 |![](https://i.ytimg.com/vi/QJEhUl3Wsrw/maxresdefault.jpg) |2025-10-31 19:30:06<br>@AbbieRee<br>[The Colleen Hoover Effect, Is KILLING Cinema…](https://www.youtube.com/watch?v=QJEhUl3Wsrw)<br>[00:18:43] |
 |![](https://i.ytimg.com/vi/BE6kJoSc8j0/maxresdefault.jpg) |2025-10-31 19:15:06<br>@Kraut_the_Parrot<br>[A Critique of Cultural Determinism](https://www.youtube.com/watch?v=BE6kJoSc8j0)<br>[03:02:48] |
@@ -337,6 +337,6 @@
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
-ome in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+signed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
