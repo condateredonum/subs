@@ -82,7 +82,6 @@ paper will
 
 [Kraut](https://www.youtube.com/@Kraut_the_Parrot/videos)
 
-[Lael Hansen](https://www.youtube.com/@laelvlogs/videos)
 [Lael Hansen](https://www.youtube.com/@laelhansen/videos)
 
 [Lana Blakely](https://www.youtube.com/@LanaBlakely/videos)
