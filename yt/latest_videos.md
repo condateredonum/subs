@@ -1,15 +1,22 @@
 -------------------
-# 2025-12-12 10:32:34
+# 2025-12-12 17:15:45
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/IeAaZICDy_g/maxresdefault.jpg) |2025-12-12 17:15:01<br>@jubilee<br>["I don't think blackness is a disability" #faceoff #debate #dei](https://www.youtube.com/watch?v=IeAaZICDy_g)<br>[00:03:00] |
+|![](https://i.ytimg.com/vi/mDbvfOGnPMU/maxresdefault.jpg) |2025-12-12 17:05:34<br>@OfficialSaharTV<br>[The Islamic Takeover of The West Has Already BEGUN!](https://www.youtube.com/watch?v=mDbvfOGnPMU)<br>[00:10:12] |
+|![](https://i.ytimg.com/vi/82uw8W_IQMo/maxresdefault.jpg) |2025-12-12 17:01:36<br>@TheCriticalDrinker<br>[Supergirl - More Superhero Slop?](https://www.youtube.com/watch?v=82uw8W_IQMo)<br>[00:07:21] |
+|![](https://i.ytimg.com/vi/geXZoTJ0iXw/maxresdefault.jpg) |2025-12-12 17:01:18<br>@LilAClip<br>[Canadian Politics are Insane...](https://www.youtube.com/watch?v=geXZoTJ0iXw)<br>[00:24:50] |
+|![](https://i.ytimg.com/vi/E1DXXIMrWDs/maxresdefault.jpg) |2025-12-12 17:00:32<br>@Channel4Documentaries<br>[Saving Mum: Our Family Secret \| First Cut \| Channel 4 Documentaries](https://www.youtube.com/watch?v=E1DXXIMrWDs)<br>[00:47:00] |
+|![](https://i.ytimg.com/vi/tu2w1yB0ogM/maxresdefault.jpg) |2025-12-12 15:30:42<br>@GirlGoneLondonofficial<br>[7 British Playground Games Americans Have Never Heard Of](https://www.youtube.com/watch?v=tu2w1yB0ogM)<br>[00:08:12] |
+|![](https://i.ytimg.com/vi/qE-iMHQ8UnM/maxresdefault.jpg) |2025-12-12 15:01:43<br>@moresus<br>[Hasan Finally Got Banned..](https://www.youtube.com/watch?v=qE-iMHQ8UnM)<br>[00:41:52] |
+|![](https://i.ytimg.com/vi/V99-ICzPsBY/maxresdefault.jpg) |2025-12-12 14:03:08<br>@Israel_Advocacy<br>[I Asked Palestine Supporters Where It Is… The Answers Were Unreal](https://www.youtube.com/watch?v=V99-ICzPsBY)<br>[00:08:07] |
 |![](https://i.ytimg.com/vi/p_ouqHFTSRg/maxresdefault.jpg) |2025-12-12 09:18:03<br>@briarchats<br>[A Musician Crashed Out At A Fan At A Festival... Over A Beach Ball???](https://www.youtube.com/watch?v=p_ouqHFTSRg)<br>[00:30:10] |
 |![](https://i.ytimg.com/vi/a-XtCPRuL8M/maxresdefault.jpg) |2025-12-12 03:48:34<br>@OfficialSaharTV<br>[Islamist Vows To M*rder Tommy Robinson, Then Gets Chased Down & Arrested!](https://www.youtube.com/watch?v=a-XtCPRuL8M)<br>[00:14:16] |
 |![](https://i.ytimg.com/vi/93NauNGh6w8/maxresdefault.jpg) |2025-12-12 02:31:35<br>@AtriocClips<br>[I Got A Wild Shoutout](https://www.youtube.com/watch?v=93NauNGh6w8)<br>[00:12:25] |
-|![](https://i.ytimg.com/vi/BK2uuuWhbWs/maxresdefault.jpg) |2025-12-12 01:46:39<br>@YishaiFleisherTV<br>[IT GOT TENSE! Host Presses Yishai “Do You Support Apartheid?”](https://www.youtube.com/watch?v=BK2uuuWhbWs)<br>[00:47:19] |
+|![](https://i.ytimg.com/vi/BK2uuuWhbWs/maxresdefault.jpg) |2025-12-12 01:46:39<br>@YishaiFleisherTV<br>[Host Presses Yishai: “Do You Support Apartheid?”](https://www.youtube.com/watch?v=BK2uuuWhbWs)<br>[00:47:19] |
 |![](https://i.ytimg.com/vi/VAxmJ7HzIzs/maxresdefault.jpg) |2025-12-12 00:31:16<br>@OfficialSaharTV<br>[Muslim Woman Defends The Quran, Then Christian Tears Her Argument To SHREDS!](https://www.youtube.com/watch?v=VAxmJ7HzIzs)<br>[00:12:21] |
 |![](https://i.ytimg.com/vi/p998q5O224Q/maxresdefault.jpg) |2025-12-11 21:53:27<br>@H3PodcastHighlights<br>[The Pierce Morgan & Nick Fuentes Situation...](https://www.youtube.com/watch?v=p998q5O224Q)<br>[00:47:31] |
-|![](https://i.ytimg.com/vi/fMKWlFSrx6s/maxresdefault.jpg) |2025-12-11 20:15:18<br>@OfficialSaharTV<br>[Indian Woman Has Sends BRUTAL Message To Pakistani Muslims in the Street!](https://www.youtube.com/watch?v=fMKWlFSrx6s)<br>[00:03:29] |
 |![](https://i.ytimg.com/vi/D4bM09eNtIk/maxresdefault.jpg) |2025-12-11 19:43:13<br>@H3PodcastHighlights<br>[Possibly My Most Expensive Lawsuit Yet...](https://www.youtube.com/watch?v=D4bM09eNtIk)<br>[00:03:53] |
 |![](https://i.ytimg.com/vi/p1KMaFKbJBQ/maxresdefault.jpg) |2025-12-11 19:18:01<br>@disparutoo<br>[Star Trek: Starfleet Academy - Zoomers In Space](https://www.youtube.com/watch?v=p1KMaFKbJBQ)<br>[00:15:09] |
 |![](https://i.ytimg.com/vi/ht6GJhbghBg/maxresdefault.jpg) |2025-12-11 19:00:54<br>@atrioc<br>[Crypto Shark Tank Reached Peak Insanity](https://www.youtube.com/watch?v=ht6GJhbghBg)<br>[00:40:32] |
@@ -56,7 +63,6 @@
 |![](https://i.ytimg.com/vi/g7F1zY-88ms/maxresdefault.jpg) |2025-12-09 19:09:51<br>@LouExtras<br>[The Self Destruction of Conor McGregor](https://www.youtube.com/watch?v=g7F1zY-88ms)<br>[00:33:20] |
 |![](https://i.ytimg.com/vi/qkf1QZhT3vM/maxresdefault.jpg) |2025-12-09 15:15:11<br>@moresus<br>[The Streamer Awards Situation Just Got Worse.. #194](https://www.youtube.com/watch?v=qkf1QZhT3vM)<br>[00:40:57] |
 |![](https://i.ytimg.com/vi/m56qZBnDW0g/maxresdefault.jpg) |2025-12-09 15:11:38<br>@americanredact<br>[Tony Hinchcliffe Has Never Been More Delusional](https://www.youtube.com/watch?v=m56qZBnDW0g)<br>[00:15:02] |
-|![](https://i.ytimg.com/vi/QCCxc_uQJ40/maxresdefault.jpg) |2025-12-09 15:01:00<br>@BusinessInsider<br>[Money Lessons From Parents Saving Millions For Their Children \| Life Lessons \| Business Insider](https://www.youtube.com/watch?v=QCCxc_uQJ40)<br>[00:16:24] |
 |![](https://i.ytimg.com/vi/ubsr9sa8VPg/maxresdefault.jpg) |2025-12-09 14:31:01<br>@GirlGoneLondonofficial<br>[9 BIZARRE American Foods that Brits Don't Understand](https://www.youtube.com/watch?v=ubsr9sa8VPg)<br>[00:12:29] |
 |![](https://i.ytimg.com/vi/LD5zKqj-qmg/maxresdefault.jpg) |2025-12-09 07:55:19<br>@AtheistRepublic<br>[Islamists Blame The West For Everything](https://www.youtube.com/watch?v=LD5zKqj-qmg)<br>[01:15:16] |
 |![](https://i.ytimg.com/vi/yks5qhYt8eI/maxresdefault.jpg) |2025-12-09 02:54:10<br>@SydneyWatson<br>[Leftists absolutely HATE Caleb Hammer](https://www.youtube.com/watch?v=yks5qhYt8eI)<br>[00:27:33] |
@@ -79,9 +85,7 @@
 |![](https://i.ytimg.com/vi/d3r1CEU7O5s/maxresdefault.jpg) |2025-12-07 19:22:13<br>@AtheistRepublic<br>[Somali Clan Wars Are Destroying Minnesota](https://www.youtube.com/watch?v=d3r1CEU7O5s)<br>[01:13:54] |
 |![](https://i.ytimg.com/vi/ASClgOWwIrc/maxresdefault.jpg) |2025-12-07 18:00:10<br>@RachelOates<br>[This is why you should never put up with bad friends](https://www.youtube.com/watch?v=ASClgOWwIrc)<br>[00:33:35] |
 |![](https://i.ytimg.com/vi/y26ixP1Ilmo/maxresdefault.jpg) |2025-12-07 15:53:22<br>@Tom_Nicholas<br>[Why the Right's Religious Revival Won't Work.](https://www.youtube.com/watch?v=y26ixP1Ilmo)<br>[00:45:11] |
-|![](https://i.ytimg.com/vi/ccfThUkE9kY/maxresdefault.jpg) |2025-12-07 15:01:12<br>@moresus<br>[Twitch Just Got Completely F**ked… #192](https://www.youtube.com/watch?v=ccfThUkE9kY)<br>[00:36:16] |
 |![](https://i.ytimg.com/vi/TP7Z_Eqxhxk/maxresdefault.jpg) |2025-12-07 15:00:55<br>@fern-tv<br>[How Peter Thiel Is Destroying Democracy](https://www.youtube.com/watch?v=TP7Z_Eqxhxk)<br>[00:35:37] |
-|![](https://i.ytimg.com/vi/uaDYS8jNLdk/maxresdefault.jpg) |2025-12-07 14:42:26<br>@Israel_Advocacy<br>[I Visited A Dangerous Palestinian Village… And Uncovered A Dark Secret](https://www.youtube.com/watch?v=uaDYS8jNLdk)<br>[00:08:27] |
 |![](https://i.ytimg.com/vi/rf9Sat5n0AQ/maxresdefault.jpg) |2025-12-07 13:01:52<br>@VanessaWingårdh<br>[Big Tech's AI Debt Will Crash the Economy](https://www.youtube.com/watch?v=rf9Sat5n0AQ)<br>[00:10:38] |
 |![](https://i.ytimg.com/vi/oe6jwj3hwKo/maxresdefault.jpg) |2025-12-07 09:30:57<br>@briarchats<br>[The $4000 Hairtok Drama Got Even Crazier!](https://www.youtube.com/watch?v=oe6jwj3hwKo)<br>[00:42:48] |
 |![](https://i.ytimg.com/vi/L4nus0PWsCw/maxresdefault.jpg) |2025-12-07 03:25:45<br>@theAIsearch<br>[DeepSeek is back, new top AI video & image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)<br>[00:47:03] |
@@ -120,9 +124,7 @@
 |![](https://i.ytimg.com/vi/IhVDOFCm5jU/maxresdefault.jpg) |2025-12-03 16:18:08<br>@GoodWorkMB<br>[Interviewing Grok's girlfriend bot](https://www.youtube.com/watch?v=IhVDOFCm5jU)<br>[00:02:21] |
 |![](https://i.ytimg.com/vi/mQXdd2cYdqU/maxresdefault.jpg) |2025-12-03 16:01:30<br>@Tom_Nicholas<br>[Big Tech Has a Dirty Secret](https://www.youtube.com/watch?v=mQXdd2cYdqU)<br>[00:02:08] |
 |![](https://i.ytimg.com/vi/JAgTEbSVkXk/maxresdefault.jpg) |2025-12-03 16:00:33<br>@oompaville<br>[Megachurches Hate Her...](https://www.youtube.com/watch?v=JAgTEbSVkXk)<br>[01:06:23] |
-|![](https://i.ytimg.com/vi/6KtuVsf9Mq0/maxresdefault.jpg) |2025-12-02 23:30:06<br>@LilAClip<br>[The Problem With Streamers](https://www.youtube.com/watch?v=6KtuVsf9Mq0)<br>[00:36:58] |
 |![](https://i.ytimg.com/vi/x3NPxraALq0/maxresdefault.jpg) |2025-12-02 20:42:45<br>@HilaryLayne<br>[Fanfiction Has Destroyed Writing (And Everything Else)](https://www.youtube.com/watch?v=x3NPxraALq0)<br>[01:07:36] |
-|![](https://i.ytimg.com/vi/FN6pVX47tp0/maxresdefault.jpg) |2025-12-02 17:45:00<br>@GirlGoneLondonofficial<br>[5 Vegetables I'd NEVER Tried Before Moving to Britain as an American](https://www.youtube.com/watch?v=FN6pVX47tp0)<br>[00:09:07] |
 |![](https://i.ytimg.com/vi/OBuKUfZyMqY/maxresdefault.jpg) |2025-12-02 17:00:44<br>@Channel4Documentaries<br>[I Stalked My Own Boyfriend \| UNTOLD \| Channel 4 Documentaries](https://www.youtube.com/watch?v=OBuKUfZyMqY)<br>[00:47:05] |
 |![](https://i.ytimg.com/vi/L6322NrmXYo/maxresdefault.jpg) |2025-12-02 16:00:30<br>@PodcastCringe<br>[Bert Kreischer Is the New Brendan Schaub](https://www.youtube.com/watch?v=L6322NrmXYo)<br>[00:24:25] |
 |![](https://i.ytimg.com/vi/2MfQ2KCIUWo/maxresdefault.jpg) |2025-12-02 14:00:11<br>@MoneyMacro<br>[Why it’s so difficult to get a job right now (it's not A.I.)](https://www.youtube.com/watch?v=2MfQ2KCIUWo)<br>[00:17:18] |
@@ -170,7 +172,6 @@
 |![](https://i.ytimg.com/vi/0ijrZddSkU0/maxresdefault.jpg) |2025-11-26 16:00:05<br>@gremlita<br>[do you work-ify your hobbies?](https://www.youtube.com/watch?v=0ijrZddSkU0)<br>[00:02:37] |
 |![](https://i.ytimg.com/vi/RjwBozLloUU/maxresdefault.jpg) |2025-11-25 20:54:28<br>@KianaDocherty<br>[A New Era Has Begun...](https://www.youtube.com/watch?v=RjwBozLloUU)<br>[00:27:46] |
 |![](https://i.ytimg.com/vi/zlfeTdzTg1k/maxresdefault.jpg) |2025-11-25 17:01:32<br>@theantibot<br>[The “Baby Formula Social Experiment" Reveals How CRUEL Churches Are](https://www.youtube.com/watch?v=zlfeTdzTg1k)<br>[01:13:18] |
-|![](https://i.ytimg.com/vi/KWfCWpnUCRw/sddefault.jpg) |2025-11-25 17:00:37<br>@TheCriticalDrinker<br>[We Killed The Acolyte, Apparently](https://www.youtube.com/watch?v=KWfCWpnUCRw)<br>[00:07:06] |
 |![](https://i.ytimg.com/vi/ihoW0D7MKaY/maxresdefault.jpg) |2025-11-25 17:00:10<br>@gremlita<br>[You Don't Need To Be Productive](https://www.youtube.com/watch?v=ihoW0D7MKaY)<br>[00:38:23] |
 |![](https://i.ytimg.com/vi/WZV2_r2nw70/maxresdefault.jpg) |2025-11-25 09:34:21<br>@IzzySealey<br>[How to Start & Grow a YouTube Channel (for beginners)](https://www.youtube.com/watch?v=WZV2_r2nw70)<br>[00:27:48] |
 |![](https://i.ytimg.com/vi/3bTWfdv2Ulg/maxresdefault.jpg) |2025-11-25 03:36:59<br>@atrioc<br>[Product Placement Is Everywhere Now](https://www.youtube.com/watch?v=3bTWfdv2Ulg)<br>[00:26:12] |
@@ -352,7 +353,7 @@
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
-Va_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
+00:09:37] |
 -------------------
 /vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
