@@ -1,10 +1,5 @@
 [
     {
-        "username": "@LaelHansen",
-        "channel_id": "UCGzjwUH82liiMJkqFFFIuBw",
-        "uploads_playlist_id": "UUGzjwUH82liiMJkqFFFIuBw"
-    },
-    {
         "username": "@1420channel",
         "channel_id": "UCl4R4M9YVfYjjPmILU2Ie1A",
         "uploads_playlist_id": "UUl4R4M9YVfYjjPmILU2Ie1A"
@@ -373,6 +368,11 @@
         "username": "@SydneyWatson",
         "channel_id": "UCSFy-1JrpZf0tFlRZfo-Rvw",
         "uploads_playlist_id": "UUSFy-1JrpZf0tFlRZfo-Rvw"
+    },
+    {
+        "username": "@LaelHansen",
+        "channel_id": "UCGzjwUH82liiMJkqFFFIuBw",
+        "uploads_playlist_id": "UUGzjwUH82liiMJkqFFFIuBw"
     },
     {
         "username": "@thought_bug",
