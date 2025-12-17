@@ -20,7 +20,8 @@ def get_usernames_from_md(md_file_path):
                 # Format: https://www.youtube.com/@Channel/videos
                 if "youtube.com/@" in url:
                     username = url.split('/')[3]
-                    usernames.append(username)
+                    if username.lower() not in [u.lower() for u in usernames]:
+                        usernames.append(username)
 
     return usernames
 
