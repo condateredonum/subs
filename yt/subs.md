@@ -53,6 +53,8 @@
 
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
+[Ghost Gum](https://www.youtube.com/@GhostGum/videos)
+
 [Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
 
 [Good Work](https://www.youtube.com/@GoodWorkMB/videos)
