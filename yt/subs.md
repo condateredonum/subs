@@ -1,6 +1,5 @@
 # yt
 
-paper will
 
 ---
 
@@ -133,6 +132,8 @@ paper will
 [Oompaville](https://www.youtube.com/@oompaville/videos)
 
 [Patrick Boyle](https://www.youtube.com/@PBoyle/videos)
+
+[Paper Will](https://www.youtube.com/channel/UCPwuva5LbnwFTetkP_cUQHA/videos)
 
 [PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
