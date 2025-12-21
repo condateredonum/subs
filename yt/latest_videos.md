@@ -1,8 +1,14 @@
 -------------------
-# 2025-12-21 14:06:54
+# 2025-12-21 17:13:50
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/ovc5twRGwbI/maxresdefault.jpg) |2025-12-21 17:01:19<br>@Channel4Documentaries<br>[Britain’s Parcel Thief Gangs – Exposed \| Dispatches \| Channel 4 Documentaries](https://www.youtube.com/watch?v=ovc5twRGwbI)<br>[00:47:12] |
+|![](https://i.ytimg.com/vi/Y0WXnmO6Epw/maxresdefault.jpg) |2025-12-21 17:00:51<br>@jubilee<br>[The Truth About Growing Up Without Family \| Spectrum](https://www.youtube.com/watch?v=Y0WXnmO6Epw)<br>[00:39:38] |
+|![](https://i.ytimg.com/vi/IDTakqqxqXU/maxresdefault.jpg) |2025-12-21 16:56:24<br>@OfficialSaharTV<br>[SaharTV STAGGERED When Ex-Muslim Reveals The Real Reason Why He Left Islam](https://www.youtube.com/watch?v=IDTakqqxqXU)<br>[00:10:07] |
+|![](https://i.ytimg.com/vi/x8bqNDypjzY/maxresdefault.jpg) |2025-12-21 16:45:04<br>@LouExtras<br>[Nelk’s Most Insufferable Member (Steiny)](https://www.youtube.com/watch?v=x8bqNDypjzY)<br>[00:33:50] |
+|![](https://i.ytimg.com/vi/LtIewSvCMgQ/maxresdefault.jpg) |2025-12-21 15:00:47<br>@moresus<br>[Hasan is Trying To Cancel Me Now..](https://www.youtube.com/watch?v=LtIewSvCMgQ)<br>[00:39:24] |
+|![](https://i.ytimg.com/vi/9lDM0gsKXfA/maxresdefault.jpg) |2025-12-21 15:00:18<br>@Tom_Nicholas<br>[43 Months to Save Britain](https://www.youtube.com/watch?v=9lDM0gsKXfA)<br>[00:31:41] |
 |![](https://i.ytimg.com/vi/nqn9Bzoa04E/maxresdefault.jpg) |2025-12-21 14:01:26<br>@BusinessInsider<br>[Why Dubai Chocolate Triggered A Global Food Obsession](https://www.youtube.com/watch?v=nqn9Bzoa04E)<br>[00:21:03] |
 |![](https://i.ytimg.com/vi/Vizrn-R4PAE/maxresdefault.jpg) |2025-12-21 13:01:04<br>@VanessaWingårdh<br>[Car Manufacturers Are Screwing Us](https://www.youtube.com/watch?v=Vizrn-R4PAE)<br>[00:14:08] |
 |![](https://i.ytimg.com/vi/hhmNADQB6js/maxresdefault.jpg) |2025-12-21 12:00:00<br>@Tom_Nicholas<br>[Religion: MAGA’s Last Chance](https://www.youtube.com/watch?v=hhmNADQB6js)<br>[00:02:35] |
@@ -34,11 +40,8 @@
 |![](https://i.ytimg.com/vi/FeMt43GPct0/maxresdefault.jpg) |2025-12-20 03:00:36<br>@AtriocClips<br>[This is a Warning](https://www.youtube.com/watch?v=FeMt43GPct0)<br>[00:13:54] |
 |![](https://i.ytimg.com/vi/cyLZmPSMetA/maxresdefault.jpg) |2025-12-19 21:28:23<br>@OfficialSaharTV<br>[Mainstream Media is DEAD SILENT After Islamists B*RN Hindu Alive For Criticizing Islam!](https://www.youtube.com/watch?v=cyLZmPSMetA)<br>[00:07:03] |
 |![](https://i.ytimg.com/vi/pk0Zm_xpk3c/maxresdefault.jpg) |2025-12-19 21:25:01<br>@BusinessInsider<br>[You're Being Lied To About Energy Costs](https://www.youtube.com/watch?v=pk0Zm_xpk3c)<br>[00:23:13] |
-|![](https://i.ytimg.com/vi/eLM6-A7mKeU/maxresdefault.jpg) |2025-12-19 19:34:46<br>@OfficialSaharTV<br>[Candace Owens Start PANICKING Live When Piers Dares Her To Provide Evidence!](https://www.youtube.com/watch?v=eLM6-A7mKeU)<br>[00:30:33] |
 |![](https://i.ytimg.com/vi/vHn_YNXP3Jw/maxresdefault.jpg) |2025-12-19 17:32:18<br>@alyssadgrenfell<br>[The Real Reason I Left the Mormon Church](https://www.youtube.com/watch?v=vHn_YNXP3Jw)<br>[01:54:13] |
 |![](https://i.ytimg.com/vi/CwLSP40GTqY/maxresdefault.jpg) |2025-12-19 17:12:49<br>@urmomashley<br>[the perfect NYC Christmas weekend! markets, food, + activities 🎄](https://www.youtube.com/watch?v=CwLSP40GTqY)<br>[00:20:20] |
-|![](https://i.ytimg.com/vi/7bG7oraGSc4/maxresdefault.jpg) |2025-12-19 17:00:43<br>@OfficialSaharTV<br>[WATCH How Bondi Beach Hero Reacts When Community Raises 2.5 Million Dollars!](https://www.youtube.com/watch?v=7bG7oraGSc4)<br>[00:04:11] |
-|![](https://i.ytimg.com/vi/6RMqlLSZ-Hs/maxresdefault.jpg) |2025-12-19 17:00:10<br>@jubilee<br>[Anti-Trump Republicans vs MAGA \| Middle Ground](https://www.youtube.com/watch?v=6RMqlLSZ-Hs)<br>[00:49:58] |
 |![](https://i.ytimg.com/vi/jCsrUdi80tw/maxresdefault.jpg) |2025-12-19 16:01:14<br>@PodcastCringe<br>[Brendan Schaub Still Doesn't Get It](https://www.youtube.com/watch?v=jCsrUdi80tw)<br>[00:18:37] |
 |![](https://i.ytimg.com/vi/IRtLdVZ408w/maxresdefault.jpg) |2025-12-19 16:00:00<br>@Tom_Nicholas<br>[It’s Europe Too.](https://www.youtube.com/watch?v=IRtLdVZ408w)<br>[00:02:56] |
 |![](https://i.ytimg.com/vi/VaVR5eK-DZY/maxresdefault.jpg) |2025-12-19 15:15:04<br>@moresus<br>[Hasan Just Got F**king Destroyed…  #204](https://www.youtube.com/watch?v=VaVR5eK-DZY)<br>[00:41:27] |
@@ -85,7 +88,6 @@
 |![](https://i.ytimg.com/vi/JtDQQZb-424/maxresdefault.jpg) |2025-12-16 17:00:38<br>@Channel4Documentaries<br>[Father and Son Shot Dead in Their Homes in Cambridgeshire \| 24 Hours In Police Custody \| C4 Docs](https://www.youtube.com/watch?v=JtDQQZb-424)<br>[00:46:16] |
 |![](https://i.ytimg.com/vi/8cIW1lfKhQg/maxresdefault.jpg) |2025-12-16 17:00:13<br>@LilAClip<br>[The Hero We Needed.](https://www.youtube.com/watch?v=8cIW1lfKhQg)<br>[00:08:01] |
 |![](https://i.ytimg.com/vi/egUX67bW3sI/maxresdefault.jpg) |2025-12-16 16:01:08<br>@PodcastCringe<br>[When Comedians Completely Misread the Room](https://www.youtube.com/watch?v=egUX67bW3sI)<br>[00:19:13] |
-|![](https://i.ytimg.com/vi/YNA-m_pzDxY/maxresdefault.jpg) |2025-12-16 15:01:06<br>@moresus<br>[Hasan Is F**king Panicking Now.. #201](https://www.youtube.com/watch?v=YNA-m_pzDxY)<br>[00:40:37] |
 |![](https://i.ytimg.com/vi/1Jjq99nsJxY/maxresdefault.jpg) |2025-12-16 11:36:11<br>@GirlGoneLondonofficial<br>[5 Surprising Things about Moving to the UK as an American](https://www.youtube.com/watch?v=1Jjq99nsJxY)<br>[00:09:11] |
 |![](https://i.ytimg.com/vi/jnTSGk0gi5c/maxresdefault.jpg) |2025-12-16 03:30:36<br>@theAIsearch<br>[GPT-5.2 is a total monster](https://www.youtube.com/watch?v=jnTSGk0gi5c)<br>[00:36:28] |
 |![](https://i.ytimg.com/vi/DwlKVZI04eM/maxresdefault.jpg) |2025-12-15 20:00:18<br>@MichelJanse<br>[THRIFT + GIFT \| girlypop, bright + colorful  mama/baby haul 🎀 🪩 💐🌈\| shopping YOUR pinterest](https://www.youtube.com/watch?v=DwlKVZI04eM)<br>[00:38:30] |
@@ -93,7 +95,6 @@
 |![](https://i.ytimg.com/vi/50H6P0OSziw/maxresdefault.jpg) |2025-12-15 19:00:11<br>@AnaPsychology<br>[They're rage-baiting women's body image insecurities](https://www.youtube.com/watch?v=50H6P0OSziw)<br>[00:14:19] |
 |![](https://i.ytimg.com/vi/uxe78HZ_C84/maxresdefault.jpg) |2025-12-15 18:00:11<br>@leenanorms<br>[The Death of Personal Goals 💀](https://www.youtube.com/watch?v=uxe78HZ_C84)<br>[00:22:56] |
 |![](https://i.ytimg.com/vi/jzFYZOHVpCc/maxresdefault.jpg) |2025-12-15 17:08:43<br>@americanredact<br>[Andrew Santino Throws Bobby Lee Under The Bus](https://www.youtube.com/watch?v=jzFYZOHVpCc)<br>[00:17:11] |
-|![](https://i.ytimg.com/vi/KvAokTD-0_o/maxresdefault.jpg) |2025-12-15 17:00:38<br>@Channel4Documentaries<br>[Inside Prince Harry & The Mail’s Phone Hacking Battle \| Dispatches \| Channel 4 Documentaries](https://www.youtube.com/watch?v=KvAokTD-0_o)<br>[00:46:58] |
 |![](https://i.ytimg.com/vi/F-9RCKKvoJw/maxresdefault.jpg) |2025-12-15 14:57:44<br>@MoneyMacro<br>[How scientists radically reduced US gun violence (no gun ban)](https://www.youtube.com/watch?v=F-9RCKKvoJw)<br>[00:18:05] |
 |![](https://i.ytimg.com/vi/sdiVr0xiFpk/maxresdefault.jpg) |2025-12-15 14:01:36<br>@susannahfriesenofficial<br>[Readers Being SHAMED for Reading Too Much?! The Most Unhinged BookTok Take Yet](https://www.youtube.com/watch?v=sdiVr0xiFpk)<br>[00:31:39] |
 |![](https://i.ytimg.com/vi/3eU1uobk178/maxresdefault.jpg) |2025-12-15 12:00:00<br>@Tom_Nicholas<br>[MAGA & Reform Have a Problem.](https://www.youtube.com/watch?v=3eU1uobk178)<br>[00:03:00] |
@@ -115,7 +116,6 @@
 |![](https://i.ytimg.com/vi/0dPKGtJuB0o/maxresdefault.jpg) |2025-12-13 15:15:00<br>@GirlGoneLondonofficial<br>[9 British Christmas Items I Had Never Seen Before Moving to the UK](https://www.youtube.com/watch?v=0dPKGtJuB0o)<br>[00:08:34] |
 |![](https://i.ytimg.com/vi/JCsN6hCxitM/maxresdefault.jpg) |2025-12-13 14:51:34<br>@2lazy2tryYT<br>[Candace Owens Is Going Scorched Earth](https://www.youtube.com/watch?v=JCsN6hCxitM)<br>[00:25:23] |
 |![](https://i.ytimg.com/vi/F3Ea62RUdNQ/maxresdefault.jpg) |2025-12-13 14:00:23<br>@H3PodcastHighlights<br>[Can Twitch Get Any Lower Than This...](https://www.youtube.com/watch?v=F3Ea62RUdNQ)<br>[00:34:49] |
-|![](https://i.ytimg.com/vi/vEshbHBgA3A/maxresdefault.jpg) |2025-12-13 08:40:46<br>@Tom_Nicholas<br>[You’ve Been Lied to About Housing](https://www.youtube.com/watch?v=vEshbHBgA3A)<br>[00:02:06] |
 |![](https://i.ytimg.com/vi/8P8TCQUCtYY/maxresdefault.jpg) |2025-12-13 03:48:58<br>@atrioc<br>[Cracking Up At The Game Awards](https://www.youtube.com/watch?v=8P8TCQUCtYY)<br>[00:49:49] |
 |![](https://i.ytimg.com/vi/82uw8W_IQMo/maxresdefault.jpg) |2025-12-12 17:01:36<br>@TheCriticalDrinker<br>[Supergirl - More Superhero Slop?](https://www.youtube.com/watch?v=82uw8W_IQMo)<br>[00:07:21] |
 |![](https://i.ytimg.com/vi/geXZoTJ0iXw/maxresdefault.jpg) |2025-12-12 17:01:18<br>@LilAClip<br>[These Politicians are Insane...](https://www.youtube.com/watch?v=geXZoTJ0iXw)<br>[00:24:50] |
@@ -211,7 +211,6 @@
 |![](https://i.ytimg.com/vi/cHiZ-7jI0Ew/maxresdefault.jpg) |2025-11-23 11:15:07<br>@PBoyle<br>[Does OpenAI expect a Government Bailout?](https://www.youtube.com/watch?v=cHiZ-7jI0Ew)<br>[00:26:14] |
 |![](https://i.ytimg.com/vi/7PepgrRdAt8/maxresdefault.jpg) |2025-11-22 21:30:01<br>@notevenemily<br>[Boyfriend ASMR is Insane (… But I Made One)](https://www.youtube.com/watch?v=7PepgrRdAt8)<br>[00:35:11] |
 |![](https://i.ytimg.com/vi/zXBR94eNT_Y/maxresdefault.jpg) |2025-11-22 20:15:04<br>@marinamcbain<br>[Hollywood Has a New Face… And It’s TERRIFYING](https://www.youtube.com/watch?v=zXBR94eNT_Y)<br>[00:29:23] |
-|![](https://i.ytimg.com/vi/k143oFlOuJU/maxresdefault.jpg) |2025-11-22 19:00:53<br>@LouExtras<br>[The Dark Side of The Rock](https://www.youtube.com/watch?v=k143oFlOuJU)<br>[00:25:29] |
 |![](https://i.ytimg.com/vi/k_4JZo87cbk/maxresdefault.jpg) |2025-11-22 18:15:05<br>@RachelOates<br>[BookTok's Ableist Nightmare](https://www.youtube.com/watch?v=k_4JZo87cbk)<br>[02:43:00] |
 |![](https://i.ytimg.com/vi/8ovmmdpLZr4/maxresdefault.jpg) |2025-11-22 14:02:18<br>@JimmyTheGiant<br>[Why Men are Being Radicalised - Jordan Stephens](https://www.youtube.com/watch?v=8ovmmdpLZr4)<br>[01:30:57] |
 |![](https://i.ytimg.com/vi/FPo_Pvl_x6Q/maxresdefault.jpg) |2025-11-22 13:18:31<br>@1420channel<br>[In the US white people can’t say “White lives matter”](https://www.youtube.com/watch?v=FPo_Pvl_x6Q)<br>[00:04:20] |
@@ -346,6 +345,8 @@
 |![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+-------------------
+om/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 reparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
