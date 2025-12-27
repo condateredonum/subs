@@ -1,12 +1,13 @@
 -------------------
-# 2025-12-27 20:24:38
+# 2025-12-27 20:35:34
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/fp3U_mhP2M4/maxresdefault.jpg) |2025-12-27 20:30:17<br>@notevenemily<br>[Life Just Got More Strange... (Life is Strange Ep1 Part 2)](https://www.youtube.com/watch?v=fp3U_mhP2M4)<br>[01:01:58] |
 |![](https://i.ytimg.com/vi/xE-SdGNY6eU/maxresdefault.jpg) |2025-12-27 20:06:31<br>@AtheistRepublic<br>[Trump Bombs Nigeria: Christmas Airstrikes on ISIS](https://www.youtube.com/watch?v=xE-SdGNY6eU)<br>[01:54:49] |
 |![](https://i.ytimg.com/vi/zZVZTkl1Yc8/maxresdefault.jpg) |2025-12-27 20:00:48<br>@LaelHansen<br>[WHY DOES EVERYONE LOOK SO OLD NOW?](https://www.youtube.com/watch?v=zZVZTkl1Yc8)<br>[00:21:17] |
 |![](https://i.ytimg.com/vi/-lFMIjMWBfQ/maxresdefault.jpg) |2025-12-27 18:30:01<br>@jordankang<br>[Friendship Isn't Fun Anymore... It's Exhausting](https://www.youtube.com/watch?v=-lFMIjMWBfQ)<br>[00:12:49] |
-|![](https://i.ytimg.com/vi/GAJf2F1BbRA/maxresdefault.jpg) |2025-12-27 18:15:07<br>@PBoyle<br>[Why The DOJ Ignored Epstein for 40 Years!](https://www.youtube.com/watch?v=GAJf2F1BbRA)<br>[00:37:15] |
+|![](https://i.ytimg.com/vi/GAJf2F1BbRA/maxresdefault.jpg) |2025-12-27 18:15:07<br>@PBoyle<br>[The Epstein Files are Worse Than You Think!](https://www.youtube.com/watch?v=GAJf2F1BbRA)<br>[00:37:15] |
 |![](https://i.ytimg.com/vi/9193yENslDs/maxresdefault.jpg) |2025-12-27 17:30:02<br>@GirlGoneLondonofficial<br>[why is America obsessed with ICE in their drinks?! compared to Britain](https://www.youtube.com/watch?v=9193yENslDs)<br>[00:08:37] |
 |![](https://i.ytimg.com/vi/ap9VOFlDP3s/maxresdefault.jpg) |2025-12-27 15:00:06<br>@moresus<br>[Twitch Actually Got F**king Destroyed…](https://www.youtube.com/watch?v=ap9VOFlDP3s)<br>[00:37:06] |
 |![](https://i.ytimg.com/vi/p8KCJq58qqg/maxresdefault.jpg) |2025-12-27 14:01:31<br>@PlasticPills<br>[Nick Fuentes' Real Endgame](https://www.youtube.com/watch?v=p8KCJq58qqg)<br>[01:20:50] |
@@ -80,6 +81,7 @@
 |![](https://i.ytimg.com/vi/ioGUUoOTWf4/maxresdefault.jpg) |2025-12-21 20:34:43<br>@thought_bug<br>[2026 outs: cake smashing ❌](https://www.youtube.com/watch?v=ioGUUoOTWf4)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/jwdBjtxJkIU/maxresdefault.jpg) |2025-12-21 19:15:02<br>@H3PodcastHighlights<br>[The Crew's Spotify Wrapped!](https://www.youtube.com/watch?v=jwdBjtxJkIU)<br>[00:33:20] |
 |![](https://i.ytimg.com/vi/ovc5twRGwbI/maxresdefault.jpg) |2025-12-21 17:01:19<br>@Channel4Documentaries<br>[Britain’s Parcel Thief Gangs – Exposed \| Dispatches \| Channel 4 Documentaries](https://www.youtube.com/watch?v=ovc5twRGwbI)<br>[00:47:12] |
+|![](https://i.ytimg.com/vi/d03Tww5n3bg/maxresdefault.jpg) |2025-12-21 17:01:04<br>@ColeHastings<br>[Everyone Sounds Like AI Now And I Hate It](https://www.youtube.com/watch?v=d03Tww5n3bg)<br>[00:17:19] |
 |![](https://i.ytimg.com/vi/x8bqNDypjzY/maxresdefault.jpg) |2025-12-21 16:45:04<br>@LouExtras<br>[Nelk’s Most Insufferable Member (Steiny)](https://www.youtube.com/watch?v=x8bqNDypjzY)<br>[00:33:50] |
 |![](https://i.ytimg.com/vi/cWfgJGU-2VY/maxresdefault.jpg) |2025-12-21 16:00:04<br>@GhostGum<br>[The Depressing Downfall of Joe Rogan](https://www.youtube.com/watch?v=cWfgJGU-2VY)<br>[00:30:15] |
 |![](https://i.ytimg.com/vi/9lDM0gsKXfA/maxresdefault.jpg) |2025-12-21 15:00:18<br>@Tom_Nicholas<br>[43 Months to Save Britain](https://www.youtube.com/watch?v=9lDM0gsKXfA)<br>[00:31:41] |
@@ -139,6 +141,7 @@
 |![](https://i.ytimg.com/vi/sdiVr0xiFpk/maxresdefault.jpg) |2025-12-15 14:01:36<br>@susannahfriesenofficial<br>[Readers Being SHAMED for Reading Too Much?! The Most Unhinged BookTok Take Yet](https://www.youtube.com/watch?v=sdiVr0xiFpk)<br>[00:31:39] |
 |![](https://i.ytimg.com/vi/3eU1uobk178/maxresdefault.jpg) |2025-12-15 12:00:00<br>@Tom_Nicholas<br>[MAGA & Reform Have a Problem.](https://www.youtube.com/watch?v=3eU1uobk178)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/RnvDzxxYMC4/maxresdefault.jpg) |2025-12-14 18:00:24<br>@H3PodcastHighlights<br>[My Biggest Competitor Mysteriously Disappeared...?](https://www.youtube.com/watch?v=RnvDzxxYMC4)<br>[00:09:03] |
+|![](https://i.ytimg.com/vi/mZHBHFoFup0/maxresdefault.jpg) |2025-12-14 17:01:17<br>@ColeHastings<br>[Gen Z's Aging Epidemic](https://www.youtube.com/watch?v=mZHBHFoFup0)<br>[00:18:16] |
 |![](https://i.ytimg.com/vi/LAPcW7OAv98/maxresdefault.jpg) |2025-12-14 17:00:35<br>@fern-tv<br>[We Investigated China's Secret Highway](https://www.youtube.com/watch?v=LAPcW7OAv98)<br>[00:35:55] |
 |![](https://i.ytimg.com/vi/QibWyMXvwvM/maxresdefault.jpg) |2025-12-14 11:45:07<br>@PBoyle<br>[Elon Musk Admits DOGE Was a Failure!](https://www.youtube.com/watch?v=QibWyMXvwvM)<br>[00:35:35] |
 |![](https://i.ytimg.com/vi/0BRJPLw7W10/maxresdefault.jpg) |2025-12-14 10:45:35<br>@briarchats<br>[Is Social Media Advice Making Us Bad Friends??? *a chaotic yap*](https://www.youtube.com/watch?v=0BRJPLw7W10)<br>[00:44:30] |
@@ -229,7 +232,6 @@
 |![](https://i.ytimg.com/vi/BnPx7fxG3x4/maxresdefault.jpg) |2025-11-24 19:14:22<br>@HowMoneyWorks<br>[50 Year Mortgages Are Actually Even Dumber Than You Think](https://www.youtube.com/watch?v=BnPx7fxG3x4)<br>[00:15:02] |
 |![](https://i.ytimg.com/vi/kzCTs0_BoYc/maxresdefault.jpg) |2025-11-24 17:01:26<br>@MoreCringe<br>[Elon Musk Is an Unhinged Ego Maniac](https://www.youtube.com/watch?v=kzCTs0_BoYc)<br>[00:15:56] |
 |![](https://i.ytimg.com/vi/lMJTJLqCxD0/maxresdefault.jpg) |2025-11-23 13:01:37<br>@VanessaWingårdh<br>[ChatGPT is Turning Everyone Into Bots](https://www.youtube.com/watch?v=lMJTJLqCxD0)<br>[00:13:40] |
-|![](https://i.ytimg.com/vi/7PepgrRdAt8/maxresdefault.jpg) |2025-11-22 21:30:01<br>@notevenemily<br>[Boyfriend ASMR is Insane (… But I Made One)](https://www.youtube.com/watch?v=7PepgrRdAt8)<br>[00:35:11] |
 |![](https://i.ytimg.com/vi/zXBR94eNT_Y/maxresdefault.jpg) |2025-11-22 20:15:04<br>@marinamcbain<br>[Hollywood Has a New Face… And It’s TERRIFYING](https://www.youtube.com/watch?v=zXBR94eNT_Y)<br>[00:29:23] |
 |![](https://i.ytimg.com/vi/k_4JZo87cbk/maxresdefault.jpg) |2025-11-22 18:15:05<br>@RachelOates<br>[BookTok's Ableist Nightmare](https://www.youtube.com/watch?v=k_4JZo87cbk)<br>[02:43:00] |
 |![](https://i.ytimg.com/vi/8ovmmdpLZr4/maxresdefault.jpg) |2025-11-22 14:02:18<br>@JimmyTheGiant<br>[Why Men are Being Radicalised - Jordan Stephens](https://www.youtube.com/watch?v=8ovmmdpLZr4)<br>[01:30:57] |
@@ -356,9 +358,7 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
-3eUqg)<br>[00:16:59] |
-|![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
-|![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
+ally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/XLVa_0JemWs/hqdefault.jpg) |2007-08-11 04:18:27<br>@thoughtbug<br>[Flagg Coal Company No. 75](https://www.youtube.com/watch?v=XLVa_0JemWs)<br>[00:09:37] |
 -------------------
