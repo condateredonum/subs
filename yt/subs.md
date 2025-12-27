@@ -39,6 +39,8 @@
 
 [Channel 5 Andrew Callaghan](https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg/videos)
 
+[Cole Hastings](https://www.youtube.com/@ColeHastings/videos)
+
 [Critical Drinker](https://www.youtube.com/@TheCriticalDrinker/videos)
 
 [Disparu](https://www.youtube.com/@disparutoo/videos)
