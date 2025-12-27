@@ -47,6 +47,8 @@
 
 [Dodford](https://www.youtube.com/@DodfordYT/videos)
 
+[Drew Gooden](https://www.youtube.com/@drewisgooden/videos)
+
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
 [Erica Mallett](https://www.youtube.com/@ericamallett/videos)
