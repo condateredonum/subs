@@ -139,6 +139,8 @@
 
 [PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
+[Plastic Pills](https://www.youtube.com/@PlasticPills/videos)
+
 [Podcast Cringe](https://www.youtube.com/@PodcastCringe/videos)
 
 [Psychology with Dr.Ana](https://www.youtube.com/@AnaPsychology/videos)
