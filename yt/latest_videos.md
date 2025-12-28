@@ -1,8 +1,14 @@
 -------------------
-# 2025-12-28 10:29:35
+# 2025-12-28 16:45:38
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/7vNZ84TJsXs/maxresdefault.jpg) |2025-12-28 15:15:08<br>@HowMoneyWorks<br>[Did The Boomers Really Have It Better... Or Were They Just More Demanding?](https://www.youtube.com/watch?v=7vNZ84TJsXs)<br>[00:15:39] |
+|![](https://i.ytimg.com/vi/8swSkk9yeV8/maxresdefault.jpg) |2025-12-28 15:00:16<br>@JimmyTheGiant<br>[The Terrifying Rise of Christian Nationalism](https://www.youtube.com/watch?v=8swSkk9yeV8)<br>[00:58:14] |
+|![](https://i.ytimg.com/vi/1Qq8rdNXoec/maxresdefault.jpg) |2025-12-28 15:00:07<br>@moresus<br>[Hasan Has A Message For His Haters..](https://www.youtube.com/watch?v=1Qq8rdNXoec)<br>[00:36:00] |
+|![](https://i.ytimg.com/vi/7B1BxnN1zcI/maxresdefault.jpg) |2025-12-28 14:37:27<br>@OfficialSaharTV<br>[A Massive Crisis is Happening Right Now in Israel, Here's How You Can Help...](https://www.youtube.com/watch?v=7B1BxnN1zcI)<br>[00:02:51] |
+|![](https://i.ytimg.com/vi/k9War7FulWM/maxresdefault.jpg) |2025-12-28 14:01:15<br>@AtheistRepublic<br>[Christianity vs Islam: Who Was Actually Worse To Jews?](https://www.youtube.com/watch?v=k9War7FulWM)<br>[00:15:50] |
+|![](https://i.ytimg.com/vi/0yZ8yYzj-Ys/maxresdefault.jpg) |2025-12-28 13:00:03<br>@VanessaWingårdh<br>[Tech Billionaires Are Now Hoarding Your Computer Parts](https://www.youtube.com/watch?v=0yZ8yYzj-Ys)<br>[00:07:52] |
 |![](https://i.ytimg.com/vi/8qCDLhUn0Uw/maxresdefault.jpg) |2025-12-28 09:45:00<br>@AtheistRepublic<br>[Is Islam the only religion trying to rule the world?](https://www.youtube.com/watch?v=8qCDLhUn0Uw)<br>[00:11:27] |
 |![](https://i.ytimg.com/vi/ix5GLzG1wCo/maxresdefault.jpg) |2025-12-28 08:29:00<br>@AtriocClips<br>[This Can't Be Ignored](https://www.youtube.com/watch?v=ix5GLzG1wCo)<br>[00:19:57] |
 |![](https://i.ytimg.com/vi/83Q3ryOVMTs/maxresdefault.jpg) |2025-12-28 06:07:51<br>@atrioc<br>[I Created A $2,000 HITMAN Challenge to Find The World's Best Player.](https://www.youtube.com/watch?v=83Q3ryOVMTs)<br>[00:54:44] |
@@ -18,7 +24,6 @@
 |![](https://i.ytimg.com/vi/9193yENslDs/maxresdefault.jpg) |2025-12-27 17:30:02<br>@GirlGoneLondonofficial<br>[why Americans need this one shocking thing with every drink (and Brits don't)](https://www.youtube.com/watch?v=9193yENslDs)<br>[00:08:37] |
 |![](https://i.ytimg.com/vi/ap9VOFlDP3s/maxresdefault.jpg) |2025-12-27 15:00:06<br>@moresus<br>[Twitch Actually Got F**king Destroyed…](https://www.youtube.com/watch?v=ap9VOFlDP3s)<br>[00:37:06] |
 |![](https://i.ytimg.com/vi/p8KCJq58qqg/maxresdefault.jpg) |2025-12-27 14:01:31<br>@PlasticPills<br>[Nick Fuentes' Real Endgame](https://www.youtube.com/watch?v=p8KCJq58qqg)<br>[01:20:50] |
-|![](https://i.ytimg.com/vi/YbqEzdA8ego/maxresdefault.jpg) |2025-12-27 13:01:13<br>@AtheistRepublic<br>[Even ChatGPT is "Zionist"? How AI is Killing Modern Propaganda](https://www.youtube.com/watch?v=YbqEzdA8ego)<br>[00:26:31] |
 |![](https://i.ytimg.com/vi/53qBrTcEN6I/sddefault.jpg) |2025-12-27 07:09:50<br>@JREG<br>[Anti-Free Speech Absolutism](https://www.youtube.com/watch?v=53qBrTcEN6I)<br>[00:04:49] |
 |![](https://i.ytimg.com/vi/VS6p5kPeD9I/maxresdefault.jpg) |2025-12-27 05:10:44<br>@AtriocClips<br>[The HALO Scheme is Insane](https://www.youtube.com/watch?v=VS6p5kPeD9I)<br>[00:14:48] |
 |![](https://i.ytimg.com/vi/7WDUiDr3t7k/maxresdefault.jpg) |2025-12-27 00:14:48<br>@2lazy2tryYT<br>[Andrew Tate Destroys His Reputation After Humiliating Loss](https://www.youtube.com/watch?v=7WDUiDr3t7k)<br>[00:12:24] |
@@ -58,7 +63,6 @@
 |![](https://i.ytimg.com/vi/zh_ZB4STrbg/maxresdefault.jpg) |2025-12-23 17:25:44<br>@Shoe0nHead<br>[The Insane World of Child Dating Apps](https://www.youtube.com/watch?v=zh_ZB4STrbg)<br>[00:23:38] |
 |![](https://i.ytimg.com/vi/U0REsgdTVmI/maxresdefault.jpg) |2025-12-23 16:16:30<br>@_jared<br>[These are the 8 best books I read in 2025](https://www.youtube.com/watch?v=U0REsgdTVmI)<br>[00:35:49] |
 |![](https://i.ytimg.com/vi/VlrbkEGdAiY/maxresdefault.jpg) |2025-12-23 15:15:09<br>@GirlGoneLondonofficial<br>[American learns 9 TOYS every BRITISH 70s KID will remember!](https://www.youtube.com/watch?v=VlrbkEGdAiY)<br>[00:09:10] |
-|![](https://i.ytimg.com/vi/t9A2wy8qI-k/maxresdefault.jpg) |2025-12-23 15:01:52<br>@moresus<br>[Hasan Just Got F**king Embarrassed...  #207](https://www.youtube.com/watch?v=t9A2wy8qI-k)<br>[00:37:48] |
 |![](https://i.ytimg.com/vi/78vWO2SCfEk/maxresdefault.jpg) |2025-12-23 15:00:13<br>@fern-tv<br>[The Hunt for the Lost Communist Console](https://www.youtube.com/watch?v=78vWO2SCfEk)<br>[00:17:50] |
 |![](https://i.ytimg.com/vi/wFiEXodlNto/maxresdefault.jpg) |2025-12-23 13:51:45<br>@HowMoneyWorks<br>[If AI Takes Over, We Lose Our Jobs... BUT If AI Fails... We Also Lose Our Jobs...](https://www.youtube.com/watch?v=wFiEXodlNto)<br>[00:19:40] |
 |![](https://i.ytimg.com/vi/muup9E56ycs/maxresdefault.jpg) |2025-12-23 12:53:12<br>@Israel_Advocacy<br>[A Muslim Asks An Israeli "Why Did The You Destroy My Village?"](https://www.youtube.com/watch?v=muup9E56ycs)<br>[01:34:17] |
@@ -150,7 +154,7 @@
 |![](https://i.ytimg.com/vi/B1hka3oQOPY/maxresdefault.jpg) |2025-12-13 20:30:02<br>@notevenemily<br>[The Obsession With Aging Needs to Stop](https://www.youtube.com/watch?v=B1hka3oQOPY)<br>[00:49:49] |
 |![](https://i.ytimg.com/vi/pf2u8ycYD6U/maxresdefault.jpg) |2025-12-13 20:00:43<br>@AbbieRee<br>[You’re NOT Okay, Hollywood Is Killing You…](https://www.youtube.com/watch?v=pf2u8ycYD6U)<br>[00:19:02] |
 |![](https://i.ytimg.com/vi/PurlJJp7PjY/maxresdefault.jpg) |2025-12-13 20:00:19<br>@jordankang<br>[Nobody Knows How to Socialize Anymore...and It's Lonely](https://www.youtube.com/watch?v=PurlJJp7PjY)<br>[00:23:14] |
-|![](https://i.ytimg.com/vi/7rl2zN7bSw8/maxresdefault.jpg) |2025-12-13 20:00:09<br>@marinamcbain<br>[Why Do Netflix Movies Look like that?...](https://www.youtube.com/watch?v=7rl2zN7bSw8)<br>[00:24:57] |
+|![](https://i.ytimg.com/vi/7rl2zN7bSw8/maxresdefault.jpg) |2025-12-13 20:00:09<br>@marinamcbain<br>["The Netflix Look" The Death of REAL Movies...](https://www.youtube.com/watch?v=7rl2zN7bSw8)<br>[00:24:57] |
 |![](https://i.ytimg.com/vi/bePi4AleySQ/maxresdefault.jpg) |2025-12-13 18:30:45<br>@H3PodcastHighlights<br>[This MrBeast Drama Is Getting Weird...](https://www.youtube.com/watch?v=bePi4AleySQ)<br>[00:09:04] |
 |![](https://i.ytimg.com/vi/Q5yf6dPG3CE/maxresdefault.jpg) |2025-12-13 16:52:01<br>@CamKirkham<br>[The Diddy Documentary is SO Disturbing](https://www.youtube.com/watch?v=Q5yf6dPG3CE)<br>[01:20:06] |
 |![](https://i.ytimg.com/vi/0dPKGtJuB0o/maxresdefault.jpg) |2025-12-13 15:15:00<br>@GirlGoneLondonofficial<br>[9 British Christmas Items I Had Never Seen Before Moving to the UK](https://www.youtube.com/watch?v=0dPKGtJuB0o)<br>[00:08:34] |
@@ -230,7 +234,6 @@
 |![](https://i.ytimg.com/vi/3bTWfdv2Ulg/maxresdefault.jpg) |2025-11-25 03:36:59<br>@atrioc<br>[Product Placement Is Everywhere Now](https://www.youtube.com/watch?v=3bTWfdv2Ulg)<br>[00:26:12] |
 |![](https://i.ytimg.com/vi/HomNOMtE1Ac/maxresdefault.jpg) |2025-11-24 22:41:38<br>@americanredact<br>[Akaash Singh's Humiliation Ritual Just Got Way Worse](https://www.youtube.com/watch?v=HomNOMtE1Ac)<br>[00:14:35] |
 |![](https://i.ytimg.com/vi/gli4Ox4i54I/maxresdefault.jpg) |2025-11-24 21:20:42<br>@Shoe0nHead<br>[How Did We Get Here?](https://www.youtube.com/watch?v=gli4Ox4i54I)<br>[00:30:13] |
-|![](https://i.ytimg.com/vi/BnPx7fxG3x4/maxresdefault.jpg) |2025-11-24 19:14:22<br>@HowMoneyWorks<br>[50 Year Mortgages Are Actually Even Dumber Than You Think](https://www.youtube.com/watch?v=BnPx7fxG3x4)<br>[00:15:02] |
 |![](https://i.ytimg.com/vi/kzCTs0_BoYc/maxresdefault.jpg) |2025-11-24 17:01:26<br>@MoreCringe<br>[Elon Musk Is an Unhinged Ego Maniac](https://www.youtube.com/watch?v=kzCTs0_BoYc)<br>[00:15:56] |
 |![](https://i.ytimg.com/vi/lMJTJLqCxD0/maxresdefault.jpg) |2025-11-23 13:01:37<br>@VanessaWingårdh<br>[ChatGPT is Turning Everyone Into Bots](https://www.youtube.com/watch?v=lMJTJLqCxD0)<br>[00:13:40] |
 |![](https://i.ytimg.com/vi/zXBR94eNT_Y/maxresdefault.jpg) |2025-11-22 20:15:04<br>@marinamcbain<br>[Hollywood Has a New Face… And It’s TERRIFYING](https://www.youtube.com/watch?v=zXBR94eNT_Y)<br>[00:29:23] |
@@ -263,7 +266,6 @@
 |![](https://i.ytimg.com/vi/SZLf6Q8BMH4/maxresdefault.jpg) |2025-11-10 17:53:14<br>@Galatea-and-Acis<br>[Lil Tay, Bonnie Blue & The Lie of "Empowerment"](https://www.youtube.com/watch?v=SZLf6Q8BMH4)<br>[01:37:19] |
 |![](https://i.ytimg.com/vi/WyV4KQ9p-9g/maxresdefault.jpg) |2025-11-10 16:01:01<br>@MoreCringe<br>[Mike Israetel Might Actually Be Insane](https://www.youtube.com/watch?v=WyV4KQ9p-9g)<br>[00:23:00] |
 |![](https://i.ytimg.com/vi/jU5D7coSa6E/maxresdefault.jpg) |2025-11-10 14:25:39<br>@IzzySealey<br>[How to Transform Your Life Before 2026 (using science)](https://www.youtube.com/watch?v=jU5D7coSa6E)<br>[00:12:15] |
-|![](https://i.ytimg.com/vi/b3h5e-A6dfs/maxresdefault.jpg) |2025-11-09 13:01:09<br>@VanessaWingårdh<br>[They're Firing Everyone And Getting Rich From It](https://www.youtube.com/watch?v=b3h5e-A6dfs)<br>[00:14:58] |
 |![](https://i.ytimg.com/vi/zyWAmq_g-AQ/maxresdefault.jpg) |2025-11-06 23:13:51<br>@oliSUNvia<br>[i asked philosophy professors to define RESPONSIBILITY](https://www.youtube.com/watch?v=zyWAmq_g-AQ)<br>[00:47:12] |
 |![](https://i.ytimg.com/vi/K7dslANnKH0/maxresdefault.jpg) |2025-11-06 19:00:08<br>@lucymoon<br>[what a perfect autumn day looks like in london](https://www.youtube.com/watch?v=K7dslANnKH0)<br>[00:16:03] |
 |![](https://i.ytimg.com/vi/yTniD9_D2l8/maxresdefault.jpg) |2025-11-05 15:00:33<br>@kate.cassidy<br>[what AI tech bros get wrong](https://www.youtube.com/watch?v=yTniD9_D2l8)<br>[00:17:44] |
