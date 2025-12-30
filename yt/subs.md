@@ -109,6 +109,8 @@
 
 [Marina McBain](https://www.youtube.com/@marinamcbain/videos)
 
+[Maxinomics](https://www.youtube.com/channel/UCUEmaeh13ai1ivT5wzz5Lhg)
+
 [Mayuko](https://www.youtube.com/@hellomayuko/videos)
 
 [Michel Janse](https://www.youtube.com/@MichelJanse/videos)
