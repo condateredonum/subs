@@ -121,6 +121,8 @@
 
 [Moocake](https://www.youtube.com/@Moocake/videos)
 
+[Moon](https://www.youtube.com/channel/UCmFeOdJI3IXgTBDzqBLD8qg)
+
 [Morbid Zoo](https://www.youtube.com/@themorbidzoo/videos)
 
 [More Cringe](https://www.youtube.com/@MoreCringe)
