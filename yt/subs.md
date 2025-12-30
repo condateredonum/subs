@@ -53,6 +53,8 @@
 
 [Erica Mallett](https://www.youtube.com/@ericamallett/videos)
 
+[Fads](https://www.youtube.com/channel/UCiTgRcnZs--vFScAQtRH5QA)
+
 [Fern](https://www.youtube.com/@fern-tv/videos)
 
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
