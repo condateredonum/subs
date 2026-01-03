@@ -1,13 +1,15 @@
 -------------------
-# 2026-01-03 10:29:29
+# 2026-01-03 17:13:45
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/i-X__YxSbSk/maxresdefault.jpg) |2026-01-03 15:01:19<br>@moresus<br>[Hasan Is Quitting Streaming In 2026..](https://www.youtube.com/watch?v=i-X__YxSbSk)<br>[00:39:24] |
+|![](https://i.ytimg.com/vi/xZbrrzu772c/maxresdefault.jpg) |2026-01-03 14:30:52<br>@AtheistRepublic<br>[Israel's Secret Message to the IRGC](https://www.youtube.com/watch?v=xZbrrzu772c)<br>[02:23:10] |
+|![](https://i.ytimg.com/vi/zJlAFNJVmx0/maxresdefault.jpg) |2026-01-03 10:30:48<br>@AtheistRepublic<br>[Why Iran is Actually the "Global Capital of Islamophobia"](https://www.youtube.com/watch?v=zJlAFNJVmx0)<br>[00:24:23] |
 |![](https://i.ytimg.com/vi/RcTFDa0N8PY/maxresdefault.jpg) |2026-01-03 03:45:03<br>@AtheistRepublic<br>[Traitor or Savior? The Debate Tearing Israel Apart](https://www.youtube.com/watch?v=RcTFDa0N8PY)<br>[00:37:31] |
 |![](https://i.ytimg.com/vi/pIdUWBu6-q0/maxresdefault.jpg) |2026-01-02 23:01:09<br>@OfficialSaharTV<br>[Palestinian Protesters BURN American Flag, Then Brave Patriot FIGHTS BACK!](https://www.youtube.com/watch?v=pIdUWBu6-q0)<br>[00:14:33] |
 |![](https://i.ytimg.com/vi/YuoE7CrN7-k/maxresdefault.jpg) |2026-01-02 22:00:27<br>@AtheistRepublic<br>[Iran is the Global Capital of Islamophobia](https://www.youtube.com/watch?v=YuoE7CrN7-k)<br>[00:31:17] |
 |![](https://i.ytimg.com/vi/8uSpsTDbdmw/maxresdefault.jpg) |2026-01-02 20:40:03<br>@OfficialSaharTV<br>[🚨New RESURFACED Video Shows The Disturbing Truth About Zohran Mamdani!](https://www.youtube.com/watch?v=8uSpsTDbdmw)<br>[00:05:49] |
-|![](https://i.ytimg.com/vi/gDqXsqyy7K4/maxresdefault.jpg) |2026-01-02 19:52:11<br>@AtheistRepublic<br>[Asmongold Reacts: Iran Regime Collapse](https://www.youtube.com/watch?v=gDqXsqyy7K4)<br>[01:45:24] |
 |![](https://i.ytimg.com/vi/dhRGg0fy5l0/maxresdefault.jpg) |2026-01-02 18:09:08<br>@theantibot<br>[Evangelical sermons are always about the same 2 things. #exvangelical #satanist](https://www.youtube.com/watch?v=dhRGg0fy5l0)<br>[00:02:49] |
 |![](https://i.ytimg.com/vi/TBs4rV1xwRI/maxresdefault.jpg) |2026-01-02 17:51:02<br>@OfficialSaharTV<br>[Charlie Rose Insists Islam is Peaceful, Them Bill Maher Teaches Him A HARSH Lesson!](https://www.youtube.com/watch?v=TBs4rV1xwRI)<br>[00:08:12] |
 |![](https://i.ytimg.com/vi/nPO9AVspOP0/maxresdefault.jpg) |2026-01-02 17:45:23<br>@H3PodcastHighlights<br>[The Best H3 Show Moments Of 2025!](https://www.youtube.com/watch?v=nPO9AVspOP0)<br>[00:12:25] |
@@ -20,8 +22,6 @@
 |![](https://i.ytimg.com/vi/rXqCDeTuhiU/maxresdefault.jpg) |2026-01-02 14:13:12<br>@alyssadgrenfell<br>[Outdoor Boys Quits YouTube for Mormon Leadership?](https://www.youtube.com/watch?v=rXqCDeTuhiU)<br>[01:03:55] |
 |![](https://i.ytimg.com/vi/oEyP5qAvsPM/maxresdefault.jpg) |2026-01-02 14:01:22<br>@susannahfriesenofficial<br>[“New Year, New Me” Feels So Draining and I’m Over It](https://www.youtube.com/watch?v=oEyP5qAvsPM)<br>[00:24:17] |
 |![](https://i.ytimg.com/vi/rUAVWUSKquk/maxresdefault.jpg) |2026-01-02 12:21:49<br>@Israel_Advocacy<br>[Muslim Reads What The Quran Says About Israel… And Starts Panicking](https://www.youtube.com/watch?v=rUAVWUSKquk)<br>[00:10:59] |
-|![](https://i.ytimg.com/vi/q0_NM9EHq8U/maxresdefault.jpg) |2026-01-02 10:30:40<br>@AtheistRepublic<br>[YOUNG TURKS EXPOSED: The Disgusting "Psyop" Lie They’re Spreading](https://www.youtube.com/watch?v=q0_NM9EHq8U)<br>[00:24:18] |
-|![](https://i.ytimg.com/vi/EFAs1apw_m4/maxresdefault.jpg) |2026-01-02 03:30:19<br>@AtheistRepublic<br>[Mafia Tactics: Israel’s 12-Hour Ultimatum to the IRGC "Surrender or Die"](https://www.youtube.com/watch?v=EFAs1apw_m4)<br>[00:34:00] |
 |![](https://i.ytimg.com/vi/PLHBFkUBbPQ/maxresdefault.jpg) |2026-01-02 02:47:26<br>@briarchats<br>[Reacting to My Held Comments... ✨ a silly yap ✨](https://www.youtube.com/watch?v=PLHBFkUBbPQ)<br>[00:17:28] |
 |![](https://i.ytimg.com/vi/3dWtP9tP1yg/maxresdefault.jpg) |2026-01-02 01:00:06<br>@LilAClip<br>[The Reason You Can't Find a Job...](https://www.youtube.com/watch?v=3dWtP9tP1yg)<br>[00:10:35] |
 |![](https://i.ytimg.com/vi/SnkFQb6bwHU/maxresdefault.jpg) |2026-01-01 21:33:50<br>@YishaiFleisherTV<br>[Charlie Kirk “Anyone Who Hates Israel Has NO Place In The Conservative Movement”](https://www.youtube.com/watch?v=SnkFQb6bwHU)<br>[00:50:36] |
@@ -78,7 +78,6 @@
 |![](https://i.ytimg.com/vi/LmvfCQCh_Mc/maxresdefault.jpg) |2025-12-28 17:00:28<br>@LilAClip<br>[The Year of Waymo.](https://www.youtube.com/watch?v=LmvfCQCh_Mc)<br>[00:10:38] |
 |![](https://i.ytimg.com/vi/7vNZ84TJsXs/maxresdefault.jpg) |2025-12-28 15:15:08<br>@HowMoneyWorks<br>[Did The Boomers Really Have It Better... Or Were They Just More Demanding?](https://www.youtube.com/watch?v=7vNZ84TJsXs)<br>[00:15:39] |
 |![](https://i.ytimg.com/vi/8swSkk9yeV8/maxresdefault.jpg) |2025-12-28 15:00:16<br>@JimmyTheGiant<br>[Why Billionaires Want You To Be "Christian" Now](https://www.youtube.com/watch?v=8swSkk9yeV8)<br>[00:58:14] |
-|![](https://i.ytimg.com/vi/1Qq8rdNXoec/maxresdefault.jpg) |2025-12-28 15:00:07<br>@moresus<br>[Hasan Has A Message For His Haters..  #212](https://www.youtube.com/watch?v=1Qq8rdNXoec)<br>[00:36:00] |
 |![](https://i.ytimg.com/vi/0yZ8yYzj-Ys/maxresdefault.jpg) |2025-12-28 13:00:03<br>@VanessaWingårdh<br>[Tech Billionaires Are Now Hoarding Your Computer Parts](https://www.youtube.com/watch?v=0yZ8yYzj-Ys)<br>[00:07:52] |
 |![](https://i.ytimg.com/vi/83Q3ryOVMTs/maxresdefault.jpg) |2025-12-28 06:07:51<br>@atrioc<br>[I Created A $2,000 HITMAN Challenge. The Results Were Mindblowing.](https://www.youtube.com/watch?v=83Q3ryOVMTs)<br>[00:54:44] |
 |![](https://i.ytimg.com/vi/gdVMEnZsiKo/maxresdefault.jpg) |2025-12-28 05:31:36<br>@LegalMindset<br>[Clavicular Clash: Self Defense? (LIVE)](https://www.youtube.com/watch?v=gdVMEnZsiKo)<br>[00:31:22] |
@@ -361,6 +360,8 @@
 |![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+-------------------
+//i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 Vk)<br>[00:11:25] |
 -------------------
