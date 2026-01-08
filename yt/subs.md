@@ -147,6 +147,8 @@
 
 [Paper Will](https://www.youtube.com/channel/UCPwuva5LbnwFTetkP_cUQHA/videos)
 
+[Penguinz0](https://www.youtube.com/@penguinz0/videos)
+
 [PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
 [Plastic Pills](https://www.youtube.com/@PlasticPills/videos)
