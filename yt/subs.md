@@ -185,6 +185,8 @@
 
 [Tom Nicholas](https://www.youtube.com/@Tom_Nicholas/videos)
 
+[Type Ashton](https://www.youtube.com/@TypeAshton/videos)
+
 [Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
 
 [Vanessa Wingårdh](https://www.youtube.com/@VanessaWing%C3%A5rdh)
