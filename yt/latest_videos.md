@@ -1,12 +1,19 @@
 -------------------
-# 2026-01-18 19:53:53
+# 2026-01-19 10:38:38
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/fdL3xUfqb7U/sddefault.jpg) |2026-01-19 07:27:47<br>@penguinz0<br>[No plans](https://www.youtube.com/watch?v=fdL3xUfqb7U)<br>[03:16:44] |
+|![](https://i.ytimg.com/vi/vee4YPA3V20/maxresdefault.jpg) |2026-01-19 05:13:17<br>@OfficialSaharTV<br>[Tommy Robinson EXPOSES Pro-Islam Newspaper, Then Gets Kicked Out Of The Building!](https://www.youtube.com/watch?v=vee4YPA3V20)<br>[00:06:09] |
+|![](https://i.ytimg.com/vi/lkXyLvinj28/maxresdefault.jpg) |2026-01-19 03:21:25<br>@YishaiFleisherTV<br>[BAR KOKHBA REVOLT: A Jew Who Challenged The Full Might Of The Roman Empire!](https://www.youtube.com/watch?v=lkXyLvinj28)<br>[00:13:44] |
+|![](https://i.ytimg.com/vi/HuvsXKNmsuA/maxresdefault.jpg) |2026-01-19 03:10:39<br>@AtheistRepublic<br>[IRAN REVOLUTION LIVE WITH IRANIAN HOSTS - DAY 22 PART 2](https://www.youtube.com/watch?v=HuvsXKNmsuA)<br>[05:13:07] |
+|![](https://i.ytimg.com/vi/DiMyuNUj2ro/maxresdefault.jpg) |2026-01-19 01:46:16<br>@OfficialSaharTV<br>[Anti-Israel Proffesor Gets Absolutely SCORCHED By Shabbos Kestenbaum (Owned Badly)](https://www.youtube.com/watch?v=DiMyuNUj2ro)<br>[00:11:04] |
+|![](https://i.ytimg.com/vi/lKqwaYG2sTw/sddefault.jpg) |2026-01-19 01:00:51<br>@penguinz0<br>[It's A Shame This Movie is Flopping](https://www.youtube.com/watch?v=lKqwaYG2sTw)<br>[00:12:03] |
+|![](https://i.ytimg.com/vi/9pwFvTfCkDc/maxresdefault.jpg) |2026-01-18 21:51:32<br>@AtheistRepublic<br>[IRAN REVOLUTION LIVE WITH IRANIAN HOSTS - DAY 22](https://www.youtube.com/watch?v=9pwFvTfCkDc)<br>[05:04:17] |
+|![](https://i.ytimg.com/vi/anRtyvZYjo8/maxresdefault.jpg) |2026-01-18 21:48:37<br>@OfficialSaharTV<br>[Piers Claims ICE is out of Control, Then Patrick Bet David Fires Back Hard!](https://www.youtube.com/watch?v=anRtyvZYjo8)<br>[00:13:02] |
+|![](https://i.ytimg.com/vi/QXUQ7PzuIe0/maxresdefault.jpg) |2026-01-18 20:00:07<br>@PBoyle<br>[Why the DOJ is Suing Jerome Powell](https://www.youtube.com/watch?v=QXUQ7PzuIe0)<br>[00:27:55] |
 |![](https://i.ytimg.com/vi/MFNwQFpIwVE/sddefault.jpg) |2026-01-18 19:00:32<br>@penguinz0<br>[AI Women Situation is Crazy](https://www.youtube.com/watch?v=MFNwQFpIwVE)<br>[00:15:50] |
-|![](https://i.ytimg.com/vi/QXUQ7PzuIe0/maxresdefault.jpg) |2026-01-18 18:50:17<br>@PBoyle<br>[Why the DOJ is Suing Jerome Powell](https://www.youtube.com/watch?v=QXUQ7PzuIe0)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/sWUJCtGo-HY/maxresdefault.jpg) |2026-01-18 18:36:22<br>@urmomashley<br>[surprising my BOYFRIEND with the BIRTHDAY PARTY of his dreams](https://www.youtube.com/watch?v=sWUJCtGo-HY)<br>[00:19:58] |
-|![](https://i.ytimg.com/vi/-iNkCovBSSw/maxresdefault.jpg) |2026-01-18 18:32:54<br>@OfficialSaharTV<br>[Muslim Woman Takes Off Her Hijab on Livestream, Then Her Parents STORM The Room!](https://www.youtube.com/watch?v=-iNkCovBSSw)<br>[00:16:54] |
 |![](https://i.ytimg.com/vi/Hlzo-XqsyBE/maxresdefault.jpg) |2026-01-18 18:00:32<br>@jubilee<br>[Is it okay for police to break the law to go after criminals? Michael Franzese gives his take](https://www.youtube.com/watch?v=Hlzo-XqsyBE)<br>[00:02:35] |
 |![](https://i.ytimg.com/vi/3o3niOHzcTc/maxresdefault.jpg) |2026-01-18 18:00:04<br>@shawnaripari<br>[this overconsumption is NOT normal](https://www.youtube.com/watch?v=3o3niOHzcTc)<br>[00:43:33] |
 |![](https://i.ytimg.com/vi/Lnrw-szSsXE/maxresdefault.jpg) |2026-01-18 17:15:02<br>@AtheistRepublic<br>[The 1400-Year War: Why Iran is Finally Winning](https://www.youtube.com/watch?v=Lnrw-szSsXE)<br>[00:18:15] |
@@ -15,15 +22,13 @@
 |![](https://i.ytimg.com/vi/1ICg-67iiV0/maxresdefault.jpg) |2026-01-18 17:00:03<br>@ColeHastings<br>[Where Is The World AI Promised Us?](https://www.youtube.com/watch?v=1ICg-67iiV0)<br>[00:18:01] |
 |![](https://i.ytimg.com/vi/S9QDdgmzYRs/maxresdefault.jpg) |2026-01-18 15:00:50<br>@moresus<br>[Hasan Is Actually Losing It..](https://www.youtube.com/watch?v=S9QDdgmzYRs)<br>[00:39:33] |
 |![](https://i.ytimg.com/vi/xnbxqbHbQVI/maxresdefault.jpg) |2026-01-18 14:45:09<br>@AtheistRepublic<br>[The Point of No Return: Why the Iranian Regime is Already Dead](https://www.youtube.com/watch?v=xnbxqbHbQVI)<br>[00:46:56] |
-|![](https://i.ytimg.com/vi/_XO9ZC7VD50/maxresdefault.jpg) |2026-01-18 13:30:43<br>@AtheistRepublic<br>[THEY SHOT 25 CHILDREN: The Mullahs’ Final Act of Despair](https://www.youtube.com/watch?v=_XO9ZC7VD50)<br>[01:06:42] |
+|![](https://i.ytimg.com/vi/_XO9ZC7VD50/maxresdefault.jpg) |2026-01-18 13:30:43<br>@AtheistRepublic<br>[10 DAYS UNTIL IMPACT: The USS Lincoln and the Fall of Tehran](https://www.youtube.com/watch?v=_XO9ZC7VD50)<br>[01:06:42] |
 |![](https://i.ytimg.com/vi/XTugyu2F0pc/maxresdefault.jpg) |2026-01-18 13:01:04<br>@VanessaWingårdh<br>[40% of Kids Can’t Read and Teachers Are Quitting](https://www.youtube.com/watch?v=XTugyu2F0pc)<br>[00:14:44] |
 |![](https://i.ytimg.com/vi/2PiBakVRgw4/maxresdefault.jpg) |2026-01-18 12:18:18<br>@HowMoneyWorks<br>[If You Thought The AI Investment Bubble Was Bad...](https://www.youtube.com/watch?v=2PiBakVRgw4)<br>[00:14:33] |
-|![](https://i.ytimg.com/vi/aGtB8dnNoFk/maxresdefault.jpg) |2026-01-18 12:00:01<br>@AtheistRepublic<br>[IRAN’S FINAL HOUR: The "Dirty Bomb" Suicide Mission](https://www.youtube.com/watch?v=aGtB8dnNoFk)<br>[00:33:09] |
 |![](https://i.ytimg.com/vi/YBfVfqlctMw/maxresdefault.jpg) |2026-01-18 10:00:34<br>@briarchats<br>[Please Stop Using Your Partner For Rage-Bait](https://www.youtube.com/watch?v=YBfVfqlctMw)<br>[00:38:53] |
-|![](https://i.ytimg.com/vi/8DpP6CygIgA/maxresdefault.jpg) |2026-01-18 05:02:16<br>@OfficialSaharTV<br>[Nationalist EXPOSES What The Iranians Really Think of the 🇮🇷 IRGC & Islam!](https://www.youtube.com/watch?v=8DpP6CygIgA)<br>[00:14:55] |
+|![](https://i.ytimg.com/vi/fWIFJk2JUdY/maxresdefault.jpg) |2026-01-18 08:00:46<br>@TypeAshton<br>[How I View the US After 7 Years in Europe](https://www.youtube.com/watch?v=fWIFJk2JUdY)<br>[00:22:07] |
 |![](https://i.ytimg.com/vi/eHMVifFMq0Q/maxresdefault.jpg) |2026-01-18 03:25:18<br>@theAIsearch<br>[Realtime AI video, open-source SUNO, next-level AI agents, realtime text-to-speech: AI NEWS](https://www.youtube.com/watch?v=eHMVifFMq0Q)<br>[00:37:41] |
 |![](https://i.ytimg.com/vi/ZyL7EzLET64/sddefault.jpg) |2026-01-18 02:30:36<br>@penguinz0<br>[They're Still Refusing to Release Epstein Files](https://www.youtube.com/watch?v=ZyL7EzLET64)<br>[00:10:02] |
-|![](https://i.ytimg.com/vi/amhryQgZZus/sddefault.jpg) |2026-01-17 22:00:02<br>@penguinz0<br>[Empty Voicemail Leads to Hate Crime Charge](https://www.youtube.com/watch?v=amhryQgZZus)<br>[00:11:03] |
 |![](https://i.ytimg.com/vi/BaAl0C-42j0/maxresdefault.jpg) |2026-01-17 20:30:02<br>@notevenemily<br>[Why Do Women Love Gay Media?](https://www.youtube.com/watch?v=BaAl0C-42j0)<br>[00:52:41] |
 |![](https://i.ytimg.com/vi/xNMQsxW0s2Y/maxresdefault.jpg) |2026-01-17 20:00:47<br>@MichelJanse<br>[VLOG: a surprise home makeover for my sister :,) (done in a weekend!)](https://www.youtube.com/watch?v=xNMQsxW0s2Y)<br>[00:31:58] |
 |![](https://i.ytimg.com/vi/t6UAaV1NLng/maxresdefault.jpg) |2026-01-17 20:00:46<br>@jordankang<br>[The Best Bad Movie I've Ever Seen](https://www.youtube.com/watch?v=t6UAaV1NLng)<br>[00:16:33] |
@@ -33,7 +38,6 @@
 |![](https://i.ytimg.com/vi/dZLRZVHKUIg/maxresdefault.jpg) |2026-01-17 17:00:07<br>@lucymoon<br>[navigating the most uncomfortable phase of life](https://www.youtube.com/watch?v=dZLRZVHKUIg)<br>[00:17:29] |
 |![](https://i.ytimg.com/vi/edMUUM6kmDE/maxresdefault.jpg) |2026-01-17 16:31:10<br>@CamKirkham<br>[The Most Hated Husband on Wife Swap Ever](https://www.youtube.com/watch?v=edMUUM6kmDE)<br>[00:52:57] |
 |![](https://i.ytimg.com/vi/cw5yjdU7MbM/maxresdefault.jpg) |2026-01-17 15:01:07<br>@moresus<br>[Hasan Accidentally Exposed Himself Big Time..](https://www.youtube.com/watch?v=cw5yjdU7MbM)<br>[00:38:52] |
-|![](https://i.ytimg.com/vi/xZRfIkf4F1c/sddefault.jpg) |2026-01-17 08:44:52<br>@penguinz0<br>[Quarantine zone again](https://www.youtube.com/watch?v=xZRfIkf4F1c)<br>[04:07:01] |
 |![](https://i.ytimg.com/vi/IJ7e4giBu4w/sddefault.jpg) |2026-01-17 07:06:07<br>@urmomashley<br>[my first ever youtube stream!](https://www.youtube.com/watch?v=IJ7e4giBu4w)<br>[02:52:26] |
 |![](https://i.ytimg.com/vi/DJICbNU7Rfo/maxresdefault.jpg) |2026-01-17 01:36:58<br>@notsoErudite<br>[JustPearlyThings VS Ana Kasparian - The most UNHINGED Debate I Have Ever Seen](https://www.youtube.com/watch?v=DJICbNU7Rfo)<br>[01:01:11] |
 |![](https://i.ytimg.com/vi/tjlt-RKDpq8/maxresdefault.jpg) |2026-01-16 22:17:10<br>@2lazy2tryYT<br>[Candace Owens Finally Exposes The Truth About Charlie Kirk](https://www.youtube.com/watch?v=tjlt-RKDpq8)<br>[00:11:33] |
@@ -306,7 +310,7 @@
 |![](https://i.ytimg.com/vi/8ynCVmw5AWk/maxresdefault.jpg) |2025-10-03 21:27:00<br>@HilaryLayne<br>[How Modern Schools Make Terrible Writers (Deliberately)](https://www.youtube.com/watch?v=8ynCVmw5AWk)<br>[00:52:16] |
 |![](https://i.ytimg.com/vi/tCvbX_i-jG8/maxresdefault.jpg) |2025-09-30 20:09:03<br>@drewisgooden<br>[The Office has a sequel, for some reason](https://www.youtube.com/watch?v=tCvbX_i-jG8)<br>[00:24:26] |
 |![](https://i.ytimg.com/vi/iiHrvlce7bg/maxresdefault.jpg) |2025-09-30 16:00:08<br>@StateofKait<br>[The End of Mainstream](https://www.youtube.com/watch?v=iiHrvlce7bg)<br>[00:16:17] |
-|![](https://i.ytimg.com/vi/b6b_uVA1ZSo/maxresdefault.jpg) |2025-09-30 10:28:31<br>@kaptainkristian<br>[an eccentric \| a mad-man \| a nobody](https://www.youtube.com/watch?v=b6b_uVA1ZSo)<br>[00:06:13] |
+|![](https://i.ytimg.com/vi/b6b_uVA1ZSo/maxresdefault.jpg) |2025-09-30 10:28:31<br>@kaptainkristian<br>[Van Gogh - Beauty in Suffering](https://www.youtube.com/watch?v=b6b_uVA1ZSo)<br>[00:06:13] |
 |![](https://i.ytimg.com/vi/MOwFPAhnteo/maxresdefault.jpg) |2025-09-26 14:39:12<br>@ericamallett<br>[This subtle psychology will get you cult-like fans forever](https://www.youtube.com/watch?v=MOwFPAhnteo)<br>[00:05:05] |
 |![](https://i.ytimg.com/vi/7H2sXVgd02I/maxresdefault.jpg) |2025-09-25 16:00:14<br>@DodfordYT<br>[Grow Up, Leo DiCaprio](https://www.youtube.com/watch?v=7H2sXVgd02I)<br>[00:21:24] |
 |![](https://i.ytimg.com/vi/co1s14OYfXA/maxresdefault.jpg) |2025-09-22 18:27:18<br>@Galatea-and-Acis<br>[Words Are Not Violence.](https://www.youtube.com/watch?v=co1s14OYfXA)<br>[00:53:49] |
@@ -356,12 +360,7 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
-ring for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
-|![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
--------------------
-eering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
-|![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
-|![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+e in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 -TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
