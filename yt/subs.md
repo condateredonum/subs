@@ -81,6 +81,8 @@
 
 [Jordan Kang](https://www.youtube.com/@jordankang/videos)
 
+[Jordan Theresa](https://www.youtube.com/@jordanatheresa/videos)
+
 [Jubilee](https://www.youtube.com/@jubilee/videos)
 
 [JREG](https://www.youtube.com/@JREG/videos)
