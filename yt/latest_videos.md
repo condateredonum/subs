@@ -1,17 +1,17 @@
 -------------------
-# 2026-02-08 08:15:38
+# 2026-02-08 10:37:33
 
 | Thumbnail | Title |
 |-----------|-------|
 |![](https://i.ytimg.com/vi/eHQ4gKPGJS0/maxresdefault.jpg) |2026-02-08 08:00:44<br>@AtheistRepublic<br>[U.S. Boots on the Ground? The Secret Plan for Iran's Nuclear Mines](https://www.youtube.com/watch?v=eHQ4gKPGJS0)<br>[00:27:36] |
 |![](https://i.ytimg.com/vi/kA98lLlnsx0/maxresdefault.jpg) |2026-02-08 08:00:00<br>@Tom_Nicholas<br>[The Nuclear Arms Race is Back On](https://www.youtube.com/watch?v=kA98lLlnsx0)<br>[00:02:56] |
+|![](https://i.ytimg.com/vi/HAGGYFFuBKM/sddefault.jpg) |2026-02-08 07:31:18<br>@penguinz0<br>[No plans](https://www.youtube.com/watch?v=HAGGYFFuBKM)<br>[03:59:11] |
 |![](https://i.ytimg.com/vi/IPLETNOfwgw/maxresdefault.jpg) |2026-02-08 06:02:17<br>@AtheistRepublic<br>[PAKISTAN OFFERED IRAN NUKES TO HIT ISRAEL: The Bombshell Disclosure](https://www.youtube.com/watch?v=IPLETNOfwgw)<br>[00:30:35] |
 |![](https://i.ytimg.com/vi/-D7o3E0eBf4/maxresdefault.jpg) |2026-02-08 03:24:32<br>@theAIsearch<br>[Opus 4.6, GPT 5.3 Codex, StepFun, Qwen3 Coder, new deepfake AIs, new video tools: AI NEWS](https://www.youtube.com/watch?v=-D7o3E0eBf4)<br>[00:46:49] |
-|![](https://i.ytimg.com/vi/HAGGYFFuBKM/sddefault.jpg) |2026-02-08 03:16:52<br>@penguinz0<br>[No plans](https://www.youtube.com/watch?v=HAGGYFFuBKM)<br>[03:59:11] |
 |![](https://i.ytimg.com/vi/famwLmXBC80/maxresdefault.jpg) |2026-02-08 03:00:52<br>@AtheistRepublic<br>[IRGC Hijacks Oil Tankers: US & Israel Prepare the "Perfect Strike"](https://www.youtube.com/watch?v=famwLmXBC80)<br>[00:33:18] |
 |![](https://i.ytimg.com/vi/Gqz4SwZT-Ak/maxresdefault.jpg) |2026-02-08 01:34:03<br>@OfficialSaharTV<br>[Netflix CEO LOSES IT When He Realizes Ted Cruz is Right About Billie Eilish!](https://www.youtube.com/watch?v=Gqz4SwZT-Ak)<br>[00:10:45] |
 |![](https://i.ytimg.com/vi/kpgbz_mcBvY/maxresdefault.jpg) |2026-02-08 01:20:30<br>@AtriocClips<br>[Everyone is Stealing TV](https://www.youtube.com/watch?v=kpgbz_mcBvY)<br>[00:11:01] |
-|![](https://i.ytimg.com/vi/4PvHd7ujRRA/maxresdefault.jpg) |2026-02-08 00:30:07<br>@AtheistRepublic<br>[Why Minority Rights Aren't Democracy](https://www.youtube.com/watch?v=4PvHd7ujRRA)<br>[00:22:58] |
+|![](https://i.ytimg.com/vi/4PvHd7ujRRA/maxresdefault.jpg) |2026-02-08 00:30:07<br>@AtheistRepublic<br>[Stop Demanding Democracy: The Reality of the Iranian Transition](https://www.youtube.com/watch?v=4PvHd7ujRRA)<br>[00:22:58] |
 |![](https://i.ytimg.com/vi/klWGUIsN0ik/maxresdefault.jpg) |2026-02-08 00:26:26<br>@notsoErudite<br>[When I Realized Christians don’t Read the Bible @drdafshow](https://www.youtube.com/watch?v=klWGUIsN0ik)<br>[00:41:30] |
 |![](https://i.ytimg.com/vi/9oq5_QyVqWA/maxresdefault.jpg) |2026-02-07 22:00:09<br>@AtheistRepublic<br>[The Death of Democracy? Why You Must Get Rich To Stay Free](https://www.youtube.com/watch?v=9oq5_QyVqWA)<br>[00:27:13] |
 |![](https://i.ytimg.com/vi/DeTIrdvrhtI/maxresdefault.jpg) |2026-02-07 20:30:04<br>@notevenemily<br>[Let’s Talk About The College System… (it’s messed up)](https://www.youtube.com/watch?v=DeTIrdvrhtI)<br>[00:43:09] |
@@ -30,7 +30,6 @@
 |![](https://i.ytimg.com/vi/VC-L8WotfII/maxresdefault.jpg) |2026-02-06 20:53:26<br>@notsoErudite<br>[My Debate Opponent Did What with her Boss?](https://www.youtube.com/watch?v=VC-L8WotfII)<br>[01:02:15] |
 |![](https://i.ytimg.com/vi/Ca5bs2oOiw8/maxresdefault.jpg) |2026-02-06 20:06:58<br>@alyssadgrenfell<br>[MrBeast Is Getting Cozy With the Mormon Church](https://www.youtube.com/watch?v=Ca5bs2oOiw8)<br>[00:48:26] |
 |![](https://i.ytimg.com/vi/0qWuf_wccOM/maxresdefault.jpg) |2026-02-06 19:30:00<br>@jubilee<br>[Wait... did her water just break?!? #pregnant #jubilee #socialexperiment](https://www.youtube.com/watch?v=0qWuf_wccOM)<br>[00:02:08] |
-|![](https://i.ytimg.com/vi/tBB3NN28KVs/sddefault.jpg) |2026-02-06 18:01:09<br>@penguinz0<br>[China Has Cloned Me](https://www.youtube.com/watch?v=tBB3NN28KVs)<br>[00:11:47] |
 |![](https://i.ytimg.com/vi/tHzp1D3ntP8/sddefault.jpg) |2026-02-06 18:01:06<br>@TheCriticalDrinker<br>[Why This Is The Greatest Lord Of The Rings Scene Ever](https://www.youtube.com/watch?v=tHzp1D3ntP8)<br>[00:09:19] |
 |![](https://i.ytimg.com/vi/U1smrtxZzXY/maxresdefault.jpg) |2026-02-06 18:00:25<br>@shawnaripari<br>[hand care routines on tiktok may be a little excessive...](https://www.youtube.com/watch?v=U1smrtxZzXY)<br>[00:50:14] |
 |![](https://i.ytimg.com/vi/z3zrg1t61bo/maxresdefault.jpg) |2026-02-06 17:01:42<br>@jubilee<br>[Swiping 20 Women Pregnant or Fake \| Test Your Radar](https://www.youtube.com/watch?v=z3zrg1t61bo)<br>[00:30:12] |
@@ -369,6 +368,8 @@
 |![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
+-------------------
+orking from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 i/4rFxdt9x5S4/maxresdefault.jpg) |2023-11-24 22:27:12<br>@pyrrhichos<br>[bear spotting in Canada!](https://www.youtube.com/watch?v=4rFxdt9x5S4)<br>[00:26:14] |
 |![](https://i.ytimg.com/vi/JQH5zD7n3nQ/maxresdefault.jpg) |2023-11-07 00:10:55<br>@pyrrhichos<br>[put me in the bin](https://www.youtube.com/watch?v=JQH5zD7n3nQ)<br>[00:08:26] |
