@@ -19,6 +19,8 @@
 
 [American Redact](https://www.youtube.com/@americanredact/videos)
 
+[Anders Puck Nielsen](https://www.youtube.com/channel/UCPPfK7Nq_yQR84rn1wcTXBg)
+
 [Antibot](https://www.youtube.com/@theantibot/videos) 
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
@@ -43,7 +45,13 @@
 
 [Channel 5 Andrew Callaghan](https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg/videos)
 
+[Cogito](www.youtube.com/channel/UCKMnl27hDMKvch--noWe5CA)
+
+[ColdFusion](www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
+
 [Cole Hastings](https://www.youtube.com/@ColeHastings/videos)
+
+[communitychannel](www.youtube.com/channel/UCKHi7M_11VJmLZSq4WNHSkg)
 
 [Critical Drinker](https://www.youtube.com/@TheCriticalDrinker/videos)
 
