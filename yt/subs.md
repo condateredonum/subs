@@ -65,6 +65,8 @@
 
 [Drew Gooden](https://www.youtube.com/@drewisgooden/videos)
 
+[Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg)
+
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
 [Erica Mallett](https://www.youtube.com/@ericamallett/videos)
