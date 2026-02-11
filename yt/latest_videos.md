@@ -1,11 +1,10 @@
 -------------------
-# 2026-02-11 15:23:18
+# 2026-02-11 15:26:45
 
 | Thumbnail | Title |
 |-----------|-------|
 |![](https://i.ytimg.com/vi/rf51u8wVKAo/maxresdefault.jpg) |2026-02-11 15:15:15<br>@H3PodcastHighlights<br>[Jake Paul Is Cooked.](https://www.youtube.com/watch?v=rf51u8wVKAo)<br>[00:09:50] |
 |![](https://i.ytimg.com/vi/ryId6omazPs/maxresdefault.jpg) |2026-02-11 15:02:59<br>@urmomashley<br>[I surprised my DAD with a trip to the OLYMPICS](https://www.youtube.com/watch?v=ryId6omazPs)<br>[00:08:53] |
-|![](https://i.ytimg.com/vi/CrKOJvM4NTE/maxresdefault.jpg) |2026-02-11 15:00:21<br>@moresus<br>[Hasan Just Got Backstabbed By His Most Loyal Orbiter..](https://www.youtube.com/watch?v=CrKOJvM4NTE)<br>[00:38:23] |
 |![](https://i.ytimg.com/vi/uV69P2UJGR0/maxresdefault.jpg) |2026-02-11 14:55:33<br>@GirlGoneLondonofficial<br>[5 British Communication Differences that CONFUSED Me as an American](https://www.youtube.com/watch?v=uV69P2UJGR0)<br>[00:08:06] |
 |![](https://i.ytimg.com/vi/blYqgxCy47k/maxresdefault.jpg) |2026-02-11 14:03:49<br>@LegalMindset<br>[Johnny Somali Trial Recap: Deepfake Testimony (Fast Facts)](https://www.youtube.com/watch?v=blYqgxCy47k)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/fXBwG4HqXOs/maxresdefault.jpg) |2026-02-11 14:01:07<br>@susannahfriesenofficial<br>[TikTok Influencers Are Having a MASSIVE Identity Crisis and Giving Viewers the Ick](https://www.youtube.com/watch?v=fXBwG4HqXOs)<br>[00:24:06] |
@@ -80,6 +79,7 @@
 |![](https://i.ytimg.com/vi/kGXL_Af-hcg/maxresdefault.jpg) |2026-02-06 17:01:15<br>@PodcastCringe<br>[Joe Rogan’s Epstein Meltdown Is Hard to Watch](https://www.youtube.com/watch?v=kGXL_Af-hcg)<br>[00:25:01] |
 |![](https://i.ytimg.com/vi/J95b3XYKrGE/maxresdefault.jpg) |2026-02-06 16:00:25<br>@LouExtras<br>[Why Everyone Hates Ben Shapiro](https://www.youtube.com/watch?v=J95b3XYKrGE)<br>[00:25:39] |
 |![](https://i.ytimg.com/vi/KlYdw3bd7wY/maxresdefault.jpg) |2026-02-06 15:00:41<br>@DodfordYT<br>[The Day the Future Ended](https://www.youtube.com/watch?v=KlYdw3bd7wY)<br>[00:26:43] |
+|![](https://i.ytimg.com/vi/3Z9lLs38HJI/maxresdefault.jpg) |2026-02-06 15:00:07<br>@moresus<br>[IDubbbz Is Trying To Cancel Penguinz0 Now.. #249](https://www.youtube.com/watch?v=3Z9lLs38HJI)<br>[00:36:13] |
 |![](https://i.ytimg.com/vi/gMHreY6uyuQ/maxresdefault.jpg) |2026-02-06 14:53:28<br>@GirlGoneLondonofficial<br>[Best eSIM in LONDON for Visitors: how to stay connected (guide)](https://www.youtube.com/watch?v=gMHreY6uyuQ)<br>[00:09:47] |
 |![](https://i.ytimg.com/vi/c2V1CIFZnzw/maxresdefault.jpg) |2026-02-06 12:01:18<br>@Channel4Documentaries<br>[Son killed in revenge attack #C4Docs #ZombieKnives #24HoursInPoliceCustody](https://www.youtube.com/watch?v=c2V1CIFZnzw)<br>[00:02:25] |
 |![](https://i.ytimg.com/vi/_ey0HNGdMBk/maxresdefault.jpg) |2026-02-06 03:20:49<br>@theAIsearch<br>[KLING 3.0 is crazy...](https://www.youtube.com/watch?v=_ey0HNGdMBk)<br>[00:23:05] |
@@ -371,6 +371,7 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
+-----
 er Desk Setup 2023](https://www.youtube.com/watch?v=KmHe_QUCATQ)<br>[00:13:55] |
 |![](https://i.ytimg.com/vi/qCZzxS3eUqg/maxresdefault.jpg) |2023-02-28 02:51:36<br>@pyrrhichos<br>[I stepped on a sea urchin in Croatia](https://www.youtube.com/watch?v=qCZzxS3eUqg)<br>[00:16:59] |
 |![](https://i.ytimg.com/vi/71UYjetDyVI/maxresdefault.jpg) |2022-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
