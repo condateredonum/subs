@@ -7,9 +7,13 @@
 
 [2lazy2try](https://www.youtube.com/@2lazy2tryYT/videos)
 
+[A Little Bit of Philosophy](https://www.youtube.com/channel/UC5W1426MgVYjyYjbl6LDqeg)
+
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
 
 [AI Search](https://www.youtube.com/@theAIsearch/videos)
+
+[Alex O'Connor](https://www.youtube.com/channel/UC7kIy8fZavEni8Gzl8NLjOQ)
 
 [Alyssa Grenfell](https://www.youtube.com/@alyssadgrenfell/videos) 
 
