@@ -45,6 +45,8 @@
 
 [DamiLee](https://www.youtube.com/@DamiLeeArch/videos)
 
+[Damon Cassidy](https://www.youtube.com/@DamonCassidy/videos)
+
 [Disparu](https://www.youtube.com/@disparutoo/videos)
 
 [Dodford](https://www.youtube.com/@DodfordYT/videos)
