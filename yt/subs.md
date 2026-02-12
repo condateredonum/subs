@@ -89,11 +89,15 @@
 
 [Fads](https://www.youtube.com/channel/UCiTgRcnZs--vFScAQtRH5QA)
 
+[Feli from Germany](https://www.youtube.com/channel/UCbxCR9QT9YTuUa4ONm7zAaA)
+
 [Fern](https://www.youtube.com/@fern-tv/videos)
 
 [Financial Interest](https://www.youtube.com/channel/UC7tkDwlo_2KZeWAQF7RpnQQ)
 
 [Financial Times](https://www.youtube.com/channel/UCoUxsWakJucWg46KW5RsvPw)
+
+[friendlyjordies](https://www.youtube.com/channel/UC2-i3KuYoODXsM99Z3-Gm0A)
 
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
