@@ -201,6 +201,8 @@
 
 [PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
+[The Plain Bagel](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
+
 [Plastic Pills](https://www.youtube.com/@PlasticPills/videos)
 
 [Podcast Cringe](https://www.youtube.com/@PodcastCringe/videos)
@@ -245,4 +247,8 @@
 
 [Vanessa Wingårdh](https://www.youtube.com/@VanessaWing%C3%A5rdh)
 
+[wilfur](https://www.youtube.com/channel/UC3iNdSV_RQU7DHTGpqEW96w)
+
 [Yishai Fleisher](https://www.youtube.com/@YishaiFleisherTV/videos)
+
+[Yuval Noah Harari](https://www.youtube.com/channel/UC2m77KGMIKZCD0Kw35-4shQ)
