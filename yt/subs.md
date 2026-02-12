@@ -89,6 +89,8 @@
 
 [Fern](https://www.youtube.com/@fern-tv/videos)
 
+[Financial Times](https://www.youtube.com/channel/UCoUxsWakJucWg46KW5RsvPw)
+
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
 [Ghost Gum](https://www.youtube.com/@GhostGum/videos)
