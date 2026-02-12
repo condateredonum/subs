@@ -89,6 +89,8 @@
 
 [Fern](https://www.youtube.com/@fern-tv/videos)
 
+[Financial Interest](https://www.youtube.com/channel/UC7tkDwlo_2KZeWAQF7RpnQQ)
+
 [Financial Times](https://www.youtube.com/channel/UCoUxsWakJucWg46KW5RsvPw)
 
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
