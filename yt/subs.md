@@ -181,6 +181,8 @@
 
 [Nectar](https://www.youtube.com/#lovecommanectar/videos)
 
+[Nimrod Kamer](https://www.youtube.com/channel/UC0pbne_l3tTuu06aQiDn2Xg)
+
 [Not Even Emily](https://www.youtube.com/@notevenemily/videos)
 
 [Not So Erudite](https://www.youtube.com/@notsoErudite/videos)
