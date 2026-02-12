@@ -119,6 +119,8 @@
 
 [Jimmy the Giant](https://www.youtube.com/@JimmyTheGiant/videos)
 
+[J.J. McCullough](https://www.youtube.com/channel/UCyhOl6uRlxryALlT5yifldw)
+
 [Jordan Kang](https://www.youtube.com/@jordankang/videos)
 
 [Jordan Theresa](https://www.youtube.com/@jordanatheresa/videos)
@@ -209,6 +211,8 @@
 
 [PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
+[Philip DeFranco](https://www.youtube.com/channel/UClFSU9_bUb4Rc6OYfTt5SPw)
+
 [The Plain Bagel](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
 
 [Plastic Pills](https://www.youtube.com/@PlasticPills/videos)
@@ -225,9 +229,13 @@
 
 [Rachel Oates](https://www.youtube.com/@RachelOates/videos)
 
+[Rich Black Guy](https://www.youtube.com/channel/UCaZ2jG4qd1vY-Tkwiq9FBlw)
+
 [Robs Media](https://www.youtube.com/@RobsMedia25/videos)
 
 [SaharTV](https://www.youtube.com/@OfficialSaharTV/videos)
+
+[Scott Cramer](https://www.youtube.com/channel/UCmHCNoUXWAFuzxWJdX2d99w)
 
 [Second Story](https://www.youtube.com/@HilaryLayne/videos)
 
@@ -237,11 +245,19 @@
 
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
 
+[Species | Documenting AGI](https://www.youtube.com/channel/UCEENWVBdvDy-QWfuQoXC9HQ)
+
 [State of Kait](https://www.youtube.com/@StateofKait/videos)
+
+[Steve Eisman](https://www.youtube.com/channel/UCzQ2FFVe7m8yIgzXMZtlSjg)
+
+[Steve Rosenberg](https://www.youtube.com/channel/UCONIJaWVRpA2iDjrpiZ4bEg)
 
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
 
 [Sydney Watson](https://www.youtube.com/@SydneyWatson/videos)
+
+[The US-China Narrative](https://www.youtube.com/channel/UCcMZNdMHbuJ3ShI6tyK5k0g)
 
 [thought bug](https://www.youtube.com/@thought_bug/videos)
 
@@ -255,9 +271,15 @@
 
 [Type Ashton](https://www.youtube.com/@TypeAshton/videos)
 
+[Unclassified](https://www.youtube.com/channel/UCSuyLEHMTO-oDHObnCeYwnQ)
+
 [Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
 
+[voidzilla](https://www.youtube.com/channel/UC28n0tlcNSa1iPe5mettocg)
+
 [Vanessa Wingårdh](https://www.youtube.com/@VanessaWing%C3%A5rdh)
+
+[Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ)
 
 [wilfur](https://www.youtube.com/channel/UC3iNdSV_RQU7DHTGpqEW96w)
 
