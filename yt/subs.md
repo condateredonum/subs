@@ -237,6 +237,8 @@
 
 [Tom Nicholas](https://www.youtube.com/@Tom_Nicholas/videos)
 
+[Tyler Oliveira](https://www.youtube.com/channel/UCY8SLLJjWpS4sx1dEqECaIw)
+
 [Type Ashton](https://www.youtube.com/@TypeAshton/videos)
 
 [Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
