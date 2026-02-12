@@ -1,8 +1,9 @@
 -------------------
-# 2026-02-12 19:59:32
+# 2026-02-12 20:08:34
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/-CeFBHlxHJY/maxresdefault.jpg) |2026-02-12 20:00:00<br>@MichelJanse<br>[Weird things (maybe?) my family did growing up. But now I’m realizing most of these were just hacks](https://www.youtube.com/watch?v=-CeFBHlxHJY)<br>[00:02:59] |
 |![](https://i.ytimg.com/vi/s8tz9ZX54PY/maxresdefault.jpg) |2026-02-12 19:04:55<br>@H3PodcastHighlights<br>[We Have To Talk About The Denims Situation...](https://www.youtube.com/watch?v=s8tz9ZX54PY)<br>[00:11:41] |
 |![](https://i.ytimg.com/vi/NsGMnCc-E-c/maxresdefault.jpg) |2026-02-12 18:19:44<br>@ericamallett<br>[Being "worse" will actually make you better](https://www.youtube.com/watch?v=NsGMnCc-E-c)<br>[00:07:02] |
 |![](https://i.ytimg.com/vi/M53vMum29KQ/sddefault.jpg) |2026-02-12 18:00:31<br>@penguinz0<br>[You Get Hurt in the Game, You Get Hurt in Real Life](https://www.youtube.com/watch?v=M53vMum29KQ)<br>[00:17:07] |
@@ -10,6 +11,7 @@
 |![](https://i.ytimg.com/vi/7SrE8hpxrvY/maxresdefault.jpg) |2026-02-12 17:00:00<br>@OfficialSaharTV<br>[Muslims Are Going VIRAL After Using A.I. Videos For Gaza \| Now They're in HOT WATER!](https://www.youtube.com/watch?v=7SrE8hpxrvY)<br>[00:13:09] |
 |![](https://i.ytimg.com/vi/DUp7isN6aJI/maxresdefault.jpg) |2026-02-12 15:00:25<br>@moresus<br>[Hasan’s Friends Are Cancelling Him Now..](https://www.youtube.com/watch?v=DUp7isN6aJI)<br>[00:37:36] |
 |![](https://i.ytimg.com/vi/dfEeUi08bH4/maxresdefault.jpg) |2026-02-12 14:35:03<br>@OfficialSaharTV<br>[Groyper ABANDONS The Anti-Israel Movement After Presented This Question....](https://www.youtube.com/watch?v=dfEeUi08bH4)<br>[00:18:31] |
+|![](https://i.ytimg.com/vi/jjvhPVcemkA/maxresdefault.jpg) |2026-02-12 13:01:30<br>@hutch<br>[This was an ALL TIME GREAT crash out](https://www.youtube.com/watch?v=jjvhPVcemkA)<br>[02:37:11] |
 |![](https://i.ytimg.com/vi/kdbkTIPv_iY/maxresdefault.jpg) |2026-02-12 12:01:23<br>@AtheistRepublic<br>[The Silent Genocide: How the Mullahs Kill Without Bullets](https://www.youtube.com/watch?v=kdbkTIPv_iY)<br>[00:33:08] |
 |![](https://i.ytimg.com/vi/nkuex1YI3n8/maxresdefault.jpg) |2026-02-12 10:30:27<br>@AtheistRepublic<br>[THEY DISARMED THE ARTESH: The IRGC’s Final Act of Fear](https://www.youtube.com/watch?v=nkuex1YI3n8)<br>[00:30:39] |
 |![](https://i.ytimg.com/vi/0Y-cn5hWGDg/maxresdefault.jpg) |2026-02-12 08:30:01<br>@AtheistRepublic<br>[Israel’s Secret Plan to Force America into War](https://www.youtube.com/watch?v=0Y-cn5hWGDg)<br>[00:26:02] |
@@ -39,6 +41,7 @@
 |![](https://i.ytimg.com/vi/CrKOJvM4NTE/maxresdefault.jpg) |2026-02-11 15:00:21<br>@moresus<br>[Hasan Just Got Backstabbed By His Most Loyal Orbiter.. #254](https://www.youtube.com/watch?v=CrKOJvM4NTE)<br>[00:38:23] |
 |![](https://i.ytimg.com/vi/uV69P2UJGR0/maxresdefault.jpg) |2026-02-11 14:55:33<br>@GirlGoneLondonofficial<br>[5 British Communication Differences that CONFUSED Me as an American](https://www.youtube.com/watch?v=uV69P2UJGR0)<br>[00:08:06] |
 |![](https://i.ytimg.com/vi/fXBwG4HqXOs/maxresdefault.jpg) |2026-02-11 14:01:07<br>@susannahfriesenofficial<br>[TikTok Influencers Are Having a MASSIVE Identity Crisis and Giving Viewers the Ick](https://www.youtube.com/watch?v=fXBwG4HqXOs)<br>[00:24:06] |
+|![](https://i.ytimg.com/vi/o6JiENEA2Ys/maxresdefault.jpg) |2026-02-11 13:01:30<br>@hutch<br>[Hasan says he WOULD HELP VANCE WIN if Newsom Is The Nominee](https://www.youtube.com/watch?v=o6JiENEA2Ys)<br>[00:33:25] |
 |![](https://i.ytimg.com/vi/b0mMw3TjGYk/maxresdefault.jpg) |2026-02-11 09:23:59<br>@briarchats<br>[This Brand PRETENDED To Want To Collab With A Long Time Fan?!?!](https://www.youtube.com/watch?v=b0mMw3TjGYk)<br>[00:40:20] |
 |![](https://i.ytimg.com/vi/BeBrUEb5SPE/maxresdefault.jpg) |2026-02-11 08:07:10<br>@notsoErudite<br>[A Christian Nationalist Who Doesn't Know his Own Religion](https://www.youtube.com/watch?v=BeBrUEb5SPE)<br>[00:54:46] |
 |![](https://i.ytimg.com/vi/gntvvdGUU2A/maxresdefault.jpg) |2026-02-11 07:26:59<br>@LegalMindset<br>[Johnny Somali Trial Day](https://www.youtube.com/watch?v=gntvvdGUU2A)<br>[00:42:30] |
@@ -54,6 +57,7 @@
 |![](https://i.ytimg.com/vi/vkl87gXfVU8/maxresdefault.jpg) |2026-02-10 20:01:20<br>@YishaiFleisherTV<br>[EXPOSED: London's Sunday Times Anti-Israel Bias Strikes Again](https://www.youtube.com/watch?v=vkl87gXfVU8)<br>[00:45:23] |
 |![](https://i.ytimg.com/vi/TFfMTCDiGXY/maxresdefault.jpg) |2026-02-10 18:00:27<br>@TheCriticalDrinker<br>[The Mandalorian And Grogu - Does Disney Actually Hate This Movie?](https://www.youtube.com/watch?v=TFfMTCDiGXY)<br>[00:06:48] |
 |![](https://i.ytimg.com/vi/6CJDI1AkIW0/maxresdefault.jpg) |2026-02-10 15:00:11<br>@moresus<br>[Asmongold Has Officially Declared War.. #253](https://www.youtube.com/watch?v=6CJDI1AkIW0)<br>[00:37:36] |
+|![](https://i.ytimg.com/vi/n6C4kTDklZc/maxresdefault.jpg) |2026-02-10 13:01:30<br>@hutch<br>[3 HOURS OF PAIN AND SUFFERING - VADIM & OGREBOY vs LIB & LEARN](https://www.youtube.com/watch?v=n6C4kTDklZc)<br>[03:14:36] |
 |![](https://i.ytimg.com/vi/GCExA_vPN2g/maxresdefault.jpg) |2026-02-10 03:42:50<br>@AtriocClips<br>[The Unofficial Jobs Numbers Are Cooked...](https://www.youtube.com/watch?v=GCExA_vPN2g)<br>[00:12:08] |
 |![](https://i.ytimg.com/vi/WW_odt7uZTs/maxresdefault.jpg) |2026-02-10 03:20:00<br>@theAIsearch<br>[This AI video generator crushes everything](https://www.youtube.com/watch?v=WW_odt7uZTs)<br>[00:34:13] |
 |![](https://i.ytimg.com/vi/6hBJFQf7-tg/maxresdefault.jpg) |2026-02-09 20:00:07<br>@MichelJanse<br>[The MOST requested recipe. I give to you 🥁🥁Opas soup](https://www.youtube.com/watch?v=6hBJFQf7-tg)<br>[00:03:01] |
@@ -63,6 +67,7 @@
 |![](https://i.ytimg.com/vi/y1rdIyTYc24/maxresdefault.jpg) |2026-02-09 16:01:22<br>@MoreCringe<br>[Elon Musk Got Caught Lying About Epstein](https://www.youtube.com/watch?v=y1rdIyTYc24)<br>[00:11:40] |
 |![](https://i.ytimg.com/vi/nVf6l4ne2Fk/maxresdefault.jpg) |2026-02-09 15:57:37<br>@americanredact<br>[Bryan Callen Exposes Himself While Defending Epstein](https://www.youtube.com/watch?v=nVf6l4ne2Fk)<br>[00:15:06] |
 |![](https://i.ytimg.com/vi/ACVMcR7V0MQ/maxresdefault.jpg) |2026-02-09 15:00:18<br>@moresus<br>[Hasan’s YouTube Career Completely Failed… #252](https://www.youtube.com/watch?v=ACVMcR7V0MQ)<br>[00:37:39] |
+|![](https://i.ytimg.com/vi/ibC4KN8nsjo/maxresdefault.jpg) |2026-02-09 13:01:17<br>@hutch<br>[New Anti-Hutch Video Essay Just Dropped](https://www.youtube.com/watch?v=ibC4KN8nsjo)<br>[02:09:20] |
 |![](https://i.ytimg.com/vi/KP4deDwaFOo/maxresdefault.jpg) |2026-02-08 22:13:51<br>@disparutoo<br>[Starfleet Academy FALLOUT Media COPE As Narrative DIES](https://www.youtube.com/watch?v=KP4deDwaFOo)<br>[00:18:53] |
 |![](https://i.ytimg.com/vi/GY-iOhZxogw/maxresdefault.jpg) |2026-02-08 21:00:14<br>@LilAClip<br>[He's Not Healthy...](https://www.youtube.com/watch?v=GY-iOhZxogw)<br>[00:10:34] |
 |![](https://i.ytimg.com/vi/pLEqzHXR_sM/maxresdefault.jpg) |2026-02-08 19:00:53<br>@RobsMedia25<br>[Idiot Influencers - Sneako](https://www.youtube.com/watch?v=pLEqzHXR_sM)<br>[02:22:35] |
@@ -79,7 +84,6 @@
 |![](https://i.ytimg.com/vi/klWGUIsN0ik/maxresdefault.jpg) |2026-02-08 00:26:26<br>@notsoErudite<br>[When I Realized Christians don’t Read the Bible @drdafshow](https://www.youtube.com/watch?v=klWGUIsN0ik)<br>[00:41:30] |
 |![](https://i.ytimg.com/vi/DeTIrdvrhtI/maxresdefault.jpg) |2026-02-07 20:30:04<br>@notevenemily<br>[Let’s Talk About The College System… (it’s messed up)](https://www.youtube.com/watch?v=DeTIrdvrhtI)<br>[00:43:09] |
 |![](https://i.ytimg.com/vi/wL304A10rN4/maxresdefault.jpg) |2026-02-07 20:03:45<br>@LaelHansen<br>[ONLYFANS IS RUINING YOUR LIFE (scientifically proven)](https://www.youtube.com/watch?v=wL304A10rN4)<br>[00:28:25] |
-|![](https://i.ytimg.com/vi/jk6lGqaoGrU/maxresdefault.jpg) |2026-02-07 20:00:27<br>@MichelJanse<br>[VLOG: it's my goal to have a peaceful, whimsical weekend. (bake with me + picnic in the desert!)](https://www.youtube.com/watch?v=jk6lGqaoGrU)<br>[00:28:41] |
 |![](https://i.ytimg.com/vi/lRjd2Yb46oM/maxresdefault.jpg) |2026-02-07 16:20:57<br>@themorbidzoo<br>[Oh No! I Kind of Liked Return to Silent Hill](https://www.youtube.com/watch?v=lRjd2Yb46oM)<br>[00:18:51] |
 |![](https://i.ytimg.com/vi/eVJMgs0_phA/maxresdefault.jpg) |2026-02-07 00:01:00<br>@LilAClip<br>[The Honey Scam Got Worse](https://www.youtube.com/watch?v=eVJMgs0_phA)<br>[00:30:25] |
 |![](https://i.ytimg.com/vi/z8poSO0Aujo/maxresdefault.jpg) |2026-02-06 21:32:45<br>@KianaDocherty<br>[The Millennial Mukbang Problem](https://www.youtube.com/watch?v=z8poSO0Aujo)<br>[00:23:53] |
@@ -370,12 +374,7 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
-ellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
-|![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
-|![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
--------------------
-ack to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
-|![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
+eparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
 ing from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
