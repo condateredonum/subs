@@ -15,11 +15,17 @@
 
 [Alex O'Connor](https://www.youtube.com/channel/UC7kIy8fZavEni8Gzl8NLjOQ)
 
+[All Things Secured](https://www.youtube.com/channel/UCvFGf8HZGZWFzpcDCqb3Lhw)
+
 [Alyssa Grenfell](https://www.youtube.com/@alyssadgrenfell/videos) 
 
 [American Redact](https://www.youtube.com/@americanredact/videos)
 
+[Anandaapologetics](https://www.youtube.com/channel/UCfeo3IQrWhN0mgTA627EuqA)
+
 [Anders Puck Nielsen](https://www.youtube.com/channel/UCPPfK7Nq_yQR84rn1wcTXBg)
+
+[Antastesiaa](https://www.youtube.com/channel/UCIBAJIVwRXYViiRXREgM44w)
 
 [Antibot](https://www.youtube.com/@theantibot/videos) 
 
@@ -29,7 +35,11 @@
 
 [Atrioc](https://www.youtube.com/@atrioc/videos)
 
+[BeyondTheBlue](https://www.youtube.com/channel/UCy6-V0dTuvNB_uFXpE5K5uQ)
+
 [Big A](https://www.youtube.com/@AtriocClips/videos)
+
+[Bloomberg Live](https://www.youtube.com/channel/UC7UFcUbAd8oyCBWCogVpJ6g)
 
 [Business Insider](https://www.youtube.com/@BusinessInsider/videos)
 
@@ -55,9 +65,13 @@
 
 [Critical Drinker](https://www.youtube.com/@TheCriticalDrinker/videos)
 
-[DamiLee](https://www.youtube.com/@DamiLeeArch/videos)
+[Damien Talks Money](https://www.youtube.com/channel/UCjPR68IfHV0aY9s6cF5u0uQ)
+
+[Dami Lee](https://www.youtube.com/@DamiLeeArch/videos)
 
 [Damon Cassidy](https://www.youtube.com/@DamonCassidy/videos)
+
+[Dan Murrell](https://www.youtube.com/channel/UCbiOAho0h23IMInURiESx1w)
 
 [Disparu](https://www.youtube.com/@disparutoo/videos)
 
@@ -84,6 +98,8 @@
 [Good Work](https://www.youtube.com/@GoodWorkMB/videos)
 
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
+
+[Historia Civilis](https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A)
 
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
 
@@ -129,7 +145,15 @@
 
 [Lucy Moon](https://www.youtube.com/@lucymoon/videos)
 
+[Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
+
 [Marina McBain](https://www.youtube.com/@marinamcbain/videos)
+
+[Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
+
+[Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)
+
+[Martin Bamford](https://www.youtube.com/channel/UC43O4ZgouUQ7Z3_Xk6vd3jw)
 
 [Maxinomics](https://www.youtube.com/channel/UCUEmaeh13ai1ivT5wzz5Lhg)
 
@@ -170,6 +194,8 @@
 [Paper Will](https://www.youtube.com/channel/UCPwuva5LbnwFTetkP_cUQHA/videos)
 
 [Penguinz0](https://www.youtube.com/@penguinz0/videos)
+
+[Perun](https://www.youtube.com/channel/UCC3ehuUksTyQ7bbjGntmx3Q)
 
 [PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
