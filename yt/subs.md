@@ -97,6 +97,8 @@
 
 [Galatea & Acis](https://www.youtube.com/@Galatea-and-Acis/videos)
 
+[Genetically Modified Skeptic](https://www.youtube.com/channel/UCG1uayRlzz3ahT8ISRdyw7Q)
+
 [Ghost Gum](https://www.youtube.com/@GhostGum/videos)
 
 [Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
