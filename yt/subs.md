@@ -109,6 +109,8 @@
 
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
 
+[Hutch](https://www.youtube.com/@hutch/videos)
+
 [Israel Advocacy Movement](https://www.youtube.com/@Israel_Advocacy/videos)
 
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
