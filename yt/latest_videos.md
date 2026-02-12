@@ -1,10 +1,13 @@
 -------------------
-# 2026-02-12 17:54:15
+# 2026-02-12 19:59:32
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/s8tz9ZX54PY/maxresdefault.jpg) |2026-02-12 19:04:55<br>@H3PodcastHighlights<br>[We Have To Talk About The Denims Situation...](https://www.youtube.com/watch?v=s8tz9ZX54PY)<br>[00:11:41] |
+|![](https://i.ytimg.com/vi/NsGMnCc-E-c/maxresdefault.jpg) |2026-02-12 18:19:44<br>@ericamallett<br>[Being "worse" will actually make you better](https://www.youtube.com/watch?v=NsGMnCc-E-c)<br>[00:07:02] |
+|![](https://i.ytimg.com/vi/M53vMum29KQ/sddefault.jpg) |2026-02-12 18:00:31<br>@penguinz0<br>[You Get Hurt in the Game, You Get Hurt in Real Life](https://www.youtube.com/watch?v=M53vMum29KQ)<br>[00:17:07] |
 |![](https://i.ytimg.com/vi/tEe5F7E3IE0/maxresdefault.jpg) |2026-02-12 17:44:41<br>@CamKirkham<br>[The Lucy Letby Documentary is SO Disturbing](https://www.youtube.com/watch?v=tEe5F7E3IE0)<br>[01:10:53] |
-|![](https://i.ytimg.com/vi/7SrE8hpxrvY/maxresdefault.jpg) |2026-02-12 17:00:00<br>@OfficialSaharTV<br>[Palestinian Mother FAKES Her Child's Injury For Donations, Then Exposes Herself Live!](https://www.youtube.com/watch?v=7SrE8hpxrvY)<br>[00:13:09] |
+|![](https://i.ytimg.com/vi/7SrE8hpxrvY/maxresdefault.jpg) |2026-02-12 17:00:00<br>@OfficialSaharTV<br>[Muslims Are Going VIRAL After Using A.I. Videos For Gaza \| Now They're in HOT WATER!](https://www.youtube.com/watch?v=7SrE8hpxrvY)<br>[00:13:09] |
 |![](https://i.ytimg.com/vi/DUp7isN6aJI/maxresdefault.jpg) |2026-02-12 15:00:25<br>@moresus<br>[Hasan’s Friends Are Cancelling Him Now..](https://www.youtube.com/watch?v=DUp7isN6aJI)<br>[00:37:36] |
 |![](https://i.ytimg.com/vi/dfEeUi08bH4/maxresdefault.jpg) |2026-02-12 14:35:03<br>@OfficialSaharTV<br>[Groyper ABANDONS The Anti-Israel Movement After Presented This Question....](https://www.youtube.com/watch?v=dfEeUi08bH4)<br>[00:18:31] |
 |![](https://i.ytimg.com/vi/kdbkTIPv_iY/maxresdefault.jpg) |2026-02-12 12:01:23<br>@AtheistRepublic<br>[The Silent Genocide: How the Mullahs Kill Without Bullets](https://www.youtube.com/watch?v=kdbkTIPv_iY)<br>[00:33:08] |
@@ -44,13 +47,11 @@
 |![](https://i.ytimg.com/vi/TCTUMX1DT_8/maxresdefault.jpg) |2026-02-11 02:00:21<br>@H3PodcastHighlights<br>[The Denims & Emiru Situation Is Stupid.](https://www.youtube.com/watch?v=TCTUMX1DT_8)<br>[00:55:40] |
 |![](https://i.ytimg.com/vi/JUfaHSoPWjI/maxresdefault.jpg) |2026-02-11 01:42:33<br>@SydneyWatson<br>[Breaking my silence.](https://www.youtube.com/watch?v=JUfaHSoPWjI)<br>[00:40:21] |
 |![](https://i.ytimg.com/vi/HSHdWAfRV38/maxresdefault.jpg) |2026-02-11 01:30:16<br>@DamonCassidy<br>[Piracy Has Won The War. Streaming Lost.](https://www.youtube.com/watch?v=HSHdWAfRV38)<br>[00:19:12] |
-|![](https://i.ytimg.com/vi/dK5fwKL5B8c/maxresdefault.jpg) |2026-02-11 01:05:29<br>@H3PodcastHighlights<br>[Every H3 Sketch From The Past 5 Years](https://www.youtube.com/watch?v=dK5fwKL5B8c)<br>[02:22:26] |
 |![](https://i.ytimg.com/vi/bo4QhR0iVg8/maxresdefault.jpg) |2026-02-11 01:00:59<br>@LilAClip<br>[The Year of Health is Going Well...](https://www.youtube.com/watch?v=bo4QhR0iVg8)<br>[00:10:05] |
 |![](https://i.ytimg.com/vi/uSK8gnu-V9Y/maxresdefault.jpg) |2026-02-11 01:00:06<br>@LegalMindset<br>[Johnny Somali Deepfake Charge Update (Fast Facts)](https://www.youtube.com/watch?v=uSK8gnu-V9Y)<br>[00:10:24] |
 |![](https://i.ytimg.com/vi/HNiUyosJGgI/maxresdefault.jpg) |2026-02-10 21:35:34<br>@HilaryLayne<br>[Strong Female Characters Are Just Toxic Men](https://www.youtube.com/watch?v=HNiUyosJGgI)<br>[00:57:22] |
 |![](https://i.ytimg.com/vi/9TS786OlmOc/maxresdefault.jpg) |2026-02-10 20:21:09<br>@2lazy2tryYT<br>[Comedians Named In The Epstein Files](https://www.youtube.com/watch?v=9TS786OlmOc)<br>[00:18:11] |
 |![](https://i.ytimg.com/vi/vkl87gXfVU8/maxresdefault.jpg) |2026-02-10 20:01:20<br>@YishaiFleisherTV<br>[EXPOSED: London's Sunday Times Anti-Israel Bias Strikes Again](https://www.youtube.com/watch?v=vkl87gXfVU8)<br>[00:45:23] |
-|![](https://i.ytimg.com/vi/nwKFc0iSdIw/sddefault.jpg) |2026-02-10 18:45:07<br>@penguinz0<br>[Worst Trilogy Ever Made](https://www.youtube.com/watch?v=nwKFc0iSdIw)<br>[00:17:26] |
 |![](https://i.ytimg.com/vi/TFfMTCDiGXY/maxresdefault.jpg) |2026-02-10 18:00:27<br>@TheCriticalDrinker<br>[The Mandalorian And Grogu - Does Disney Actually Hate This Movie?](https://www.youtube.com/watch?v=TFfMTCDiGXY)<br>[00:06:48] |
 |![](https://i.ytimg.com/vi/6CJDI1AkIW0/maxresdefault.jpg) |2026-02-10 15:00:11<br>@moresus<br>[Asmongold Has Officially Declared War.. #253](https://www.youtube.com/watch?v=6CJDI1AkIW0)<br>[00:37:36] |
 |![](https://i.ytimg.com/vi/GCExA_vPN2g/maxresdefault.jpg) |2026-02-10 03:42:50<br>@AtriocClips<br>[The Unofficial Jobs Numbers Are Cooked...](https://www.youtube.com/watch?v=GCExA_vPN2g)<br>[00:12:08] |
@@ -337,7 +338,6 @@
 |![](https://i.ytimg.com/vi/NTwJxM9J3aQ/maxresdefault.jpg) |2025-08-10 15:30:02<br>@sierraroselyn<br>[10 BEST TIPS to control hunger (and finally lose weight)](https://www.youtube.com/watch?v=NTwJxM9J3aQ)<br>[00:12:40] |
 |![](https://i.ytimg.com/vi/U_lmU1TVdOg/maxresdefault.jpg) |2025-08-08 18:00:06<br>@Moocake<br>[Digesting The Liver King](https://www.youtube.com/watch?v=U_lmU1TVdOg)<br>[00:55:53] |
 |![](https://i.ytimg.com/vi/01BrRGEzPaQ/maxresdefault.jpg) |2025-07-31 11:46:36<br>@kaptainkristian<br>[When Tarantino Learned To Shut Up](https://www.youtube.com/watch?v=01BrRGEzPaQ)<br>[00:10:38] |
-|![](https://i.ytimg.com/vi/RBBilH65opA/maxresdefault.jpg) |2025-07-29 13:50:09<br>@ericamallett<br>[This hidden psychology will make people obsessed with you](https://www.youtube.com/watch?v=RBBilH65opA)<br>[00:07:20] |
 |![](https://i.ytimg.com/vi/vDzVdg7ViDk/maxresdefault.jpg) |2025-07-18 20:53:03<br>@TheElephantGraveyardMusic<br>[American Quakening (Elephant Graveyard Radio Hour Ep. 3)](https://www.youtube.com/watch?v=vDzVdg7ViDk)<br>[01:10:16] |
 |![](https://i.ytimg.com/vi/Z1Ua1hVRtdE/maxresdefault.jpg) |2025-07-14 18:21:58<br>@GhostGum<br>[The Many Lies of Lex Fridman](https://www.youtube.com/watch?v=Z1Ua1hVRtdE)<br>[00:25:03] |
 |![](https://i.ytimg.com/vi/XPk-efest5M/maxresdefault.jpg) |2025-07-11 12:19:27<br>@Kraut_the_Parrot<br>[The Difference between Cultures and Institutions](https://www.youtube.com/watch?v=XPk-efest5M)<br>[00:46:59] |
@@ -370,7 +370,7 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
-2-12-19 23:24:34<br>@hellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
+ellomayuko<br>[Going back to Software Engineering.](https://www.youtube.com/watch?v=71UYjetDyVI)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
