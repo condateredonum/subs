@@ -81,6 +81,8 @@
 
 [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg)
 
+[Economics Help](https://www.youtube.com/channel/UCBr2W3nb0jPSnommNbbpMAw)
+
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
 [Erica Mallett](https://www.youtube.com/@ericamallett/videos)
@@ -210,6 +212,8 @@
 [Plastic Pills](https://www.youtube.com/@PlasticPills/videos)
 
 [Podcast Cringe](https://www.youtube.com/@PodcastCringe/videos)
+
+[Preston Stewart](https://www.youtube.com/channel/UC75suCpChvMVC_9ij7rUpxw)
 
 [Psychology with Dr.Ana](https://www.youtube.com/@AnaPsychology/videos)
 
