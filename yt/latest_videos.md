@@ -1,8 +1,10 @@
 -------------------
-# 2026-02-14 10:36:21
+# 2026-02-14 12:41:39
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/jIv8DtRWdwM/maxresdefault.jpg) |2026-02-14 12:01:14<br>@Channel4Documentaries<br>[Mistaken identity leads to brother's murder #C4Docs #ZombieKnives #24HoursInPoliceCustody](https://www.youtube.com/watch?v=jIv8DtRWdwM)<br>[00:02:21] |
+|![](https://i.ytimg.com/vi/Z9oBnACK4Fk/maxresdefault.jpg) |2026-02-14 12:01:03<br>@AtheistRepublic<br>[THE END: Why Decapitating the IRGC is the Only Way Out](https://www.youtube.com/watch?v=Z9oBnACK4Fk)<br>[00:29:10] |
 |![](https://i.ytimg.com/vi/6mhA_VRBDJ8/maxresdefault.jpg) |2026-02-14 10:04:40<br>@AtheistRepublic<br>[The Silent IQ Collapse: Why the UK is Self-Destructing](https://www.youtube.com/watch?v=6mhA_VRBDJ8)<br>[00:28:24] |
 |![](https://i.ytimg.com/vi/CQEjluzg0Cg/maxresdefault.jpg) |2026-02-14 09:29:10<br>@notsoErudite<br>[@AbaNPreachs Epstein Coverage Exposes a Terrifying Reality](https://www.youtube.com/watch?v=CQEjluzg0Cg)<br>[01:00:35] |
 |![](https://i.ytimg.com/vi/TbMTFvvhkNw/sddefault.jpg) |2026-02-14 07:30:54<br>@penguinz0<br>[No plans](https://www.youtube.com/watch?v=TbMTFvvhkNw)<br>[02:48:31] |
@@ -36,7 +38,6 @@
 |![](https://i.ytimg.com/vi/m192zxKJTBs/maxresdefault.jpg) |2026-02-13 12:56:53<br>@HowMoneyWorks<br>[How Epstein Won So Many Friends & Influenced So Many ̶p̶e̶d̶o̶s̶ People](https://www.youtube.com/watch?v=m192zxKJTBs)<br>[00:16:32] |
 |![](https://i.ytimg.com/vi/-yIA4GzmpFw/maxresdefault.jpg) |2026-02-13 11:30:00<br>@AtheistRepublic<br>[ISRAEL'S FINAL BLOW: Why the Mullahs Are Terrified](https://www.youtube.com/watch?v=-yIA4GzmpFw)<br>[02:23:10] |
 |![](https://i.ytimg.com/vi/DT4H-gbZRJE/maxresdefault.jpg) |2026-02-13 08:30:07<br>@AtheistRepublic<br>[Mossad Set the Meeting: The IRGC Trap That Changed Everything](https://www.youtube.com/watch?v=DT4H-gbZRJE)<br>[00:19:21] |
-|![](https://i.ytimg.com/vi/Py6jLoVOA8g/maxresdefault.jpg) |2026-02-13 06:41:03<br>@AtheistRepublic<br>[Israel's "Doomsday" Ultimatum: Why Trump Can't Refuse](https://www.youtube.com/watch?v=Py6jLoVOA8g)<br>[00:28:00] |
 |![](https://i.ytimg.com/vi/IU4fxxi2DLo/maxresdefault.jpg) |2026-02-13 05:40:31<br>@AtriocClips<br>[Approval So Low They Stopped Tracking It](https://www.youtube.com/watch?v=IU4fxxi2DLo)<br>[00:10:23] |
 |![](https://i.ytimg.com/vi/aflGK-PsdkU/maxresdefault.jpg) |2026-02-13 04:34:45<br>@OfficialSaharTV<br>[Tommy Robinson Drops a RAGING Response to the Mu$lim R@pe Gangs in Britain!](https://www.youtube.com/watch?v=aflGK-PsdkU)<br>[00:06:46] |
 |![](https://i.ytimg.com/vi/x9e4D-t_Dfo/maxresdefault.jpg) |2026-02-13 03:29:02<br>@theAIsearch<br>[New #1 open source AI model just dropped](https://www.youtube.com/watch?v=x9e4D-t_Dfo)<br>[00:33:45] |
@@ -122,7 +123,6 @@
 |![](https://i.ytimg.com/vi/_ey0HNGdMBk/maxresdefault.jpg) |2026-02-06 03:20:49<br>@theAIsearch<br>[KLING 3.0 is crazy...](https://www.youtube.com/watch?v=_ey0HNGdMBk)<br>[00:23:05] |
 |![](https://i.ytimg.com/vi/0H5daoQ88VY/maxresdefault.jpg) |2026-02-05 22:06:21<br>@disparutoo<br>[Starfleet Academy Gets WORSE - Burns Canon for Selfish Greed](https://www.youtube.com/watch?v=0H5daoQ88VY)<br>[00:52:14] |
 |![](https://i.ytimg.com/vi/KluNgOvoHvo/maxresdefault.jpg) |2026-02-05 18:03:41<br>@LanaBlakely<br>[you feel lost because nothing's caught your attention](https://www.youtube.com/watch?v=KluNgOvoHvo)<br>[00:02:14] |
-|![](https://i.ytimg.com/vi/uMV4-HAU1k8/maxresdefault.jpg) |2026-02-05 17:01:29<br>@Channel4Documentaries<br>[My Sex Was Hidden From Me Until The Age Of 19 \| The Secret Of Me \| Channel 4 Documentaries](https://www.youtube.com/watch?v=uMV4-HAU1k8)<br>[01:36:53] |
 |![](https://i.ytimg.com/vi/-1DvXSsWKLI/maxresdefault.jpg) |2026-02-05 16:31:08<br>@fern-tv<br>[Why the U.S. President Is Almost Impossible to Kill](https://www.youtube.com/watch?v=-1DvXSsWKLI)<br>[00:27:13] |
 |![](https://i.ytimg.com/vi/YiESni39SRs/maxresdefault.jpg) |2026-02-05 16:03:40<br>@oompaville<br>[The Files Have Exposed The Cult...](https://www.youtube.com/watch?v=YiESni39SRs)<br>[00:58:53] |
 |![](https://i.ytimg.com/vi/g37E9ztzxkE/maxresdefault.jpg) |2026-02-05 13:30:56<br>@MoneyMacro<br>[Why the new world order will be worse than you think](https://www.youtube.com/watch?v=g37E9ztzxkE)<br>[00:24:56] |
@@ -384,3 +384,4 @@
 |![](https://i.ytimg.com/vi/EW-TnCOE1KE/maxresdefault.jpg) |2022-09-22 17:00:07<br>@hellomayuko<br>[Preparing for your first day at a new tech job (emotionally, mentally, and professionally)](https://www.youtube.com/watch?v=EW-TnCOE1KE)<br>[00:17:59] |
 |![](https://i.ytimg.com/vi/O0sqKJwh2Vk/maxresdefault.jpg) |2022-08-31 02:43:13<br>@hellomayuko<br>[Office Tour 2022 // Working from home in a well-designed, adaptable, and creative space](https://www.youtube.com/watch?v=O0sqKJwh2Vk)<br>[00:11:25] |
 -------------------
+-
