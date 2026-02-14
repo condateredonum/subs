@@ -132,6 +132,8 @@
 
 [Economics Help](https://www.youtube.com/channel/UCBr2W3nb0jPSnommNbbpMAw)
 
+[The Efficient Engineer](https://www.youtube.com/@TheEfficientEngineer/videos)
+
 [Einzelgänger](https://www.youtube.com/channel/UCybBViio_TH_uiFFDJuz5tg)
 
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
