@@ -1,115 +1,5 @@
 [
     {
-        "username": "theplainbagel",
-        "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
-        "uploads_playlist_id": "UUFCEuCsyWP0YkP3CZ3Mr01Q"
-    },
-    {
-        "username": "aispecies",
-        "channel_id": "UCEENWVBdvDy-QWfuQoXC9HQ",
-        "uploads_playlist_id": "UUEENWVBdvDy-QWfuQoXC9HQ"
-    },
-    {
-        "username": "@StateofKait",
-        "channel_id": "UC0QkAdm98jOI_ZPsOc92_yg",
-        "uploads_playlist_id": "UU0QkAdm98jOI_ZPsOc92_yg"
-    },
-    {
-        "username": "realeismanplaybook",
-        "channel_id": "UCzQ2FFVe7m8yIgzXMZtlSjg",
-        "uploads_playlist_id": "UUzQ2FFVe7m8yIgzXMZtlSjg"
-    },
-    {
-        "username": "bbcstever",
-        "channel_id": "UCONIJaWVRpA2iDjrpiZ4bEg",
-        "uploads_playlist_id": "UUONIJaWVRpA2iDjrpiZ4bEg"
-    },
-    {
-        "username": "@susannahfriesenofficial",
-        "channel_id": "UC2B2zhu2C0iGiRIZ6qzXg5Q",
-        "uploads_playlist_id": "UU2B2zhu2C0iGiRIZ6qzXg5Q"
-    },
-    {
-        "username": "@SydneyWatson",
-        "channel_id": "UCSFy-1JrpZf0tFlRZfo-Rvw",
-        "uploads_playlist_id": "UUSFy-1JrpZf0tFlRZfo-Rvw"
-    },
-    {
-        "username": "theus-chinanarrative",
-        "channel_id": "UCcMZNdMHbuJ3ShI6tyK5k0g",
-        "uploads_playlist_id": "UUcMZNdMHbuJ3ShI6tyK5k0g"
-    },
-    {
-        "username": "@thought_bug",
-        "channel_id": "UCQlmdbSpEpRn-Qn902yIQvA",
-        "uploads_playlist_id": "UUQlmdbSpEpRn-Qn902yIQvA"
-    },
-    {
-        "username": "@tiffanyferg",
-        "channel_id": "UCY6DpwQetygtye7GM1zVHmw",
-        "uploads_playlist_id": "UUY6DpwQetygtye7GM1zVHmw"
-    },
-    {
-        "username": "blondepraxis",
-        "channel_id": "UCulkfahBieihBhxmuB0P7XQ",
-        "uploads_playlist_id": "UUulkfahBieihBhxmuB0P7XQ"
-    },
-    {
-        "username": "@Tom_Nicholas",
-        "channel_id": "UCxt2r57cLastdmrReiQJkEg",
-        "uploads_playlist_id": "UUxt2r57cLastdmrReiQJkEg"
-    },
-    {
-        "username": "tyleroliveira",
-        "channel_id": "UCY8SLLJjWpS4sx1dEqECaIw",
-        "uploads_playlist_id": "UUY8SLLJjWpS4sx1dEqECaIw"
-    },
-    {
-        "username": "@TypeAshton",
-        "channel_id": "UCh39lN7FQ3vG3EtPyvBf91w",
-        "uploads_playlist_id": "UUh39lN7FQ3vG3EtPyvBf91w"
-    },
-    {
-        "username": "theunclassifiedpod",
-        "channel_id": "UCSuyLEHMTO-oDHObnCeYwnQ",
-        "uploads_playlist_id": "UUSuyLEHMTO-oDHObnCeYwnQ"
-    },
-    {
-        "username": "@urmomashley",
-        "channel_id": "UC1zACndCursf-RTGr9YvQmQ",
-        "uploads_playlist_id": "UU1zACndCursf-RTGr9YvQmQ"
-    },
-    {
-        "username": "coffeezillaextras",
-        "channel_id": "UC28n0tlcNSa1iPe5mettocg",
-        "uploads_playlist_id": "UU28n0tlcNSa1iPe5mettocg"
-    },
-    {
-        "username": "@VanessaWing%C3%A5rdh",
-        "channel_id": "UC2Bm4qXVUx9Md-hmHz3WuXw",
-        "uploads_playlist_id": "UU2Bm4qXVUx9Md-hmHz3WuXw"
-    },
-    {
-        "username": "wendoverproductions",
-        "channel_id": "UC9RM-iSvTu1uPJb8X5yp3EQ",
-        "uploads_playlist_id": "UU9RM-iSvTu1uPJb8X5yp3EQ"
-    },
-    {
-        "username": "andrei",
-        "channel_id": "UC3iNdSV_RQU7DHTGpqEW96w",
-        "uploads_playlist_id": "UU3iNdSV_RQU7DHTGpqEW96w"
-    },
-    {
-        "username": "@YishaiFleisherTV",
-        "channel_id": "UC1EasxeXGzoXJb2y3HTMsLA",
-        "uploads_playlist_id": "UU1EasxeXGzoXJb2y3HTMsLA"
-    },
-    {
-        "username": "yuvalnoahharari",
-        "channel_id": "UC2m77KGMIKZCD0Kw35-4shQ",
-        "uploads_playlist_id": "UU2m77KGMIKZCD0Kw35-4shQ"
-    },
-    {
         "username": "@1420channel",
         "channel_id": "UCl4R4M9YVfYjjPmILU2Ie1A",
         "uploads_playlist_id": "UUl4R4M9YVfYjjPmILU2Ie1A"
@@ -1128,5 +1018,225 @@
         "username": "@sierraroselyn",
         "channel_id": "UC2JD_xPL6VI9paxjA833Ofw",
         "uploads_playlist_id": "UU2JD_xPL6VI9paxjA833Ofw"
+    },
+    {
+        "username": "smartmoneywithkai",
+        "channel_id": "UC3fvxcqhSy3a2szvI6yoP6w",
+        "uploads_playlist_id": "UU3fvxcqhSy3a2szvI6yoP6w"
+    },
+    {
+        "username": "someordinarygamers",
+        "channel_id": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+        "uploads_playlist_id": "UUtMVHI3AJD4Qk4hcbZnI9ZQ"
+    },
+    {
+        "username": "aispecies",
+        "channel_id": "UCEENWVBdvDy-QWfuQoXC9HQ",
+        "uploads_playlist_id": "UUEENWVBdvDy-QWfuQoXC9HQ"
+    },
+    {
+        "username": "spectacles-dm",
+        "channel_id": "UCgQ7Amr6fvCJyVlCwEi1bLw",
+        "uploads_playlist_id": "UUgQ7Amr6fvCJyVlCwEi1bLw"
+    },
+    {
+        "username": "@StateofKait",
+        "channel_id": "UC0QkAdm98jOI_ZPsOc92_yg",
+        "uploads_playlist_id": "UU0QkAdm98jOI_ZPsOc92_yg"
+    },
+    {
+        "username": "realeismanplaybook",
+        "channel_id": "UCzQ2FFVe7m8yIgzXMZtlSjg",
+        "uploads_playlist_id": "UUzQ2FFVe7m8yIgzXMZtlSjg"
+    },
+    {
+        "username": "stevemould",
+        "channel_id": "UCEIwxahdLz7bap-VDs9h35A",
+        "uploads_playlist_id": "UUEIwxahdLz7bap-VDs9h35A"
+    },
+    {
+        "username": "bbcstever",
+        "channel_id": "UCONIJaWVRpA2iDjrpiZ4bEg",
+        "uploads_playlist_id": "UUONIJaWVRpA2iDjrpiZ4bEg"
+    },
+    {
+        "username": "suibhne",
+        "channel_id": "UCQD-0MjUbDBwm2UTVYr0Dag",
+        "uploads_playlist_id": "UUQD-0MjUbDBwm2UTVYr0Dag"
+    },
+    {
+        "username": "@susannahfriesenofficial",
+        "channel_id": "UC2B2zhu2C0iGiRIZ6qzXg5Q",
+        "uploads_playlist_id": "UU2B2zhu2C0iGiRIZ6qzXg5Q"
+    },
+    {
+        "username": "@SydneyWatson",
+        "channel_id": "UCSFy-1JrpZf0tFlRZfo-Rvw",
+        "uploads_playlist_id": "UUSFy-1JrpZf0tFlRZfo-Rvw"
+    },
+    {
+        "username": "thearmchairhistorian",
+        "channel_id": "UCeUJFQ0D9qs6aVNyUt9fkeQ",
+        "uploads_playlist_id": "UUeUJFQ0D9qs6aVNyUt9fkeQ"
+    },
+    {
+        "username": "thedorbrothers",
+        "channel_id": "UCNMK68M-Al4hRUcew07TnUA",
+        "uploads_playlist_id": "UUNMK68M-Al4hRUcew07TnUA"
+    },
+    {
+        "username": "thehistocrat",
+        "channel_id": "UCSwFnHpDt-lZgR_7Sqisi6A",
+        "uploads_playlist_id": "UUSwFnHpDt-lZgR_7Sqisi6A"
+    },
+    {
+        "username": "theinvisiblehandco",
+        "channel_id": "UCW-B3YqxljqVGYChJS0FjxQ",
+        "uploads_playlist_id": "UUW-B3YqxljqVGYChJS0FjxQ"
+    },
+    {
+        "username": "theplainbagel",
+        "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
+        "uploads_playlist_id": "UUFCEuCsyWP0YkP3CZ3Mr01Q"
+    },
+    {
+        "username": "restpoliticsus",
+        "channel_id": "UCII84rxnNkEjtk1zC3qTtbg",
+        "uploads_playlist_id": "UUII84rxnNkEjtk1zC3qTtbg"
+    },
+    {
+        "username": "theromanorthodox",
+        "channel_id": "UCk5T2YLjYI6nxV4ZTXUVdVg",
+        "uploads_playlist_id": "UUk5T2YLjYI6nxV4ZTXUVdVg"
+    },
+    {
+        "username": "timesofisrael",
+        "channel_id": "UCKM3VQFIITaRegPDkLlLeKA",
+        "uploads_playlist_id": "UUKM3VQFIITaRegPDkLlLeKA"
+    },
+    {
+        "username": "theus-chinanarrative",
+        "channel_id": "UCcMZNdMHbuJ3ShI6tyK5k0g",
+        "uploads_playlist_id": "UUcMZNdMHbuJ3ShI6tyK5k0g"
+    },
+    {
+        "username": "theinternetreviewed",
+        "channel_id": "UCQFXq97bgp86MMny1f-oYFA",
+        "uploads_playlist_id": "UUQFXq97bgp86MMny1f-oYFA"
+    },
+    {
+        "username": "thomasflight",
+        "channel_id": "UCUyvQV2JsICeLZP4c_h40kA",
+        "uploads_playlist_id": "UUUyvQV2JsICeLZP4c_h40kA"
+    },
+    {
+        "username": "@thought_bug",
+        "channel_id": "UCQlmdbSpEpRn-Qn902yIQvA",
+        "uploads_playlist_id": "UUQlmdbSpEpRn-Qn902yIQvA"
+    },
+    {
+        "username": "@tiffanyferg",
+        "channel_id": "UCY6DpwQetygtye7GM1zVHmw",
+        "uploads_playlist_id": "UUY6DpwQetygtye7GM1zVHmw"
+    },
+    {
+        "username": "blondepraxis",
+        "channel_id": "UCulkfahBieihBhxmuB0P7XQ",
+        "uploads_playlist_id": "UUulkfahBieihBhxmuB0P7XQ"
+    },
+    {
+        "username": "tobynewbatt",
+        "channel_id": "UC2DCjFH0taLx6MB4a3pbLmQ",
+        "uploads_playlist_id": "UU2DCjFH0taLx6MB4a3pbLmQ"
+    },
+    {
+        "username": "toldinstone",
+        "channel_id": "UCqBiWcuTF8IaLH7wBqnihsQ",
+        "uploads_playlist_id": "UUqBiWcuTF8IaLH7wBqnihsQ"
+    },
+    {
+        "username": "@Tom_Nicholas",
+        "channel_id": "UCxt2r57cLastdmrReiQJkEg",
+        "uploads_playlist_id": "UUxt2r57cLastdmrReiQJkEg"
+    },
+    {
+        "username": "tyleroliveira",
+        "channel_id": "UCY8SLLJjWpS4sx1dEqECaIw",
+        "uploads_playlist_id": "UUY8SLLJjWpS4sx1dEqECaIw"
+    },
+    {
+        "username": "@TypeAshton",
+        "channel_id": "UCh39lN7FQ3vG3EtPyvBf91w",
+        "uploads_playlist_id": "UUh39lN7FQ3vG3EtPyvBf91w"
+    },
+    {
+        "username": "theunclassifiedpod",
+        "channel_id": "UCSuyLEHMTO-oDHObnCeYwnQ",
+        "uploads_playlist_id": "UUSuyLEHMTO-oDHObnCeYwnQ"
+    },
+    {
+        "username": "unsolicitedadvice9198",
+        "channel_id": "UCW71hQg1kDxmFIfijA8dL0Q",
+        "uploads_playlist_id": "UUW71hQg1kDxmFIfijA8dL0Q"
+    },
+    {
+        "username": "upandatom",
+        "channel_id": "UCSIvk78tK2TiviLQn4fSHaw",
+        "uploads_playlist_id": "UUSIvk78tK2TiviLQn4fSHaw"
+    },
+    {
+        "username": "@urmomashley",
+        "channel_id": "UC1zACndCursf-RTGr9YvQmQ",
+        "uploads_playlist_id": "UU1zACndCursf-RTGr9YvQmQ"
+    },
+    {
+        "username": "@VanessaWing\u00e5rdh",
+        "channel_id": "UC2Bm4qXVUx9Md-hmHz3WuXw",
+        "uploads_playlist_id": "UU2Bm4qXVUx9Md-hmHz3WuXw"
+    },
+    {
+        "username": "vasyainthehay",
+        "channel_id": "UCaNfHBihSUqcUBpvHx-rwYw",
+        "uploads_playlist_id": "UUaNfHBihSUqcUBpvHx-rwYw"
+    },
+    {
+        "username": "voicesofthepast",
+        "channel_id": "UCqoGR_EedlhKDVuWNwYWRbg",
+        "uploads_playlist_id": "UUqoGR_EedlhKDVuWNwYWRbg"
+    },
+    {
+        "username": "coffeezillaextras",
+        "channel_id": "UC28n0tlcNSa1iPe5mettocg",
+        "uploads_playlist_id": "UU28n0tlcNSa1iPe5mettocg"
+    },
+    {
+        "username": "welchlabs",
+        "channel_id": "UConVfxXodg78Tzh5nNu85Ew",
+        "uploads_playlist_id": "UUonVfxXodg78Tzh5nNu85Ew"
+    },
+    {
+        "username": "wendoverproductions",
+        "channel_id": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+        "uploads_playlist_id": "UU9RM-iSvTu1uPJb8X5yp3EQ"
+    },
+    {
+        "username": "andrei",
+        "channel_id": "UC3iNdSV_RQU7DHTGpqEW96w",
+        "uploads_playlist_id": "UU3iNdSV_RQU7DHTGpqEW96w"
+    },
+    {
+        "username": "@YishaiFleisherTV",
+        "channel_id": "UC1EasxeXGzoXJb2y3HTMsLA",
+        "uploads_playlist_id": "UU1EasxeXGzoXJb2y3HTMsLA"
+    },
+    {
+        "username": "yuvalnoahharari",
+        "channel_id": "UC2m77KGMIKZCD0Kw35-4shQ",
+        "uploads_playlist_id": "UU2m77KGMIKZCD0Kw35-4shQ"
+    },
+    {
+        "username": "kurzgesagt_hi",
+        "channel_id": "UCIR1LQvYrHOWBpOGq5nFo0Q",
+        "uploads_playlist_id": "UUIR1LQvYrHOWBpOGq5nFo0Q"
     }
 ]
