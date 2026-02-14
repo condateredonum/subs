@@ -1,8 +1,9 @@
 -------------------
-# 2026-02-14 12:46:09
+# 2026-02-14 13:03:54
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/P0fHv9TvRPI/maxresdefault.jpg) |2026-02-14 13:00:06<br>@LegalMindset<br>[Asmongold Destroys Mizkif Legal Case (Fast Facts)](https://www.youtube.com/watch?v=P0fHv9TvRPI)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/jIv8DtRWdwM/maxresdefault.jpg) |2026-02-14 12:01:14<br>@Channel4Documentaries<br>[Mistaken identity leads to brother's murder #C4Docs #ZombieKnives #24HoursInPoliceCustody](https://www.youtube.com/watch?v=jIv8DtRWdwM)<br>[00:02:21] |
 |![](https://i.ytimg.com/vi/Z9oBnACK4Fk/maxresdefault.jpg) |2026-02-14 12:01:03<br>@AtheistRepublic<br>[THE END: Why Decapitating the IRGC is the Only Way Out](https://www.youtube.com/watch?v=Z9oBnACK4Fk)<br>[00:29:10] |
 |![](https://i.ytimg.com/vi/ClHDt4aqp4M/maxresdefault.jpg) |2026-02-14 11:44:03<br>nnnimroddd<br>[Ehud Barak on Epstein fallout // אהוד ברק אפשטיין גדעון אוקו](https://www.youtube.com/watch?v=ClHDt4aqp4M)<br>[00:20:11] |
@@ -25,7 +26,6 @@
 |![](https://i.ytimg.com/vi/zttIL0lZSco/maxresdefault.jpg) |2026-02-13 20:00:50<br>prestonstewart<br>[Secret US Mission Helped Iranian Protesters](https://www.youtube.com/watch?v=zttIL0lZSco)<br>[00:14:49] |
 |![](https://i.ytimg.com/vi/9kupEosdiNo/maxresdefault.jpg) |2026-02-13 19:44:34<br>@OfficialSaharTV<br>[🚨Tommy Robinson ON THE RUN After !S!S Issues F@twah Against Him!](https://www.youtube.com/watch?v=9kupEosdiNo)<br>[00:06:54] |
 |![](https://i.ytimg.com/vi/uOQzVf2eM2E/maxresdefault.jpg) |2026-02-13 19:01:01<br>@LouExtras<br>[How LosPollos Destroyed His Career in 1 Tweet](https://www.youtube.com/watch?v=uOQzVf2eM2E)<br>[00:26:47] |
-|![](https://i.ytimg.com/vi/P0fHv9TvRPI/maxresdefault.jpg) |2026-02-13 18:21:00<br>@LegalMindset<br>[Asmongold Destroys Mizkif Legal Case (Fast Facts)](https://www.youtube.com/watch?v=P0fHv9TvRPI)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/sjHNx6F7zIQ/maxresdefault.jpg) |2026-02-13 18:17:41<br>@jubilee<br>[The real question is, who is Raymond?!?! #kalogerassisters #relationship #testyourradar #jubilee](https://www.youtube.com/watch?v=sjHNx6F7zIQ)<br>[00:02:18] |
 |![](https://i.ytimg.com/vi/dpcYqPZt2D8/maxresdefault.jpg) |2026-02-13 18:17:12<br>@jubilee<br>[Is this throuple dating or strangers?? Comment your guess down below! #kalogerassisters](https://www.youtube.com/watch?v=dpcYqPZt2D8)<br>[00:02:23] |
 |![](https://i.ytimg.com/vi/fBqz_nu-ev0/sddefault.jpg) |2026-02-13 18:00:53<br>@penguinz0<br>[It Just Keeps Happening](https://www.youtube.com/watch?v=fBqz_nu-ev0)<br>[00:08:23] |
