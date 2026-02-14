@@ -380,6 +380,8 @@
 
 [Rationality Rules](https://www.youtube.com/channel/UCqZMgLgGlYAWvSU8lZ9xiVg)
 
+[Real Engineering](https://www.youtube.com/@RealEngineering/videos)
+
 [Redeemed Zoomer](https://www.youtube.com/channel/UCiLqiXa5O85APUBQV7X5w9Q)
 
 [ReligionForBreakfast](https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw)
