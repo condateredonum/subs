@@ -412,4 +412,92 @@
 
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
 
-[Smart Money with Kai](https://www.y
+[Smart Money with Kai](https://www.youtube.com/channel/UC3fvxcqhSy3a2szvI6yoP6w)
+
+[SomeOrdinaryGamers](https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ)
+
+[Species | Documenting AGI](https://www.youtube.com/channel/UCEENWVBdvDy-QWfuQoXC9HQ)
+
+[Spectacles](https://www.youtube.com/channel/UCgQ7Amr6fvCJyVlCwEi1bLw)
+
+[State of Kait](https://www.youtube.com/@StateofKait/videos)
+
+[Steve Eisman](https://www.youtube.com/channel/UCzQ2FFVe7m8yIgzXMZtlSjg)
+
+[Steve Mould](https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A)
+
+[Steve Rosenberg](https://www.youtube.com/channel/UCONIJaWVRpA2iDjrpiZ4bEg)
+
+[Suibhne](https://www.youtube.com/channel/UCQD-0MjUbDBwm2UTVYr0Dag)
+
+[Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
+
+[Sydney Watson](https://www.youtube.com/@SydneyWatson/videos)
+
+[The Armchair Historian](https://www.youtube.com/channel/UCeUJFQ0D9qs6aVNyUt9fkeQ)
+
+[The Dor Brothers](https://www.youtube.com/channel/UCNMK68M-Al4hRUcew07TnUA)
+
+[The Histocrat](https://www.youtube.com/channel/UCSwFnHpDt-lZgR_7Sqisi6A)
+
+[The Invisible Hand](https://www.youtube.com/channel/UCW-B3YqxljqVGYChJS0FjxQ)
+
+[The Plain Bagel](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
+
+[The Rest Is Politics US](https://www.youtube.com/channel/UCII84rxnNkEjtk1zC3qTtbg)
+
+[The Roman Orthodox](https://www.youtube.com/channel/UCk5T2YLjYI6nxV4ZTXUVdVg)
+
+[The Times of Israel](https://www.youtube.com/channel/UCKM3VQFIITaRegPDkLlLeKA)
+
+[The US-China Narrative](https://www.youtube.com/channel/UCcMZNdMHbuJ3ShI6tyK5k0g)
+
+[TheInternetReviewed](https://www.youtube.com/channel/UCQFXq97bgp86MMny1f-oYFA)
+
+[Thomas Flight](https://www.youtube.com/channel/UCUyvQV2JsICeLZP4c_h40kA)
+
+[thought bug](https://www.youtube.com/@thought_bug/videos)
+
+[Tiffany Ferg](https://www.youtube.com/@tiffanyferg/videos)
+
+[Tilly](https://www.youtube.com/channel/UCulkfahBieihBhxmuB0P7XQ)
+
+[Toby Newbatt](https://www.youtube.com/channel/UC2DCjFH0taLx6MB4a3pbLmQ)
+
+[toldinstone](https://www.youtube.com/channel/UCqBiWcuTF8IaLH7wBqnihsQ)
+
+[Tom Nicholas](https://www.youtube.com/@Tom_Nicholas/videos)
+
+[Tyler Oliveira](https://www.youtube.com/channel/UCY8SLLJjWpS4sx1dEqECaIw)
+
+[Type Ashton](https://www.youtube.com/@TypeAshton/videos)
+
+[Unclassified](https://www.youtube.com/channel/UCSuyLEHMTO-oDHObnCeYwnQ)
+
+[Unsolicited advice](https://www.youtube.com/channel/UCW71hQg1kDxmFIfijA8dL0Q)
+
+[Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
+
+[Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
+
+[Vanessa Wingårdh](https://www.youtube.com/@VanessaWingårdh)
+
+[VASYA IN THE HAY](https://www.youtube.com/channel/UCaNfHBihSUqcUBpvHx-rwYw)
+
+[Voices of the Past](https://www.youtube.com/channel/UCqoGR_EedlhKDVuWNwYWRbg)
+
+[voidzilla](https://www.youtube.com/channel/UC28n0tlcNSa1iPe5mettocg)
+
+[Warren Buffett Fan Zone](https://www.youtube.com/channel/UCW07eLOhULj0PKmwUTL10Jw)
+
+[Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew)
+
+[Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ)
+
+[wilfur](https://www.youtube.com/channel/UC3iNdSV_RQU7DHTGpqEW96w)
+
+[Yishai Fleisher](https://www.youtube.com/@YishaiFleisherTV/videos)
+
+[Yuval Noah Harari](https://www.youtube.com/channel/UC2m77KGMIKZCD0Kw35-4shQ)
+
+[आसान शब्दों में — Kurzgesagt](https://www.youtube.com/channel/UCIR1LQvYrHOWBpOGq5nFo0Q)
