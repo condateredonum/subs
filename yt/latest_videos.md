@@ -1,14 +1,17 @@
 -------------------
-# 2026-02-15 16:26:28
+# 2026-02-15 16:55:26
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/VRDDgsqkBek/maxresdefault.jpg) |2026-02-15 16:31:28<br>smartmoneywithkai<br>[5 Best Stock Brokers for UK Investors in 2026](https://www.youtube.com/watch?v=VRDDgsqkBek)<br>[00:14:42] |
+|![](https://i.ytimg.com/vi/kFyKHW5lWPQ/maxresdefault.jpg) |2026-02-15 16:28:16<br>ryanmcbethprogramming<br>[The “YouTube Accent” Is Real… And I Didn’t Even Know I Had One](https://www.youtube.com/watch?v=kFyKHW5lWPQ)<br>[00:08:14] |
 |![](https://i.ytimg.com/vi/XaxokCTGUAo/maxresdefault.jpg) |2026-02-15 16:21:42<br>@OfficialSaharTV<br>[Liberal FORCED To Take Down Anti-Ice Signs After Asked To Host Illegal Immigrants!](https://www.youtube.com/watch?v=XaxokCTGUAo)<br>[00:13:15] |
 |![](https://i.ytimg.com/vi/ybaJxJro0Lw/maxresdefault.jpg) |2026-02-15 15:45:05<br>@AtheistRepublic<br>[Why U.S. "Selfishness" is Actually Saving the Planet](https://www.youtube.com/watch?v=ybaJxJro0Lw)<br>[00:18:40] |
 |![](https://i.ytimg.com/vi/-zx3nl-p3Ps/maxresdefault.jpg) |2026-02-15 15:36:38<br>japanesewhoyuta<br>[Quiet and Comfortable Winter in Japan, Okinawa 🇯🇵 An even more minimalist lifestyle.](https://www.youtube.com/watch?v=-zx3nl-p3Ps)<br>[00:10:23] |
 |![](https://i.ytimg.com/vi/fXfNIITG3hw/maxresdefault.jpg) |2026-02-15 15:31:04<br>learnwithkarl<br>[The Real Reason You Can’t Start (And How to Fix It)](https://www.youtube.com/watch?v=fXfNIITG3hw)<br>[00:04:47] |
 |![](https://i.ytimg.com/vi/vqAxmZ9Dn9c/maxresdefault.jpg) |2026-02-15 15:01:32<br>@kate.cassidy<br>[AI companions are more problematic than you think](https://www.youtube.com/watch?v=vqAxmZ9Dn9c)<br>[00:21:55] |
 |![](https://i.ytimg.com/vi/kV1VMDLWZOM/maxresdefault.jpg) |2026-02-15 15:01:15<br>danmurrellmovies<br>[Where to Watch Every 2026 Oscar Nominee!](https://www.youtube.com/watch?v=kV1VMDLWZOM)<br>[00:20:36] |
+|![](https://i.ytimg.com/vi/VKXQnBlzqzs/maxresdefault.jpg) |2026-02-15 15:00:48<br>@fern-tv<br>[How the Most Dangerous Nazi was Assassinated](https://www.youtube.com/watch?v=VKXQnBlzqzs)<br>[00:18:51] |
 |![](https://i.ytimg.com/vi/KPvTgBTaZlo/maxresdefault.jpg) |2026-02-15 15:00:27<br>@moresus<br>[The Pokimane ‘Boyfriend’ Situation Is Pathetic..](https://www.youtube.com/watch?v=KPvTgBTaZlo)<br>[00:38:15] |
 |![](https://i.ytimg.com/vi/hYz-09fFLO8/maxresdefault.jpg) |2026-02-15 14:28:45<br>blackbeltsecrets<br>[Threats BREAKING their own rules? 2](https://www.youtube.com/watch?v=hYz-09fFLO8)<br>[00:26:26] |
 |![](https://i.ytimg.com/vi/WomfE2cNjDI/maxresdefault.jpg) |2026-02-15 14:15:41<br>joeblogs<br>[A.I. Shares Experiment - New Strategy Yields Amazing Results](https://www.youtube.com/watch?v=WomfE2cNjDI)<br>[00:10:17] |
@@ -280,7 +283,6 @@
 |![](https://i.ytimg.com/vi/KlYdw3bd7wY/maxresdefault.jpg) |2026-02-06 15:00:41<br>@DodfordYT<br>[The Day the Future Ended](https://www.youtube.com/watch?v=KlYdw3bd7wY)<br>[00:26:43] |
 |![](https://i.ytimg.com/vi/gMHreY6uyuQ/maxresdefault.jpg) |2026-02-06 14:53:28<br>@GirlGoneLondonofficial<br>[Best eSIM in LONDON for Visitors: how to stay connected (guide)](https://www.youtube.com/watch?v=gMHreY6uyuQ)<br>[00:09:47] |
 |![](https://i.ytimg.com/vi/Fa5_g89ITUo/maxresdefault.jpg) |2026-02-06 14:00:00<br>fads<br>[The Collapse Of Grok Is Truly Spectacular...](https://www.youtube.com/watch?v=Fa5_g89ITUo)<br>[00:17:46] |
-|![](https://i.ytimg.com/vi/V5feoAk5tho/sddefault.jpg) |2026-02-06 13:00:55<br>orthodoxkyle<br>[Why I Stopped Being an Atheist](https://www.youtube.com/watch?v=V5feoAk5tho)<br>[00:13:20] |
 |![](https://i.ytimg.com/vi/c2V1CIFZnzw/maxresdefault.jpg) |2026-02-06 12:01:18<br>@Channel4Documentaries<br>[Son killed in revenge attack #C4Docs #ZombieKnives #24HoursInPoliceCustody](https://www.youtube.com/watch?v=c2V1CIFZnzw)<br>[00:02:25] |
 |![](https://i.ytimg.com/vi/YdMMFjMqcy0/maxresdefault.jpg) |2026-02-06 07:14:25<br>bbcstever<br>[“Several think tanks warning of a recession in Russia": Russian paper](https://www.youtube.com/watch?v=YdMMFjMqcy0)<br>[00:03:59] |
 |![](https://i.ytimg.com/vi/mqD34s0QbTQ/maxresdefault.jpg) |2026-02-06 06:17:36<br>suibhne<br>[I Can't Keep Doing This Without Your Help](https://www.youtube.com/watch?v=mqD34s0QbTQ)<br>[00:03:37] |
@@ -578,7 +580,6 @@
 |![](https://i.ytimg.com/vi/99bldMr1byI/maxresdefault.jpg) |2026-01-12 16:11:35<br>caspianreport<br>[What's next for Venezuela?](https://www.youtube.com/watch?v=99bldMr1byI)<br>[00:14:13] |
 |![](https://i.ytimg.com/vi/APmgHMDOObk/maxresdefault.jpg) |2026-01-12 14:18:10<br>perunau<br>[The U.S. Operation in Venezuela - Maduro's Capture & what next for Venezuela?](https://www.youtube.com/watch?v=APmgHMDOObk)<br>[01:02:36] |
 |![](https://i.ytimg.com/vi/orBZFN5TjMY/maxresdefault.jpg) |2026-01-12 14:00:27<br>@susannahfriesenofficial<br>[Christmas Hauls Are Back… and They’re Worse Than Ever](https://www.youtube.com/watch?v=orBZFN5TjMY)<br>[00:29:42] |
-|![](https://i.ytimg.com/vi/g78U4RTwkeQ/maxresdefault.jpg) |2026-01-11 15:24:43<br>smartmoneywithkai<br>[12 Ways to Invest Your Money in 2026 (Ranked by Risk)](https://www.youtube.com/watch?v=g78U4RTwkeQ)<br>[00:17:53] |
 |![](https://i.ytimg.com/vi/qj9-lvrs9no/maxresdefault.jpg) |2026-01-11 15:24:21<br>rationalityrules<br>[The 1 Preparation Trick That DEMOLISHED Piers Morgan](https://www.youtube.com/watch?v=qj9-lvrs9no)<br>[00:28:13] |
 |![](https://i.ytimg.com/vi/yXdzKqhEA9M/maxresdefault.jpg) |2026-01-11 15:01:48<br>@fern-tv<br>[Why Otto Warmbier Didn't Survive North Korea](https://www.youtube.com/watch?v=yXdzKqhEA9M)<br>[00:37:20] |
 |![](https://i.ytimg.com/vi/JJ0-phTNvs8/maxresdefault.jpg) |2026-01-10 20:30:10<br>@jordankang<br>[Scalpers Destroyed My Childhood Hobby (Pokémon Cards)](https://www.youtube.com/watch?v=JJ0-phTNvs8)<br>[00:15:06] |
@@ -599,7 +600,6 @@
 |![](https://i.ytimg.com/vi/5ueBR4M3u48/maxresdefault.jpg) |2026-01-05 18:00:15<br>@RachelOates<br>[The Internet's Most Dangerous Manchild: Nick Fuentes](https://www.youtube.com/watch?v=5ueBR4M3u48)<br>[04:14:56] |
 |![](https://i.ytimg.com/vi/_n07mSMRJYA/maxresdefault.jpg) |2026-01-05 16:01:03<br>@MoreCringe<br>[The Epic Downfall of Internet Anarchist](https://www.youtube.com/watch?v=_n07mSMRJYA)<br>[00:14:23] |
 |![](https://i.ytimg.com/vi/9T4hx4KjyQ8/maxresdefault.jpg) |2026-01-04 16:55:29<br>anderspuck<br>[Trump’s attack on Venezuela signals a new era of U.S. imperialism](https://www.youtube.com/watch?v=9T4hx4KjyQ8)<br>[00:09:59] |
-|![](https://i.ytimg.com/vi/ydnpyYEhP30/sddefault.jpg) |2026-01-04 15:01:47<br>@fern-tv<br>[How Cocaine Is Destroying Europe](https://www.youtube.com/watch?v=ydnpyYEhP30)<br>[00:37:22] |
 |![](https://i.ytimg.com/vi/dH_UvWmvny0/maxresdefault.jpg) |2026-01-04 13:01:15<br>@VanessaWingårdh<br>[They Said AI Would Replace You By Now](https://www.youtube.com/watch?v=dH_UvWmvny0)<br>[00:13:10] |
 |![](https://i.ytimg.com/vi/dg9SoDi5W2Y/maxresdefault.jpg) |2026-01-04 12:21:08<br>jumokemi<br>[LEAVING THE UK - Things Are Getting Worse!](https://www.youtube.com/watch?v=dg9SoDi5W2Y)<br>[00:10:22] |
 |![](https://i.ytimg.com/vi/9t1DPHAoHyw/maxresdefault.jpg) |2026-01-04 04:59:34<br>friendlyjordies<br>[Trump Bombs Venezuela](https://www.youtube.com/watch?v=9t1DPHAoHyw)<br>[00:11:20] |
