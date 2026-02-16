@@ -1,5 +1,5 @@
 -------------------
-# 2026-02-16 10:57:38
+# 2026-02-16 12:41:21
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -122,7 +122,6 @@
 |![](https://i.ytimg.com/vi/jeYPh1qYu2g/sddefault.jpg) |2026-02-13 11:22:51<br>nnnimroddd<br>[Chloe Malle and Chris Black discuss Liana Ava shoe](https://www.youtube.com/watch?v=jeYPh1qYu2g)<br>[00:04:38] |
 |![](https://i.ytimg.com/vi/saO1IWKjv1M/maxresdefault.jpg) |2026-02-13 09:01:16<br>decodinggeopoliticspodcast<br>[The Real Reason Why Trump Backed Off From Invading Greenland](https://www.youtube.com/watch?v=saO1IWKjv1M)<br>[00:08:03] |
 |![](https://i.ytimg.com/vi/skBvSK5rVC0/maxresdefault.jpg) |2026-02-13 06:36:20<br>friendlyjordies<br>[This is the End of the Liberals](https://www.youtube.com/watch?v=skBvSK5rVC0)<br>[00:10:29] |
-|![](https://i.ytimg.com/vi/jlVhWdajdU8/maxresdefault.jpg) |2026-02-13 06:18:10<br>timesofisrael<br>[Lazar Berman: Are Saudis moving away from Israel and toward Islamists?](https://www.youtube.com/watch?v=jlVhWdajdU8)<br>[00:28:48] |
 |![](https://i.ytimg.com/vi/sIOUnDzVSlo/maxresdefault.jpg) |2026-02-13 05:00:57<br>financialtimes<br>[Are US plans to rebuild Gaza realistic \| FT #shorts](https://www.youtube.com/watch?v=sIOUnDzVSlo)<br>[00:02:18] |
 |![](https://i.ytimg.com/vi/x9e4D-t_Dfo/maxresdefault.jpg) |2026-02-13 03:29:02<br>@theAIsearch<br>[New #1 open source AI model just dropped](https://www.youtube.com/watch?v=x9e4D-t_Dfo)<br>[00:33:45] |
 |![](https://i.ytimg.com/vi/97j0Xglq_1U/maxresdefault.jpg) |2026-02-13 00:20:15<br>someordinarygamers<br>[Discord Made A Terrible Response...](https://www.youtube.com/watch?v=97j0Xglq_1U)<br>[00:20:00] |
@@ -1014,6 +1013,9 @@
 |![](https://i.ytimg.com/vi/NIkpZRSB5jo/maxresdefault.jpg) |2020-12-24 22:31:36<br>communitychannel<br>[Christmas Lists](https://www.youtube.com/watch?v=NIkpZRSB5jo)<br>[00:08:23] |
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
+|![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
+-------------------
+1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 ----
