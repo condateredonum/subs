@@ -352,6 +352,8 @@
 
 [Perun](https://www.youtube.com/channel/UCC3ehuUksTyQ7bbjGntmx3Q)
 
+[Peter Zeihan](https://www.youtube.com/channel/UCsy9I56PY3IngCf_VGjunMQ)
+
 [PewDiePie](https://www.youtube.com/@PewDiePie/videos)
 
 [Philip DeFranco](https://www.youtube.com/channel/UClFSU9_bUb4Rc6OYfTt5SPw)
