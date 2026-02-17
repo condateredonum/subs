@@ -35,6 +35,7 @@ def get_latest_videos(channel_data):
             playlist_items = playlist_response['items']
         except:
             print(f'\t Error parsing playlist: {uploads_playlist_id}')
+            continue
 
         if playlist_items:
             for playlist_video in playlist_items:
