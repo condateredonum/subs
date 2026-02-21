@@ -332,7 +332,7 @@
 
 [Not Even Emily](https://www.youtube.com/@notevenemily/videos)
 
-[Not So Erudite](https://www.youtube.com/@notsoErudite/videos)
+[Not So Erudite] (https://www.youtube.com/@notsoErudite/videos)
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
 
