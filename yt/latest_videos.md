@@ -1,12 +1,15 @@
 -------------------
-# 2026-02-21 12:24:32
+# 2026-02-21 13:16:31
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/L84ddP0WzoI/sddefault.jpg) |2026-02-21 13:00:28<br>orthodoxkyle<br>[Star Wars Is Actually Christian? (part 2)](https://www.youtube.com/watch?v=L84ddP0WzoI)<br>[00:32:09] |
+|![](https://i.ytimg.com/vi/Qt3KppJNDtE/maxresdefault.jpg) |2026-02-21 13:00:00<br>@BusinessInsider<br>[Imported Shrimp Killed The American Industry. Can The Trade War Bring It Back?](https://www.youtube.com/watch?v=Qt3KppJNDtE)<br>[00:21:31] |
 |![](https://i.ytimg.com/vi/5oGPccpjbKo/maxresdefault.jpg) |2026-02-21 12:13:51<br>joeblogs<br>[Qatar Airways QSuite Review - London to Doha (7-Hour Flight)](https://www.youtube.com/watch?v=5oGPccpjbKo)<br>[00:33:49] |
-|![](https://i.ytimg.com/vi/K_LWgfrmUvs/sddefault.jpg) |2026-02-21 12:08:47<br>nnnimroddd<br>[UnHerd Freddie Sayers sceptic that Maitlis interview with Andrew helped the UK reputation](https://www.youtube.com/watch?v=K_LWgfrmUvs)<br>[00:02:06] |
+|![](https://i.ytimg.com/vi/K_LWgfrmUvs/sddefault.jpg) |2026-02-21 12:08:47<br>nnnimroddd<br>[UnHerd Freddie Sayers sceptic Maitlis interview with Andrew helped UK reputation](https://www.youtube.com/watch?v=K_LWgfrmUvs)<br>[00:02:06] |
 |![](https://i.ytimg.com/vi/Ezi-67NikQk/maxresdefault.jpg) |2026-02-21 12:00:32<br>pensioncraft<br>[Don't Open an ISA Until You Watch This](https://www.youtube.com/watch?v=Ezi-67NikQk)<br>[00:15:11] |
 |![](https://i.ytimg.com/vi/gxGFX4zMLG8/maxresdefault.jpg) |2026-02-21 11:59:15<br>decodinggeopoliticspodcast<br>[Europe Doesn’t Trust America Anymore - And It’s Bigger Than Trump \| Dalibor Rohac](https://www.youtube.com/watch?v=gxGFX4zMLG8)<br>[00:34:13] |
+|![](https://i.ytimg.com/vi/Xhrzm4CmpEo/maxresdefault.jpg) |2026-02-21 10:54:42<br>@PBoyle<br>[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/VyZy4XQccMk/maxresdefault.jpg) |2026-02-21 10:00:42<br>@AtheistRepublic<br>[Why "Moderate" Islam is More Dangerous Than ISIS](https://www.youtube.com/watch?v=VyZy4XQccMk)<br>[00:27:29] |
 |![](https://i.ytimg.com/vi/sIftf6H4oN0/maxresdefault.jpg) |2026-02-21 09:30:28<br>mathematrick<br>[Viral auf Social Media – Kommst DU drauf?](https://www.youtube.com/watch?v=sIftf6H4oN0)<br>[00:04:28] |
 |![](https://i.ytimg.com/vi/zGHodoU2lJ8/maxresdefault.jpg) |2026-02-21 08:24:36<br>@AtheistRepublic<br>[The IRGC’s Final Bunker: Why They Are Fleeing to the Taliban](https://www.youtube.com/watch?v=zGHodoU2lJ8)<br>[00:35:30] |
@@ -56,7 +59,7 @@
 |![](https://i.ytimg.com/vi/BBzFa8kvh0E/maxresdefault.jpg) |2026-02-20 14:19:57<br>@LanaBlakely<br>[embarrassment is the cost of entry (to anything worthwhile)](https://www.youtube.com/watch?v=BBzFa8kvh0E)<br>[00:05:01] |
 |![](https://i.ytimg.com/vi/Z1UtT1IvwXc/maxresdefault.jpg) |2026-02-20 13:00:56<br>@VanessaWingårdh<br>[Olympic Athletes Are Broke But Executives Make Millions](https://www.youtube.com/watch?v=Z1UtT1IvwXc)<br>[00:14:26] |
 |![](https://i.ytimg.com/vi/6eVmw4ZuVgY/sddefault.jpg) |2026-02-20 13:00:10<br>orthodoxkyle<br>[Dark Side of Converting to Orthodoxy...](https://www.youtube.com/watch?v=6eVmw4ZuVgY)<br>[00:05:47] |
-|![](https://i.ytimg.com/vi/_49DHe7wtv0/maxresdefault.jpg) |2026-02-20 12:58:40<br>hoog-youtube<br>[Surviving Jupiter in the 1990s](https://www.youtube.com/watch?v=_49DHe7wtv0)<br>[00:16:59] |
+|![](https://i.ytimg.com/vi/_49DHe7wtv0/maxresdefault.jpg) |2026-02-20 12:58:40<br>hoog-youtube<br>[The Probe that Entered Jupiter](https://www.youtube.com/watch?v=_49DHe7wtv0)<br>[00:16:59] |
 |![](https://i.ytimg.com/vi/LL8zNiuEhKE/maxresdefault.jpg) |2026-02-20 12:30:29<br>@AtheistRepublic<br>[ISLAM IS DEAD IN IRAN: The Shocking Truth About the Great Exodus](https://www.youtube.com/watch?v=LL8zNiuEhKE)<br>[00:39:04] |
 |![](https://i.ytimg.com/vi/-hAdGCcG6aQ/maxresdefault.jpg) |2026-02-20 12:06:44<br>first_class_amateur<br>[How to Tie a Pen So It Doesn’t Get Stolen](https://www.youtube.com/watch?v=-hAdGCcG6aQ)<br>[00:04:10] |
 |![](https://i.ytimg.com/vi/d0aIRV9h4k8/maxresdefault.jpg) |2026-02-20 12:01:06<br>@hutch<br>[This was SO SATISFYING... and then so frustrating...](https://www.youtube.com/watch?v=d0aIRV9h4k8)<br>[02:24:41] |
@@ -90,7 +93,7 @@
 |![](https://i.ytimg.com/vi/urlKiE7Vpxk/maxresdefault.jpg) |2026-02-19 17:00:00<br>@BusinessInsider<br>[Here's how a #deadly #disease is creating a #debt trap for #quarry workers. #India #lungdisease](https://www.youtube.com/watch?v=urlKiE7Vpxk)<br>[00:02:02] |
 |![](https://i.ytimg.com/vi/dTfyB7FpBXU/maxresdefault.jpg) |2026-02-19 16:59:11<br>someordinarygamers<br>[Prince Andrew Just Got Arrested Over The Epstein Files...](https://www.youtube.com/watch?v=dTfyB7FpBXU)<br>[00:11:45] |
 |![](https://i.ytimg.com/vi/a6jP1ILFkT0/maxresdefault.jpg) |2026-02-19 16:00:00<br>@LouExtras<br>[The Dark Side of Clavicular...](https://www.youtube.com/watch?v=a6jP1ILFkT0)<br>[00:38:23] |
-|![](https://i.ytimg.com/vi/R9fpm-lorIU/maxresdefault.jpg) |2026-02-19 15:36:20<br>@PlasticPills<br>[Hyperreal Fascism \| Plastic Pills](https://www.youtube.com/watch?v=R9fpm-lorIU)<br>[00:56:54] |
+|![](https://i.ytimg.com/vi/R9fpm-lorIU/maxresdefault.jpg) |2026-02-19 15:36:20<br>@PlasticPills<br>[The Age of Hyperreal Fascism](https://www.youtube.com/watch?v=R9fpm-lorIU)<br>[00:56:54] |
 |![](https://i.ytimg.com/vi/9B0l8r_mf_k/maxresdefault.jpg) |2026-02-19 15:00:26<br>@moresus<br>[She Actually Lost Everything..](https://www.youtube.com/watch?v=9B0l8r_mf_k)<br>[00:38:11] |
 |![](https://i.ytimg.com/vi/XiYl0JJhC4M/maxresdefault.jpg) |2026-02-19 14:58:29<br>@LegalMindset<br>[Are You Illegal? (LIVE)](https://www.youtube.com/watch?v=XiYl0JJhC4M)<br>[01:10:52] |
 |![](https://i.ytimg.com/vi/hPkpaQR1078/maxresdefault.jpg) |2026-02-19 14:55:47<br>nobodyspecialfinance<br>[Carvana Tanks on Earnings, Blue Owl Permanently Halts Withdrawals](https://www.youtube.com/watch?v=hPkpaQR1078)<br>[00:44:05] |
@@ -575,7 +578,6 @@
 |![](https://i.ytimg.com/vi/LN74NtevCRw/maxresdefault.jpg) |2026-01-19 14:00:38<br>@susannahfriesenofficial<br>[Valentine’s Day Has Been Hijacked by Consumerism (And It’s Exhausting)](https://www.youtube.com/watch?v=LN74NtevCRw)<br>[00:25:56] |
 |![](https://i.ytimg.com/vi/pNqM4jdKwLs/maxresdefault.jpg) |2026-01-18 20:02:15<br>casualhistorian<br>[Did the CIA Overthrow Iran's Government?](https://www.youtube.com/watch?v=pNqM4jdKwLs)<br>[01:42:29] |
 |![](https://i.ytimg.com/vi/qTWo9QMR4mE/maxresdefault.jpg) |2026-01-18 20:01:35<br>jjmccullough<br>[What's going on with Indigenous rights in Canada?](https://www.youtube.com/watch?v=qTWo9QMR4mE)<br>[00:28:00] |
-|![](https://i.ytimg.com/vi/QXUQ7PzuIe0/maxresdefault.jpg) |2026-01-18 20:00:07<br>@PBoyle<br>["Will No One Rid Me of This Turbulent Priest?": Trump’s Fed War](https://www.youtube.com/watch?v=QXUQ7PzuIe0)<br>[00:27:55] |
 |![](https://i.ytimg.com/vi/yYiXGZCfsnw/maxresdefault.jpg) |2026-01-18 18:01:08<br>@jordanatheresa<br>[Lads Mags: A Critical Autopsy](https://www.youtube.com/watch?v=yYiXGZCfsnw)<br>[00:54:55] |
 |![](https://i.ytimg.com/vi/ok-Ixp1wvys/maxresdefault.jpg) |2026-01-18 17:09:24<br>smartmoneywithkai<br>[5 Ways to Invest Without Picking Stocks](https://www.youtube.com/watch?v=ok-Ixp1wvys)<br>[00:16:33] |
 |![](https://i.ytimg.com/vi/Ux3b00jo1iQ/maxresdefault.jpg) |2026-01-18 13:27:07<br>perunau<br>[The Tanker War & Shadow Fleet - U.S. Ship Seizures, Ukrainian Attacks & Russia's Gambit](https://www.youtube.com/watch?v=Ux3b00jo1iQ)<br>[00:53:56] |
@@ -1020,9 +1022,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
-21-05-03 01:54:07<br>alittlebitofphilosophy<br>[Metaethics (part 2)](https://www.youtube.com/watch?v=e8jJZPdpME4)<br>[00:15:03] |
-|![](https://i.ytimg.com/vi/jTBDc19eW2o/maxresdefault.jpg) |2021-04-05 22:00:09<br>artofengineering<br>[Medieval Engineering \| How Trebuchets Work](https://www.youtube.com/watch?v=jTBDc19eW2o)<br>[00:09:22] |
-|![](https://i.ytimg.com/vi/4l5MGqrAItU/maxresdefault.jpg) |2021-02-01 04:03:31<br>artofengineering<br>[Designing Roller Coasters with Neural Networks \| A Crash Course in Machine Learning](https://www.youtube.com/watch?v=4l5MGqrAItU)<br>[00:18:18] |
+:31<br>artofengineering<br>[Designing Roller Coasters with Neural Networks \| A Crash Course in Machine Learning](https://www.youtube.com/watch?v=4l5MGqrAItU)<br>[00:18:18] |
 |![](https://i.ytimg.com/vi/NIkpZRSB5jo/maxresdefault.jpg) |2020-12-24 22:31:36<br>communitychannel<br>[Christmas Lists](https://www.youtube.com/watch?v=NIkpZRSB5jo)<br>[00:08:23] |
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
