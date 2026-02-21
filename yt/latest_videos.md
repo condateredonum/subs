@@ -1,15 +1,15 @@
 -------------------
-# 2026-02-21 13:16:31
+# 2026-02-21 13:57:50
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/Xhrzm4CmpEo/maxresdefault.jpg) |2026-02-21 13:15:07<br>@PBoyle<br>[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)<br>[00:32:14] |
 |![](https://i.ytimg.com/vi/L84ddP0WzoI/sddefault.jpg) |2026-02-21 13:00:28<br>orthodoxkyle<br>[Star Wars Is Actually Christian? (part 2)](https://www.youtube.com/watch?v=L84ddP0WzoI)<br>[00:32:09] |
 |![](https://i.ytimg.com/vi/Qt3KppJNDtE/maxresdefault.jpg) |2026-02-21 13:00:00<br>@BusinessInsider<br>[Imported Shrimp Killed The American Industry. Can The Trade War Bring It Back?](https://www.youtube.com/watch?v=Qt3KppJNDtE)<br>[00:21:31] |
 |![](https://i.ytimg.com/vi/5oGPccpjbKo/maxresdefault.jpg) |2026-02-21 12:13:51<br>joeblogs<br>[Qatar Airways QSuite Review - London to Doha (7-Hour Flight)](https://www.youtube.com/watch?v=5oGPccpjbKo)<br>[00:33:49] |
 |![](https://i.ytimg.com/vi/K_LWgfrmUvs/sddefault.jpg) |2026-02-21 12:08:47<br>nnnimroddd<br>[UnHerd Freddie Sayers sceptic Maitlis interview with Andrew helped UK reputation](https://www.youtube.com/watch?v=K_LWgfrmUvs)<br>[00:02:06] |
 |![](https://i.ytimg.com/vi/Ezi-67NikQk/maxresdefault.jpg) |2026-02-21 12:00:32<br>pensioncraft<br>[Don't Open an ISA Until You Watch This](https://www.youtube.com/watch?v=Ezi-67NikQk)<br>[00:15:11] |
 |![](https://i.ytimg.com/vi/gxGFX4zMLG8/maxresdefault.jpg) |2026-02-21 11:59:15<br>decodinggeopoliticspodcast<br>[Europe Doesn’t Trust America Anymore - And It’s Bigger Than Trump \| Dalibor Rohac](https://www.youtube.com/watch?v=gxGFX4zMLG8)<br>[00:34:13] |
-|![](https://i.ytimg.com/vi/Xhrzm4CmpEo/maxresdefault.jpg) |2026-02-21 10:54:42<br>@PBoyle<br>[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/VyZy4XQccMk/maxresdefault.jpg) |2026-02-21 10:00:42<br>@AtheistRepublic<br>[Why "Moderate" Islam is More Dangerous Than ISIS](https://www.youtube.com/watch?v=VyZy4XQccMk)<br>[00:27:29] |
 |![](https://i.ytimg.com/vi/sIftf6H4oN0/maxresdefault.jpg) |2026-02-21 09:30:28<br>mathematrick<br>[Viral auf Social Media – Kommst DU drauf?](https://www.youtube.com/watch?v=sIftf6H4oN0)<br>[00:04:28] |
 |![](https://i.ytimg.com/vi/zGHodoU2lJ8/maxresdefault.jpg) |2026-02-21 08:24:36<br>@AtheistRepublic<br>[The IRGC’s Final Bunker: Why They Are Fleeing to the Taliban](https://www.youtube.com/watch?v=zGHodoU2lJ8)<br>[00:35:30] |
@@ -20,7 +20,7 @@
 |![](https://i.ytimg.com/vi/uOl1oIhvJlo/sddefault.jpg) |2026-02-21 02:45:05<br>@penguinz0<br>[Will They Actually Declassify New Alien Information](https://www.youtube.com/watch?v=uOl1oIhvJlo)<br>[00:06:09] |
 |![](https://i.ytimg.com/vi/t-Q4YTGOt2o/maxresdefault.jpg) |2026-02-21 02:26:05<br>rossmanngroup<br>[Breaking DRM goes global](https://www.youtube.com/watch?v=t-Q4YTGOt2o)<br>[00:04:27] |
 |![](https://i.ytimg.com/vi/1SLhpLAjDo4/sddefault.jpg) |2026-02-21 02:00:01<br>@H3PodcastHighlights<br>[iDubbbz F**ked Up...](https://www.youtube.com/watch?v=1SLhpLAjDo4)<br>[00:06:54] |
-|![](https://i.ytimg.com/vi/ftJRXDhiIZU/maxresdefault.jpg) |2026-02-21 00:49:02<br>@AtheistRepublic<br>[IRAN REVOLUTION LIVE WITH IRANIAN HOSTS GOLDIE AND ARMIN: DAY 55](https://www.youtube.com/watch?v=ftJRXDhiIZU)<br>[06:24:19] |
+|![](https://i.ytimg.com/vi/ftJRXDhiIZU/maxresdefault.jpg) |2026-02-21 00:49:02<br>@AtheistRepublic<br>[IRAN REVOLUTION LIVE WITH IRANIAN HOSTS GOLDIE AND ARMIN: DAY 55](https://www.youtube.com/watch?v=ftJRXDhiIZU)<br>[06:12:22] |
 |![](https://i.ytimg.com/vi/WGVjhtxm5Qs/sddefault.jpg) |2026-02-21 00:25:03<br>@H3PodcastHighlights<br>[Anisa Comes After AB But She's Completely Incoherent](https://www.youtube.com/watch?v=WGVjhtxm5Qs)<br>[00:07:54] |
 |![](https://i.ytimg.com/vi/vJhUowR_xvA/maxresdefault.jpg) |2026-02-21 00:11:45<br>@H3PodcastHighlights<br>[We Found James Charles' Secret TikTok Channel](https://www.youtube.com/watch?v=vJhUowR_xvA)<br>[00:23:23] |
 |![](https://i.ytimg.com/vi/EPxgaij6gRI/maxresdefault.jpg) |2026-02-21 00:09:47<br>@urmomashley<br>[everything I ate at the OLYMPICS @YouTube @NBCSports #sponsored](https://www.youtube.com/watch?v=EPxgaij6gRI)<br>[00:02:06] |
@@ -1022,6 +1022,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
+-----
 :31<br>artofengineering<br>[Designing Roller Coasters with Neural Networks \| A Crash Course in Machine Learning](https://www.youtube.com/watch?v=4l5MGqrAItU)<br>[00:18:18] |
 |![](https://i.ytimg.com/vi/NIkpZRSB5jo/maxresdefault.jpg) |2020-12-24 22:31:36<br>communitychannel<br>[Christmas Lists](https://www.youtube.com/watch?v=NIkpZRSB5jo)<br>[00:08:23] |
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
