@@ -88,6 +88,8 @@
 
 [Channel 5 Andrew Callaghan](https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg/videos)
 
+[Chris Norlund](https://www.youtube.com/@realchris/videos)
+
 [Chris Palmer](https://www.youtube.com/channel/UC6w2QO3nEg5vOn0UhwXFEJw)
 
 [Cogito](www.youtube.com/channel/UCKMnl27hDMKvch--noWe5CA)
