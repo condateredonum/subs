@@ -222,6 +222,8 @@
 
 [Johnny Harris](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw)
 
+[Jonathan Tam](https://www.youtube.com/@DrJonathanTam)
+
 [Jordan Kang](https://www.youtube.com/@jordankang/videos)
 
 [Jordan Theresa](https://www.youtube.com/@jordanatheresa/videos)
