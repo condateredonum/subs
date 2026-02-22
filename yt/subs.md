@@ -76,6 +76,8 @@
 
 [CaspianReport](https://www.youtube.com/channel/UCwnKziETDbHJtx78nIkfYug)
 
+[Casey Simpson](https://www.youtube.com/@caseysimpsonchannel/videos)
+
 [Casual Historian](https://www.youtube.com/channel/UCGwO43-vnmkQ2i1v886JjVw)
 
 [Casual Scholar](https://www.youtube.com/channel/UCcvczmsieHPRsrpc3v7GUmg)
