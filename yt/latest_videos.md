@@ -1,8 +1,10 @@
 -------------------
-# 2026-02-22 11:21:55
+# 2026-02-22 12:39:06
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/AtgUSby80yo/maxresdefault.jpg) |2026-02-22 12:19:32<br>timesofisrael<br>[IDF ramps up Hezbollah strikes as Iran supports proxy group](https://www.youtube.com/watch?v=AtgUSby80yo)<br>[00:20:28] |
+|![](https://i.ytimg.com/vi/21brnN-aZXk/maxresdefault.jpg) |2026-02-22 11:27:11<br>nnnimroddd<br>[Fake ICE deportation tip line](https://www.youtube.com/watch?v=21brnN-aZXk)<br>[00:29:59] |
 |![](https://i.ytimg.com/vi/Un3-Kxw60RE/maxresdefault.jpg) |2026-02-22 07:59:04<br>@AtriocClips<br>[Xbox Finally Gave Up](https://www.youtube.com/watch?v=Un3-Kxw60RE)<br>[00:23:53] |
 |![](https://i.ytimg.com/vi/Nra4mnqOXgQ/maxresdefault.jpg) |2026-02-22 04:39:20<br>@AtheistRepublic<br>[The End of Islamism: Why 90 Million Iranians are Waiting for Israel](https://www.youtube.com/watch?v=Nra4mnqOXgQ)<br>[02:23:10] |
 |![](https://i.ytimg.com/vi/fnMAIa2PEAk/maxresdefault.jpg) |2026-02-22 03:25:30<br>@theAIsearch<br>[AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=fnMAIa2PEAk)<br>[00:39:36] |
