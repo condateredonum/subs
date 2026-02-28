@@ -1,14 +1,16 @@
 -------------------
-# 2026-02-28 17:27:03
+# 2026-02-28 19:19:49
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/739VYbgOdes/sddefault.jpg) |2026-02-28 17:15:00<br>@penguinz0<br>[Why is it Always Sad News with Bloodborne](https://www.youtube.com/watch?v=739VYbgOdes)<br>[00:09:51] |
+|![](https://i.ytimg.com/vi/QchxcB4t36k/maxresdefault.jpg) |2026-02-28 19:04:15<br>joeblogs<br>[RUSSIA Running Out of Wealth](https://www.youtube.com/watch?v=QchxcB4t36k)<br>[00:15:54] |
+|![](https://i.ytimg.com/vi/CLZvO3F3jkk/maxresdefault.jpg) |2026-02-28 18:46:02<br>savagebooks7482<br>[The 3-Step Ned Stark Speedrun](https://www.youtube.com/watch?v=CLZvO3F3jkk)<br>[00:17:13] |
+|![](https://i.ytimg.com/vi/739VYbgOdes/sddefault.jpg) |2026-02-28 17:15:00<br>@penguinz0<br>[Always Sad News with Bloodborne](https://www.youtube.com/watch?v=739VYbgOdes)<br>[00:09:51] |
 |![](https://i.ytimg.com/vi/KFwYJP8eExk/maxresdefault.jpg) |2026-02-28 17:06:56<br>zeihanongeopolitics<br>[Attack on Iran Underway \|\| Peter Zeihan](https://www.youtube.com/watch?v=KFwYJP8eExk)<br>[00:06:06] |
 |![](https://i.ytimg.com/vi/Gi1zk8rLqNI/maxresdefault.jpg) |2026-02-28 16:51:12<br>economicsexplained<br>[Has the World Become Uninsurable?](https://www.youtube.com/watch?v=Gi1zk8rLqNI)<br>[00:15:50] |
-|![](https://i.ytimg.com/vi/-Rr3o1S-SQk/maxresdefault.jpg) |2026-02-28 16:37:31<br>@HowMoneyWorks<br>[The (Latest) Crypto Crisis](https://www.youtube.com/watch?v=-Rr3o1S-SQk)<br>[00:15:30] |
+|![](https://i.ytimg.com/vi/-Rr3o1S-SQk/maxresdefault.jpg) |2026-02-28 16:37:31<br>@HowMoneyWorks<br>[Can We (Finally) Admit That Crypto Was Really... Dumb?](https://www.youtube.com/watch?v=-Rr3o1S-SQk)<br>[00:15:30] |
 |![](https://i.ytimg.com/vi/35Lut9KFj2c/maxresdefault.jpg) |2026-02-28 16:34:47<br>@AtheistRepublic<br>[IRAN REVOLUTION LIVE WITH IRANIAN HOSTS GOLDIE AND ARMIN: DAY 63](https://www.youtube.com/watch?v=35Lut9KFj2c)<br>[08:45:59] |
-|![](https://i.ytimg.com/vi/ChdQciz1gns/maxresdefault.jpg) |2026-02-28 16:30:07<br>@PBoyle<br>[Supreme Court Tariff Ruling: What Next?](https://www.youtube.com/watch?v=ChdQciz1gns)<br>[00:31:41] |
+|![](https://i.ytimg.com/vi/ChdQciz1gns/maxresdefault.jpg) |2026-02-28 16:30:07<br>@PBoyle<br>[How a Small Wine Importer Smashed Trump’s Tariffs](https://www.youtube.com/watch?v=ChdQciz1gns)<br>[00:31:41] |
 |![](https://i.ytimg.com/vi/4K9RDZg4y7o/maxresdefault.jpg) |2026-02-28 16:26:20<br>channel5youtube<br>[Shia LaBeouf Interview](https://www.youtube.com/watch?v=4K9RDZg4y7o)<br>[01:13:57] |
 |![](https://i.ytimg.com/vi/P87u4au3XAQ/maxresdefault.jpg) |2026-02-28 16:00:30<br>prestonstewart<br>[New War Erupts: US & Israel Hammer Iran](https://www.youtube.com/watch?v=P87u4au3XAQ)<br>[00:15:17] |
 |![](https://i.ytimg.com/vi/fqVm6mr5b-w/maxresdefault.jpg) |2026-02-28 15:30:23<br>nerdwriter1<br>[What's Jazz Doing In A Knight Of The Seven Kingdoms?](https://www.youtube.com/watch?v=fqVm6mr5b-w)<br>[00:10:15] |
@@ -130,7 +132,6 @@
 |![](https://i.ytimg.com/vi/-hlkzIaF0nU/maxresdefault.jpg) |2026-02-26 15:00:03<br>horsesonyt<br>[FLORIDA](https://www.youtube.com/watch?v=-hlkzIaF0nU)<br>[01:25:24] |
 |![](https://i.ytimg.com/vi/vtvsFP45xrs/maxresdefault.jpg) |2026-02-26 15:00:00<br>letstalkreligion<br>[Ibadism - The Forgotten Branch of Islam](https://www.youtube.com/watch?v=vtvsFP45xrs)<br>[01:15:06] |
 |![](https://i.ytimg.com/vi/kEvVBk_zs2Q/maxresdefault.jpg) |2026-02-26 13:45:18<br>financialinterestcom<br>[Vanguard Index Funds: A Complete Guide for UK Investors in 2026](https://www.youtube.com/watch?v=kEvVBk_zs2Q)<br>[00:24:34] |
-|![](https://i.ytimg.com/vi/c996OSrqhUI/maxresdefault.jpg) |2026-02-26 13:05:15<br>joeblogs<br>[The Ivy £19.17 Menu – Deal or Scam?](https://www.youtube.com/watch?v=c996OSrqhUI)<br>[00:23:46] |
 |![](https://i.ytimg.com/vi/Z4PQ7dHIXqM/maxresdefault.jpg) |2026-02-26 13:01:05<br>@hutch<br>[You Will Not Believe Why This Guy Thinks I'm Racist](https://www.youtube.com/watch?v=Z4PQ7dHIXqM)<br>[00:22:36] |
 |![](https://i.ytimg.com/vi/LM0Tjvqj-y8/sddefault.jpg) |2026-02-26 13:00:40<br>orthodoxkyle<br>[45 Most IMPORTANT Events in Bible (as video game)](https://www.youtube.com/watch?v=LM0Tjvqj-y8)<br>[00:13:50] |
 |![](https://i.ytimg.com/vi/GV8KGcFqeLc/maxresdefault.jpg) |2026-02-26 13:00:34<br>johnnyharris<br>[Is Fascism Back?](https://www.youtube.com/watch?v=GV8KGcFqeLc)<br>[01:01:48] |
@@ -704,7 +705,6 @@
 |![](https://i.ytimg.com/vi/83Q3ryOVMTs/maxresdefault.jpg) |2025-12-28 06:07:51<br>@atrioc<br>[I Created A $2,000 HITMAN Challenge. The Results Were Mindblowing.](https://www.youtube.com/watch?v=83Q3ryOVMTs)<br>[00:54:44] |
 |![](https://i.ytimg.com/vi/-lFMIjMWBfQ/maxresdefault.jpg) |2025-12-27 18:30:01<br>@jordankang<br>[Friendship Isn't Fun Anymore... It's Exhausting](https://www.youtube.com/watch?v=-lFMIjMWBfQ)<br>[00:12:49] |
 |![](https://i.ytimg.com/vi/s-soqaLYn7g/maxresdefault.jpg) |2025-12-27 17:30:07<br>callmeezekiel<br>[Napoleon III: Imperial Zenith](https://www.youtube.com/watch?v=s-soqaLYn7g)<br>[00:26:27] |
-|![](https://i.ytimg.com/vi/htiYQiK9wAw/maxresdefault.jpg) |2025-12-27 17:10:46<br>savagebooks7482<br>[Varang: How Doing The Bare Minimum Saved Avatar](https://www.youtube.com/watch?v=htiYQiK9wAw)<br>[00:12:42] |
 |![](https://i.ytimg.com/vi/raZsIw4BiJU/maxresdefault.jpg) |2025-12-27 09:45:13<br>theinvisiblehandco<br>[Why the World's Richest Country is Falling Apart](https://www.youtube.com/watch?v=raZsIw4BiJU)<br>[00:15:33] |
 |![](https://i.ytimg.com/vi/53qBrTcEN6I/sddefault.jpg) |2025-12-27 07:09:50<br>@JREG<br>[Anti-Free Speech Absolutism](https://www.youtube.com/watch?v=53qBrTcEN6I)<br>[00:04:49] |
 |![](https://i.ytimg.com/vi/U5FShLz-Q8Q/hqdefault.jpg) |2025-12-27 01:09:51<br>sarcasmitron<br>[Ukraine After 4 Years of War](https://www.youtube.com/watch?v=U5FShLz-Q8Q)<br>[00:38:59] |
@@ -1031,7 +1031,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
-0<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
+br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 8 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
