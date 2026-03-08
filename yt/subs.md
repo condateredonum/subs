@@ -422,6 +422,8 @@
 
 [Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
 
+[Sierra LaDuke](https://www.youtube.com/@sierraladuke/videos)
+
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
 
 [Smart Money with Kai](https://www.youtube.com/channel/UC3fvxcqhSy3a2szvI6yoP6w)
