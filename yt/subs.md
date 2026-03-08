@@ -116,6 +116,8 @@
 
 [Danny Gonzalez](https://www.youtube.com/channel/UCSUf5_EPEfl4zlBKZHkZdmw)
 
+[Daryl Talks Games](https://www.youtube.com/@DarylTalksGames/videos)
+
 [David Stewart](https://www.youtube.com/channel/UC4J4cJ0a0MJXQX8eI50Bkkw)
 
 [Decoding Geopolitics Podcast with Dominik Presl](https://www.youtube.com/channel/UCtYQaZPOCMtrijLRYFnAtEw)
