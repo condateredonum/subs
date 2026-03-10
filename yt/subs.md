@@ -78,6 +78,8 @@
 
 [Casey Simpson](https://www.youtube.com/@caseysimpsonchannel/videos)
 
+[Casual Finance](https://www.youtube.com/@CasuallyFinance/videos)
+
 [Casual Historian](https://www.youtube.com/channel/UCGwO43-vnmkQ2i1v886JjVw)
 
 [Casual Scholar](https://www.youtube.com/channel/UCcvczmsieHPRsrpc3v7GUmg)
