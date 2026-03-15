@@ -1,5 +1,5 @@
 -------------------
-# 2026-03-15 10:41:24
+# 2026-03-15 11:23:59
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -7,7 +7,7 @@
 |![](https://i.ytimg.com/vi/-JeYfdhXL9A/maxresdefault.jpg) |2026-03-15 09:00:00<br>tobynewbatt<br>[This One Chart Will Change How You Invest Forever](https://www.youtube.com/watch?v=-JeYfdhXL9A)<br>[00:16:09] |
 |![](https://i.ytimg.com/vi/PfAwUYjJT6Q/maxresdefault.jpg) |2026-03-15 08:54:43<br>@AtheistRepublic<br>[Why Military Analysts Are Completely Wrong About Iran](https://www.youtube.com/watch?v=PfAwUYjJT6Q)<br>[00:10:42] |
 |![](https://i.ytimg.com/vi/4ndfIGOYMuY/maxresdefault.jpg) |2026-03-15 08:54:01<br>@AtheistRepublic<br>[The Final Strike: Iran's Regime is Panicking as the Uprising Begins](https://www.youtube.com/watch?v=4ndfIGOYMuY)<br>[00:02:40] |
-|![](https://i.ytimg.com/vi/4i-SE0JxtZE/maxresdefault.jpg) |2026-03-15 08:21:39<br>@realchris<br>[Trump just begged Korea for bailout](https://www.youtube.com/watch?v=4i-SE0JxtZE)<br>[00:14:53] |
+|![](https://i.ytimg.com/vi/4i-SE0JxtZE/maxresdefault.jpg) |2026-03-15 08:21:39<br>@realchris<br>[Trump begs Korea at emergency meeting](https://www.youtube.com/watch?v=4i-SE0JxtZE)<br>[00:14:53] |
 |![](https://i.ytimg.com/vi/lxqYQrUFiBw/maxresdefault.jpg) |2026-03-15 08:00:44<br>@TypeAshton<br>[Can I Really Speak German? \| VIDEO AUF DEUTSCH!](https://www.youtube.com/watch?v=lxqYQrUFiBw)<br>[00:19:52] |
 |![](https://i.ytimg.com/vi/gF6syMdZ9V4/sddefault.jpg) |2026-03-15 06:49:34<br>@penguinz0<br>[Bad games night](https://www.youtube.com/watch?v=gF6syMdZ9V4)<br>[04:10:09] |
 |![](https://i.ytimg.com/vi/l-7HXhRTzCw/maxresdefault.jpg) |2026-03-15 04:50:56<br>@AtriocClips<br>[Everyone's Trying To Get Their Money Out](https://www.youtube.com/watch?v=l-7HXhRTzCw)<br>[00:13:39] |
@@ -71,7 +71,7 @@
 |![](https://i.ytimg.com/vi/2D7hdJF2AwU/maxresdefault.jpg) |2026-03-13 18:55:37<br>rossmanngroup<br>[Nice try...](https://www.youtube.com/watch?v=2D7hdJF2AwU)<br>[00:03:05] |
 |![](https://i.ytimg.com/vi/IqnAWO5cYmE/maxresdefault.jpg) |2026-03-13 18:42:42<br>@alyssadgrenfell<br>[She Married a Gay Mormon Man](https://www.youtube.com/watch?v=IqnAWO5cYmE)<br>[01:07:41] |
 |![](https://i.ytimg.com/vi/bs5mrYdA2O0/maxresdefault.jpg) |2026-03-13 18:39:53<br>@2lazy2tryYT<br>[Alex Jones Crashes Out On Joe Rogan For Being a Coward](https://www.youtube.com/watch?v=bs5mrYdA2O0)<br>[00:11:56] |
-|![](https://i.ytimg.com/vi/N5rCP4_Mwe8/maxresdefault.jpg) |2026-03-13 18:00:06<br>@lucymoon<br>[it's my birthday week & i went a little overboard](https://www.youtube.com/watch?v=N5rCP4_Mwe8)<br>[00:15:50] |
+|![](https://i.ytimg.com/vi/N5rCP4_Mwe8/maxresdefault.jpg) |2026-03-13 18:00:06<br>@lucymoon<br>[it's my birthday & i went a little overboard](https://www.youtube.com/watch?v=N5rCP4_Mwe8)<br>[00:15:50] |
 |![](https://i.ytimg.com/vi/6ShZuXupb9s/maxresdefault.jpg) |2026-03-13 17:04:20<br>savagebooks7482<br>[You Don't Understand How Well Tywin Was Written- Season 2](https://www.youtube.com/watch?v=6ShZuXupb9s)<br>[00:31:57] |
 |![](https://i.ytimg.com/vi/xScMZxMEd4A/maxresdefault.jpg) |2026-03-13 17:01:34<br>@shawnaripari<br>[10 things I'm NOT buying this spring](https://www.youtube.com/watch?v=xScMZxMEd4A)<br>[00:37:12] |
 |![](https://i.ytimg.com/vi/nBIF5rccJCw/maxresdefault.jpg) |2026-03-13 17:01:19<br>prestonstewart<br>[Heavy Strikes Hammer Iran: Key Strait Remains Closed](https://www.youtube.com/watch?v=nBIF5rccJCw)<br>[00:23:01] |
@@ -1032,6 +1032,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
+--
 /i.ytimg.com/vi/4l5MGqrAItU/maxresdefault.jpg) |2021-02-01 04:03:31<br>artofengineering<br>[Designing Roller Coasters with Neural Networks \| A Crash Course in Machine Learning](https://www.youtube.com/watch?v=4l5MGqrAItU)<br>[00:18:18] |
 |![](https://i.ytimg.com/vi/NIkpZRSB5jo/maxresdefault.jpg) |2020-12-24 22:31:36<br>communitychannel<br>[Christmas Lists](https://www.youtube.com/watch?v=NIkpZRSB5jo)<br>[00:08:23] |
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
