@@ -1,8 +1,11 @@
 -------------------
-# 2026-03-15 13:34:20
+# 2026-03-15 14:42:02
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/5O1J8QcIoLE/maxresdefault.jpg) |2026-03-15 14:15:00<br>@GirlGoneLondonofficial<br>[Brits think America's college sports obsession is WEIRD. here's why.](https://www.youtube.com/watch?v=5O1J8QcIoLE)<br>[00:11:51] |
+|![](https://i.ytimg.com/vi/vPgScsosRMU/maxresdefault.jpg) |2026-03-15 14:00:37<br>jumokemi<br>[NEVER Invest Before Checking These 6 Things (Investing For Beginners 2026)](https://www.youtube.com/watch?v=vPgScsosRMU)<br>[00:13:44] |
+|![](https://i.ytimg.com/vi/gWLuTxn2fMI/maxresdefault.jpg) |2026-03-15 13:37:58<br>@HowMoneyWorks<br>[Is Private Credit About To Crash The Global Economy?](https://www.youtube.com/watch?v=gWLuTxn2fMI)<br>[00:16:17] |
 |![](https://i.ytimg.com/vi/E9018aRByk4/maxresdefault.jpg) |2026-03-15 13:00:21<br>mathqueensusanne<br>[Can You Solve This Equation? – Fractional Equations Explained](https://www.youtube.com/watch?v=E9018aRByk4)<br>[00:09:10] |
 |![](https://i.ytimg.com/vi/o5opXRMhcyg/sddefault.jpg) |2026-03-15 13:00:00<br>@BusinessInsider<br>[How Barbie Became A $1 Billion-A-Year Brand](https://www.youtube.com/watch?v=o5opXRMhcyg)<br>[00:07:53] |
 |![](https://i.ytimg.com/vi/ZzyZKm_TSGk/maxresdefault.jpg) |2026-03-15 12:48:39<br>@realchris<br>[They're desperate to keep this off air](https://www.youtube.com/watch?v=ZzyZKm_TSGk)<br>[00:13:48] |
@@ -436,7 +439,6 @@
 |![](https://i.ytimg.com/vi/yvWpzEwdFEg/sddefault.jpg) |2026-02-25 20:15:03<br>toldinstone<br>[The Decline and Fall of Sparta](https://www.youtube.com/watch?v=yvWpzEwdFEg)<br>[00:11:03] |
 |![](https://i.ytimg.com/vi/8rAOc_nJwz8/maxresdefault.jpg) |2026-02-25 17:34:50<br>@gremlita<br>[The Female Obsession with Gay Men](https://www.youtube.com/watch?v=8rAOc_nJwz8)<br>[00:49:13] |
 |![](https://i.ytimg.com/vi/RZRsYISTHGc/maxresdefault.jpg) |2026-02-25 17:30:12<br>unsolicitedadvice9198<br>[Why you NEED to read great fiction \| JRR Tolkien](https://www.youtube.com/watch?v=RZRsYISTHGc)<br>[00:46:14] |
-|![](https://i.ytimg.com/vi/31RmPxZ7JVY/maxresdefault.jpg) |2026-02-25 17:00:06<br>@GirlGoneLondonofficial<br>[7 British Drinks Differences that SURPRISED ME as an American](https://www.youtube.com/watch?v=31RmPxZ7JVY)<br>[00:11:00] |
 |![](https://i.ytimg.com/vi/ee08wXFMXtU/maxresdefault.jpg) |2026-02-25 16:22:57<br>@oompaville<br>[The Serial Killer That Vlogged His Own Crimes...](https://www.youtube.com/watch?v=ee08wXFMXtU)<br>[00:29:51] |
 |![](https://i.ytimg.com/vi/W3VDZzvCJQQ/maxresdefault.jpg) |2026-02-25 16:00:46<br>@PodcastCringe<br>[Joe Rogan Just Proved His “Haters” Were Right All Along](https://www.youtube.com/watch?v=W3VDZzvCJQQ)<br>[00:19:31] |
 |![](https://i.ytimg.com/vi/un5JsnnxZKU/maxresdefault.jpg) |2026-02-25 14:27:40<br>cosmicskeptic<br>[Spirituality for Atheists - Sam Harris](https://www.youtube.com/watch?v=un5JsnnxZKU)<br>[01:53:05] |
@@ -564,7 +566,6 @@
 |![](https://i.ytimg.com/vi/154W-wLJ_qU/maxresdefault.jpg) |2026-02-13 15:00:06<br>@JimmyTheGiant<br>[How Britain Accidentally Colonised Itself](https://www.youtube.com/watch?v=154W-wLJ_qU)<br>[00:50:12] |
 |![](https://i.ytimg.com/vi/bIwX4QuL90k/maxresdefault.jpg) |2026-02-13 15:00:01<br>@nightshift_kurzgesagt<br>[The Final Days of Louis XIV](https://www.youtube.com/watch?v=bIwX4QuL90k)<br>[00:14:32] |
 |![](https://i.ytimg.com/vi/z3kaLM8Oj4o/maxresdefault.jpg) |2026-02-13 14:56:19<br>coldfusion<br>[AI Fails at 96% of Jobs (New Study)](https://www.youtube.com/watch?v=z3kaLM8Oj4o)<br>[00:12:49] |
-|![](https://i.ytimg.com/vi/m192zxKJTBs/maxresdefault.jpg) |2026-02-13 12:56:53<br>@HowMoneyWorks<br>[How Epstein Won So Many Friends & Influenced So Many ̶p̶e̶d̶o̶s̶ People](https://www.youtube.com/watch?v=m192zxKJTBs)<br>[00:16:32] |
 |![](https://i.ytimg.com/vi/0um71b9Eh04/maxresdefault.jpg) |2026-02-12 19:30:01<br>acollierastro<br>[can you learn physics from a 15 minute summary of a textbook? (no.)](https://www.youtube.com/watch?v=0um71b9Eh04)<br>[00:44:08] |
 |![](https://i.ytimg.com/vi/EecsEaAEY6Y/maxresdefault.jpg) |2026-02-12 19:00:15<br>pitchmeetings<br>[Love Movie Pitch Meeting Compilation](https://www.youtube.com/watch?v=EecsEaAEY6Y)<br>[00:21:40] |
 |![](https://i.ytimg.com/vi/NsGMnCc-E-c/maxresdefault.jpg) |2026-02-12 18:19:44<br>@ericamallett<br>[The Pepsi Paradox will make people choose you, every time](https://www.youtube.com/watch?v=NsGMnCc-E-c)<br>[00:07:02] |
@@ -692,7 +693,6 @@
 |![](https://i.ytimg.com/vi/pNqM4jdKwLs/maxresdefault.jpg) |2026-01-18 20:02:15<br>casualhistorian<br>[Did the CIA Overthrow Iran's Government?](https://www.youtube.com/watch?v=pNqM4jdKwLs)<br>[01:42:29] |
 |![](https://i.ytimg.com/vi/qTWo9QMR4mE/maxresdefault.jpg) |2026-01-18 20:01:35<br>jjmccullough<br>[What's going on with Indigenous rights in Canada?](https://www.youtube.com/watch?v=qTWo9QMR4mE)<br>[00:28:00] |
 |![](https://i.ytimg.com/vi/yYiXGZCfsnw/maxresdefault.jpg) |2026-01-18 18:01:08<br>@jordanatheresa<br>[Lads Mags: A Critical Autopsy](https://www.youtube.com/watch?v=yYiXGZCfsnw)<br>[00:54:55] |
-|![](https://i.ytimg.com/vi/TX7AGhjuR7A/maxresdefault.jpg) |2026-01-18 12:49:32<br>jumokemi<br>[BANKER EXPLAINS: The WEALTH RULE Nobody Talks About (It Is So Simple)](https://www.youtube.com/watch?v=TX7AGhjuR7A)<br>[00:14:42] |
 |![](https://i.ytimg.com/vi/t6UAaV1NLng/maxresdefault.jpg) |2026-01-17 20:00:46<br>@jordankang<br>[The Best Bad Movie I've Ever Seen](https://www.youtube.com/watch?v=t6UAaV1NLng)<br>[00:16:33] |
 |![](https://i.ytimg.com/vi/XWT-b4QmIAs/maxresdefault.jpg) |2026-01-17 17:00:48<br>jaredbauer<br>[Why Idiocracy Won't Die](https://www.youtube.com/watch?v=XWT-b4QmIAs)<br>[00:18:16] |
 |![](https://i.ytimg.com/vi/uIqjLQXrpwY/sddefault.jpg) |2026-01-17 11:02:03<br>salarymantokyo<br>[Sleeping on a Bus to Save Money on Hotel](https://www.youtube.com/watch?v=uIqjLQXrpwY)<br>[00:17:02] |
@@ -1034,3 +1034,4 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
+------------
