@@ -422,7 +422,7 @@
 
 [Second Story](https://www.youtube.com/@HilaryLayne/videos)
 
-[Shawna Ripari](https://www.youtube.com/@shawnaripari/videos)
+<!--[Shawna Ripari](https://www.youtube.com/ @shawnaripari/videos)-->
 
 [Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
 
