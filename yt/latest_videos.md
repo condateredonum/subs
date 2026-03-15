@@ -1,8 +1,10 @@
 -------------------
-# 2026-03-15 14:42:02
+# 2026-03-15 15:26:07
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/cFq2kIngHfc/maxresdefault.jpg) |2026-03-15 15:15:10<br>@moresus<br>[They Just F**ked Up Really Bad….](https://www.youtube.com/watch?v=cFq2kIngHfc)<br>[00:37:56] |
+|![](https://i.ytimg.com/vi/jd4utYc7wn4/maxresdefault.jpg) |2026-03-15 15:01:19<br>prestonstewart<br>[Trump Urges Allies: HELP Us Open the Strait of Hormuz](https://www.youtube.com/watch?v=jd4utYc7wn4)<br>[00:12:00] |
 |![](https://i.ytimg.com/vi/5O1J8QcIoLE/maxresdefault.jpg) |2026-03-15 14:15:00<br>@GirlGoneLondonofficial<br>[Brits think America's college sports obsession is WEIRD. here's why.](https://www.youtube.com/watch?v=5O1J8QcIoLE)<br>[00:11:51] |
 |![](https://i.ytimg.com/vi/vPgScsosRMU/maxresdefault.jpg) |2026-03-15 14:00:37<br>jumokemi<br>[NEVER Invest Before Checking These 6 Things (Investing For Beginners 2026)](https://www.youtube.com/watch?v=vPgScsosRMU)<br>[00:13:44] |
 |![](https://i.ytimg.com/vi/gWLuTxn2fMI/maxresdefault.jpg) |2026-03-15 13:37:58<br>@HowMoneyWorks<br>[Is Private Credit About To Crash The Global Economy?](https://www.youtube.com/watch?v=gWLuTxn2fMI)<br>[00:16:17] |
@@ -158,7 +160,6 @@
 |![](https://i.ytimg.com/vi/X_FGQj7ZjxQ/maxresdefault.jpg) |2026-03-11 19:00:28<br>@LaelHansen<br>[WHY 21 YEAR OLDS LOOK 45 NOW (scientifically proven)](https://www.youtube.com/watch?v=X_FGQj7ZjxQ)<br>[00:26:36] |
 |![](https://i.ytimg.com/vi/BTaOr9UrEkw/maxresdefault.jpg) |2026-03-11 19:00:18<br>jamessinclairentrepreneur<br>[UK Taxes that Damage Businesses You Might Not Even Know Exist](https://www.youtube.com/watch?v=BTaOr9UrEkw)<br>[00:19:31] |
 |![](https://i.ytimg.com/vi/rWUOAfFzgpY/maxresdefault.jpg) |2026-03-11 18:01:05<br>@TheCriticalDrinker<br>[The Drinker Recommends... Project Hail Mary](https://www.youtube.com/watch?v=rWUOAfFzgpY)<br>[00:07:35] |
-|![](https://i.ytimg.com/vi/h4KMlRl1TBE/maxresdefault.jpg) |2026-03-11 18:00:50<br>prestonstewart<br>[Iran Attacks Hormuz Tankers - US Sinks Minelayers](https://www.youtube.com/watch?v=h4KMlRl1TBE)<br>[00:19:39] |
 |![](https://i.ytimg.com/vi/WGd5rzypU2A/maxresdefault.jpg) |2026-03-11 17:31:00<br>@caseysimpsonchannel<br>[Reacting to Nicky, Ricky, Dicky and Dawn 10 Years Later // Casey Simpson](https://www.youtube.com/watch?v=WGd5rzypU2A)<br>[00:22:10] |
 |![](https://i.ytimg.com/vi/noTAgFPFdMw/maxresdefault.jpg) |2026-03-11 17:26:43<br>bundeswehr<br>[Nachgefragt: Medic Quadriga 2026 – Ist Deutschland bereit für den Ernstfall? \| Bundeswehr](https://www.youtube.com/watch?v=noTAgFPFdMw)<br>[00:22:32] |
 |![](https://i.ytimg.com/vi/LdV7FEnR4QA/maxresdefault.jpg) |2026-03-11 17:11:50<br>financialinterestcom<br>[Lightyear Just Destroyed Trading 212 (Huge Changes)](https://www.youtube.com/watch?v=LdV7FEnR4QA)<br>[00:12:22] |
@@ -203,7 +204,6 @@
 |![](https://i.ytimg.com/vi/P7WQHFBDeZw/maxresdefault.jpg) |2026-03-10 15:00:43<br>danmurrellmovies<br>[Hoppers Opens at #1, The Bride Bombs & Scream 7 Plummets - Charts with Dan!](https://www.youtube.com/watch?v=P7WQHFBDeZw)<br>[00:29:40] |
 |![](https://i.ytimg.com/vi/t5W6vlnvxs0/maxresdefault.jpg) |2026-03-10 15:00:06<br>@LegalMindset<br>[Wild Model Courtney Clenney Faces Life (Fast Facts)](https://www.youtube.com/watch?v=t5W6vlnvxs0)<br>[00:07:42] |
 |![](https://i.ytimg.com/vi/yDAAlojz8NU/maxresdefault.jpg) |2026-03-10 15:00:01<br>kurzgesagt<br>[This Is the Scariest Place in The Universe](https://www.youtube.com/watch?v=yDAAlojz8NU)<br>[00:09:14] |
-|![](https://i.ytimg.com/vi/5umJ63d3rzQ/maxresdefault.jpg) |2026-03-10 15:00:00<br>@CasuallyFinance<br>[Brace For Impact.](https://www.youtube.com/watch?v=5umJ63d3rzQ)<br>[00:12:33] |
 |![](https://i.ytimg.com/vi/WzvUMuevZIk/maxresdefault.jpg) |2026-03-10 14:56:42<br>johnnyharris<br>[Why Nazis used the swastika](https://www.youtube.com/watch?v=WzvUMuevZIk)<br>[00:02:11] |
 |![](https://i.ytimg.com/vi/GeYvNkaLAqA/maxresdefault.jpg) |2026-03-10 14:30:18<br>wendoverproductions<br>[California's Water Problem](https://www.youtube.com/watch?v=GeYvNkaLAqA)<br>[00:19:35] |
 |![](https://i.ytimg.com/vi/Si4ifezbgeM/maxresdefault.jpg) |2026-03-10 13:54:30<br>nobodyspecialfinance<br>[Oil Remains Volatile as Knock-On Effects Ripple Across Asia](https://www.youtube.com/watch?v=Si4ifezbgeM)<br>[00:42:30] |
@@ -225,7 +225,6 @@
 |![](https://i.ytimg.com/vi/rg50XSAAWRU/maxresdefault.jpg) |2026-03-09 15:53:51<br>@susannahfriesenofficial<br>[Blind Date with a Book BACKFIRES \| Readers React to Getting SCAMMED!](https://www.youtube.com/watch?v=rg50XSAAWRU)<br>[00:25:56] |
 |![](https://i.ytimg.com/vi/ok0-k3Hktik/maxresdefault.jpg) |2026-03-09 15:46:23<br>andrei<br>[Humanity is F***ED!](https://www.youtube.com/watch?v=ok0-k3Hktik)<br>[00:08:08] |
 |![](https://i.ytimg.com/vi/NYmKSzNxA2w/sddefault.jpg) |2026-03-09 15:16:51<br>redeemed_zoomer<br>[My speech at the PftK conference](https://www.youtube.com/watch?v=NYmKSzNxA2w)<br>[00:09:23] |
-|![](https://i.ytimg.com/vi/emAj4MscFhU/maxresdefault.jpg) |2026-03-09 15:15:11<br>@moresus<br>[The QTCinderella Situation Is Pathetic.. #280](https://www.youtube.com/watch?v=emAj4MscFhU)<br>[00:36:41] |
 |![](https://i.ytimg.com/vi/khURNdjlMKk/maxresdefault.jpg) |2026-03-09 15:07:10<br>bundeswehr<br>[Von der Ostflanke bis nach Deutschland: Bundeswehr übt Rettungskette und MedEvac \| Bundeswehr](https://www.youtube.com/watch?v=khURNdjlMKk)<br>[00:03:37] |
 |![](https://i.ytimg.com/vi/_Ux13UEqIYo/maxresdefault.jpg) |2026-03-09 14:05:34<br>coldfusion<br>[Yikes.](https://www.youtube.com/watch?v=_Ux13UEqIYo)<br>[00:16:53] |
 |![](https://i.ytimg.com/vi/LwIGLgIVq7o/maxresdefault.jpg) |2026-03-09 13:57:45<br>nobodyspecialfinance<br>[Oil's Wild Night: Spikes to $120 then drops to $100 on SPR Talks](https://www.youtube.com/watch?v=LwIGLgIVq7o)<br>[00:41:07] |
@@ -1033,5 +1032,7 @@
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
+-------------------
+g.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 ------------
