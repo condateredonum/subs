@@ -1,8 +1,9 @@
 -------------------
-# 2026-03-16 19:16:13
+# 2026-03-16 19:20:57
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/c0VHypPaVM8/maxresdefault.jpg) |2026-03-16 19:16:05<br>@_jared<br>[I don't like what the internet is doing to me.](https://www.youtube.com/watch?v=c0VHypPaVM8)<br>[00:22:12] |
 |![](https://i.ytimg.com/vi/hti-MAgAINY/maxresdefault.jpg) |2026-03-16 19:10:19<br>@LaelHansen<br>[SOCIAL MEDIA IS DESTROYING YOUR LIFE (scientifically proven)](https://www.youtube.com/watch?v=hti-MAgAINY)<br>[00:29:58] |
 |![](https://i.ytimg.com/vi/MOhW4jpdpUc/maxresdefault.jpg) |2026-03-16 19:09:56<br>@caseysimpsonchannel<br>[Gen Alpha Is WORSE Than You Think](https://www.youtube.com/watch?v=MOhW4jpdpUc)<br>[00:27:35] |
 |![](https://i.ytimg.com/vi/HKfY1-GCsV0/maxresdefault.jpg) |2026-03-16 19:05:23<br>@OfficialSaharTV<br>[Islamists Tried To Bring Sharia To Japan, THEN JAPANESE REBEL!](https://www.youtube.com/watch?v=HKfY1-GCsV0)<br>[00:15:32] |
@@ -802,7 +803,6 @@
 |![](https://i.ytimg.com/vi/L03EGikuNTI/maxresdefault.jpg) |2025-11-29 16:04:53<br>fads<br>[Literally Nobody Wants A CyberTruck Anymore...](https://www.youtube.com/watch?v=L03EGikuNTI)<br>[00:16:21] |
 |![](https://i.ytimg.com/vi/ykUuR-mUNdM/maxresdefault.jpg) |2025-11-29 15:00:00<br>@GhostGum<br>[The Implosion of Dan Bilzerian](https://www.youtube.com/watch?v=ykUuR-mUNdM)<br>[00:24:43] |
 |![](https://i.ytimg.com/vi/S7FCb6v45Io/maxresdefault.jpg) |2025-11-29 14:00:55<br>nerdwriter1<br>[Why Is Everyone Running In Rom-Coms?](https://www.youtube.com/watch?v=S7FCb6v45Io)<br>[00:05:20] |
-|![](https://i.ytimg.com/vi/S2vPs8ld4nU/maxresdefault.jpg) |2025-11-29 03:38:28<br>@_jared<br>[An AI Company Wants to Clone Me](https://www.youtube.com/watch?v=S2vPs8ld4nU)<br>[00:17:48] |
 |![](https://i.ytimg.com/vi/v2Uy6FPuGgI/maxresdefault.jpg) |2025-11-28 18:33:11<br>@Galatea-and-Acis<br>[When You Become His Mother: Lily Allen’s divorce album](https://www.youtube.com/watch?v=v2Uy6FPuGgI)<br>[01:11:58] |
 |![](https://i.ytimg.com/vi/E8e2sKgMbJA/maxresdefault.jpg) |2025-11-28 18:13:14<br>polymatter<br>[Why Nepal Just Overthrew its Government](https://www.youtube.com/watch?v=E8e2sKgMbJA)<br>[00:15:01] |
 |![](https://i.ytimg.com/vi/rWIAgYPAakM/maxresdefault.jpg) |2025-11-28 17:30:11<br>callmeezekiel<br>[Napoleon III: Oh To Be Emperor](https://www.youtube.com/watch?v=rWIAgYPAakM)<br>[00:25:45] |
@@ -1037,7 +1037,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
-.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
+1lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 <br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
