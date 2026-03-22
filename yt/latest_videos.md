@@ -1,8 +1,11 @@
 -------------------
-# 2026-03-22 10:37:39
+# 2026-03-22 11:21:43
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/jzMBetaXd8Y/sddefault.jpg) |2026-03-22 11:11:29<br>joeblogs<br>[48 Hours...](https://www.youtube.com/watch?v=jzMBetaXd8Y)<br>[00:08:45] |
+|![](https://i.ytimg.com/vi/GAmpc4dWcT0/maxresdefault.jpg) |2026-03-22 11:00:18<br>@AtheistRepublic<br>[Is Pakistan the NEW Israel? Why the Region is Terrified](https://www.youtube.com/watch?v=GAmpc4dWcT0)<br>[00:20:03] |
+|![](https://i.ytimg.com/vi/tmWf5qhG4Xs/maxresdefault.jpg) |2026-03-22 10:59:46<br>timesofisrael<br>[Amid missile strikes and rainstorms, IAF hunts Iranian launchers](https://www.youtube.com/watch?v=tmWf5qhG4Xs)<br>[00:19:21] |
 |![](https://i.ytimg.com/vi/Cu_xIrp1o5Y/maxresdefault.jpg) |2026-03-22 10:02:18<br>baldmax_ua<br>[Fly with me - Test Stream with guests](https://www.youtube.com/watch?v=Cu_xIrp1o5Y)<br>[01:08:52] |
 |![](https://i.ytimg.com/vi/CD5ig9MsayM/maxresdefault.jpg) |2026-03-22 10:00:14<br>tobynewbatt<br>[The 3 Decisions That Actually Matter in Investing](https://www.youtube.com/watch?v=CD5ig9MsayM)<br>[00:12:50] |
 |![](https://i.ytimg.com/vi/WdSbTK34OPM/maxresdefault.jpg) |2026-03-22 09:02:22<br>@AtheistRepublic<br>[Civil War or Revolution? The Brutal Truth For Iran’s Streets](https://www.youtube.com/watch?v=WdSbTK34OPM)<br>[00:14:36] |
@@ -38,11 +41,9 @@
 |![](https://i.ytimg.com/vi/6xWIhpBRZ30/maxresdefault.jpg) |2026-03-21 15:00:12<br>@LouExtras<br>[The Art of Stealing Jokes](https://www.youtube.com/watch?v=6xWIhpBRZ30)<br>[00:48:02] |
 |![](https://i.ytimg.com/vi/KwpNPDTxuL4/maxresdefault.jpg) |2026-03-21 14:45:03<br>@AtheistRepublic<br>[China’s Secret Plan To Buy A "Free" Iran](https://www.youtube.com/watch?v=KwpNPDTxuL4)<br>[00:16:46] |
 |![](https://i.ytimg.com/vi/o3Wx8pYLgrE/maxresdefault.jpg) |2026-03-21 14:10:21<br>@miarosemcgrath<br>[week in my life as 25 y/o creator CEO (tv, tedx talk, four seasons, chinese new year) \| productive](https://www.youtube.com/watch?v=o3Wx8pYLgrE)<br>[00:12:01] |
-|![](https://i.ytimg.com/vi/DQeow4qK7Ac/maxresdefault.jpg) |2026-03-21 13:30:29<br>@AtheistRepublic<br>[Why Democracy Must Wait Until After the Revolution](https://www.youtube.com/watch?v=DQeow4qK7Ac)<br>[00:14:41] |
 |![](https://i.ytimg.com/vi/xRtrKphP4dw/maxresdefault.jpg) |2026-03-21 12:19:48<br>@realchris<br>[He opened the floodgates and lost](https://www.youtube.com/watch?v=xRtrKphP4dw)<br>[00:12:50] |
 |![](https://i.ytimg.com/vi/gdHKTxnlgpI/maxresdefault.jpg) |2026-03-21 12:01:08<br>pensioncraft<br>[Best Low Risk Investments: The Sleep Well at Night Portfolio](https://www.youtube.com/watch?v=gdHKTxnlgpI)<br>[00:20:27] |
 |![](https://i.ytimg.com/vi/Kcq0tjmvGOs/maxresdefault.jpg) |2026-03-21 12:00:00<br>@BusinessInsider<br>[Why Fully Self-Driving Cars Are Almost Impossible \| The Limit](https://www.youtube.com/watch?v=Kcq0tjmvGOs)<br>[00:40:11] |
-|![](https://i.ytimg.com/vi/dDm0y51W7Jk/sddefault.jpg) |2026-03-21 11:41:14<br>joeblogs<br>[Shock Move](https://www.youtube.com/watch?v=dDm0y51W7Jk)<br>[00:12:44] |
 |![](https://i.ytimg.com/vi/ucA-SjYSFHg/maxresdefault.jpg) |2026-03-21 10:15:51<br>financialinterestcom<br>[How Much Do You Need to Save for Retirement?](https://www.youtube.com/watch?v=ucA-SjYSFHg)<br>[00:17:38] |
 |![](https://i.ytimg.com/vi/XsL0DAbC4gs/maxresdefault.jpg) |2026-03-21 09:30:15<br>mathematrick<br>[Wie viele Passwörter sind möglich? 🤔 – Kombinatorik](https://www.youtube.com/watch?v=XsL0DAbC4gs)<br>[00:06:46] |
 |![](https://i.ytimg.com/vi/GuMox31cqrA/maxresdefault.jpg) |2026-03-21 09:00:19<br>decodinggeopoliticspodcast<br>[The Biggest Threat to Russia's Economy Is Not What You Think \| Janis Kluge](https://www.youtube.com/watch?v=GuMox31cqrA)<br>[00:35:50] |
@@ -1036,8 +1037,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
-MPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
-|![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
+0:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 ] |
