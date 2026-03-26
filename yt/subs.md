@@ -2,9 +2,8 @@
 
 ---
 
-[Aba n Preach] 
-[Biggest A] 
-[Tree of Logic] 
+
+
 
 
 [1420](https://www.youtube.com/@1420channel)
@@ -12,6 +11,8 @@
 [2lazy2try](https://www.youtube.com/@2lazy2tryYT/videos)
 
 [A Little Bit of Philosophy](https://www.youtube.com/channel/UC5W1426MgVYjyYjbl6LDqeg)
+
+[Aba n Preach](https://www.youtube.com/@AbaNPreach)
 
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
 
@@ -492,6 +493,8 @@
 [toldinstone](https://www.youtube.com/channel/UCqBiWcuTF8IaLH7wBqnihsQ)
 
 [Tom Nicholas](https://www.youtube.com/@Tom_Nicholas/videos)
+
+[Tree of Logic](https://www.youtube.com/@justtree411/videos)
 
 [Tyler Oliveira](https://www.youtube.com/channel/UCY8SLLJjWpS4sx1dEqECaIw)
 
