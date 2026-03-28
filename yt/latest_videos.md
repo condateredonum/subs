@@ -1,8 +1,9 @@
 -------------------
-# 2026-03-28 10:41:22
+# 2026-03-28 11:26:45
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/v0btptpBi6g/maxresdefault.jpg) |2026-03-28 10:52:39<br>joeblogs<br>[I've Started a New Channel… Here’s What It’s About (Joe & Naz)](https://www.youtube.com/watch?v=v0btptpBi6g)<br>[00:03:53] |
 |![](https://i.ytimg.com/vi/SjON85j9CHM/maxresdefault.jpg) |2026-03-28 09:30:12<br>mathematrick<br>[Wie schnell findest DU den fehlenden Winkel? – Geometrie Rätsel](https://www.youtube.com/watch?v=SjON85j9CHM)<br>[00:04:07] |
 |![](https://i.ytimg.com/vi/0GGxyIA6Yr0/maxresdefault.jpg) |2026-03-28 08:15:06<br>@PBoyle<br>[The War Is Going Great (According to the S&P 500)](https://www.youtube.com/watch?v=0GGxyIA6Yr0)<br>[00:29:47] |
 |![](https://i.ytimg.com/vi/Z7P1D0tPKNE/maxresdefault.jpg) |2026-03-28 08:00:35<br>@AtheistRepublic<br>[Why Xi Jinping is PANICKING Over Trump’s May Visit](https://www.youtube.com/watch?v=Z7P1D0tPKNE)<br>[00:09:12] |
@@ -85,7 +86,6 @@
 |![](https://i.ytimg.com/vi/zc7uEsJmcr0/maxresdefault.jpg) |2026-03-26 19:00:06<br>restpoliticsus<br>[How Trump's PROFITING HUGELY Off Iran War](https://www.youtube.com/watch?v=zc7uEsJmcr0)<br>[00:11:17] |
 |![](https://i.ytimg.com/vi/9UqCb0LQhio/maxresdefault.jpg) |2026-03-26 18:57:02<br>@YishaiFleisherTV<br>[🚨BREAKING: Marines Deployed To Kharg Island As Trump Negotiates!?](https://www.youtube.com/watch?v=9UqCb0LQhio)<br>[01:02:19] |
 |![](https://i.ytimg.com/vi/cr1erP_XVwU/maxresdefault.jpg) |2026-03-26 18:32:57<br>joeblogs<br>[RUSSIAN Oil Shock](https://www.youtube.com/watch?v=cr1erP_XVwU)<br>[00:02:10] |
-|![](https://i.ytimg.com/vi/OT7d7COw8VU/maxresdefault.jpg) |2026-03-26 18:21:54<br>joeblogs<br>[RUSSIAN Oil Shock](https://www.youtube.com/watch?v=OT7d7COw8VU)<br>[00:08:25] |
 |![](https://i.ytimg.com/vi/VTFt5zSuQCI/maxresdefault.jpg) |2026-03-26 18:00:23<br>pitchmeetings<br>[Wonder Woman 1984 Pitch Meeting](https://www.youtube.com/watch?v=VTFt5zSuQCI)<br>[00:08:04] |
 |![](https://i.ytimg.com/vi/6Km1YI83PPo/maxresdefault.jpg) |2026-03-26 18:00:05<br>@LilAClip<br>[The Bloodiest Siege in History](https://www.youtube.com/watch?v=6Km1YI83PPo)<br>[00:14:10] |
 |![](https://i.ytimg.com/vi/2gZTgFwt5OE/maxresdefault.jpg) |2026-03-26 17:42:52<br>@JimmyTheGiant<br>[I Achieved My Dream… Then I Walked Away – Drew Taylor Ep 6](https://www.youtube.com/watch?v=2gZTgFwt5OE)<br>[01:12:02] |
@@ -1049,5 +1049,5 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
-.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
+10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
