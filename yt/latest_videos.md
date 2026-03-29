@@ -1,8 +1,9 @@
 -------------------
-# 2026-03-29 11:44:55
+# 2026-03-29 12:26:45
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/srqbdKW5lg8/maxresdefault.jpg) |2026-03-29 12:01:25<br>timesofisrael<br>[Northerners feel grim amid war but firm on need to defeat Hezbollah](https://www.youtube.com/watch?v=srqbdKW5lg8)<br>[00:24:31] |
 |![](https://i.ytimg.com/vi/tE26bl4hHFQ/maxresdefault.jpg) |2026-03-29 11:06:00<br>@realchris<br>[Iran ground invasion plans leaked](https://www.youtube.com/watch?v=tE26bl4hHFQ)<br>[00:13:00] |
 |![](https://i.ytimg.com/vi/yuF_qzEb3fM/maxresdefault.jpg) |2026-03-29 10:56:36<br>joeblogs<br>[Global Shortages](https://www.youtube.com/watch?v=yuF_qzEb3fM)<br>[00:02:30] |
 |![](https://i.ytimg.com/vi/lq2420LL_Y8/maxresdefault.jpg) |2026-03-29 10:00:00<br>ryanmcbethprogramming<br>[Global Warning Episode 4](https://www.youtube.com/watch?v=lq2420LL_Y8)<br>[00:09:37] |
@@ -166,7 +167,7 @@
 |![](https://i.ytimg.com/vi/LR8YJ3kU4A8/maxresdefault.jpg) |2026-03-25 17:00:26<br>@shawnaripari<br>[tiktoks that have been living in my head rent free](https://www.youtube.com/watch?v=LR8YJ3kU4A8)<br>[00:48:20] |
 |![](https://i.ytimg.com/vi/EZIR6sY193w/maxresdefault.jpg) |2026-03-25 17:00:21<br>felifromgermany<br>[Grocery Shopping in Germany vs. USA \| Feli from Germany](https://www.youtube.com/watch?v=EZIR6sY193w)<br>[00:30:00] |
 |![](https://i.ytimg.com/vi/LDwlnUXqfKw/maxresdefault.jpg) |2026-03-25 16:15:03<br>@GirlGoneLondonofficial<br>[you're not going crazy: why Cadbury chocolate tastes different now](https://www.youtube.com/watch?v=LDwlnUXqfKw)<br>[00:08:01] |
-|![](https://i.ytimg.com/vi/uaSja64lY2o/maxresdefault.jpg) |2026-03-25 16:01:23<br>pensioncraft<br>[Six Lessons I've Learned From My Fun Portfolio](https://www.youtube.com/watch?v=uaSja64lY2o)<br>[00:17:48] |
+|![](https://i.ytimg.com/vi/uaSja64lY2o/maxresdefault.jpg) |2026-03-25 16:01:23<br>pensioncraft<br>[The 10% Rule That Saved My Portfolio](https://www.youtube.com/watch?v=uaSja64lY2o)<br>[00:17:48] |
 |![](https://i.ytimg.com/vi/3rT5IV3toOE/maxresdefault.jpg) |2026-03-25 15:36:56<br>ryanmcbethprogramming<br>[Marines vs Iran : What a Real Conflict Would Actually Look Like](https://www.youtube.com/watch?v=3rT5IV3toOE)<br>[00:12:19] |
 |![](https://i.ytimg.com/vi/CjvCDv3Yu_o/maxresdefault.jpg) |2026-03-25 15:15:01<br>@moresus<br>[Hasan Is Getting Cancelled By Cubans Now.. #295](https://www.youtube.com/watch?v=CjvCDv3Yu_o)<br>[00:38:35] |
 |![](https://i.ytimg.com/vi/MsoHw0X5VrU/maxresdefault.jpg) |2026-03-25 15:00:00<br>officialbeyondtheblue<br>[We Were Wrong About The Octopus](https://www.youtube.com/watch?v=MsoHw0X5VrU)<br>[00:13:40] |
