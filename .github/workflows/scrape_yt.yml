@@ -1,4 +1,4 @@
-pname: Scrape YouTube Videos
+name: Scrape YouTube Videos
 
 on:
   workflow_dispatch:
