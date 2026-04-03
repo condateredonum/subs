@@ -132,6 +132,8 @@
 
 [Decoding the Gurus](https://www.youtube.com/channel/UCTgFfqo5o8yIdvMbwOFZyYA)
 
+[Denys Davydov](https://www.youtube.com/@DenysDavydov/videos)
+
 [Design Theory](https://www.youtube.com/channel/UCdgUN8rX3SEb9L7FDub3I6A)
 
 [Discover Connection](https://www.youtube.com/channel/UCvxGFtF7apSnmpnKHDrK8qA)
