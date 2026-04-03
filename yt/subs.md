@@ -2,10 +2,6 @@
 
 ---
 
-
-
-
-
 [1420](https://www.youtube.com/@1420channel)
 
 [2lazy2try](https://www.youtube.com/@2lazy2tryYT/videos)
@@ -190,13 +186,15 @@
 
 [H3 Highlights](https://www.youtube.com/@H3PodcastHighlights/videos)
 
+[Hank Green](https://www.youtube.com/@hankschannel/videos)
+
 [Historia Civilis](https://www.youtube.com/channel/UCv_vLHiWVBh_FR9vbeuiY-A)
 
 [History Revealed](https://www.youtube.com/channel/UCQ3sprrGnTHL6std2197XHw)
 
 [Hoog](https://www.youtube.com/channel/UCii9ezsUa_mBiSdw0PtSOaw)
 
-[Horses](https://www.youtube.com/channel/UCrx2zrPjhGRi9TwszZiLwEg)
+[Horses](https://www.youtube.com/@HorsesOnYT/videos)
 
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
 
