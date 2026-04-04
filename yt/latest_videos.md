@@ -1,15 +1,16 @@
 -------------------
-# 2026-04-04 10:30:44
+# 2026-04-04 11:42:04
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/Y2OKiLb-x1k/maxresdefault.jpg) |2026-04-04 11:25:45<br>@DenysDavydov<br>[Update from Ukraine \| Wow! New Ukrainian Attack in Dobropilla Caught Russians of Guard](https://www.youtube.com/watch?v=Y2OKiLb-x1k)<br>[00:19:10] |
 |![](https://i.ytimg.com/vi/lZ98eJ1vk_w/maxresdefault.jpg) |2026-04-04 10:09:44<br>first_class_amateur<br>[Stop Tying the Scaffold Knot the Hard Way (Fishermen Do This Instead)](https://www.youtube.com/watch?v=lZ98eJ1vk_w)<br>[00:04:11] |
 |![](https://i.ytimg.com/vi/hOqaIqydssg/maxresdefault.jpg) |2026-04-04 09:30:31<br>mathematrick<br>[Drei Kreise im Dreieck – Wie groß ist die rote Fläche?](https://www.youtube.com/watch?v=hOqaIqydssg)<br>[00:15:59] |
 |![](https://i.ytimg.com/vi/iwc5HKnOmGg/maxresdefault.jpg) |2026-04-04 09:28:47<br>rossmanngroup<br>[Colorado destroys right to repair, sponsored by Cisco 🤦](https://www.youtube.com/watch?v=iwc5HKnOmGg)<br>[00:15:51] |
 |![](https://i.ytimg.com/vi/GHgO2Mh-QBc/maxresdefault.jpg) |2026-04-04 08:30:09<br>@AtheistRepublic<br>[CIVILIZATIONAL BETRAYAL: Why Europe Just Stabbed America In The Back](https://www.youtube.com/watch?v=GHgO2Mh-QBc)<br>[00:14:04] |
 |![](https://i.ytimg.com/vi/aWRzvOiqc-s/maxresdefault.jpg) |2026-04-04 07:09:35<br>@themorbidzoo<br>[Metaverse Elegy](https://www.youtube.com/watch?v=aWRzvOiqc-s)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/YEhZ8pGov8c/maxresdefault.jpg) |2026-04-04 06:35:08<br>@AtriocClips<br>[The DOW Didn't Save Her](https://www.youtube.com/watch?v=YEhZ8pGov8c)<br>[00:20:59] |
-|![](https://i.ytimg.com/vi/ggV3RVYCPx0/maxresdefault.jpg) |2026-04-04 06:30:30<br>@AtheistRepublic<br>[The Civil War Has Begun: Backstabbing And Chaos Inside The IRGC](https://www.youtube.com/watch?v=ggV3RVYCPx0)<br>[00:11:49] |
+|![](https://i.ytimg.com/vi/ggV3RVYCPx0/maxresdefault.jpg) |2026-04-04 06:30:30<br>@AtheistRepublic<br>[IT’S OVER: The Islamic Republic Is Finally Self-Destructing From Within](https://www.youtube.com/watch?v=ggV3RVYCPx0)<br>[00:11:49] |
 |![](https://i.ytimg.com/vi/p3Jr0PrJa7U/maxresdefault.jpg) |2026-04-04 04:15:15<br>ryanmcbethprogramming<br>[F-15E Down Over Iran-What happens next](https://www.youtube.com/watch?v=p3Jr0PrJa7U)<br>[00:09:36] |
 |![](https://i.ytimg.com/vi/A2TGtsaBY6Q/maxresdefault.jpg) |2026-04-04 04:02:34<br>@AtheistRepublic<br>[IRAN REVOLUTION LIVE WITH IRANIAN HOSTS GOLDIE AND ARMIN: DAY 97](https://www.youtube.com/watch?v=A2TGtsaBY6Q)<br>[10:09:38] |
 |![](https://i.ytimg.com/vi/0fbux7eV0SU/maxresdefault.jpg) |2026-04-04 03:56:59<br>@AtheistRepublic<br>[Why the Mullahs Will Let Iran Burn Before Surrendering](https://www.youtube.com/watch?v=0fbux7eV0SU)<br>[00:41:24] |
@@ -49,7 +50,7 @@
 |![](https://i.ytimg.com/vi/-DV4bzZkjVo/sddefault.jpg) |2026-04-03 17:00:00<br>orthodoxkyle<br>[Serving the World Ends in This…](https://www.youtube.com/watch?v=-DV4bzZkjVo)<br>[00:12:48] |
 |![](https://i.ytimg.com/vi/1PKath_tSQo/maxresdefault.jpg) |2026-04-03 17:00:00<br>@thought_bug<br>[birth rates are declining because we HATE women.](https://www.youtube.com/watch?v=1PKath_tSQo)<br>[00:27:35] |
 |![](https://i.ytimg.com/vi/3SR-e0bCJXA/maxresdefault.jpg) |2026-04-03 16:30:01<br>redeemed_zoomer<br>[Reacting to my Jay Dyer debate from 2023](https://www.youtube.com/watch?v=3SR-e0bCJXA)<br>[00:29:16] |
-|![](https://i.ytimg.com/vi/u1N_3gRx4fQ/maxresdefault.jpg) |2026-04-03 16:15:06<br>@moresus<br>[Hasan’s Stanford University Speech Was Pathetic…](https://www.youtube.com/watch?v=u1N_3gRx4fQ)<br>[00:38:51] |
+|![](https://i.ytimg.com/vi/u1N_3gRx4fQ/maxresdefault.jpg) |2026-04-03 16:15:06<br>@moresus<br>[Hasan’s Stanford Speech Was Pathetic…](https://www.youtube.com/watch?v=u1N_3gRx4fQ)<br>[00:38:51] |
 |![](https://i.ytimg.com/vi/orVGdFpAS3M/maxresdefault.jpg) |2026-04-03 15:30:39<br>@AtheistRepublic<br>[Iran Is NOT Gaza: The Brutal Truth About the 1979 Occupation](https://www.youtube.com/watch?v=orVGdFpAS3M)<br>[00:11:30] |
 |![](https://i.ytimg.com/vi/JoHOoWho7Ms/maxresdefault.jpg) |2026-04-03 15:00:00<br>@OfficialSaharTV<br>[Muslims Litter The Streets of Japan, Then Japanese Shows Them NO MERCY!](https://www.youtube.com/watch?v=JoHOoWho7Ms)<br>[00:16:43] |
 |![](https://i.ytimg.com/vi/c8HRkiYJyuM/maxresdefault.jpg) |2026-04-03 14:41:05<br>joeblogs<br>[I Tried The Cheapest Afternoon Tea in London… Is It Worth It?](https://www.youtube.com/watch?v=c8HRkiYJyuM)<br>[00:13:30] |
@@ -186,7 +187,6 @@
 |![](https://i.ytimg.com/vi/36FJ0NsVfn4/maxresdefault.jpg) |2026-03-31 10:45:00<br>zeihanongeopolitics<br>[Ukraine Strikes Hit Baltic Export Facilities \|\| Peter Zeihan](https://www.youtube.com/watch?v=36FJ0NsVfn4)<br>[00:03:22] |
 |![](https://i.ytimg.com/vi/Bwp-0kZbArU/maxresdefault.jpg) |2026-03-31 09:30:06<br>mathematrick<br>[Gleichung mit 2 Unbekannten lösen – Unendlich viele Lösungen](https://www.youtube.com/watch?v=Bwp-0kZbArU)<br>[00:07:41] |
 |![](https://i.ytimg.com/vi/s8k07myOT7s/maxresdefault.jpg) |2026-03-31 08:33:08<br>bbcstever<br>[Russians warned not to meet with British diplomats](https://www.youtube.com/watch?v=s8k07myOT7s)<br>[00:03:30] |
-|![](https://i.ytimg.com/vi/lS1cNGfnmjM/maxresdefault.jpg) |2026-03-31 07:59:27<br>@DenysDavydov<br>[Update from Ukraine \| Good News! Russian Failed Spring Attack \| Ukraine was Ready](https://www.youtube.com/watch?v=lS1cNGfnmjM)<br>[00:14:19] |
 |![](https://i.ytimg.com/vi/1SfaAcw5Mmw/maxresdefault.jpg) |2026-03-31 07:06:55<br>first_class_amateur<br>[How to Carry Plywood by Yourself](https://www.youtube.com/watch?v=1SfaAcw5Mmw)<br>[00:03:28] |
 |![](https://i.ytimg.com/vi/4zqcdd0MaEk/maxresdefault.jpg) |2026-03-31 02:43:01<br>@justtree411<br>[Jazmen and Tree React to Clavicular's Downfall](https://www.youtube.com/watch?v=4zqcdd0MaEk)<br>[00:29:12] |
 |![](https://i.ytimg.com/vi/Jqz4ta6x4bc/maxresdefault.jpg) |2026-03-31 01:00:00<br>@LilAClip<br>[Vegas is Getting Desperate...](https://www.youtube.com/watch?v=Jqz4ta6x4bc)<br>[00:23:33] |
@@ -1053,7 +1053,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
-nel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
+<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
