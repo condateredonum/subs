@@ -1,10 +1,12 @@
 -------------------
-# 2026-04-04 14:42:26
+# 2026-04-04 15:40:03
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/8hs9y5vqfhk/maxresdefault.jpg) |2026-04-04 15:30:06<br>@AtheistRepublic<br>[IRAN’S FINAL DAYS: The Brutal Plan to Suffocate the Regime](https://www.youtube.com/watch?v=8hs9y5vqfhk)<br>[00:05:09] |
+|![](https://i.ytimg.com/vi/4DmaefgnjLQ/maxresdefault.jpg) |2026-04-04 15:30:06<br>@LegalMindset<br>[Nintendo LOSES Big Patent](https://www.youtube.com/watch?v=4DmaefgnjLQ)<br>[Duration-Error] |
+|![](https://i.ytimg.com/vi/-m73CdPPUZY/maxresdefault.jpg) |2026-04-04 15:00:00<br>@OfficialSaharTV<br>[Francesca Albanese Defends Iran, Then Lawyer EXPOSES Her in Front of Entire U.N.!](https://www.youtube.com/watch?v=-m73CdPPUZY)<br>[00:05:29] |
 |![](https://i.ytimg.com/vi/HjSQ10zDB0k/maxresdefault.jpg) |2026-04-04 14:00:00<br>@BusinessInsider<br>[How Miners Risk Their Lives For Himalayan Pink Salt](https://www.youtube.com/watch?v=HjSQ10zDB0k)<br>[00:13:43] |
-|![](https://i.ytimg.com/vi/4DmaefgnjLQ/maxresdefault.jpg) |2026-04-04 13:58:05<br>@LegalMindset<br>[Nintendo LOSES Big Patent](https://www.youtube.com/watch?v=4DmaefgnjLQ)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/FH1Bh5m3eo8/maxresdefault.jpg) |2026-04-04 13:57:24<br>@realchris<br>[The firings are just getting started](https://www.youtube.com/watch?v=FH1Bh5m3eo8)<br>[00:14:44] |
 |![](https://i.ytimg.com/vi/0vy0-RXdLOA/maxresdefault.jpg) |2026-04-04 13:46:17<br>@AtheistRepublic<br>[Israel's Secret Plan: The Real Reason Leaders are Falling](https://www.youtube.com/watch?v=0vy0-RXdLOA)<br>[00:04:23] |
 |![](https://i.ytimg.com/vi/jwEYTEbfprw/maxresdefault.jpg) |2026-04-04 13:30:58<br>@MoneyMacro<br>[A massive food crisis is coming](https://www.youtube.com/watch?v=jwEYTEbfprw)<br>[00:12:42] |
@@ -17,12 +19,11 @@
 |![](https://i.ytimg.com/vi/hOqaIqydssg/maxresdefault.jpg) |2026-04-04 09:30:31<br>mathematrick<br>[Drei Kreise im Dreieck – Wie groß ist die rote Fläche?](https://www.youtube.com/watch?v=hOqaIqydssg)<br>[00:15:59] |
 |![](https://i.ytimg.com/vi/iwc5HKnOmGg/maxresdefault.jpg) |2026-04-04 09:28:47<br>rossmanngroup<br>[Colorado destroys right to repair, sponsored by Cisco 🤦](https://www.youtube.com/watch?v=iwc5HKnOmGg)<br>[00:15:51] |
 |![](https://i.ytimg.com/vi/GHgO2Mh-QBc/maxresdefault.jpg) |2026-04-04 08:30:09<br>@AtheistRepublic<br>[CIVILIZATIONAL BETRAYAL: Why Europe Just Stabbed America In The Back](https://www.youtube.com/watch?v=GHgO2Mh-QBc)<br>[00:14:04] |
-|![](https://i.ytimg.com/vi/aWRzvOiqc-s/maxresdefault.jpg) |2026-04-04 07:09:35<br>@themorbidzoo<br>[Metaverse Elegy](https://www.youtube.com/watch?v=aWRzvOiqc-s)<br>[Duration-Error] |
+|![](https://i.ytimg.com/vi/aWRzvOiqc-s/maxresdefault.jpg) |2026-04-04 07:09:35<br>@themorbidzoo<br>[Zuck Never Understood the Metaverse](https://www.youtube.com/watch?v=aWRzvOiqc-s)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/YEhZ8pGov8c/maxresdefault.jpg) |2026-04-04 06:35:08<br>@AtriocClips<br>[The DOW Didn't Save Her](https://www.youtube.com/watch?v=YEhZ8pGov8c)<br>[00:20:59] |
 |![](https://i.ytimg.com/vi/ggV3RVYCPx0/maxresdefault.jpg) |2026-04-04 06:30:30<br>@AtheistRepublic<br>[IT’S OVER: The Islamic Republic Is Finally Self-Destructing From Within](https://www.youtube.com/watch?v=ggV3RVYCPx0)<br>[00:11:49] |
 |![](https://i.ytimg.com/vi/p3Jr0PrJa7U/maxresdefault.jpg) |2026-04-04 04:15:15<br>ryanmcbethprogramming<br>[F-15E Down Over Iran-What happens next](https://www.youtube.com/watch?v=p3Jr0PrJa7U)<br>[00:09:36] |
 |![](https://i.ytimg.com/vi/A2TGtsaBY6Q/maxresdefault.jpg) |2026-04-04 04:02:34<br>@AtheistRepublic<br>[IRAN REVOLUTION LIVE WITH IRANIAN HOSTS GOLDIE AND ARMIN: DAY 97](https://www.youtube.com/watch?v=A2TGtsaBY6Q)<br>[10:09:38] |
-|![](https://i.ytimg.com/vi/0fbux7eV0SU/maxresdefault.jpg) |2026-04-04 03:56:59<br>@AtheistRepublic<br>[Why the Mullahs Will Let Iran Burn Before Surrendering](https://www.youtube.com/watch?v=0fbux7eV0SU)<br>[00:41:24] |
 |![](https://i.ytimg.com/vi/0A2SP-QBByI/maxresdefault.jpg) |2026-04-04 03:42:25<br>coffeezillaextras<br>[billion dollar ai company was built on lies](https://www.youtube.com/watch?v=0A2SP-QBByI)<br>[00:11:32] |
 |![](https://i.ytimg.com/vi/sd2ie4pU9_s/sddefault.jpg) |2026-04-04 03:30:48<br>@penguinz0<br>[Mario Galaxy Movie Drama is Crazy](https://www.youtube.com/watch?v=sd2ie4pU9_s)<br>[00:13:09] |
 |![](https://i.ytimg.com/vi/rMVDt_rZBVc/maxresdefault.jpg) |2026-04-04 03:07:50<br>theus-chinanarrative<br>[Why China’s Middle Class Is Rising, While America’s Is Hollowing Out (Episode 5)](https://www.youtube.com/watch?v=rMVDt_rZBVc)<br>[00:14:06] |
@@ -47,7 +48,6 @@
 |![](https://i.ytimg.com/vi/Z5_K9QYzNtg/maxresdefault.jpg) |2026-04-03 18:00:48<br>@shawnaripari<br>[these deinfluencing tiktoks hit a little TOO hard..](https://www.youtube.com/watch?v=Z5_K9QYzNtg)<br>[00:41:33] |
 |![](https://i.ytimg.com/vi/P5_bLQw_egQ/sddefault.jpg) |2026-04-03 18:00:28<br>vasyainthehay<br>[HE WAS HIDDEN FROM THE WORLD FOR 37 YEARS IN HIS MOTHER'S HOUSE.](https://www.youtube.com/watch?v=P5_bLQw_egQ)<br>[00:18:48] |
 |![](https://i.ytimg.com/vi/BDP4rmvZqJw/maxresdefault.jpg) |2026-04-03 18:00:24<br>@PodcastCringe<br>[Joe Rogan Won’t Stop Gaslighting Theo Von](https://www.youtube.com/watch?v=BDP4rmvZqJw)<br>[00:21:16] |
-|![](https://i.ytimg.com/vi/YOErQINceGs/maxresdefault.jpg) |2026-04-03 18:00:00<br>@OfficialSaharTV<br>[Anti-Israel Egyptian Calls To 'FREE PALESTINE' Until He Was Asked THIS...](https://www.youtube.com/watch?v=YOErQINceGs)<br>[00:07:22] |
 |![](https://i.ytimg.com/vi/0g81XHZYiE8/maxresdefault.jpg) |2026-04-03 17:30:00<br>johnnyharris<br>[￼￼When the government isn’t the government](https://www.youtube.com/watch?v=0g81XHZYiE8)<br>[00:02:52] |
 |![](https://i.ytimg.com/vi/Gwppq9SztFI/maxresdefault.jpg) |2026-04-03 17:15:01<br>prestonstewart<br>[First US Jet Shot Down Over Iran - Search Efforts Underway](https://www.youtube.com/watch?v=Gwppq9SztFI)<br>[00:13:42] |
 |![](https://i.ytimg.com/vi/xApxPOLJ0qo/maxresdefault.jpg) |2026-04-03 17:01:36<br>@Channel4Documentaries<br>[Keir Starmer: Where Did It All Go Wrong? \| Dispatches \| Channel 4 Documentaries](https://www.youtube.com/watch?v=xApxPOLJ0qo)<br>[00:47:07] |
@@ -1052,7 +1052,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
-e](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
+=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 <br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
