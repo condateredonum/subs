@@ -134,8 +134,6 @@
 
 [Discover Connection](https://www.youtube.com/channel/UCvxGFtF7apSnmpnKHDrK8qA)
 
-[Disparu](https://www.youtube.com/@disparutoo/videos)
-
 [Dodford](https://www.youtube.com/@DodfordYT/videos)
 
 [Drew Gooden](https://www.youtube.com/@drewisgooden/videos)
