@@ -1,8 +1,11 @@
 -------------------
-# 2026-04-05 10:32:37
+# 2026-04-05 11:42:06
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/W4i6nj8aHkw/maxresdefault.jpg) |2026-04-05 11:06:49<br>anderspuck<br>[Why is it so difficult to open the Strait of Hormuz?](https://www.youtube.com/watch?v=W4i6nj8aHkw)<br>[00:11:32] |
+|![](https://i.ytimg.com/vi/LmUSlTBDvNQ/maxresdefault.jpg) |2026-04-05 11:02:23<br>@DenysDavydov<br>[They did it! All Alive and Rescued deep from Iran!](https://www.youtube.com/watch?v=LmUSlTBDvNQ)<br>[00:13:25] |
+|![](https://i.ytimg.com/vi/FCC5SZKRbf4/maxresdefault.jpg) |2026-04-05 11:00:20<br>@AtheistRepublic<br>[THE SECRET PLAN: How We Liberate Southern Iran First](https://www.youtube.com/watch?v=FCC5SZKRbf4)<br>[00:11:28] |
 |![](https://i.ytimg.com/vi/B2Mv4ByM7d0/maxresdefault.jpg) |2026-04-05 10:00:00<br>ryanmcbethprogramming<br>[Global Warning Episode 5](https://www.youtube.com/watch?v=B2Mv4ByM7d0)<br>[00:12:03] |
 |![](https://i.ytimg.com/vi/zy3wcjcnO4Q/maxresdefault.jpg) |2026-04-05 09:43:44<br>@AtheistRepublic<br>[IRAN IS OCCUPIED: The Secret Arrival of Foreign Militias](https://www.youtube.com/watch?v=zy3wcjcnO4Q)<br>[00:16:02] |
 |![](https://i.ytimg.com/vi/m_oGOQnqIYg/maxresdefault.jpg) |2026-04-05 07:19:43<br>@AtheistRepublic<br>[Is Civil War INEVITABLE? The Plan to ARM the Iranian People](https://www.youtube.com/watch?v=m_oGOQnqIYg)<br>[00:11:10] |
@@ -45,7 +48,6 @@
 |![](https://i.ytimg.com/vi/aWRzvOiqc-s/maxresdefault.jpg) |2026-04-04 16:00:06<br>@themorbidzoo<br>[Zuck Never Understood the Metaverse](https://www.youtube.com/watch?v=aWRzvOiqc-s)<br>[00:20:27] |
 |![](https://i.ytimg.com/vi/CQM0r--25fY/maxresdefault.jpg) |2026-04-04 15:57:13<br>@CamKirkham<br>[The Most Unethical TV Experiment Ever](https://www.youtube.com/watch?v=CQM0r--25fY)<br>[01:04:22] |
 |![](https://i.ytimg.com/vi/B1BVBoi2mhU/maxresdefault.jpg) |2026-04-04 15:48:29<br>japanesewhoyuta<br>[Why I Choose Budget Travel & What I Learned in Southeast Asia](https://www.youtube.com/watch?v=B1BVBoi2mhU)<br>[00:09:28] |
-|![](https://i.ytimg.com/vi/8hs9y5vqfhk/maxresdefault.jpg) |2026-04-04 15:30:06<br>@AtheistRepublic<br>[IRAN’S FINAL DAYS: The Brutal Plan to Suffocate the Regime](https://www.youtube.com/watch?v=8hs9y5vqfhk)<br>[00:05:09] |
 |![](https://i.ytimg.com/vi/4DmaefgnjLQ/maxresdefault.jpg) |2026-04-04 15:30:06<br>@LegalMindset<br>[Nintendo LOSES Big Patent Battle (Fast Facts)](https://www.youtube.com/watch?v=4DmaefgnjLQ)<br>[00:09:04] |
 |![](https://i.ytimg.com/vi/HjSQ10zDB0k/maxresdefault.jpg) |2026-04-04 14:00:00<br>@BusinessInsider<br>[How Miners Risk Their Lives For Himalayan Pink Salt](https://www.youtube.com/watch?v=HjSQ10zDB0k)<br>[00:13:43] |
 |![](https://i.ytimg.com/vi/FH1Bh5m3eo8/maxresdefault.jpg) |2026-04-04 13:57:24<br>@realchris<br>[The firings are just getting started](https://www.youtube.com/watch?v=FH1Bh5m3eo8)<br>[00:14:44] |
@@ -147,7 +149,6 @@
 |![](https://i.ytimg.com/vi/mpGN9Wvim-c/maxresdefault.jpg) |2026-04-02 12:04:50<br>economicshelp<br>[Will Oil Shock Crash UK House Prices?](https://www.youtube.com/watch?v=mpGN9Wvim-c)<br>[00:10:35] |
 |![](https://i.ytimg.com/vi/c-i35We-6rI/maxresdefault.jpg) |2026-04-02 10:45:08<br>zeihanongeopolitics<br>[U.S. Ground Troops Coming to Iran \|\| Peter Zeihan](https://www.youtube.com/watch?v=c-i35We-6rI)<br>[00:07:36] |
 |![](https://i.ytimg.com/vi/4tp_Qz103WU/maxresdefault.jpg) |2026-04-02 08:27:15<br>bbcstever<br>[A newspaper headline the Kremlin will love](https://www.youtube.com/watch?v=4tp_Qz103WU)<br>[00:03:12] |
-|![](https://i.ytimg.com/vi/0_lnTVPXRrc/maxresdefault.jpg) |2026-04-02 02:35:51<br>@DenysDavydov<br>[Update from Ukraine \| Awesome News! Russia Loses Big!](https://www.youtube.com/watch?v=0_lnTVPXRrc)<br>[00:37:56] |
 |![](https://i.ytimg.com/vi/_syv4_JJhVc/maxresdefault.jpg) |2026-04-02 02:21:39<br>friendlyjordies<br>[The Prime Minister's Address](https://www.youtube.com/watch?v=_syv4_JJhVc)<br>[00:09:33] |
 |![](https://i.ytimg.com/vi/MeuYLpQA5n4/maxresdefault.jpg) |2026-04-02 02:19:47<br>@LaelHansen<br>[WHY LOOKSMAXXING DESTROYS YOUR FACE...](https://www.youtube.com/watch?v=MeuYLpQA5n4)<br>[00:29:01] |
 |![](https://i.ytimg.com/vi/57Qkeq-XNjg/maxresdefault.jpg) |2026-04-02 00:38:00<br>someordinarygamers<br>[I'm Going Back To Windows 11...](https://www.youtube.com/watch?v=57Qkeq-XNjg)<br>[00:21:53] |
@@ -796,7 +797,6 @@
 |![](https://i.ytimg.com/vi/JJz5D9txeGA/maxresdefault.jpg) |2026-01-15 23:00:34<br>acollierastro<br>[brought to you by the number e](https://www.youtube.com/watch?v=JJz5D9txeGA)<br>[00:32:23] |
 |![](https://i.ytimg.com/vi/SBBpQlrbb5s/maxresdefault.jpg) |2026-01-13 19:49:15<br>@StateofKait<br>[When Fandoms Go Too Far: Stranger Things Conformity Gate](https://www.youtube.com/watch?v=SBBpQlrbb5s)<br>[00:02:50] |
 |![](https://i.ytimg.com/vi/6oZqGnzi9M4/maxresdefault.jpg) |2026-01-13 18:00:13<br>@RachelOates<br>[A Manchild's Guide To Pregnancy](https://www.youtube.com/watch?v=6oZqGnzi9M4)<br>[01:26:45] |
-|![](https://i.ytimg.com/vi/A8ZvKXjhHYM/maxresdefault.jpg) |2026-01-10 17:36:22<br>anderspuck<br>[Can NATO survive a war with Russia? — with Carlo Masala](https://www.youtube.com/watch?v=A8ZvKXjhHYM)<br>[00:48:32] |
 |![](https://i.ytimg.com/vi/5YUIJMU_qzQ/maxresdefault.jpg) |2026-01-10 06:36:59<br>jason.rebholz<br>[Morning Bytes with Stu, Jason and Violet](https://www.youtube.com/watch?v=5YUIJMU_qzQ)<br>[00:29:14] |
 |![](https://i.ytimg.com/vi/ONQMzdLZFAI/maxresdefault.jpg) |2026-01-10 01:04:59<br>jabzyjoe<br>[When Did Islamists Become a Real Threat? \| History of the Middle East 1987-91 27/30](https://www.youtube.com/watch?v=ONQMzdLZFAI)<br>[00:54:26] |
 |![](https://i.ytimg.com/vi/YcLkumPjo3A/maxresdefault.jpg) |2026-01-06 21:51:17<br>@HilaryLayne<br>[Ted Kaczynski Was Right All Along](https://www.youtube.com/watch?v=YcLkumPjo3A)<br>[00:57:12] |
@@ -1057,6 +1057,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
+----------------
 solution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
