@@ -58,6 +58,8 @@
 
 [Bloomberg Live](https://www.youtube.com/channel/UC7UFcUbAd8oyCBWCogVpJ6g)
 
+[Books with Emily Fox](https://www.youtube.com/channel/UCW5R53ckTBE4JJtUmc64lng)
+
 [Briarchats](https://www.youtube.com/@briarchats/videos)
 
 [Bridges Podcast](https://www.youtube.com/channel/UCSNBahoyPlMUz-3U2e_Czcw)
