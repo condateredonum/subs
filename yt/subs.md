@@ -24,6 +24,8 @@
 
 [American Redact](https://www.youtube.com/@americanredact/videos)
 
+[Ana Wallace Johnson](https://www.youtube.com/channel/UC51fwc9aSHDgOu29cyo2-TQ)
+
 [Anandaapologetics](https://www.youtube.com/channel/UCfeo3IQrWhN0mgTA627EuqA)
 
 [Anders Puck Nielsen](https://www.youtube.com/channel/UCPPfK7Nq_yQR84rn1wcTXBg)
