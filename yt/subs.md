@@ -64,6 +64,8 @@
 
 [Brit Monkey](https://www.youtube.com/@BritMonkey/videos)
 
+[Bryony Clare](https://www.youtube.com/channel/UCUA99fY1YylIrjeL9IH9SaA)
+
 [Bundeswehr](https://www.youtube.com/channel/UClCZul-nK9h8eVo7REC7RGA)
 
 [Business Insider](https://www.youtube.com/@BusinessInsider/videos)
