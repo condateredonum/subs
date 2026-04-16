@@ -1,5 +1,5 @@
 -------------------
-# 2026-04-16 11:06:51
+# 2026-04-16 11:09:41
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -449,7 +449,7 @@
 |![](https://i.ytimg.com/vi/tiIJJ2jfqWo/maxresdefault.jpg) |2026-03-30 15:39:11<br>@jordanatheresa<br>[Why is Britain’s Got Talent failing?](https://www.youtube.com/watch?v=tiIJJ2jfqWo)<br>[00:02:57] |
 |![](https://i.ytimg.com/vi/h3DCdWyb0cc/maxresdefault.jpg) |2026-03-30 15:00:12<br>kurzgesagt<br>[The Most Insane Megaproject You Never Heard About](https://www.youtube.com/watch?v=h3DCdWyb0cc)<br>[00:13:06] |
 |![](https://i.ytimg.com/vi/c4AWOU0rG9M/maxresdefault.jpg) |2026-03-30 14:53:46<br>perunau<br>[How will the Iran War Reshape Arms Exports? - Missile Consumption, Emergency Sales & the Supply Gap](https://www.youtube.com/watch?v=c4AWOU0rG9M)<br>[00:50:55] |
-|![](https://i.ytimg.com/vi/p9R-aXWoNHw/maxresdefault.jpg) |2026-03-30 13:57:05<br>caspianreport<br>[Iran has a secret doomsday plan](https://www.youtube.com/watch?v=p9R-aXWoNHw)<br>[00:14:30] |
+|![](https://i.ytimg.com/vi/p9R-aXWoNHw/maxresdefault.jpg) |2026-03-30 13:57:05<br>caspianreport<br>[Iran's secret doomsday plan explained](https://www.youtube.com/watch?v=p9R-aXWoNHw)<br>[00:14:30] |
 |![](https://i.ytimg.com/vi/e7Nvtey9DOU/maxresdefault.jpg) |2026-03-30 09:46:11<br>theinternetreviewed<br>[Has Karl Stefanovic forgotten what he knows about the "mainstream" media already?](https://www.youtube.com/watch?v=e7Nvtey9DOU)<br>[00:13:14] |
 |![](https://i.ytimg.com/vi/3kcOhMZLVCM/maxresdefault.jpg) |2026-03-30 02:28:06<br>carneadesofcyrene<br>[American Views on Philosophical Questions](https://www.youtube.com/watch?v=3kcOhMZLVCM)<br>[00:05:35] |
 |![](https://i.ytimg.com/vi/qWONlYziwmc/maxresdefault.jpg) |2026-03-30 01:35:23<br>@HowMoneyWorks<br>[So... We Aren't Even Trying To Hide it Anymore?](https://www.youtube.com/watch?v=qWONlYziwmc)<br>[00:14:04] |
