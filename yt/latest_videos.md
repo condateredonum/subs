@@ -1,8 +1,9 @@
 -------------------
-# 2026-04-18 10:40:40
+# 2026-04-18 11:51:02
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/NM8hSF8tJ70/maxresdefault.jpg) |2026-04-18 11:00:25<br>@AtheistRepublic<br>[TRUMP’S SECRET DEAL: Is the IRGC Collapsing From Within?](https://www.youtube.com/watch?v=NM8hSF8tJ70)<br>[00:11:44] |
 |![](https://i.ytimg.com/vi/sqhHn1vaPxc/maxresdefault.jpg) |2026-04-18 09:37:58<br>@AtheistRepublic<br>[The Humiliation of the Islamic Republic is Complete](https://www.youtube.com/watch?v=sqhHn1vaPxc)<br>[00:44:18] |
 |![](https://i.ytimg.com/vi/zhmKzPWZVAQ/maxresdefault.jpg) |2026-04-18 09:30:41<br>@DrJonathanTam<br>[Why Japan is Finally Done with Tourists](https://www.youtube.com/watch?v=zhmKzPWZVAQ)<br>[00:24:26] |
 |![](https://i.ytimg.com/vi/sTRePe-p85M/maxresdefault.jpg) |2026-04-18 09:30:34<br>mathematrick<br>[Abschlussprüfung 10. Klasse – Trigonometrie MSA](https://www.youtube.com/watch?v=sTRePe-p85M)<br>[00:13:27] |
@@ -65,7 +66,6 @@
 |![](https://i.ytimg.com/vi/ZFttAqi_b5A/maxresdefault.jpg) |2026-04-17 12:01:06<br>@AtheistRepublic<br>[Is Democracy "Retarded" or Just Slower? (The TRUTH)](https://www.youtube.com/watch?v=ZFttAqi_b5A)<br>[00:08:48] |
 |![](https://i.ytimg.com/vi/wEXPlThA7K8/maxresdefault.jpg) |2026-04-17 10:45:48<br>financialinterestcom<br>[How to Invest With Lightyear - Lightyear Investing for Beginners](https://www.youtube.com/watch?v=wEXPlThA7K8)<br>[00:14:38] |
 |![](https://i.ytimg.com/vi/TyJH8qbc8ck/maxresdefault.jpg) |2026-04-17 10:45:04<br>zeihanongeopolitics<br>[China Tries to Build Sand Bases, Again \|\| Peter Zeihan](https://www.youtube.com/watch?v=TyJH8qbc8ck)<br>[00:02:59] |
-|![](https://i.ytimg.com/vi/Rm1ho126SMY/maxresdefault.jpg) |2026-04-17 10:07:46<br>@AtheistRepublic<br>[TRUMP’S NEW DEAL: The Secret Plan to Humiliate the Mullahs](https://www.youtube.com/watch?v=Rm1ho126SMY)<br>[00:59:42] |
 |![](https://i.ytimg.com/vi/X8tY9l6ulHg/maxresdefault.jpg) |2026-04-17 09:58:31<br>@Israel_Advocacy<br>[They Picked The Wrong Jew To Troll](https://www.youtube.com/watch?v=X8tY9l6ulHg)<br>[00:14:22] |
 |![](https://i.ytimg.com/vi/zIZEhXGbDKE/maxresdefault.jpg) |2026-04-17 08:15:47<br>bbcstever<br>[In Russia, Botox booming. But economic situation "worse than forecast," Russian papers warn.](https://www.youtube.com/watch?v=zIZEhXGbDKE)<br>[00:03:56] |
 |![](https://i.ytimg.com/vi/QEbt79LzbMI/maxresdefault.jpg) |2026-04-17 05:47:23<br>timesofisrael<br>[Moran Zaga: The Gulf states react to humiliation by Iran](https://www.youtube.com/watch?v=QEbt79LzbMI)<br>[00:36:50] |
@@ -1074,6 +1074,7 @@
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
+-
 youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 5:49] |
