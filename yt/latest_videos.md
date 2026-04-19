@@ -1,5 +1,5 @@
 -------------------
-# 2026-04-19 10:41:50
+# 2026-04-19 11:47:46
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -125,7 +125,7 @@
 |![](https://i.ytimg.com/vi/g0qqNGwopcc/maxresdefault.jpg) |2026-04-16 16:30:34<br>officialbeyondtheblue<br>[The Most Disturbing Things Ever Found In Sperm Whales](https://www.youtube.com/watch?v=g0qqNGwopcc)<br>[00:12:25] |
 |![](https://i.ytimg.com/vi/HqnfK-dhyXo/maxresdefault.jpg) |2026-04-16 16:29:56<br>@tiffanyferg<br>[The Rise of "Anti-Work" & BS Jobs \| Internet Analysis](https://www.youtube.com/watch?v=HqnfK-dhyXo)<br>[00:43:40] |
 |![](https://i.ytimg.com/vi/vCQfKGQ9PHw/maxresdefault.jpg) |2026-04-16 16:15:11<br>@moresus<br>[Hasan Is In Big F**king Trouble Now..](https://www.youtube.com/watch?v=vCQfKGQ9PHw)<br>[00:36:01] |
-|![](https://i.ytimg.com/vi/MiHae7xw-tM/maxresdefault.jpg) |2026-04-16 15:56:24<br>@CamKirkham<br>[The Cruelest Wedding Reality Show Ever Made](https://www.youtube.com/watch?v=MiHae7xw-tM)<br>[00:43:03] |
+|![](https://i.ytimg.com/vi/MiHae7xw-tM/maxresdefault.jpg) |2026-04-16 15:56:24<br>@CamKirkham<br>[The Cruelest Wedding Reality Show Ever Made](https://www.youtube.com/watch?v=MiHae7xw-tM)<br>[00:42:49] |
 |![](https://i.ytimg.com/vi/gyy71PvwWU4/maxresdefault.jpg) |2026-04-16 15:48:50<br>rossmanngroup<br>[Colorado delays right to repair loophole thanks to positive engagement; I'm proud of you all! ❤️](https://www.youtube.com/watch?v=gyy71PvwWU4)<br>[00:02:49] |
 |![](https://i.ytimg.com/vi/rpZmjI8wFss/maxresdefault.jpg) |2026-04-16 15:37:11<br>coffeezillaextras<br>[things are getting very stupid](https://www.youtube.com/watch?v=rpZmjI8wFss)<br>[00:06:34] |
 |![](https://i.ytimg.com/vi/SuJ3jMOjiFc/maxresdefault.jpg) |2026-04-16 15:27:59<br>timesofisrael<br>[Nadav Lapid's 'Yes!': Israeli director's wartime film raises eyebrows and ire](https://www.youtube.com/watch?v=SuJ3jMOjiFc)<br>[00:44:00] |
