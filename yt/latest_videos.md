@@ -1,11 +1,11 @@
 -------------------
-# 2026-04-20 12:35:12
+# 2026-04-20 12:43:11
 
 | Thumbnail | Title |
 |-----------|-------|
 |![](https://i.ytimg.com/vi/f6qbBzsHC1M/maxresdefault.jpg) |2026-04-20 12:01:05<br>@AtheistRepublic<br>[Why the Left Worships Weakness (And Why It's Failing)](https://www.youtube.com/watch?v=f6qbBzsHC1M)<br>[00:23:27] |
 |![](https://i.ytimg.com/vi/IHETMhLLNLQ/maxresdefault.jpg) |2026-04-20 10:45:01<br>zeihanongeopolitics<br>[MAGA – Breaking Up Is Hard \|\| Peter Zeihan](https://www.youtube.com/watch?v=IHETMhLLNLQ)<br>[00:04:03] |
-|![](https://i.ytimg.com/vi/J08TV5P9Bmw/maxresdefault.jpg) |2026-04-20 10:34:02<br>@Israel_Advocacy<br>[Jew Forces Nazis to Admit the Truth About The Holocaust](https://www.youtube.com/watch?v=J08TV5P9Bmw)<br>[00:09:47] |
+|![](https://i.ytimg.com/vi/J08TV5P9Bmw/maxresdefault.jpg) |2026-04-20 10:34:02<br>@Israel_Advocacy<br>[Greek Nazis Confront The Wrong Jew And It Backfires Spectacularly](https://www.youtube.com/watch?v=J08TV5P9Bmw)<br>[00:09:47] |
 |![](https://i.ytimg.com/vi/n5Le_GF39Yk/maxresdefault.jpg) |2026-04-20 10:20:47<br>@realchris<br>[US Marines just made dangerous move on Iran](https://www.youtube.com/watch?v=n5Le_GF39Yk)<br>[00:15:53] |
 |![](https://i.ytimg.com/vi/vCg4KPSOFO0/maxresdefault.jpg) |2026-04-20 09:57:45<br>decodinggeopoliticspodcast<br>[The Next Great War Is Already Taking Shape. What Happens Next Decides Everything \| Jack Watling](https://www.youtube.com/watch?v=vCg4KPSOFO0)<br>[00:34:08] |
 |![](https://i.ytimg.com/vi/f2sPReOeCVM/maxresdefault.jpg) |2026-04-20 09:50:10<br>@AtheistRepublic<br>[THE BOXER IS MOVING: Why the Persian Gulf is About to Explode](https://www.youtube.com/watch?v=f2sPReOeCVM)<br>[00:21:16] |
