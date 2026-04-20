@@ -354,7 +354,7 @@
 
 [Not Even Emily](https://www.youtube.com/@notevenemily/videos)
 
-<!-- [Not So Erudite] (https://www.youtube.com/@notsoErudite/videos) -->
+<!-- [Not So Erudite] (https://www.youtube.com/@ notsoErudite/videos) -->
 
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
 
@@ -435,6 +435,8 @@
 [Second Story](https://www.youtube.com/@HilaryLayne/videos)
 
 <!--[Shawna Ripari](https://www.youtube.com/ @shawnaripari/videos)-->
+
+[ShiraShiraOnTheWall](https://www.youtube.com/channel/UCcw7PtnCzJJrvQEXbmM96mg)
 
 [Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
 
