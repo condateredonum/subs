@@ -362,6 +362,8 @@
 
 [Oompaville](https://www.youtube.com/@oompaville/videos)
 
+[Ottilie](https://www.youtube.com/@Ottilie_ballade/videos)
+
 [OverSimplified](https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A)
 
 [Paper Will](https://www.youtube.com/channel/UCPwuva5LbnwFTetkP_cUQHA/videos)
