@@ -1,5 +1,5 @@
 -------------------
-# 2026-04-20 12:03:14
+# 2026-04-20 12:35:12
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -223,6 +223,7 @@
 |![](https://i.ytimg.com/vi/YR59g962Ptk/maxresdefault.jpg) |2026-04-14 18:13:26<br>history_revealed<br>[Should Britain Pay Africa Reparations?](https://www.youtube.com/watch?v=YR59g962Ptk)<br>[00:04:04] |
 |![](https://i.ytimg.com/vi/9fXI8oKxl20/maxresdefault.jpg) |2026-04-14 18:01:01<br>@LouExtras<br>[Epstein’s Hidden Connection to 9/11 Explained](https://www.youtube.com/watch?v=9fXI8oKxl20)<br>[00:32:41] |
 |![](https://i.ytimg.com/vi/i4g8rp6aOgc/maxresdefault.jpg) |2026-04-14 17:49:53<br>anderspuck<br>[Ukraine's role in European security](https://www.youtube.com/watch?v=i4g8rp6aOgc)<br>[00:08:03] |
+|![](https://i.ytimg.com/vi/srrUhGW4pZg/maxresdefault.jpg) |2026-04-14 17:29:36<br>shirashiraonthewall<br>[Gen Alpha Can't Read](https://www.youtube.com/watch?v=srrUhGW4pZg)<br>[00:27:36] |
 |![](https://i.ytimg.com/vi/RFPYuBTBJCU/maxresdefault.jpg) |2026-04-14 17:08:50<br>danmurrellmovies<br>[Mario & Project Hail Mary Continue Box Office Dominance - Charts with Dan!](https://www.youtube.com/watch?v=RFPYuBTBJCU)<br>[00:33:25] |
 |![](https://i.ytimg.com/vi/oDw3mxI3-t0/maxresdefault.jpg) |2026-04-14 17:01:32<br>realeismanplaybook<br>[John Spencer on What the Headlines Get Wrong About the Iran War \| The Real Eisman Playbook Ep 55](https://www.youtube.com/watch?v=oDw3mxI3-t0)<br>[01:04:55] |
 |![](https://i.ytimg.com/vi/WXSe4vUjr7g/maxresdefault.jpg) |2026-04-14 17:01:01<br>@HorsesOnYT<br>["We're talking about practice, man"](https://www.youtube.com/watch?v=WXSe4vUjr7g)<br>[00:02:49] |
@@ -729,6 +730,7 @@
 |![](https://i.ytimg.com/vi/uFbxUPbZovM/maxresdefault.jpg) |2026-02-28 19:42:21<br>design.theory<br>[The Deadliest Design Mistakes in History](https://www.youtube.com/watch?v=uFbxUPbZovM)<br>[00:30:15] |
 |![](https://i.ytimg.com/vi/CLZvO3F3jkk/maxresdefault.jpg) |2026-02-28 18:46:02<br>savagebooks7482<br>[The 3-Step Ned Stark Speedrun](https://www.youtube.com/watch?v=CLZvO3F3jkk)<br>[00:17:13] |
 |![](https://i.ytimg.com/vi/fqVm6mr5b-w/maxresdefault.jpg) |2026-02-28 15:30:23<br>nerdwriter1<br>[What's Jazz Doing In A Knight Of The Seven Kingdoms?](https://www.youtube.com/watch?v=fqVm6mr5b-w)<br>[00:10:15] |
+|![](https://i.ytimg.com/vi/F8X5kVjiNBs/maxresdefault.jpg) |2026-02-28 14:57:05<br>shirashiraonthewall<br>[Grave Robbing for Instagram Clout](https://www.youtube.com/watch?v=F8X5kVjiNBs)<br>[00:17:12] |
 |![](https://i.ytimg.com/vi/hsRuQkIM9_Y/maxresdefault.jpg) |2026-02-27 21:00:50<br>rcwaldun<br>[I'm Only Reading 12 Books in 2026, Here's Why](https://www.youtube.com/watch?v=hsRuQkIM9_Y)<br>[00:09:59] |
 |![](https://i.ytimg.com/vi/iOkLFrTjbho/maxresdefault.jpg) |2026-02-27 17:01:24<br>theplainbagel<br>[Trump's Tariffs Deemed Illegal - What Now?](https://www.youtube.com/watch?v=iOkLFrTjbho)<br>[00:15:21] |
 |![](https://i.ytimg.com/vi/vEH4yo7PqzM/maxresdefault.jpg) |2026-02-27 16:30:35<br>polymatter<br>[America’s Self-Inflicted Doctor Shortage](https://www.youtube.com/watch?v=vEH4yo7PqzM)<br>[00:18:26] |
@@ -798,6 +800,7 @@
 |![](https://i.ytimg.com/vi/EZTWK5fjHnk/maxresdefault.jpg) |2026-02-06 16:54:13<br>polymatter<br>[Taiwan is Not Venezuela](https://www.youtube.com/watch?v=EZTWK5fjHnk)<br>[00:21:25] |
 |![](https://i.ytimg.com/vi/KlYdw3bd7wY/maxresdefault.jpg) |2026-02-06 15:00:41<br>@DodfordYT<br>[Jim Henson Wanted More](https://www.youtube.com/watch?v=KlYdw3bd7wY)<br>[00:26:43] |
 |![](https://i.ytimg.com/vi/Fa5_g89ITUo/maxresdefault.jpg) |2026-02-06 14:00:00<br>fads<br>[The Collapse Of Grok Is Truly Spectacular...](https://www.youtube.com/watch?v=Fa5_g89ITUo)<br>[00:17:46] |
+|![](https://i.ytimg.com/vi/dDFKX0Jok_E/maxresdefault.jpg) |2026-02-06 13:13:55<br>shirashiraonthewall<br>[Men Won’t Stop RUINING Their Weddings (w/ Brooke Sharks)](https://www.youtube.com/watch?v=dDFKX0Jok_E)<br>[00:22:54] |
 |![](https://i.ytimg.com/vi/mqD34s0QbTQ/maxresdefault.jpg) |2026-02-06 06:17:36<br>suibhne<br>[I Can't Keep Doing This Without Your Help](https://www.youtube.com/watch?v=mqD34s0QbTQ)<br>[00:03:37] |
 |![](https://i.ytimg.com/vi/aHYFv8I9a1E/maxresdefault.jpg) |2026-02-05 18:04:51<br>majestyofreason<br>[Philosophers on Bullshit, Artificial Intelligence, and Politics](https://www.youtube.com/watch?v=aHYFv8I9a1E)<br>[01:04:06] |
 |![](https://i.ytimg.com/vi/Ms6kvHXLzec/maxresdefault.jpg) |2026-02-04 19:34:58<br>thedorbrothers<br>[Rorschach Killer \| Official Trailer](https://www.youtube.com/watch?v=Ms6kvHXLzec)<br>[00:03:39] |
@@ -1078,5 +1081,4 @@
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
--------------------
 -------------------
