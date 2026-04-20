@@ -1,8 +1,9 @@
 -------------------
-# 2026-04-20 11:29:27
+# 2026-04-20 12:03:14
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/f6qbBzsHC1M/maxresdefault.jpg) |2026-04-20 12:01:05<br>@AtheistRepublic<br>[Why the Left Worships Weakness (And Why It's Failing)](https://www.youtube.com/watch?v=f6qbBzsHC1M)<br>[00:23:27] |
 |![](https://i.ytimg.com/vi/IHETMhLLNLQ/maxresdefault.jpg) |2026-04-20 10:45:01<br>zeihanongeopolitics<br>[MAGA – Breaking Up Is Hard \|\| Peter Zeihan](https://www.youtube.com/watch?v=IHETMhLLNLQ)<br>[00:04:03] |
 |![](https://i.ytimg.com/vi/J08TV5P9Bmw/maxresdefault.jpg) |2026-04-20 10:34:02<br>@Israel_Advocacy<br>[Jew Forces Nazis to Admit the Truth About The Holocaust](https://www.youtube.com/watch?v=J08TV5P9Bmw)<br>[00:09:47] |
 |![](https://i.ytimg.com/vi/n5Le_GF39Yk/maxresdefault.jpg) |2026-04-20 10:20:47<br>@realchris<br>[US Marines just made dangerous move on Iran](https://www.youtube.com/watch?v=n5Le_GF39Yk)<br>[00:15:53] |
@@ -50,7 +51,6 @@
 |![](https://i.ytimg.com/vi/Wxb860uzqf0/maxresdefault.jpg) |2026-04-19 15:36:52<br>smartmoneywithkai<br>[The Right Way to Use Multiple Stock Brokers](https://www.youtube.com/watch?v=Wxb860uzqf0)<br>[00:13:04] |
 |![](https://i.ytimg.com/vi/bHHEpuKJ7lI/maxresdefault.jpg) |2026-04-19 15:30:34<br>@justtree411<br>[Pick-Me Behavior and Accountability in the Sykkuno Case](https://www.youtube.com/watch?v=bHHEpuKJ7lI)<br>[00:46:34] |
 |![](https://i.ytimg.com/vi/uI8oJYmCaz0/maxresdefault.jpg) |2026-04-19 15:01:30<br>@fern-tv<br>[The Tragic Story of the Air India Survivor](https://www.youtube.com/watch?v=uI8oJYmCaz0)<br>[00:21:25] |
-|![](https://i.ytimg.com/vi/EU-48DprIYI/maxresdefault.jpg) |2026-04-19 15:00:20<br>@AtheistRepublic<br>[THE END OF THE IRGC? Trump’s Blockade Forces Total Surrender](https://www.youtube.com/watch?v=EU-48DprIYI)<br>[00:05:12] |
 |![](https://i.ytimg.com/vi/Pwr4VkkLzXU/maxresdefault.jpg) |2026-04-19 14:14:00<br>jumokemi<br>[BANKER EXPLAINS: The Best ETFs To Buy And Hold Forever (2026)](https://www.youtube.com/watch?v=Pwr4VkkLzXU)<br>[00:15:42] |
 |![](https://i.ytimg.com/vi/s80mBDNJ5lo/maxresdefault.jpg) |2026-04-19 14:00:00<br>@BusinessInsider<br>[Inside The Army's Secret Lab For Future Warfare](https://www.youtube.com/watch?v=s80mBDNJ5lo)<br>[00:14:31] |
 |![](https://i.ytimg.com/vi/D-Z-mO2E4wE/maxresdefault.jpg) |2026-04-19 14:00:00<br>mathqueensusanne<br>[Can You Solve This Geometry Challenge? – Find All the Angles](https://www.youtube.com/watch?v=D-Z-mO2E4wE)<br>[00:10:13] |
@@ -435,7 +435,6 @@
 |![](https://i.ytimg.com/vi/jOhyF7002sk/sddefault.jpg) |2026-04-03 18:00:52<br>@TheCriticalDrinker<br>[Super Mario Galaxy - Is It Great Or Terrible?](https://www.youtube.com/watch?v=jOhyF7002sk)<br>[00:08:08] |
 |![](https://i.ytimg.com/vi/P5_bLQw_egQ/sddefault.jpg) |2026-04-03 18:00:28<br>vasyainthehay<br>[HE WAS HIDDEN FROM THE WORLD FOR 37 YEARS IN HIS MOTHER'S HOUSE.](https://www.youtube.com/watch?v=P5_bLQw_egQ)<br>[00:18:48] |
 |![](https://i.ytimg.com/vi/BDP4rmvZqJw/maxresdefault.jpg) |2026-04-03 18:00:24<br>@PodcastCringe<br>[Joe Rogan Won’t Stop Gaslighting Theo Von](https://www.youtube.com/watch?v=BDP4rmvZqJw)<br>[00:21:16] |
-|![](https://i.ytimg.com/vi/W8KWmVcnflY/maxresdefault.jpg) |2026-04-03 17:40:44<br>bryonyclaire<br>[Why the Manosphere love Pilates girls 🎀💪💊](https://www.youtube.com/watch?v=W8KWmVcnflY)<br>[00:28:22] |
 |![](https://i.ytimg.com/vi/0g81XHZYiE8/maxresdefault.jpg) |2026-04-03 17:30:00<br>johnnyharris<br>[When the government isn’t the government](https://www.youtube.com/watch?v=0g81XHZYiE8)<br>[00:02:52] |
 |![](https://i.ytimg.com/vi/xApxPOLJ0qo/maxresdefault.jpg) |2026-04-03 17:01:36<br>@Channel4Documentaries<br>[Keir Starmer: Where Did It All Go Wrong? \| Dispatches \| Channel 4 Documentaries](https://www.youtube.com/watch?v=xApxPOLJ0qo)<br>[00:47:07] |
 |![](https://i.ytimg.com/vi/SNxCefY14iM/maxresdefault.jpg) |2026-04-03 17:00:54<br>unsolicitedadvice9198<br>[The Philosophy Everyone Fears \| Live Talk and QnA](https://www.youtube.com/watch?v=SNxCefY14iM)<br>[01:10:50] |
@@ -714,6 +713,7 @@
 |![](https://i.ytimg.com/vi/Knfk9MIdvJw/maxresdefault.jpg) |2026-03-03 17:29:05<br>damientalksmoney<br>[Is It Too Late to Start Investing?](https://www.youtube.com/watch?v=Knfk9MIdvJw)<br>[00:13:26] |
 |![](https://i.ytimg.com/vi/f7iloI8V6Z8/maxresdefault.jpg) |2026-03-03 06:30:23<br>@sierraladuke<br>[Why Work Is Starting to Look Medieval](https://www.youtube.com/watch?v=f7iloI8V6Z8)<br>[00:16:54] |
 |![](https://i.ytimg.com/vi/cX96rArOiTw/sddefault.jpg) |2026-03-03 02:06:07<br>@JREG<br>[Ayatollah Khamenei confirmed ALIVE by ChatGPT](https://www.youtube.com/watch?v=cX96rArOiTw)<br>[00:13:59] |
+|![](https://i.ytimg.com/vi/Rtbp6REs9EI/maxresdefault.jpg) |2026-03-02 16:00:39<br>bryonyclaire<br>[The Manosphere won't get you women, bro](https://www.youtube.com/watch?v=Rtbp6REs9EI)<br>[00:41:38] |
 |![](https://i.ytimg.com/vi/7pkJl8Q17gg/maxresdefault.jpg) |2026-03-02 16:00:10<br>@MoreCringe<br>[Fake Psychologist Attempts The Worst Comeback Ever](https://www.youtube.com/watch?v=7pkJl8Q17gg)<br>[00:15:51] |
 |![](https://i.ytimg.com/vi/T6CKSLMCVsw/maxresdefault.jpg) |2026-03-02 00:25:20<br>casualhistorian<br>[Prelude to Genocide: The Cambodian Civil War](https://www.youtube.com/watch?v=T6CKSLMCVsw)<br>[00:40:47] |
 |![](https://i.ytimg.com/vi/JZv0tlV4b5E/maxresdefault.jpg) |2026-03-01 21:48:01<br>@RobsMedia25<br>[Idiot Influencers - OTK](https://www.youtube.com/watch?v=JZv0tlV4b5E)<br>[01:53:08] |
@@ -1078,4 +1078,5 @@
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
+-------------------
 -------------------
