@@ -1,5 +1,5 @@
 -------------------
-# 2026-04-23 11:23:51
+# 2026-04-23 11:34:10
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -934,7 +934,6 @@
 |![](https://i.ytimg.com/vi/NpbUZ87GI48/maxresdefault.jpg) |2024-09-14 18:00:15<br>beacebrocess<br>[Zionists don’t understand Human Rights: Palestine and Self determination](https://www.youtube.com/watch?v=NpbUZ87GI48)<br>[00:20:51] |
 |![](https://i.ytimg.com/vi/JqIdmgBQl3Q/maxresdefault.jpg) |2024-08-24 03:00:12<br>@BritMonkey<br>[How Markets Can Predict the Future (Vox parody)](https://www.youtube.com/watch?v=JqIdmgBQl3Q)<br>[00:10:43] |
 |![](https://i.ytimg.com/vi/ajEOT5ptTdw/sddefault.jpg) |2024-08-23 02:11:49<br>sarcasmitron<br>[What Is Kamala's Foreign Policy, Actually](https://www.youtube.com/watch?v=ajEOT5ptTdw)<br>[00:26:00] |
-|![](https://i.ytimg.com/vi/SCgKhCgSsi4/sddefault.jpg) |2024-07-19 19:40:05<br>anandaapologetics<br>[Discussing the Essence energy distinction and distinctions with @RedeemedRemnant](https://www.youtube.com/watch?v=SCgKhCgSsi4)<br>[00:19:05] |
 |![](https://i.ytimg.com/vi/asH0PzUByWQ/maxresdefault.jpg) |2024-07-13 16:55:25<br>themartinbamford<br>[One Day, Five Species: Capturing the Knepp Big Five](https://www.youtube.com/watch?v=asH0PzUByWQ)<br>[00:10:45] |
 |![](https://i.ytimg.com/vi/fJE62GZNXFo/maxresdefault.jpg) |2024-06-23 22:39:51<br>mattsionkowski<br>[NHS - Hack of Synnovis impacts hospitals. How, who and why?](https://www.youtube.com/watch?v=fJE62GZNXFo)<br>[00:06:34] |
 |![](https://i.ytimg.com/vi/eSS8-i28oho/maxresdefault.jpg) |2024-06-18 15:42:58<br>profjeffreykaplan<br>[Saul Kripke's Causal Theory of Names](https://www.youtube.com/watch?v=eSS8-i28oho)<br>[00:04:42] |
@@ -1001,6 +1000,9 @@
 |![](https://i.ytimg.com/vi/NIkpZRSB5jo/maxresdefault.jpg) |2020-12-24 22:31:36<br>communitychannel<br>[Christmas Lists](https://www.youtube.com/watch?v=NIkpZRSB5jo)<br>[00:08:23] |
 |![](https://i.ytimg.com/vi/DmGeKm9EMPo/maxresdefault.jpg) |2016-12-28 21:04:31<br>communitychannel<br>[New Year's Resolution Police](https://www.youtube.com/watch?v=DmGeKm9EMPo)<br>[00:05:49] |
 |![](https://i.ytimg.com/vi/VYQ2o1-hZTI/maxresdefault.jpg) |2016-10-27 22:00:30<br>communitychannel<br>[Dinner Would Be Nice](https://www.youtube.com/watch?v=VYQ2o1-hZTI)<br>[00:02:44] |
+|![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
+-------------------
+ch?v=VYQ2o1-hZTI)<br>[00:02:44] |
 |![](https://i.ytimg.com/vi/71lU3I69rWw/maxresdefault.jpg) |2016-09-18 09:45:17<br>communitychannel<br>[10 Year BBQ Celebration](https://www.youtube.com/watch?v=71lU3I69rWw)<br>[00:03:28] |
 -------------------
 .ytimg.com/vi/GFYasDoJ-98/maxresdefault.jpg) |2024-12-03 15:47:54<br>profjeffreykaplan<br>[Advertising doesn't work the way you think it does](https://www.youtube.com/watch?v=GFYasDoJ-98)<br>[00:26:25] |
