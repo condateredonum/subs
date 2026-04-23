@@ -4,7 +4,7 @@
 | Thumbnail | Title |
 |-----------|-------|
 -------------------
-.com/vi/DzyiR0NuTZ8/maxresdefault.jpg) |2026-04-23 06:30:50<br>@AtriocClips<br>[Is Apple Cooked?](https://www.youtube.com/watch?v=DzyiR0NuTZ8)<br>[00:10:58] |
+|![](https://i.ytimg..com/vi/DzyiR0NuTZ8/maxresdefault.jpg) |2026-04-23 06:30:50<br>@AtriocClips<br>[Is Apple Cooked?](https://www.youtube.com/watch?v=DzyiR0NuTZ8)<br>[00:10:58] |
 |![](https://i.ytimg.com/vi/lZE29s2IGAc/maxresdefault.jpg) |2026-04-23 05:37:35<br>@OfficialSaharTV<br>[Canadian Patriot Teaches Migrant Why He Can't SHOPLIFT in Canada!!](https://www.youtube.com/watch?v=lZE29s2IGAc)<br>[00:20:59] |
 |![](https://i.ytimg.com/vi/Ti_mYFrH4_s/maxresdefault.jpg) |2026-04-23 05:28:42<br>@realchris<br>[Musk Tesla Q1 earnings self driving bankruptcy](https://www.youtube.com/watch?v=Ti_mYFrH4_s)<br>[00:16:11] |
 |![](https://i.ytimg.com/vi/QNAgawC5hbM/sddefault.jpg) |2026-04-23 03:30:16<br>@penguinz0<br>[People Actually Believe These are Real](https://www.youtube.com/watch?v=QNAgawC5hbM)<br>[00:10:39] |
