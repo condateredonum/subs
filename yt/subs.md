@@ -16,7 +16,7 @@
 
 [Alex O'Connor](https://www.youtube.com/channel/UC7kIy8fZavEni8Gzl8NLjOQ)
 
-[All Things Secured](https://www.youtube.com/channel/UCvFGf8HZGZWFzpcDCqb3Lhw)
+<!--[All Things Secured](https://www.youtube.com/channel/ UCvFGf8HZGZWFzpcDCqb3Lhw)-->
 
 [AlternateHistoryHub](https://www.youtube.com/channel/UClfEht64_NrzHf8Y0slKEjw)
 
@@ -42,11 +42,11 @@
 
 [Ashley Embers](https://www.youtube.com/@AshleyEmbers/videos)
 
-[Atheist Republic](https://www.youtube.com/@AtheistRepublic/videos)
+<!-- [Atheist Republic](https://www.youtube.com/@ AtheistRepublic/videos)-->
 
 [Atrioc](https://www.youtube.com/@atrioc/videos)
 
-[Bald Max](https://www.youtube.com/channel/UCPYwJpuqtT_84Q-0xAe0CzQ)
+<!--[Bald Max](https://www.youtube.com/channel/  UCPYwJpuqtT_84Q-0xAe0CzQ)-->
 
 [Battles and Beers: War Stories](https://www.youtube.com/channel/UCz0M8zLRyU2kLd8rTjUkc_w)
 
@@ -56,13 +56,11 @@
 
 [Big A](https://www.youtube.com/@AtriocClips/videos)
 
-[BlackBeltSecrets](https://www.youtube.com/channel/UCo0vc7B3CQi-NGJsCnvwfKA)
+<!--[BlackBeltSecrets](https://www.youtube.com/chan nel/  UCo0vc7B3CQi-NGJsCnvwfKA)-->
 
 [Bloomberg Live](https://www.youtube.com/channel/UC7UFcUbAd8oyCBWCogVpJ6g)
 
 [Books with Emily Fox](https://www.youtube.com/channel/UCW5R53ckTBE4JJtUmc64lng)
-
-[Briarchats](https://www.youtube.com/@briarchats/videos)
 
 [Bridges Podcast](https://www.youtube.com/channel/UCSNBahoyPlMUz-3U2e_Czcw)
 
@@ -76,7 +74,7 @@
 
 [Business Insider](https://www.youtube.com/@BusinessInsider/videos)
 
-[CalebCity](https://www.youtube.com/channel/UCI1XS_GkLGDOgf8YLaaXNRA)
+[Caleb City](https://www.youtube.com/channel/UCI1XS_GkLGDOgf8YLaaXNRA)
 
 [CallMeEzekiel](https://www.youtube.com/channel/UCnZ1r94_Ptz_1gN5VBnE0Mg)
 
@@ -114,7 +112,7 @@
 
 [Context Matters](https://www.youtube.com/channel/UCVWX3F3DrTvDKa0LRilQoQQ)
 
-[Critical Drinker](https://www.youtube.com/@TheCriticalDrinker/videos)
+<!--[Critical Drinker](https://www.youtube.com/ @TheCriticalDrinker/videos)-->
 
 [CyberMedics](https://www.youtube.com/channel/UCvBRK8qsxyi_eFmg6VbnBpQ)
 
@@ -232,7 +230,7 @@
 
 [Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw)
 
-[Jimmy the Giant](https://www.youtube.com/@JimmyTheGiant/videos)
+<!--[Jimmy the Giant](https://www.youtube.com/@ JimmyTheGiant/videos)-->⁷
 
 [Joe Blogs](https://www.youtube.com/channel/UCjniKviAJH0mENoLStpQXmQ)
 
@@ -276,7 +274,7 @@
 
 [Leena Norms](https://www.youtube.com/@leenanorms/videos)
 
-[Legal Mindset](https://www.youtube.com/@LegalMindset/videos)
+<!--[Legal Mindset](https://www.youtube.com/@ LegalMindset/videos)-->
 
 [Lemonade Stand](https://www.youtube.com/@LemonadeStandPodcast/videos)
 
@@ -288,7 +286,7 @@
 
 [Lou Extras](https://www.youtube.com/@LouExtras/videos)
 
-[Louis Rossmann](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w)
+<!--[Louis Rossmann](https://www.youtube.com/channel/ UCl2mFZoRqjw_ELax4Yisf6w)-->
 
 [Lucy Moon](https://www.youtube.com/@lucymoon/videos)
 
@@ -364,13 +362,11 @@
 
 [Oompaville](https://www.youtube.com/@oompaville/videos)
 
-[Ottilie](https://www.youtube.com/@Ottilie_ballade/videos)
+[Ottilie](https://www.youtube.com/@Ottilie/videos)
 
 [OverSimplified](https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A)
 
 [Paper Will](https://www.youtube.com/channel/UCPwuva5LbnwFTetkP_cUQHA/videos)
-
-[Patrick Boyle](https://www.youtube.com/channel/UCASM0cgfkJxQ1ICmRilfHLw)
 
 [Patrick Boyle](https://www.youtube.com/@PBoyle/videos)
 
@@ -426,7 +422,7 @@
 
 [Ryan McBeth](https://www.youtube.com/channel/UC8URMa1fI4rlaLc-Lhev2fQ)
 
-[SaharTV](https://www.youtube.com/@OfficialSaharTV/videos)
+<!--[SaharTV](https://www.youtube.com/@ OfficialSaharTV/videos)-->
 
 [Salaryman Tokyo](https://www.youtube.com/channel/UCxmRRf1MaskrhuTGS_j7huA)
 
@@ -436,7 +432,7 @@
 
 [Scott Cramer](https://www.youtube.com/channel/UCmHCNoUXWAFuzxWJdX2d99w)
 
-[Scottish Car Clan](https://www.youtube.com/channel/UCXRQUP6bZ0t5XaQyRh0bVlw)
+<!--[Scottish Car Clan](https://www.youtube.com/channel/  UCXRQUP6bZ0t5XaQyRh0bVlw)-->
 
 [Second Story](https://www.youtube.com/@HilaryLayne/videos)
 
@@ -470,7 +466,7 @@
 
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
 
-[Sydney Watson](https://www.youtube.com/@SydneyWatson/videos)
+<!--[Sydney Watson](https://www.youtube.com/@ SydneyWatson/videos)-->
 
 [The Armchair Historian](https://www.youtube.com/channel/UCeUJFQ0D9qs6aVNyUt9fkeQ)
 
@@ -522,13 +518,11 @@
 
 [Vanessa Wingårdh](https://www.youtube.com/@VanessaWingårdh)
 
-[VASYA IN THE HAY](https://www.youtube.com/channel/UCaNfHBihSUqcUBpvHx-rwYw)
+<!--[VASYA IN THE HAY](https://www.youtube.com/channel/  UCaNfHBihSUqcUBpvHx-rwYw)-->
 
 [Voices of the Past](https://www.youtube.com/channel/UCqoGR_EedlhKDVuWNwYWRbg)
 
 [voidzilla](https://www.youtube.com/channel/UC28n0tlcNSa1iPe5mettocg)
-
-[Warren Buffett Fan Zone](https://www.youtube.com/channel/UCW07eLOhULj0PKmwUTL10Jw)
 
 [Welch Labs](https://www.youtube.com/channel/UConVfxXodg78Tzh5nNu85Ew)
 
@@ -540,4 +534,4 @@
 
 [Yuval Noah Harari](https://www.youtube.com/channel/UC2m77KGMIKZCD0Kw35-4shQ)
 
-[आसान शब्दों में — Kurzgesagt](https://www.youtube.com/channel/UCIR1LQvYrHOWBpOGq5nFo0Q)
+<!--[आसान शब्दों में — Kurzgesagt](https://www.youtube.com/channel/  UCIR1LQvYrHOWBpOGq5nFo0Q)-->
