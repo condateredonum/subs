@@ -45,7 +45,7 @@ def get_latest_videos(channel_data):
                 username = url_to_html(username)
                 video_upload_date = snippet['publishedAt']
                 video_upload_date = convert_timestamp(video_upload_date)
-                video_title = snippet['title'].replace('|', r'\|')
+                video_title = snippet['title'].replace('|', '&#124;')
                 video_id = snippet['resourceId']['videoId']
                 video_duration = api_get_video_duration(video_id)
 
