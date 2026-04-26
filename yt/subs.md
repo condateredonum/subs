@@ -52,6 +52,8 @@
 
 [beacebrocess](https://www.youtube.com/channel/UCfupW8CFHKZ03TQuXQZT6Iw)
 
+[berry9e](https://www.youtube.com/@berry9e/videos)
+
 [BeyondTheBlue](https://www.youtube.com/channel/UCy6-V0dTuvNB_uFXpE5K5uQ)
 
 [Big A](https://www.youtube.com/@AtriocClips/videos)
