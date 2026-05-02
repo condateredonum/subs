@@ -1,5 +1,5 @@
 -------------------
-# 2026-05-02 10:55:34
+# 2026-05-02 11:58:30
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -49,7 +49,7 @@
 |![](https://i.ytimg.com/vi/Y8jWL0PU5FQ/sddefault.jpg) |2026-05-01 07:03:05<br>@penguinz0<br>[Saros](https://www.youtube.com/watch?v=Y8jWL0PU5FQ)<br>[03:10:28] |
 |![](https://i.ytimg.com/vi/-V-5D6ztgcE/maxresdefault.jpg) |2026-05-01 06:39:51<br>bbcstever<br>[First of May (Bee Gees) Piano solo](https://www.youtube.com/watch?v=-V-5D6ztgcE)<br>[00:02:43] |
 |![](https://i.ytimg.com/vi/XJUpuOBpT-4/maxresdefault.jpg) |2026-05-01 04:30:27<br>@theAIsearch<br>[The insane engineering of Deepseek V4](https://www.youtube.com/watch?v=XJUpuOBpT-4)<br>[00:29:31] |
-|![](https://i.ytimg.com/vi/g4hDoWm2cPk/maxresdefault.jpg) |2026-05-01 04:07:44<br>@DenysDavydov<br>[Trucks for Ukraine &#124; Live stream with Denys Davydov](https://www.youtube.com/watch?v=g4hDoWm2cPk)<br>[08:44:26] |
+|![](https://i.ytimg.com/vi/g4hDoWm2cPk/maxresdefault.jpg) |2026-05-01 04:07:44<br>@DenysDavydov<br>[Trucks for Ukraine &#124; Live stream with Denys Davydov](https://www.youtube.com/watch?v=g4hDoWm2cPk)<br>[08:44:01] |
 |![](https://i.ytimg.com/vi/wWouD_CCmqI/maxresdefault.jpg) |2026-05-01 03:18:40<br>@AtriocClips<br>[Every Car CEO Is Freaking Out](https://www.youtube.com/watch?v=wWouD_CCmqI)<br>[00:15:48] |
 |![](https://i.ytimg.com/vi/EbzkeY3cKI4/maxresdefault.jpg) |2026-05-01 03:04:26<br>decodingthegurus<br>[Is Gary Stevenson the Cristiano Ronaldo of economics?](https://www.youtube.com/watch?v=EbzkeY3cKI4)<br>[01:03:12] |
 |![](https://i.ytimg.com/vi/R7eXljg_INw/maxresdefault.jpg) |2026-05-01 03:00:18<br>friendlyjordies<br>[bruz: epilogue](https://www.youtube.com/watch?v=R7eXljg_INw)<br>[00:19:34] |
@@ -97,7 +97,6 @@
 |![](https://i.ytimg.com/vi/oVajZLTITS0/maxresdefault.jpg) |2026-04-30 13:29:18<br>joeblogs<br>[Much Worse](https://www.youtube.com/watch?v=oVajZLTITS0)<br>[00:10:48] |
 |![](https://i.ytimg.com/vi/5PRmc_aD-pI/maxresdefault.jpg) |2026-04-30 13:21:47<br>@Israel_Advocacy<br>[I Turned a Jew Hater Into a Jew Lover In Under 8 Minutes](https://www.youtube.com/watch?v=5PRmc_aD-pI)<br>[00:08:44] |
 |![](https://i.ytimg.com/vi/5W8rmRHCIEk/maxresdefault.jpg) |2026-04-30 13:00:09<br>@hutch<br>[There Is No Defending This](https://www.youtube.com/watch?v=5W8rmRHCIEk)<br>[00:53:25] |
-|![](https://i.ytimg.com/vi/0Gc5Zc0WQm0/maxresdefault.jpg) |2026-04-30 11:48:50<br>timesofisrael<br>[Siege warfare? Who'll blink first in tense Iran blockade](https://www.youtube.com/watch?v=0Gc5Zc0WQm0)<br>[00:24:35] |
 |![](https://i.ytimg.com/vi/j30f8nKx9po/maxresdefault.jpg) |2026-04-30 11:48:01<br>bbcstever<br>[Russia steps up VPN crackdown](https://www.youtube.com/watch?v=j30f8nKx9po)<br>[00:03:50] |
 |![](https://i.ytimg.com/vi/RI3s3DUFaEk/maxresdefault.jpg) |2026-04-30 10:45:02<br>zeihanongeopolitics<br>[America's Leg Up on Petrochemicals &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=RI3s3DUFaEk)<br>[00:03:35] |
 |![](https://i.ytimg.com/vi/MiBSSWKHfUA/maxresdefault.jpg) |2026-04-30 10:15:29<br>@DenysDavydov<br>[Update from Ukraine &#124; Ukraine Needs our Help! Let's do it! We Deliver Victory!!!](https://www.youtube.com/watch?v=MiBSSWKHfUA)<br>[00:07:43] |
