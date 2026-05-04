@@ -1,11 +1,13 @@
 -------------------
-# 2026-05-04 18:28:21
+# 2026-05-04 19:14:53
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/FT6IKKwe7YQ/maxresdefault.jpg) |2026-05-04 19:06:04<br>@Tom_Nicholas<br>[Is the Global Right Losing Momentum?](https://www.youtube.com/watch?v=FT6IKKwe7YQ)<br>[00:25:38] |
+|![](https://i.ytimg.com/vi/pak66Z_5KGU/maxresdefault.jpg) |2026-05-04 19:00:45<br>@justtree411<br>[Myron Gaines DEBATES Student This Got HEATED FAST](https://www.youtube.com/watch?v=pak66Z_5KGU)<br>[00:56:04] |
 |![](https://i.ytimg.com/vi/GbNWoTFvX6Q/maxresdefault.jpg) |2026-05-04 18:15:02<br>prestonstewart<br>[The Iran Ceasefire Just Ended - Ships & Oil Facilities Hit](https://www.youtube.com/watch?v=GbNWoTFvX6Q)<br>[00:12:15] |
 |![](https://i.ytimg.com/vi/64kckL4ecSo/maxresdefault.jpg) |2026-05-04 18:01:47<br>joeblogs<br>[RUSSIA Hit Hard](https://www.youtube.com/watch?v=64kckL4ecSo)<br>[00:11:03] |
-|![](https://i.ytimg.com/vi/Y7cuCzVQYts/maxresdefault.jpg) |2026-05-04 18:00:06<br>@leenanorms<br>[The home decoration industry is a mess (but here’s how we fix it)](https://www.youtube.com/watch?v=Y7cuCzVQYts)<br>[Duration-Error] |
+|![](https://i.ytimg.com/vi/Y7cuCzVQYts/maxresdefault.jpg) |2026-05-04 18:00:06<br>@leenanorms<br>[The home decoration industry is a mess (but here’s how we fix it)](https://www.youtube.com/watch?v=Y7cuCzVQYts)<br>[00:43:48] |
 |![](https://i.ytimg.com/vi/TVb5OmjQUfM/maxresdefault.jpg) |2026-05-04 17:33:46<br>cosmicskeptic<br>[An Ancient Guide to Happiness - Epicurus on How to Live Well](https://www.youtube.com/watch?v=TVb5OmjQUfM)<br>[01:48:49] |
 |![](https://i.ytimg.com/vi/UefstfncObs/maxresdefault.jpg) |2026-05-04 17:08:04<br>damientalksmoney<br>[This Could Destroy Your Investment Returns (It's Not What You Think)](https://www.youtube.com/watch?v=UefstfncObs)<br>[00:17:02] |
 |![](https://i.ytimg.com/vi/8hBLilYOp_U/maxresdefault.jpg) |2026-05-04 17:00:12<br>realeismanplaybook<br>[Is a Market Melt-Up Coming? Why Tech & Semis Are Dominating Again &#124; The Real Eisman Playbook Ep 58](https://www.youtube.com/watch?v=8hBLilYOp_U)<br>[00:38:38] |
@@ -337,7 +339,7 @@
 |![](https://i.ytimg.com/vi/zOp6FCBn8ZA/maxresdefault.jpg) |2026-04-22 15:01:37<br>johnnyharris<br>[Why we need more silver](https://www.youtube.com/watch?v=zOp6FCBn8ZA)<br>[00:02:18] |
 |![](https://i.ytimg.com/vi/DIMS5FSZoAw/maxresdefault.jpg) |2026-04-22 15:00:06<br>@themorbidzoo<br>[Palantir Twitter Manifesto](https://www.youtube.com/watch?v=DIMS5FSZoAw)<br>[00:26:16] |
 |![](https://i.ytimg.com/vi/lIlwhc8GBt8/maxresdefault.jpg) |2026-04-22 14:00:00<br>mathqueensusanne<br>[How to Simplify Square Roots – Step by Step](https://www.youtube.com/watch?v=lIlwhc8GBt8)<br>[00:14:49] |
-|![](https://i.ytimg.com/vi/4w_FUw_c9oM/maxresdefault.jpg) |2026-04-22 07:53:57<br>@IzzySealey<br>[How to Build Self-Worth So Strong It Feels Illegal](https://www.youtube.com/watch?v=4w_FUw_c9oM)<br>[00:16:17] |
+|![](https://i.ytimg.com/vi/4w_FUw_c9oM/maxresdefault.jpg) |2026-04-22 07:53:57<br>@IzzySealey<br>[how to build self-worth so strong it feels ILLEGAL](https://www.youtube.com/watch?v=4w_FUw_c9oM)<br>[00:16:17] |
 |![](https://i.ytimg.com/vi/3mVAAgqxpDM/maxresdefault.jpg) |2026-04-22 06:00:00<br>manyhappyreturnspodcast<br>[Making Sense of a Weird Market: Record Highs, Sticky Inflation, and Silent Alarms](https://www.youtube.com/watch?v=3mVAAgqxpDM)<br>[00:34:52] |
 |![](https://i.ytimg.com/vi/TLFPbMUtErM/maxresdefault.jpg) |2026-04-22 04:36:16<br>@theAIsearch<br>[New AI image generator BEATS EVERYTHING](https://www.youtube.com/watch?v=TLFPbMUtErM)<br>[00:35:20] |
 |![](https://i.ytimg.com/vi/c347oYQO57A/maxresdefault.jpg) |2026-04-21 18:01:53<br>mkbhd<br>[So This is Peak Smartphone](https://www.youtube.com/watch?v=c347oYQO57A)<br>[00:13:17] |
@@ -346,7 +348,6 @@
 |![](https://i.ytimg.com/vi/nCH4OweFd5E/maxresdefault.jpg) |2026-04-21 17:01:17<br>@PodcastCringe<br>[Bert Kreischer’s Self Destruction Is Hard To Watch](https://www.youtube.com/watch?v=nCH4OweFd5E)<br>[00:20:38] |
 |![](https://i.ytimg.com/vi/IivkQ0yOH_U/maxresdefault.jpg) |2026-04-21 16:28:36<br>yuvalnoahharari<br>[Should AIs get legal personhood? &#124; Yuval Noah Harari](https://www.youtube.com/watch?v=IivkQ0yOH_U)<br>[00:02:43] |
 |![](https://i.ytimg.com/vi/pqVWn46KEew/maxresdefault.jpg) |2026-04-21 16:14:17<br>khanubis<br>[Why the Ottoman Empire Spoke 3 Languages](https://www.youtube.com/watch?v=pqVWn46KEew)<br>[00:10:04] |
-|![](https://i.ytimg.com/vi/UIlgyQ9g5Lc/maxresdefault.jpg) |2026-04-21 15:52:39<br>@justtree411<br>[She Saw The Red Flag And Immediately Popped Her Balloon](https://www.youtube.com/watch?v=UIlgyQ9g5Lc)<br>[00:10:06] |
 |![](https://i.ytimg.com/vi/dl0-TveDDGA/maxresdefault.jpg) |2026-04-21 15:00:01<br>kurzgesagt<br>[Our Minds Are Weirder than You Think](https://www.youtube.com/watch?v=dl0-TveDDGA)<br>[00:12:22] |
 |![](https://i.ytimg.com/vi/d_wD6zmt7r8/maxresdefault.jpg) |2026-04-21 14:42:49<br>@_jared<br>[Are books getting worse?](https://www.youtube.com/watch?v=d_wD6zmt7r8)<br>[00:18:31] |
 |![](https://i.ytimg.com/vi/uqSwRHc-1MQ/maxresdefault.jpg) |2026-04-21 13:31:18<br>@MoneyMacro<br>[Who will pay for 100 million boomer pensions?](https://www.youtube.com/watch?v=uqSwRHc-1MQ)<br>[00:17:43] |
