@@ -338,6 +338,8 @@
 
 [Money & Macro](https://www.youtube.com/@MoneyMacro/videos)
 
+[Monetary Matters Network](https://www.youtube.com/@Monetary-Matters/videos)
+
 [Moocake](https://www.youtube.com/@Moocake/videos)
 
 [Moon](https://www.youtube.com/channel/UCmFeOdJI3IXgTBDzqBLD8qg)
