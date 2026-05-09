@@ -1,9 +1,10 @@
 -------------------
-# 2026-05-09 11:02:01
+# 2026-05-09 12:02:51
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/iBlu45HFruk/maxresdefault.jpg) |2026-05-09 11:00:06<br>@PBoyle<br>[GameStop Makes an Offer!](https://www.youtube.com/watch?v=iBlu45HFruk)<br>[Duration-Error] |
+|![](https://i.ytimg.com/vi/WyiciqEiy-E/maxresdefault.jpg) |2026-05-09 12:00:53<br>pensioncraft<br>[If I started investing in 2026 this is what I would do](https://www.youtube.com/watch?v=WyiciqEiy-E)<br>[00:15:57] |
+|![](https://i.ytimg.com/vi/iBlu45HFruk/maxresdefault.jpg) |2026-05-09 11:00:06<br>@PBoyle<br>[GameStop Makes an Offer!](https://www.youtube.com/watch?v=iBlu45HFruk)<br>[00:32:14] |
 |![](https://i.ytimg.com/vi/-L0BDc99XlM/maxresdefault.jpg) |2026-05-09 10:55:29<br>joeblogs<br>[I Tried Wetherspoons Brunch in an Old Tube Station at Walham Green.](https://www.youtube.com/watch?v=-L0BDc99XlM)<br>[00:19:39] |
 |![](https://i.ytimg.com/vi/6YXNQg01Arc/maxresdefault.jpg) |2026-05-09 09:38:43<br>@realchris<br>[Iran just ghosted Trump](https://www.youtube.com/watch?v=6YXNQg01Arc)<br>[00:13:11] |
 |![](https://i.ytimg.com/vi/a4wWIFTr1zY/maxresdefault.jpg) |2026-05-09 09:30:00<br>mathematrick<br>[Findest du ALLE Lösungen? – Gleichung lösen](https://www.youtube.com/watch?v=a4wWIFTr1zY)<br>[00:16:52] |
@@ -359,7 +360,6 @@
 |![](https://i.ytimg.com/vi/_CtEqemVJWA/maxresdefault.jpg) |2026-04-25 16:46:04<br>@theantibot<br>[performative christians make me sick](https://www.youtube.com/watch?v=_CtEqemVJWA)<br>[00:49:13] |
 |![](https://i.ytimg.com/vi/FYMdllTCrc0/maxresdefault.jpg) |2026-04-25 16:00:32<br>@RealEngineering<br>[The Insane Engineering of the V-22 Osprey](https://www.youtube.com/watch?v=FYMdllTCrc0)<br>[00:23:08] |
 |![](https://i.ytimg.com/vi/NhUCC-6aIqI/maxresdefault.jpg) |2026-04-25 12:21:25<br>knowledgia<br>[How was Iberia Converted to Islam?](https://www.youtube.com/watch?v=NhUCC-6aIqI)<br>[00:16:39] |
-|![](https://i.ytimg.com/vi/5iFwzUomXns/maxresdefault.jpg) |2026-04-25 12:00:07<br>pensioncraft<br>[Quantum Computing & Nuclear Energy: Are They Good Investments?](https://www.youtube.com/watch?v=5iFwzUomXns)<br>[00:16:04] |
 |![](https://i.ytimg.com/vi/KjAYCaa-ay8/maxresdefault.jpg) |2026-04-25 09:30:09<br>mathematrick<br>[Eignungstest Medizin Studium – Bestehst DU?](https://www.youtube.com/watch?v=KjAYCaa-ay8)<br>[00:06:08] |
 |![](https://i.ytimg.com/vi/IxlK8Kf-6Rs/maxresdefault.jpg) |2026-04-25 07:55:59<br>anderspuck<br>[When will Russians start protesting?](https://www.youtube.com/watch?v=IxlK8Kf-6Rs)<br>[00:15:07] |
 |![](https://i.ytimg.com/vi/G-oNwbngkt0/maxresdefault.jpg) |2026-04-25 04:23:34<br>@theAIsearch<br>[GPT-5.5 is a total freak](https://www.youtube.com/watch?v=G-oNwbngkt0)<br>[00:27:13] |
