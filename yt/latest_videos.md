@@ -1,8 +1,10 @@
 -------------------
-# 2026-05-09 16:40:24
+# 2026-05-09 17:47:05
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/iw8GxlwWt2g/maxresdefault.jpg) |2026-05-09 17:00:55<br>ryanmcbethprogramming<br>[What if JFK was Shot in 2026?](https://www.youtube.com/watch?v=iw8GxlwWt2g)<br>[00:18:41] |
+|![](https://i.ytimg.com/vi/3d1qGYaNF5k/maxresdefault.jpg) |2026-05-09 17:00:05<br>@GirlGoneLondonofficial<br>[Americans don't understand British sarcasm. here's why.](https://www.youtube.com/watch?v=3d1qGYaNF5k)<br>[00:06:02] |
 |![](https://i.ytimg.com/vi/OsQcdx0SBXA/maxresdefault.jpg) |2026-05-09 16:15:05<br>@moresus<br>[Hasan Just F**ked Up Real Bad...](https://www.youtube.com/watch?v=OsQcdx0SBXA)<br>[00:37:52] |
 |![](https://i.ytimg.com/vi/hMFTLdIzd4I/maxresdefault.jpg) |2026-05-09 16:01:08<br>@LouExtras<br>[Ryan Garcia Lost His Mind... Or Did He?](https://www.youtube.com/watch?v=hMFTLdIzd4I)<br>[00:36:24] |
 |![](https://i.ytimg.com/vi/r5UCPlnKgbQ/maxresdefault.jpg) |2026-05-09 16:00:17<br>anawallacejohnson<br>[The books that radically changed me as an adult.](https://www.youtube.com/watch?v=r5UCPlnKgbQ)<br>[00:18:56] |
@@ -80,7 +82,6 @@
 |![](https://i.ytimg.com/vi/cib9Dx2KVdw/maxresdefault.jpg) |2026-05-07 21:54:24<br>@AbaNPreach<br>[Akaash Quits Flagrant! We Defend His Decision](https://www.youtube.com/watch?v=cib9Dx2KVdw)<br>[00:18:54] |
 |![](https://i.ytimg.com/vi/qVu2qnlQcvM/maxresdefault.jpg) |2026-05-07 21:28:04<br>@hankschannel<br>[Better Things are Coming](https://www.youtube.com/watch?v=qVu2qnlQcvM)<br>[00:22:06] |
 |![](https://i.ytimg.com/vi/K5uhog5r4XU/maxresdefault.jpg) |2026-05-07 20:45:15<br>pensioncraft<br>[Investing & The Global Economy - Live Q&A](https://www.youtube.com/watch?v=K5uhog5r4XU)<br>[01:00:01] |
-|![](https://i.ytimg.com/vi/VGOGb9IBygU/maxresdefault.jpg) |2026-05-07 20:00:25<br>@jubilee<br>[Is "Black-on-Black crime" a result of underinvestment and over-policing? #blackonblackcrime #debate](https://www.youtube.com/watch?v=VGOGb9IBygU)<br>[00:02:50] |
 |![](https://i.ytimg.com/vi/fPBRc3KgB5M/maxresdefault.jpg) |2026-05-07 19:33:18<br>timesofisrael<br>[Who wore it better: Bradley Cooper or Maestro Leonard Bernstein?](https://www.youtube.com/watch?v=fPBRc3KgB5M)<br>[00:54:58] |
 |![](https://i.ytimg.com/vi/ciBlUsfgqG0/sddefault.jpg) |2026-05-07 19:30:59<br>@penguinz0<br>[Looksmaxxer Arrested for Disgusting Crimes](https://www.youtube.com/watch?v=ciBlUsfgqG0)<br>[00:09:49] |
 |![](https://i.ytimg.com/vi/TLlvmnUynf8/maxresdefault.jpg) |2026-05-07 19:00:34<br>pitchmeetings<br>[Spider-Man: Into The Spider-Verse Pitch Meeting](https://www.youtube.com/watch?v=TLlvmnUynf8)<br>[00:05:57] |
@@ -359,7 +360,6 @@
 |![](https://i.ytimg.com/vi/yy1MAN5Trd4/maxresdefault.jpg) |2026-04-25 19:59:44<br>@LouExtras<br>[The Collapse of Andrew Tate](https://www.youtube.com/watch?v=yy1MAN5Trd4)<br>[00:29:01] |
 |![](https://i.ytimg.com/vi/dYW2LEWfOps/maxresdefault.jpg) |2026-04-25 19:15:03<br>@marinamcbain<br>[Women Are Getting SMALLER (And It’s Not Just Their Bodies)...](https://www.youtube.com/watch?v=dYW2LEWfOps)<br>[00:34:28] |
 |![](https://i.ytimg.com/vi/ZwpZBo9awbc/maxresdefault.jpg) |2026-04-25 17:15:07<br>@PBoyle<br>[Energy Markets are on the Verge of a Disaster!](https://www.youtube.com/watch?v=ZwpZBo9awbc)<br>[00:29:33] |
-|![](https://i.ytimg.com/vi/kVFTUI1f5gE/maxresdefault.jpg) |2026-04-25 17:01:18<br>@GirlGoneLondonofficial<br>[the shocking truth about who owns Britain’s pubs (it's not who you think)](https://www.youtube.com/watch?v=kVFTUI1f5gE)<br>[00:09:23] |
 |![](https://i.ytimg.com/vi/gu-BR71lMdw/maxresdefault.jpg) |2026-04-25 17:01:05<br>meaningfulmoney<br>[Why Your Pay Rise Left You Worse Off](https://www.youtube.com/watch?v=gu-BR71lMdw)<br>[00:16:06] |
 |![](https://i.ytimg.com/vi/nz8WyVdk3Fw/maxresdefault.jpg) |2026-04-25 17:00:01<br>@DarylTalksGames<br>[When Horror Mocks Your Humanity](https://www.youtube.com/watch?v=nz8WyVdk3Fw)<br>[00:39:10] |
 |![](https://i.ytimg.com/vi/_CtEqemVJWA/maxresdefault.jpg) |2026-04-25 16:46:04<br>@theantibot<br>[performative christians make me sick](https://www.youtube.com/watch?v=_CtEqemVJWA)<br>[00:49:13] |
