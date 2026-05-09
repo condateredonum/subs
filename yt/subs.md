@@ -206,6 +206,8 @@
 
 [Hutch](https://www.youtube.com/@hutch/videos)
 
+[I Will Teach You To Be Rich](https://www.youtube.com/@ramitsethi)
+
 [Israel Advocacy Movement](https://www.youtube.com/@Israel_Advocacy/videos)
 
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
