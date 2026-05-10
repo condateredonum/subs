@@ -1,8 +1,11 @@
 -------------------
-# 2026-05-10 12:04:29
+# 2026-05-10 13:01:13
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/5TRqN8DhtOo/maxresdefault.jpg) |2026-05-10 12:36:38<br>japanesewhoyuta<br>[Why It’s Time to Leave Rural Tokyo【Rural Japan Series 🇯🇵】](https://www.youtube.com/watch?v=5TRqN8DhtOo)<br>[00:14:15] |
+|![](https://i.ytimg.com/vi/wd1GcO2VaRI/maxresdefault.jpg) |2026-05-10 12:24:01<br>timesofisrael<br>[Political parties form new constellations ahead of elections](https://www.youtube.com/watch?v=wd1GcO2VaRI)<br>[00:30:15] |
+|![](https://i.ytimg.com/vi/pXCf0QKipnw/maxresdefault.jpg) |2026-05-10 12:15:08<br>@realchris<br>[America bans you from buying this from China](https://www.youtube.com/watch?v=pXCf0QKipnw)<br>[00:17:14] |
 |![](https://i.ytimg.com/vi/izX62zLRMLQ/maxresdefault.jpg) |2026-05-10 11:30:33<br>@ramitsethi<br>[You’re Wasting Thousands on Travel (And Not Even Enjoying It)](https://www.youtube.com/watch?v=izX62zLRMLQ)<br>[00:26:26] |
 |![](https://i.ytimg.com/vi/VRKTPnRSnKg/maxresdefault.jpg) |2026-05-10 09:30:21<br>tobynewbatt<br>[How To Invest During the Next Stock Market Crash](https://www.youtube.com/watch?v=VRKTPnRSnKg)<br>[00:13:55] |
 |![](https://i.ytimg.com/vi/LbLE_7FkR18/maxresdefault.jpg) |2026-05-10 08:00:17<br>@TypeAshton<br>[I Went to a Private Equity Emergency Room in the USA](https://www.youtube.com/watch?v=LbLE_7FkR18)<br>[00:26:22] |
@@ -46,7 +49,6 @@
 |![](https://i.ytimg.com/vi/lol53l3X-p8/maxresdefault.jpg) |2026-05-09 08:00:43<br>decodinggeopoliticspodcast<br>[Ben Hodges: Russia's War Is Collapsing. They’re Running Out of Men and Bleeding Everywhere](https://www.youtube.com/watch?v=lol53l3X-p8)<br>[00:24:37] |
 |![](https://i.ytimg.com/vi/45LTpXZ3bxA/maxresdefault.jpg) |2026-05-09 07:34:02<br>financialtimes<br>[UBS's Sergio Ermotti on Swiss plans for stringent capital requirements &#124; FT Interviews](https://www.youtube.com/watch?v=45LTpXZ3bxA)<br>[00:21:42] |
 |![](https://i.ytimg.com/vi/aJghzEE5dIo/maxresdefault.jpg) |2026-05-09 03:41:30<br>@realchris<br>[They're leaving the Trump cult](https://www.youtube.com/watch?v=aJghzEE5dIo)<br>[00:16:50] |
-|![](https://i.ytimg.com/vi/QLMS1Lw-cAI/maxresdefault.jpg) |2026-05-09 01:03:48<br>@realchris<br>[Even your bedroom isn't safe now](https://www.youtube.com/watch?v=QLMS1Lw-cAI)<br>[00:14:11] |
 |![](https://i.ytimg.com/vi/XGyW79TkoT8/maxresdefault.jpg) |2026-05-09 01:00:39<br>@H3PodcastHighlights<br>[Blake Lively & Justin Baldoni Settled FINAL UPDATE](https://www.youtube.com/watch?v=XGyW79TkoT8)<br>[00:03:22] |
 |![](https://i.ytimg.com/vi/mNcOpbuUDe0/maxresdefault.jpg) |2026-05-09 00:34:45<br>@DenysDavydov<br>[Update from Ukraine &#124; Breaking! Trump Saves Putin's Parade &#124; Why did Ukraine Agree on Ceasefire?](https://www.youtube.com/watch?v=mNcOpbuUDe0)<br>[00:22:56] |
 |![](https://i.ytimg.com/vi/cc3o0i3ut_U/maxresdefault.jpg) |2026-05-09 00:01:33<br>decodingthegurus<br>[Eric Weinstein’s Grok Meltdown (and Other AI Delusions)](https://www.youtube.com/watch?v=cc3o0i3ut_U)<br>[00:21:45] |
@@ -576,7 +578,6 @@
 |![](https://i.ytimg.com/vi/VvS_W9ZCKqs/maxresdefault.jpg) |2026-04-04 16:30:38<br>theunclassifiedpod<br>[The Day Everything Went Wrong In Iran](https://www.youtube.com/watch?v=VvS_W9ZCKqs)<br>[01:12:31] |
 |![](https://i.ytimg.com/vi/aWRzvOiqc-s/maxresdefault.jpg) |2026-04-04 16:00:06<br>@themorbidzoo<br>[Zuck Never Understood the Metaverse](https://www.youtube.com/watch?v=aWRzvOiqc-s)<br>[00:20:27] |
 |![](https://i.ytimg.com/vi/CQM0r--25fY/maxresdefault.jpg) |2026-04-04 15:57:13<br>@CamKirkham<br>[The Most Unethical TV Experiment That Ruined Lives](https://www.youtube.com/watch?v=CQM0r--25fY)<br>[01:04:22] |
-|![](https://i.ytimg.com/vi/B1BVBoi2mhU/maxresdefault.jpg) |2026-04-04 15:48:29<br>japanesewhoyuta<br>[Why I Choose Budget Travel & What I Learned in Southeast Asia](https://www.youtube.com/watch?v=B1BVBoi2mhU)<br>[00:09:28] |
 |![](https://i.ytimg.com/vi/F2L9JZnEqMY/maxresdefault.jpg) |2026-04-04 07:44:09<br>@berry9e<br>[12 worst things to buy in your 20s](https://www.youtube.com/watch?v=F2L9JZnEqMY)<br>[00:33:04] |
 |![](https://i.ytimg.com/vi/0A2SP-QBByI/maxresdefault.jpg) |2026-04-04 03:42:25<br>coffeezillaextras<br>[billion dollar ai company was built on lies](https://www.youtube.com/watch?v=0A2SP-QBByI)<br>[00:11:32] |
 |![](https://i.ytimg.com/vi/c0h7vcCxaLk/maxresdefault.jpg) |2026-04-03 20:13:53<br>@drewisgooden<br>[I am the worst chef on youtube](https://www.youtube.com/watch?v=c0h7vcCxaLk)<br>[00:28:51] |
