@@ -208,6 +208,8 @@
 
 [I Will Teach You To Be Rich](https://www.youtube.com/@ramitsethi)
 
+[Isabella Lanter](https://www.youtube.com/@IsabellaLanter)
+
 [Israel Advocacy Movement](https://www.youtube.com/@Israel_Advocacy/videos)
 
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
@@ -473,6 +475,8 @@
 [Susannah Friesen](https://www.youtube.com/@susannahfriesenofficial/videos)
 
 <!--[Sydney Watson](https://www.youtube.com/@ SydneyWatson/videos)-->
+
+[That Practical Mom](https://www.youtube.com/@thatpracticalmom/videos)
 
 [The Armchair Historian](https://www.youtube.com/channel/UCeUJFQ0D9qs6aVNyUt9fkeQ)
 
