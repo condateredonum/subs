@@ -1,8 +1,9 @@
 -------------------
-# 2026-05-10 11:07:12
+# 2026-05-10 12:04:29
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/izX62zLRMLQ/maxresdefault.jpg) |2026-05-10 11:30:33<br>@ramitsethi<br>[You’re Wasting Thousands on Travel (And Not Even Enjoying It)](https://www.youtube.com/watch?v=izX62zLRMLQ)<br>[00:26:26] |
 |![](https://i.ytimg.com/vi/VRKTPnRSnKg/maxresdefault.jpg) |2026-05-10 09:30:21<br>tobynewbatt<br>[How To Invest During the Next Stock Market Crash](https://www.youtube.com/watch?v=VRKTPnRSnKg)<br>[00:13:55] |
 |![](https://i.ytimg.com/vi/LbLE_7FkR18/maxresdefault.jpg) |2026-05-10 08:00:17<br>@TypeAshton<br>[I Went to a Private Equity Emergency Room in the USA](https://www.youtube.com/watch?v=LbLE_7FkR18)<br>[00:26:22] |
 |![](https://i.ytimg.com/vi/akkc5uq0kC8/sddefault.jpg) |2026-05-10 07:10:45<br>@penguinz0<br>[Yapping time](https://www.youtube.com/watch?v=akkc5uq0kC8)<br>[03:28:10] |
