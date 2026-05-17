@@ -1,8 +1,9 @@
 -------------------
-# 2026-05-17 11:19:03
+# 2026-05-17 12:15:00
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/8KHksg7ialg/maxresdefault.jpg) |2026-05-17 11:30:06<br>@ramitsethi<br>[Can I Quit My $200K Job to Travel the World?](https://www.youtube.com/watch?v=8KHksg7ialg)<br>[00:28:58] |
 |![](https://i.ytimg.com/vi/6oRD_1qIHSw/maxresdefault.jpg) |2026-05-17 10:19:39<br>@AbaNPreach<br>[Sneako Debate](https://www.youtube.com/watch?v=6oRD_1qIHSw)<br>[00:32:22] |
 |![](https://i.ytimg.com/vi/ar7IIvT5SEM/maxresdefault.jpg) |2026-05-17 10:00:06<br>@naynaflorence<br>[spring in london](https://www.youtube.com/watch?v=ar7IIvT5SEM)<br>[00:12:58] |
 |![](https://i.ytimg.com/vi/Tk6nnNOY57Q/maxresdefault.jpg) |2026-05-17 09:30:12<br>mathematrick<br>[Wie groß ist die farbige Fläche? – Mathe Rätsel](https://www.youtube.com/watch?v=Tk6nnNOY57Q)<br>[00:08:05] |
@@ -133,7 +134,6 @@
 |![](https://i.ytimg.com/vi/fWF0ZwzGoho/maxresdefault.jpg) |2026-05-14 13:30:47<br>@MoneyMacro<br>[Iran's crumbling economy](https://www.youtube.com/watch?v=fWF0ZwzGoho)<br>[00:13:49] |
 |![](https://i.ytimg.com/vi/l3aH3Wu0sCM/maxresdefault.jpg) |2026-05-14 13:01:23<br>@hutch<br>[Shoe vs Hasan is f***ing HILARIOUS](https://www.youtube.com/watch?v=l3aH3Wu0sCM)<br>[01:01:09] |
 |![](https://i.ytimg.com/vi/IHrSVtgBdk4/maxresdefault.jpg) |2026-05-14 12:04:43<br>salarymantokyo<br>[The Dark Side of Japanese Punctuality](https://www.youtube.com/watch?v=IHrSVtgBdk4)<br>[00:11:06] |
-|![](https://i.ytimg.com/vi/SUtoJRQT9Jw/maxresdefault.jpg) |2026-05-14 11:30:18<br>@ramitsethi<br>[If You Make $75K a Year, Here’s Exactly How I’d Build Wealth in 2026](https://www.youtube.com/watch?v=SUtoJRQT9Jw)<br>[00:18:08] |
 |![](https://i.ytimg.com/vi/F2b4nR4R1cA/maxresdefault.jpg) |2026-05-14 11:13:47<br>friendlyjordies<br>[Australia Is Being Deceived](https://www.youtube.com/watch?v=F2b4nR4R1cA)<br>[00:09:01] |
 |![](https://i.ytimg.com/vi/oYRPDfYhZhI/maxresdefault.jpg) |2026-05-14 10:45:05<br>zeihanongeopolitics<br>[Will the Swiss Cap Their Population? &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=oYRPDfYhZhI)<br>[00:05:53] |
 |![](https://i.ytimg.com/vi/X9oFPa0jS_M/maxresdefault.jpg) |2026-05-14 10:23:32<br>@miarosemcgrath<br>[How I’d get to £100k again](https://www.youtube.com/watch?v=X9oFPa0jS_M)<br>[00:03:01] |
@@ -160,7 +160,6 @@
 |![](https://i.ytimg.com/vi/l-GKPle00Lk/maxresdefault.jpg) |2026-05-13 20:08:25<br>@Monetary-Matters<br>[Lyn Alden on Serious Macroeconomic Consequences of AI & Semiconductor Boom](https://www.youtube.com/watch?v=l-GKPle00Lk)<br>[00:52:00] |
 |![](https://i.ytimg.com/vi/OdnMcA2MadM/maxresdefault.jpg) |2026-05-13 20:05:01<br>@LemonadeStandPodcast<br>[We Designed Our Ideal Countries &#124; Lemonade Stand 🍋](https://www.youtube.com/watch?v=OdnMcA2MadM)<br>[01:32:01] |
 |![](https://i.ytimg.com/vi/NdB9Cgac1BU/maxresdefault.jpg) |2026-05-13 20:00:30<br>@MichelJanse<br>[VLOG: in desperate need of a refresh](https://www.youtube.com/watch?v=NdB9Cgac1BU)<br>[00:27:50] |
-|![](https://i.ytimg.com/vi/2mSCjQa6n-c/maxresdefault.jpg) |2026-05-13 19:29:31<br>@YishaiFleisherTV<br>[Why was King David PUNISHED for a Census?](https://www.youtube.com/watch?v=2mSCjQa6n-c)<br>[00:31:39] |
 |![](https://i.ytimg.com/vi/OzgSP45X5qU/maxresdefault.jpg) |2026-05-13 19:28:34<br>tyleroliveira<br>[I Exposed Portugal's Indían Invasion...](https://www.youtube.com/watch?v=OzgSP45X5qU)<br>[00:02:16] |
 |![](https://i.ytimg.com/vi/41Lu9aTZ3oI/maxresdefault.jpg) |2026-05-13 19:00:13<br>jamessinclairentrepreneur<br>[I Bought a Closed Wedding Venue for £2.5 Million](https://www.youtube.com/watch?v=41Lu9aTZ3oI)<br>[00:19:55] |
 |![](https://i.ytimg.com/vi/2-xUChIcu6Y/maxresdefault.jpg) |2026-05-13 17:30:00<br>prestonstewart<br>["They Came To Kill Us" - Inside Russia's Mariupol Theater Attack](https://www.youtube.com/watch?v=2-xUChIcu6Y)<br>[00:32:21] |
