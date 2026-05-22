@@ -1,8 +1,9 @@
 -------------------
-# 2026-05-22 11:55:45
+# 2026-05-22 12:40:06
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/UnFWkdE11HU/maxresdefault.jpg) |2026-05-22 12:19:14<br>bundeswehr<br>[Sabotage an Pipeline und Kabel: Wie High-Tech die Schattenflotte stoppt &#124; Bundeswehr](https://www.youtube.com/watch?v=UnFWkdE11HU)<br>[00:03:57] |
 |![](https://i.ytimg.com/vi/8Jy4HBYixz8/maxresdefault.jpg) |2026-05-22 10:45:02<br>zeihanongeopolitics<br>[Cuba Faces a Humanitarian Crisis &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=8Jy4HBYixz8)<br>[00:04:38] |
 |![](https://i.ytimg.com/vi/Z8CBIwvznrE/maxresdefault.jpg) |2026-05-22 10:00:15<br>timesofisrael<br>[National security and Israel’s climate crisis](https://www.youtube.com/watch?v=Z8CBIwvznrE)<br>[00:21:29] |
 |![](https://i.ytimg.com/vi/FhG5jxNOojU/maxresdefault.jpg) |2026-05-22 09:37:56<br>bbcstever<br>[Nuclear drills, cabbages and Russia's future: a look at today's Russian papers.](https://www.youtube.com/watch?v=FhG5jxNOojU)<br>[00:03:47] |
@@ -34,7 +35,7 @@
 |![](https://i.ytimg.com/vi/_E1fbW8kL2M/maxresdefault.jpg) |2026-05-21 17:00:33<br>@Channel4Documentaries<br>[I Was Groomed By This Man As A Teen &#124; Do You Know This Man? &#124; Channel 4 Documentaries](https://www.youtube.com/watch?v=_E1fbW8kL2M)<br>[00:46:57] |
 |![](https://i.ytimg.com/vi/qLnAknMz8Lk/maxresdefault.jpg) |2026-05-21 17:00:32<br>therealanthonyscaramucci<br>[Why People Feel Empty, Lonely, and Like Nothing They Do Matters - Jennifer Breheny Wallace](https://www.youtube.com/watch?v=qLnAknMz8Lk)<br>[00:26:04] |
 |![](https://i.ytimg.com/vi/ajfMb1Ufdt8/maxresdefault.jpg) |2026-05-21 17:00:19<br>joeblogs<br>[Collapse Deepens](https://www.youtube.com/watch?v=ajfMb1Ufdt8)<br>[00:12:39] |
-|![](https://i.ytimg.com/vi/c1-SId_Ad_c/sddefault.jpg) |2026-05-21 17:00:14<br>bookswithemilyfox<br>[My Read It or Unhaul It Challenge Humbled Me…](https://www.youtube.com/watch?v=c1-SId_Ad_c)<br>[00:28:33] |
+|![](https://i.ytimg.com/vi/c1-SId_Ad_c/maxresdefault.jpg) |2026-05-21 17:00:14<br>bookswithemilyfox<br>[I Changed My Reading Challenge… and Instantly Regretted It &#124; Read it or Unhaul it #4](https://www.youtube.com/watch?v=c1-SId_Ad_c)<br>[00:28:33] |
 |![](https://i.ytimg.com/vi/e3DQyUeDEAQ/maxresdefault.jpg) |2026-05-21 16:57:41<br>@BusinessInsider<br>[Some small #farms can't afford to keep their #organic certification. #organicfood #organicfarming](https://www.youtube.com/watch?v=e3DQyUeDEAQ)<br>[00:02:24] |
 |![](https://i.ytimg.com/vi/YFk9U6UBQOE/maxresdefault.jpg) |2026-05-21 16:30:15<br>@DamiLeeArch<br>[The Lost City of Atlantis has a Strange Secret](https://www.youtube.com/watch?v=YFk9U6UBQOE)<br>[00:18:46] |
 |![](https://i.ytimg.com/vi/zGWX3mfcaNs/maxresdefault.jpg) |2026-05-21 16:15:05<br>@moresus<br>[Hasan Is About To Quit Streaming…](https://www.youtube.com/watch?v=zGWX3mfcaNs)<br>[00:36:54] |
@@ -155,7 +156,6 @@
 |![](https://i.ytimg.com/vi/yHy2zDJlePY/maxresdefault.jpg) |2026-05-19 02:07:18<br>coffeezillaextras<br>[investigating the president’s stock trades](https://www.youtube.com/watch?v=yHy2zDJlePY)<br>[00:11:51] |
 |![](https://i.ytimg.com/vi/8-ovFvkp8Ug/maxresdefault.jpg) |2026-05-19 00:57:46<br>someordinarygamers<br>[It's Over GTA 6 Bros...](https://www.youtube.com/watch?v=8-ovFvkp8Ug)<br>[00:16:42] |
 |![](https://i.ytimg.com/vi/sc8ZUXZDTxA/maxresdefault.jpg) |2026-05-18 23:41:01<br>@YishaiFleisherTV<br>[Some Narratives Are Better Than Others](https://www.youtube.com/watch?v=sc8ZUXZDTxA)<br>[00:30:30] |
-|![](https://i.ytimg.com/vi/x43kXRjfuEA/maxresdefault.jpg) |2026-05-18 22:53:57<br>nnnimroddd<br>[Andy Burnham Makerfield campaign ad](https://www.youtube.com/watch?v=x43kXRjfuEA)<br>[00:04:00] |
 |![](https://i.ytimg.com/vi/aA5wggdYaCQ/maxresdefault.jpg) |2026-05-18 22:11:24<br>philipdefranco<br>[Trump vs Massie Exposes Why Trump Is Still Screwed in November](https://www.youtube.com/watch?v=aA5wggdYaCQ)<br>[00:23:56] |
 |![](https://i.ytimg.com/vi/wkNVvo0Wfmw/maxresdefault.jpg) |2026-05-18 22:00:48<br>prestonstewart<br>[Russia's Lies Just Fell Apart](https://www.youtube.com/watch?v=wkNVvo0Wfmw)<br>[00:15:55] |
 |![](https://i.ytimg.com/vi/pWeVH1bYvLE/maxresdefault.jpg) |2026-05-18 21:45:32<br>@Israel_Advocacy<br>[Palestinian Called The Wrong Israeli A 'Colonizer'](https://www.youtube.com/watch?v=pWeVH1bYvLE)<br>[00:15:31] |
@@ -480,7 +480,6 @@
 |![](https://i.ytimg.com/vi/58_4wtvv6qw/maxresdefault.jpg) |2026-04-28 16:00:08<br>discoverconnection<br>[Asking Saudi Arabians to Cook Them Dinner in THEIR Home](https://www.youtube.com/watch?v=58_4wtvv6qw)<br>[00:32:44] |
 |![](https://i.ytimg.com/vi/AlyxYlhx7PU/maxresdefault.jpg) |2026-04-28 15:47:15<br>@CamKirkham<br>[The Most Insane Dating Show Ever](https://www.youtube.com/watch?v=AlyxYlhx7PU)<br>[02:51:04] |
 |![](https://i.ytimg.com/vi/3xWGfniQMdQ/maxresdefault.jpg) |2026-04-28 15:00:12<br>economicsexplained<br>[Does Taiwan Have Dutch Disease?](https://www.youtube.com/watch?v=3xWGfniQMdQ)<br>[00:16:49] |
-|![](https://i.ytimg.com/vi/I1mO5yU5Nck/maxresdefault.jpg) |2026-04-28 14:44:06<br>bundeswehr<br>[Panzergrenadiere: Das Verzögerungsgefecht steht bevor (1/4) &#124; Bundeswehr](https://www.youtube.com/watch?v=I1mO5yU5Nck)<br>[00:04:07] |
 |![](https://i.ytimg.com/vi/sj1y9FDJKCM/maxresdefault.jpg) |2026-04-28 13:31:12<br>nerdwriter1<br>[The Film That Attacks You](https://www.youtube.com/watch?v=sj1y9FDJKCM)<br>[00:08:26] |
 |![](https://i.ytimg.com/vi/QfUb5MEAOXA/maxresdefault.jpg) |2026-04-28 01:05:38<br>coldfusion<br>[An Unknown Engineer is Apple's New CEO](https://www.youtube.com/watch?v=QfUb5MEAOXA)<br>[00:16:39] |
 |![](https://i.ytimg.com/vi/8Uyu72dsNlU/maxresdefault.jpg) |2026-04-27 21:18:59<br>felifromgermany<br>[WE MOVED TO GERMANY... 6 Months Later (Honest Update)](https://www.youtube.com/watch?v=8Uyu72dsNlU)<br>[00:38:29] |
