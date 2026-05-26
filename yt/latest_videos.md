@@ -1,10 +1,12 @@
 -------------------
-# 2026-05-26 18:02:57
+# 2026-05-26 19:22:35
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/9gdtex_LI7o/maxresdefault.jpg) |2026-05-26 19:00:09<br>@AnaPsychology<br>[Anti-estrangement therapists are wild, dude](https://www.youtube.com/watch?v=9gdtex_LI7o)<br>[00:31:06] |
+|![](https://i.ytimg.com/vi/dJ9MEZ4JXOk/maxresdefault.jpg) |2026-05-26 18:35:35<br>@americanredact<br>[Bryan Callen Gets Humiliated By Rick Glassman](https://www.youtube.com/watch?v=dJ9MEZ4JXOk)<br>[00:20:03] |
 |![](https://i.ytimg.com/vi/T7sqLB0ZrZo/maxresdefault.jpg) |2026-05-26 17:30:03<br>@jubilee<br>[Glenn Greenwald discusses Israel with MAGA Republican #israel #politics #glenngreenwald #surrounded](https://www.youtube.com/watch?v=T7sqLB0ZrZo)<br>[00:02:19] |
-|![](https://i.ytimg.com/vi/HDtSQViEubI/maxresdefault.jpg) |2026-05-26 17:27:16<br>@AshleyEmbers<br>[Why running a marathon won’t cure your existential dread](https://www.youtube.com/watch?v=HDtSQViEubI)<br>[00:32:30] |
+|![](https://i.ytimg.com/vi/HDtSQViEubI/maxresdefault.jpg) |2026-05-26 17:27:16<br>@AshleyEmbers<br>[The real reason Gen Z feels so lost in the world](https://www.youtube.com/watch?v=HDtSQViEubI)<br>[00:32:30] |
 |![](https://i.ytimg.com/vi/ZjqIFbPl2rw/maxresdefault.jpg) |2026-05-26 17:01:13<br>@Monetary-Matters<br>[Why an AI Driven Unemployment Wave is Real Estate’s Biggest Risk &#124; Tom Shapiro](https://www.youtube.com/watch?v=ZjqIFbPl2rw)<br>[01:00:17] |
 |![](https://i.ytimg.com/vi/qydCJweafYE/maxresdefault.jpg) |2026-05-26 17:00:24<br>therealanthonyscaramucci<br>[WWII Historian: 3 Decisions That Built The West and How We're Destroying It - James Holland](https://www.youtube.com/watch?v=qydCJweafYE)<br>[00:38:00] |
 |![](https://i.ytimg.com/vi/RCmLwzo0Vv4/sddefault.jpg) |2026-05-26 17:00:04<br>orthodoxkyle<br>[Online Orthodoxy Explained](https://www.youtube.com/watch?v=RCmLwzo0Vv4)<br>[00:27:37] |
@@ -191,7 +193,6 @@
 |![](https://i.ytimg.com/vi/J_DqnOsV1oE/maxresdefault.jpg) |2026-05-21 21:24:02<br>@alyssadgrenfell<br>[Jesus will fix everything for us anyways!!! And he’s coming in 5 mins!!! #exmormon](https://www.youtube.com/watch?v=J_DqnOsV1oE)<br>[00:02:48] |
 |![](https://i.ytimg.com/vi/vaxosWlf_b4/maxresdefault.jpg) |2026-05-21 20:00:06<br>restpoliticsus<br>[Trump Has TOTAL MELTDOWN Over Texas Primary](https://www.youtube.com/watch?v=vaxosWlf_b4)<br>[00:13:16] |
 |![](https://i.ytimg.com/vi/wbnCuKSSQ1Q/maxresdefault.jpg) |2026-05-21 19:48:23<br>@urmomashley<br>[speaking FRENCH to my sister in PARIS for 24 hours 🇫🇷](https://www.youtube.com/watch?v=wbnCuKSSQ1Q)<br>[00:17:39] |
-|![](https://i.ytimg.com/vi/rBncSOuwy1Y/maxresdefault.jpg) |2026-05-21 19:47:37<br>@AnaPsychology<br>[What Hayden Panettiere Reveals About Entitled Parents, Child Fame & Postpartum Depression](https://www.youtube.com/watch?v=rBncSOuwy1Y)<br>[00:44:42] |
 |![](https://i.ytimg.com/vi/5MBEidXFW_8/maxresdefault.jpg) |2026-05-21 19:06:04<br>jamessinclairentrepreneur<br>[I Bought a Pie Factory for £10 Million](https://www.youtube.com/watch?v=5MBEidXFW_8)<br>[00:12:05] |
 |![](https://i.ytimg.com/vi/OEBTtMjm_4U/maxresdefault.jpg) |2026-05-21 18:24:31<br>cosmicskeptic<br>[William Lane Craig vs Alex O'Connor: God and Suffering](https://www.youtube.com/watch?v=OEBTtMjm_4U)<br>[01:50:57] |
 |![](https://i.ytimg.com/vi/_E1fbW8kL2M/maxresdefault.jpg) |2026-05-21 17:00:33<br>@Channel4Documentaries<br>[I Was Groomed By This Man As A Teen &#124; Do You Know This Man? &#124; Channel 4 Documentaries](https://www.youtube.com/watch?v=_E1fbW8kL2M)<br>[00:46:57] |
@@ -518,7 +519,6 @@
 |![](https://i.ytimg.com/vi/kh-e_tCjwik/maxresdefault.jpg) |2026-04-29 02:00:47<br>@DamonCassidy<br>[Billionaires NEED The Economy To Collapse](https://www.youtube.com/watch?v=kh-e_tCjwik)<br>[00:22:07] |
 |![](https://i.ytimg.com/vi/g8Ycr1TMi9M/maxresdefault.jpg) |2026-04-28 23:27:16<br>jjmccullough<br>[Every year we're told to care about some new freak](https://www.youtube.com/watch?v=g8Ycr1TMi9M)<br>[00:11:45] |
 |![](https://i.ytimg.com/vi/ND9eyW5Fw0s/maxresdefault.jpg) |2026-04-28 23:01:25<br>upandatom<br>[Could a TRILLION Monkeys Write Shakespeare Before the Universe Ends?](https://www.youtube.com/watch?v=ND9eyW5Fw0s)<br>[00:16:14] |
-|![](https://i.ytimg.com/vi/xXBKt775YJU/maxresdefault.jpg) |2026-04-28 21:12:44<br>@americanredact<br>[Dave Chappelle Just Destroyed His Career](https://www.youtube.com/watch?v=xXBKt775YJU)<br>[00:15:40] |
 |![](https://i.ytimg.com/vi/52N9haucjvc/maxresdefault.jpg) |2026-04-28 19:30:06<br>knowledgia<br>[The History of France &#124; From Revolution to WW1](https://www.youtube.com/watch?v=52N9haucjvc)<br>[00:33:03] |
 |![](https://i.ytimg.com/vi/o2qlxK6mz7w/maxresdefault.jpg) |2026-04-28 18:15:05<br>bryonyclaire<br>[We don't know what bodies are meant to look like anymore](https://www.youtube.com/watch?v=o2qlxK6mz7w)<br>[00:34:34] |
 |![](https://i.ytimg.com/vi/2CKBo0hJ0ts/maxresdefault.jpg) |2026-04-28 18:01:14<br>unsolicitedadvice9198<br>[How to Live a Meaningless Life &#124; Albert Camus and Absurdism](https://www.youtube.com/watch?v=2CKBo0hJ0ts)<br>[01:20:26] |
