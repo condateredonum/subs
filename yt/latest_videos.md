@@ -1,8 +1,9 @@
 -------------------
-# 2026-05-30 11:45:31
+# 2026-05-30 12:26:50
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/_psdU7V_wcM/maxresdefault.jpg) |2026-05-30 12:00:16<br>pensioncraft<br>[Late Starter's Guide to Investing: How to Catch Up When You're Behind](https://www.youtube.com/watch?v=_psdU7V_wcM)<br>[00:18:15] |
 |![](https://i.ytimg.com/vi/0PAXZX03ZAg/maxresdefault.jpg) |2026-05-30 11:18:51<br>nnnimroddd<br>[Rupert Lowe joke by Ian Hislop](https://www.youtube.com/watch?v=0PAXZX03ZAg)<br>[00:02:37] |
 |![](https://i.ytimg.com/vi/wgaeBEjX8CQ/maxresdefault.jpg) |2026-05-30 10:14:49<br>@realchris<br>[America can’t afford Elon Musk anymore](https://www.youtube.com/watch?v=wgaeBEjX8CQ)<br>[00:12:02] |
 |![](https://i.ytimg.com/vi/KizOhzS1NG0/maxresdefault.jpg) |2026-05-30 09:30:00<br>mathematrick<br>[Kannst du die Gleichung lösen? – Lineare Gleichung mit Brüchen](https://www.youtube.com/watch?v=KizOhzS1NG0)<br>[00:06:50] |
@@ -509,7 +510,6 @@
 |![](https://i.ytimg.com/vi/j2IDjYcm9Zo/maxresdefault.jpg) |2026-05-02 15:53:05<br>rationalityrules<br>[How to EXPOSE a Closet Fascist](https://www.youtube.com/watch?v=j2IDjYcm9Zo)<br>[00:30:01] |
 |![](https://i.ytimg.com/vi/wopcJoJIoJE/maxresdefault.jpg) |2026-05-02 14:01:47<br>robwords<br>[English has an opposites problem](https://www.youtube.com/watch?v=wopcJoJIoJE)<br>[00:20:00] |
 |![](https://i.ytimg.com/vi/rnW3Bq6_-6k/maxresdefault.jpg) |2026-05-02 14:00:06<br>@PBoyle<br>[Is Inflation About to Get Much Worse?](https://www.youtube.com/watch?v=rnW3Bq6_-6k)<br>[00:34:29] |
-|![](https://i.ytimg.com/vi/Ft2lvdVmeiQ/maxresdefault.jpg) |2026-05-02 12:00:22<br>pensioncraft<br>[Gold, Oil & Commodities: Is It Worth Investing?](https://www.youtube.com/watch?v=Ft2lvdVmeiQ)<br>[00:16:54] |
 |![](https://i.ytimg.com/vi/O6FaVMy_sTA/maxresdefault.jpg) |2026-05-02 05:40:24<br>jason.rebholz<br>[Morning Bytes with Stu, Jason and Violet](https://www.youtube.com/watch?v=O6FaVMy_sTA)<br>[00:30:17] |
 |![](https://i.ytimg.com/vi/kYkIdXwW2AE/maxresdefault.jpg) |2026-05-02 02:45:05<br>welchlabs<br>[Yann LeCun's $1B Bet Against LLMs](https://www.youtube.com/watch?v=kYkIdXwW2AE)<br>[00:37:25] |
 |![](https://i.ytimg.com/vi/z18S3pRs4nc/maxresdefault.jpg) |2026-05-02 01:01:09<br>spectacles-dm<br>[Why Lottery Elections are GENIUS](https://www.youtube.com/watch?v=z18S3pRs4nc)<br>[00:02:46] |
