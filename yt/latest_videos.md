@@ -1,8 +1,10 @@
 -------------------
-# 2026-05-31 11:53:32
+# 2026-05-31 12:44:31
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/OytsW-BMvVE/maxresdefault.jpg) |2026-05-31 12:24:56<br>goodtimesbadtimes<br>[Baltic Alliance vs. Russia: War Scenario 2034](https://www.youtube.com/watch?v=OytsW-BMvVE)<br>[01:10:17] |
+|![](https://i.ytimg.com/vi/oE-zKVL9Eso/maxresdefault.jpg) |2026-05-31 11:55:54<br>joeblogs<br>[Phantom of the Opera Afternoon Tea - WOW! What an Experience!](https://www.youtube.com/watch?v=oE-zKVL9Eso)<br>[00:30:08] |
 |![](https://i.ytimg.com/vi/UW87BDY3OwI/maxresdefault.jpg) |2026-05-31 11:47:39<br>timesofisrael<br>[After 26 years, IDF retakes Lebanon's Beaufort fortress](https://www.youtube.com/watch?v=UW87BDY3OwI)<br>[00:15:40] |
 |![](https://i.ytimg.com/vi/jD9WBhtE3F4/maxresdefault.jpg) |2026-05-31 11:35:14<br>friendlyjordies<br>[Hughesy Loses It](https://www.youtube.com/watch?v=jD9WBhtE3F4)<br>[01:50:59] |
 |![](https://i.ytimg.com/vi/RsWy6oYiS2M/maxresdefault.jpg) |2026-05-31 11:06:40<br>nnnimroddd<br>[McKinsey whistleblower story](https://www.youtube.com/watch?v=RsWy6oYiS2M)<br>[00:25:39] |
@@ -91,7 +93,6 @@
 |![](https://i.ytimg.com/vi/QQ93GUxcXss/maxresdefault.jpg) |2026-05-29 11:30:07<br>joeblogs<br>[RUSSIA Strikes NATO](https://www.youtube.com/watch?v=QQ93GUxcXss)<br>[00:10:13] |
 |![](https://i.ytimg.com/vi/oIAm3pVuhgI/maxresdefault.jpg) |2026-05-29 10:45:01<br>zeihanongeopolitics<br>[Can Iran Control Internet Cables in the Gulf? &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=oIAm3pVuhgI)<br>[00:04:04] |
 |![](https://i.ytimg.com/vi/yDsmvjKoQ0o/maxresdefault.jpg) |2026-05-29 10:00:11<br>timesofisrael<br>[What are the costs of Orthodox Judaism?](https://www.youtube.com/watch?v=yDsmvjKoQ0o)<br>[00:25:13] |
-|![](https://i.ytimg.com/vi/UVd_cuThPNw/maxresdefault.jpg) |2026-05-29 09:38:57<br>joeblogs<br>[14 Days Left to Win My Beach House or Cash Alternative & Support The Channel!](https://www.youtube.com/watch?v=UVd_cuThPNw)<br>[00:06:46] |
 |![](https://i.ytimg.com/vi/myQ4BWpyOps/maxresdefault.jpg) |2026-05-29 08:02:36<br>financialtimes<br>[Has Cuba’s economy collapsed? &#124; FT #shorts](https://www.youtube.com/watch?v=myQ4BWpyOps)<br>[00:02:32] |
 |![](https://i.ytimg.com/vi/8nwBjW9Ja9Q/maxresdefault.jpg) |2026-05-29 06:09:12<br>financialtimes<br>[Are consumers ready for humanoid robots?](https://www.youtube.com/watch?v=8nwBjW9Ja9Q)<br>[00:05:11] |
 |![](https://i.ytimg.com/vi/O4A3HhLXGMo/maxresdefault.jpg) |2026-05-29 05:32:56<br>coffeezillaextras<br>[confronting Patrick Bet-David](https://www.youtube.com/watch?v=O4A3HhLXGMo)<br>[00:27:39] |
