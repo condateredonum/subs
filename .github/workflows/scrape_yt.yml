@@ -9,7 +9,7 @@ on:
     - cron: '0 9 * * *'
     - cron: '0 16 * * *'
     - cron: '0 10-18/4 * * 6,0'
-
+ 
 permissions:
   contents: write 
 
