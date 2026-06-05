@@ -1,13 +1,13 @@
 -------------------
-# 2026-06-05 11:30:19
+# 2026-06-05 12:58:10
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/PN9sI2kS5os/maxresdefault.jpg) |2026-06-05 11:39:18<br>bloomberg_live<br>[VC Haun on Investing in the Frontiers of AI Agents](https://www.youtube.com/watch?v=PN9sI2kS5os)<br>[00:16:49] |
 |![](https://i.ytimg.com/vi/6-VM_CkLRjI/maxresdefault.jpg) |2026-06-05 11:28:53<br>bloomberg_live<br>[CA Senator Wiener on Regulating the Wild West of AI](https://www.youtube.com/watch?v=6-VM_CkLRjI)<br>[00:17:06] |
 |![](https://i.ytimg.com/vi/CaK1eNKF9nY/maxresdefault.jpg) |2026-06-05 11:28:34<br>bloomberg_live<br>[Broadcom CEO on the Biggest AI Chip Bets](https://www.youtube.com/watch?v=CaK1eNKF9nY)<br>[00:18:47] |
 |![](https://i.ytimg.com/vi/Qe2xRfAEo1k/maxresdefault.jpg) |2026-06-05 11:26:11<br>bloomberg_live<br>[Databricks CEO on Unifying Data & AI Agents](https://www.youtube.com/watch?v=Qe2xRfAEo1k)<br>[00:17:37] |
 |![](https://i.ytimg.com/vi/bO06SaZdnXs/maxresdefault.jpg) |2026-06-05 11:25:02<br>bloomberg_live<br>[Meta AI Chief Wang on Winning the Race in AI](https://www.youtube.com/watch?v=bO06SaZdnXs)<br>[00:20:24] |
-|![](https://i.ytimg.com/vi/P7WmthlIQyk/maxresdefault.jpg) |2026-06-05 11:24:51<br>bloomberg_live<br>[Schneider Electric Sponsor Spotlight](https://www.youtube.com/watch?v=P7WmthlIQyk)<br>[00:05:19] |
 |![](https://i.ytimg.com/vi/VYh2m6IcMvQ/maxresdefault.jpg) |2026-06-05 10:45:11<br>zeihanongeopolitics<br>[Ukrainian Strikes Disrupt the Russian Economic Summit &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=VYh2m6IcMvQ)<br>[00:04:17] |
 |![](https://i.ytimg.com/vi/L3hogY1AUIw/maxresdefault.jpg) |2026-06-05 10:30:18<br>@Israel_Advocacy<br>[I Caught A Muslim Faking Being Christian](https://www.youtube.com/watch?v=L3hogY1AUIw)<br>[00:02:09] |
 |![](https://i.ytimg.com/vi/hs63fddxWoE/maxresdefault.jpg) |2026-06-05 09:00:13<br>timesofisrael<br>[Why only Lebanon can drive Hezbollah out. But it won't](https://www.youtube.com/watch?v=hs63fddxWoE)<br>[00:29:32] |
@@ -161,7 +161,7 @@
 |![](https://i.ytimg.com/vi/2I_ikTdOCf4/maxresdefault.jpg) |2026-06-01 14:00:14<br>@susannahfriesenofficial<br>[TikTok Influencers Are Turning Their Weddings Into Content Farms... THEY'VE LOST THE PLOT!](https://www.youtube.com/watch?v=2I_ikTdOCf4)<br>[00:30:01] |
 |![](https://i.ytimg.com/vi/05_m6gyoS7g/maxresdefault.jpg) |2026-06-01 10:45:01<br>zeihanongeopolitics<br>[Ebola Outbreak and Delayed Detection by the U.S. &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=05_m6gyoS7g)<br>[00:04:02] |
 |![](https://i.ytimg.com/vi/6Ijh88JZ3Vg/maxresdefault.jpg) |2026-06-01 09:11:09<br>bbcstever<br>[The Russian newspaper article that disappeared.](https://www.youtube.com/watch?v=6Ijh88JZ3Vg)<br>[00:04:22] |
-|![](https://i.ytimg.com/vi/0fS9jJ66pdo/maxresdefault.jpg) |2026-06-01 08:59:10<br>@IzzySealey<br>[8 Books That Changed My Life](https://www.youtube.com/watch?v=0fS9jJ66pdo)<br>[00:19:40] |
+|![](https://i.ytimg.com/vi/0fS9jJ66pdo/maxresdefault.jpg) |2026-06-01 08:59:10<br>@IzzySealey<br>[My All-Time Favourite Books (out of 1000+ I've read)](https://www.youtube.com/watch?v=0fS9jJ66pdo)<br>[00:19:40] |
 |![](https://i.ytimg.com/vi/Ai7PE3CGlG4/maxresdefault.jpg) |2026-06-01 08:01:26<br>friendlyjordies<br>[Tinder Is So Bad](https://www.youtube.com/watch?v=Ai7PE3CGlG4)<br>[00:11:29] |
 |![](https://i.ytimg.com/vi/tIGYKNygtd0/maxresdefault.jpg) |2026-06-01 08:00:33<br>decodinggeopoliticspodcast<br>[Europe Has Reached a Breaking Point. The Race to Build a European Army Has Begun &#124; Reinier Lanschot](https://www.youtube.com/watch?v=tIGYKNygtd0)<br>[00:28:04] |
 |![](https://i.ytimg.com/vi/YxTg8QLTIOU/maxresdefault.jpg) |2026-06-01 03:32:57<br>felifromgermany<br>[Trump: "5,000 US Troops Leaving Germany" &#124; German Reactions & Consequences](https://www.youtube.com/watch?v=YxTg8QLTIOU)<br>[00:34:50] |
