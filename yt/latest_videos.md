@@ -1,10 +1,11 @@
 -------------------
-# 2026-06-06 08:39:29
+# 2026-06-06 10:10:26
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/ow-YXOlqd8w/maxresdefault.jpg) |2026-06-06 09:00:27<br>tobynewbatt<br>[Should You Buy the SpaceX IPO? Watch this First](https://www.youtube.com/watch?v=ow-YXOlqd8w)<br>[00:20:02] |
 |![](https://i.ytimg.com/vi/rZDhlGNUDGs/maxresdefault.jpg) |2026-06-06 06:33:41<br>@DenysDavydov<br>[Update from Ukraine &#124; Wow! Ukraine Strikes Petersburg Again Collapse of Rus Supplies Deepens](https://www.youtube.com/watch?v=rZDhlGNUDGs)<br>[00:13:06] |
-|![](https://i.ytimg.com/vi/Oo6CBqs0ZeU/maxresdefault.jpg) |2026-06-06 06:29:55<br>@atrioc<br>[The Worst Summer Games Fest](https://www.youtube.com/watch?v=Oo6CBqs0ZeU)<br>[00:33:06] |
+|![](https://i.ytimg.com/vi/Oo6CBqs0ZeU/maxresdefault.jpg) |2026-06-06 06:29:55<br>@atrioc<br>[This Was The Worst Summer Games Fest](https://www.youtube.com/watch?v=Oo6CBqs0ZeU)<br>[00:33:06] |
 |![](https://i.ytimg.com/vi/QgMeTkvirME/maxresdefault.jpg) |2026-06-06 05:33:48<br>jason.rebholz<br>[Morning Bytes with Stu, Jason and Violet](https://www.youtube.com/watch?v=QgMeTkvirME)<br>[00:30:48] |
 |![](https://i.ytimg.com/vi/CN9s7GVTt3o/sddefault.jpg) |2026-06-06 03:00:16<br>@penguinz0<br>[Freaking Out About Cheese](https://www.youtube.com/watch?v=CN9s7GVTt3o)<br>[00:11:46] |
 |![](https://i.ytimg.com/vi/ZLVJOoDNw44/maxresdefault.jpg) |2026-06-06 02:55:24<br>@realchris<br>[SpaceX just 100x their problems](https://www.youtube.com/watch?v=ZLVJOoDNw44)<br>[00:14:36] |
@@ -481,7 +482,6 @@
 |![](https://i.ytimg.com/vi/6DBvBCIhgYI/maxresdefault.jpg) |2026-05-13 12:14:05<br>letstalkreligion<br>[Was the Sana'a Manuscript a Practice Sheet?](https://www.youtube.com/watch?v=6DBvBCIhgYI)<br>[00:02:59] |
 |![](https://i.ytimg.com/vi/YejsikLDLF4/maxresdefault.jpg) |2026-05-12 22:08:21<br>@Shoe0nHead<br>["Men G00n to You!" Responding to Hasan's MELTDOWN About Me](https://www.youtube.com/watch?v=YejsikLDLF4)<br>[00:34:04] |
 |![](https://i.ytimg.com/vi/VXoGWnyjpfM/maxresdefault.jpg) |2026-05-12 20:05:52<br>@AshleyEmbers<br>[It’s not Gen Z’s return to traditionalism, it’s a trauma response 🙂](https://www.youtube.com/watch?v=VXoGWnyjpfM)<br>[00:31:50] |
-|![](https://i.ytimg.com/vi/R71ucLZJKao/maxresdefault.jpg) |2026-05-12 18:00:24<br>tobynewbatt<br>[Vanguard Portfolio Update - May 2026](https://www.youtube.com/watch?v=R71ucLZJKao)<br>[00:14:30] |
 |![](https://i.ytimg.com/vi/COBWitClyEM/maxresdefault.jpg) |2026-05-12 18:00:16<br>bryonyclaire<br>[The boy mom to manchild pipeline 👀💙](https://www.youtube.com/watch?v=COBWitClyEM)<br>[00:36:07] |
 |![](https://i.ytimg.com/vi/GVjcJreh0Po/maxresdefault.jpg) |2026-05-12 16:00:34<br>discoverconnection<br>[I Can't Leave Morocco Until I Cook Dinner for a Stranger](https://www.youtube.com/watch?v=GVjcJreh0Po)<br>[00:34:08] |
 |![](https://i.ytimg.com/vi/gbfNRfPy-ds/maxresdefault.jpg) |2026-05-12 09:00:39<br>@1420channel<br>[All Russian Regions Explained](https://www.youtube.com/watch?v=gbfNRfPy-ds)<br>[00:17:46] |
