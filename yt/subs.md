@@ -496,13 +496,15 @@
 
 [The Times of Israel](https://www.youtube.com/channel/UCKM3VQFIITaRegPDkLlLeKA)
 
-[The US-China Narrative](https://www.youtube.com/channel/UCcMZNdMHbuJ3ShI6tyK5k0g)
+<!-- [The US-China Narrative](https://www.youtube .com/channel/ UCcMZNdMHbuJ3ShI6tyK5k0g) -->
 
-[TheInternetReviewed](https://www.youtube.com/channel/UCQFXq97bgp86MMny1f-oYFA)
+[The Internet Reviewed](https://www.youtube.com/channel/UCQFXq97bgp86MMny1f-oYFA)
 
 [Thomas Flight](https://www.youtube.com/channel/UCUyvQV2JsICeLZP4c_h40kA)
 
 [thought bug](https://www.youtube.com/@thought_bug/videos)
+
+[The Thought Spot](https://www.youtube.com/@thethoughtspot222)
 
 [Tiffany Ferg](https://www.youtube.com/@tiffanyferg/videos)
 
