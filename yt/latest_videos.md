@@ -1,8 +1,11 @@
 -------------------
-# 2026-06-07 18:10:11
+# 2026-06-07 19:11:43
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/nB5sc8dnohY/maxresdefault_live.jpg) |2026-06-07 18:49:08<br>@YishaiFleisherTV<br>[🚨WAR ON ALL FRONTS: Round-Up with Yishai and Malkah Fleisher](https://www.youtube.com/watch?v=nB5sc8dnohY)<br>[01:48:58] |
+|![](https://i.ytimg.com/vi/kh8HHrlb1VI/maxresdefault.jpg) |2026-06-07 18:38:16<br>@realchris<br>[Trump just ran away in rage quit interview](https://www.youtube.com/watch?v=kh8HHrlb1VI)<br>[00:13:06] |
+|![](https://i.ytimg.com/vi/UGoB_dtZg5M/maxresdefault.jpg) |2026-06-07 18:29:29<br>knowledgia<br>[How were Maps Made Before GPS and Satellites? - Explained in 20 Minutes](https://www.youtube.com/watch?v=UGoB_dtZg5M)<br>[00:19:19] |
 |![](https://i.ytimg.com/vi/joNZo56LwGE/maxresdefault.jpg) |2026-06-07 18:06:46<br>@justtree411<br>[More Bad News For Liz and Clavicular Losing Clout](https://www.youtube.com/watch?v=joNZo56LwGE)<br>[02:02:43] |
 |![](https://i.ytimg.com/vi/xJt5CBmypbo/maxresdefault.jpg) |2026-06-07 18:00:37<br>prestonstewart<br>[Russia Scrambles to Stop Ukrainian Drone Surge](https://www.youtube.com/watch?v=xJt5CBmypbo)<br>[00:14:45] |
 |![](https://i.ytimg.com/vi/iSrt8PBq-ts/maxresdefault.jpg) |2026-06-07 18:00:09<br>@jubilee<br>[Dean, Parker, Matt and Dennis discuss Iran #iran #politics #roundtable #jubilee](https://www.youtube.com/watch?v=iSrt8PBq-ts)<br>[00:02:18] |
@@ -66,7 +69,6 @@
 |![](https://i.ytimg.com/vi/OTUIRrG2JJA/maxresdefault.jpg) |2026-06-06 13:45:21<br>zeihanongeopolitics<br>[The Future of Drone Tech: Long-Range Strikes &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=OTUIRrG2JJA)<br>[00:06:55] |
 |![](https://i.ytimg.com/vi/qROG2uXPChY/maxresdefault.jpg) |2026-06-06 13:45:06<br>@PBoyle<br>[When a Housing Boom Turns to Bust](https://www.youtube.com/watch?v=qROG2uXPChY)<br>[00:28:30] |
 |![](https://i.ytimg.com/vi/8bILE_RaeBQ/maxresdefault.jpg) |2026-06-06 13:32:47<br>bundeswehr<br>[Der Tag der Bundeswehr 2026 &#124; Voller Livestream &#124; Bundeswehr](https://www.youtube.com/watch?v=8bILE_RaeBQ)<br>[02:14:01] |
-|![](https://i.ytimg.com/vi/XNICYKKyeN4/maxresdefault.jpg) |2026-06-06 12:35:31<br>@realchris<br>[They're building a place to run](https://www.youtube.com/watch?v=XNICYKKyeN4)<br>[00:11:05] |
 |![](https://i.ytimg.com/vi/pO2UzmYq_0U/maxresdefault.jpg) |2026-06-06 12:00:21<br>pensioncraft<br>[SpaceX IPO: The Hidden Risk for Passive Investors](https://www.youtube.com/watch?v=pO2UzmYq_0U)<br>[00:15:27] |
 |![](https://i.ytimg.com/vi/ow-YXOlqd8w/maxresdefault.jpg) |2026-06-06 09:00:27<br>tobynewbatt<br>[Should You Buy the SpaceX IPO? You Don't Have A Choice.](https://www.youtube.com/watch?v=ow-YXOlqd8w)<br>[00:20:02] |
 |![](https://i.ytimg.com/vi/rZDhlGNUDGs/maxresdefault.jpg) |2026-06-06 06:33:41<br>@DenysDavydov<br>[Update from Ukraine &#124; Wow! Ukraine Strikes Petersburg Again Collapse of Rus Supplies Deepens](https://www.youtube.com/watch?v=rZDhlGNUDGs)<br>[00:13:06] |
@@ -104,7 +106,6 @@
 |![](https://i.ytimg.com/vi/6-VM_CkLRjI/maxresdefault.jpg) |2026-06-05 11:28:53<br>bloomberg_live<br>[CA Senator Wiener on Regulating the Wild West of AI](https://www.youtube.com/watch?v=6-VM_CkLRjI)<br>[00:17:06] |
 |![](https://i.ytimg.com/vi/VYh2m6IcMvQ/maxresdefault.jpg) |2026-06-05 10:45:11<br>zeihanongeopolitics<br>[Ukrainian Strikes Disrupt the Russian Economic Summit &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=VYh2m6IcMvQ)<br>[00:04:17] |
 |![](https://i.ytimg.com/vi/L3hogY1AUIw/maxresdefault.jpg) |2026-06-05 10:30:18<br>@Israel_Advocacy<br>[I Caught A Muslim Faking Being Christian](https://www.youtube.com/watch?v=L3hogY1AUIw)<br>[00:02:09] |
-|![](https://i.ytimg.com/vi/hs63fddxWoE/maxresdefault.jpg) |2026-06-05 09:00:13<br>timesofisrael<br>[Why only Lebanon can drive Hezbollah out. But it won't](https://www.youtube.com/watch?v=hs63fddxWoE)<br>[00:29:32] |
 |![](https://i.ytimg.com/vi/MqB6F-5eRUo/maxresdefault.jpg) |2026-06-05 08:15:00<br>financialtimes<br>[Is Russia losing the war in Ukraine? &#124; FT #shorts](https://www.youtube.com/watch?v=MqB6F-5eRUo)<br>[00:02:13] |
 |![](https://i.ytimg.com/vi/JAcVL44sYpU/maxresdefault.jpg) |2026-06-05 07:34:21<br>friendlyjordies<br>[Friendship Ended Between Trump and Netanyahu](https://www.youtube.com/watch?v=JAcVL44sYpU)<br>[00:59:23] |
 |![](https://i.ytimg.com/vi/GwyFRd0VhCA/maxresdefault.jpg) |2026-06-05 06:32:13<br>@DenysDavydov<br>[Update from Ukraine &#124; Great! Donetsk Airport Drone Base Ambushed Frontline Details](https://www.youtube.com/watch?v=GwyFRd0VhCA)<br>[00:15:41] |
@@ -542,7 +543,6 @@
 |![](https://i.ytimg.com/vi/CDAloiVQP_4/maxresdefault.jpg) |2026-05-05 18:31:48<br>bryonyclaire<br>[The Devil Wears Prada and the False Promise of the Girlboss](https://www.youtube.com/watch?v=CDAloiVQP_4)<br>[00:38:48] |
 |![](https://i.ytimg.com/vi/BETHWKaXX4k/maxresdefault.jpg) |2026-05-05 17:00:17<br>jaredbauer<br>[27 Years Later I Finally Understand The Matrix](https://www.youtube.com/watch?v=BETHWKaXX4k)<br>[00:19:06] |
 |![](https://i.ytimg.com/vi/jgSqY4sHIyE/maxresdefault.jpg) |2026-05-05 16:00:49<br>anawallacejohnson<br>[The most personal I'll ever get on this channel... (100k Q&A)](https://www.youtube.com/watch?v=jgSqY4sHIyE)<br>[01:04:33] |
-|![](https://i.ytimg.com/vi/aULlMbI5m-w/maxresdefault.jpg) |2026-05-05 15:56:22<br>knowledgia<br>[What Happened After The Revolution? &#124; How was America Formed](https://www.youtube.com/watch?v=aULlMbI5m-w)<br>[01:03:09] |
 |![](https://i.ytimg.com/vi/GZPYzIBF8ZI/maxresdefault.jpg) |2026-05-05 12:59:37<br>@jordanatheresa<br>[The unique baby names epidemic](https://www.youtube.com/watch?v=GZPYzIBF8ZI)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/4AMROZq9pMY/maxresdefault.jpg) |2026-05-04 22:00:09<br>@RobsMedia25<br>[Idiot Influencers - Xanderhal](https://www.youtube.com/watch?v=4AMROZq9pMY)<br>[01:26:00] |
 |![](https://i.ytimg.com/vi/FT6IKKwe7YQ/maxresdefault.jpg) |2026-05-04 19:06:04<br>@Tom_Nicholas<br>[Is the Global Right Cooked?](https://www.youtube.com/watch?v=FT6IKKwe7YQ)<br>[00:25:38] |
