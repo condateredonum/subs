@@ -1,8 +1,9 @@
 -------------------
-# 2026-06-09 12:54:45
+# 2026-06-09 13:11:03
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/mnuuMttlBfQ/maxresdefault.jpg) |2026-06-09 12:54:28<br>nnnimroddd<br>[Johno Verity interviews Antoinette Fernandez](https://www.youtube.com/watch?v=mnuuMttlBfQ)<br>[00:02:23] |
 |![](https://i.ytimg.com/vi/RB3-WvrwnHU/maxresdefault.jpg) |2026-06-09 12:06:10<br>timesofisrael<br>[Between a rocket and a hard place: PM faces Trumpian dilemma](https://www.youtube.com/watch?v=RB3-WvrwnHU)<br>[00:29:58] |
 |![](https://i.ytimg.com/vi/46eWk1umhSM/maxresdefault.jpg) |2026-06-09 11:00:32<br>@ramitsethi<br>["We’re worth $4M. Why is she so terrified to spend?"](https://www.youtube.com/watch?v=46eWk1umhSM)<br>[01:54:30] |
 |![](https://i.ytimg.com/vi/hm3o5lmPQ6U/maxresdefault.jpg) |2026-06-09 10:48:16<br>@realchris<br>[Elon's SpaceX IPO pitch doesn't add up](https://www.youtube.com/watch?v=hm3o5lmPQ6U)<br>[00:25:37] |
@@ -108,7 +109,6 @@
 |![](https://i.ytimg.com/vi/YwH--AzknGM/maxresdefault.jpg) |2026-06-06 18:00:31<br>@MichelJanse<br>[VLOG: host a san diego bachelorette with me! (EVEN THOUGH I WAS DOWN BAD)](https://www.youtube.com/watch?v=YwH--AzknGM)<br>[00:21:38] |
 |![](https://i.ytimg.com/vi/pVpDU9C2A30/maxresdefault.jpg) |2026-06-06 18:00:11<br>prestonstewart<br>[Ukraine Is Quietly Cutting Off Crimea](https://www.youtube.com/watch?v=pVpDU9C2A30)<br>[00:14:17] |
 |![](https://i.ytimg.com/vi/rcfxIMgcFCg/maxresdefault.jpg) |2026-06-06 17:34:09<br>nnnimroddd<br>[Knicks robot outside MSG](https://www.youtube.com/watch?v=rcfxIMgcFCg)<br>[00:09:05] |
-|![](https://i.ytimg.com/vi/6fQV62cygJI/maxresdefault.jpg) |2026-06-06 17:18:16<br>nnnimroddd<br>[Fonie Mitsopoulou reads 'An account of the one time our village went to war' (short story)](https://www.youtube.com/watch?v=6fQV62cygJI)<br>[00:07:38] |
 |![](https://i.ytimg.com/vi/owpVkF1_jbk/maxresdefault.jpg) |2026-06-06 17:15:00<br>@GirlGoneLondonofficial<br>[7 Ways UK and USA Refrigerators are Very Different](https://www.youtube.com/watch?v=owpVkF1_jbk)<br>[00:06:48] |
 |![](https://i.ytimg.com/vi/KwUndNzZVkw/maxresdefault.jpg) |2026-06-06 17:01:10<br>@1420channel<br>[What's the minimum height of a man you’d consider for dating? 100 women answered.](https://www.youtube.com/watch?v=KwUndNzZVkw)<br>[00:08:14] |
 |![](https://i.ytimg.com/vi/G0xl0oIjKB4/maxresdefault.jpg) |2026-06-06 16:36:31<br>@hankschannel<br>[Medical Research is Going SciFi](https://www.youtube.com/watch?v=G0xl0oIjKB4)<br>[00:29:36] |
@@ -136,7 +136,6 @@
 |![](https://i.ytimg.com/vi/CYKc3YFcsnE/maxresdefault.jpg) |2026-06-05 21:15:13<br>realeismanplaybook<br>[SpaceX's Exploding Capex, AI Addiction Lawsuits, and the Reality of "TokenMaxxing" &#124; The Weekly Wrap](https://www.youtube.com/watch?v=CYKc3YFcsnE)<br>[00:22:21] |
 |![](https://i.ytimg.com/vi/CkAhH_DiDKY/maxresdefault.jpg) |2026-06-05 21:00:14<br>@LemonadeStandPodcast<br>[What's the Anti-Weaponization Fund for?](https://www.youtube.com/watch?v=CkAhH_DiDKY)<br>[00:02:20] |
 |![](https://i.ytimg.com/vi/v-z_veCntO4/maxresdefault.jpg) |2026-06-05 20:00:55<br>@hutch<br>[Interviewing Senator Mallory McMorrow](https://www.youtube.com/watch?v=v-z_veCntO4)<br>[00:48:55] |
-|![](https://i.ytimg.com/vi/iD9yca2Qnbw/maxresdefault.jpg) |2026-06-05 19:58:22<br>nnnimroddd<br>[Restore Britain Sky News report - Makerfield by-election June 2026](https://www.youtube.com/watch?v=iD9yca2Qnbw)<br>[00:03:57] |
 |![](https://i.ytimg.com/vi/rlDrBtOrTM8/maxresdefault.jpg) |2026-06-05 19:51:27<br>bloomberg_live<br>[Bloomberg Editors on Tech Trends](https://www.youtube.com/watch?v=rlDrBtOrTM8)<br>[00:23:29] |
 |![](https://i.ytimg.com/vi/04t7LZthGoc/maxresdefault.jpg) |2026-06-05 19:06:01<br>rationalityrules<br>[How to Debate Someone With No Principles](https://www.youtube.com/watch?v=04t7LZthGoc)<br>[00:39:09] |
 |![](https://i.ytimg.com/vi/LVRxzJDsmQs/maxresdefault.jpg) |2026-06-05 18:09:32<br>@alyssadgrenfell<br>[Hulu’s Mormon Cash Grab Makes NO SENSE](https://www.youtube.com/watch?v=LVRxzJDsmQs)<br>[01:18:32] |
@@ -234,7 +233,7 @@
 |![](https://i.ytimg.com/vi/jOFL0Ix67n8/maxresdefault.jpg) |2026-06-01 15:42:34<br>moon-real<br>[Germany Is Collapsing And No One Is Allowed To Say It](https://www.youtube.com/watch?v=jOFL0Ix67n8)<br>[00:21:16] |
 |![](https://i.ytimg.com/vi/2I_ikTdOCf4/maxresdefault.jpg) |2026-06-01 14:00:14<br>@susannahfriesenofficial<br>[TikTok Influencers Are Turning Their Weddings Into Content Farms... THEY'VE LOST THE PLOT!](https://www.youtube.com/watch?v=2I_ikTdOCf4)<br>[00:30:01] |
 |![](https://i.ytimg.com/vi/6Ijh88JZ3Vg/maxresdefault.jpg) |2026-06-01 09:11:09<br>bbcstever<br>[The Russian newspaper article that disappeared.](https://www.youtube.com/watch?v=6Ijh88JZ3Vg)<br>[00:04:22] |
-|![](https://i.ytimg.com/vi/0fS9jJ66pdo/maxresdefault.jpg) |2026-06-01 08:59:10<br>@IzzySealey<br>[8 Most Life-Changing Books (from my 1000+ book journey)](https://www.youtube.com/watch?v=0fS9jJ66pdo)<br>[00:19:40] |
+|![](https://i.ytimg.com/vi/0fS9jJ66pdo/maxresdefault.jpg) |2026-06-01 08:59:10<br>@IzzySealey<br>[I've read 1000+ books, these 8 changed my life](https://www.youtube.com/watch?v=0fS9jJ66pdo)<br>[00:19:40] |
 |![](https://i.ytimg.com/vi/Ai7PE3CGlG4/maxresdefault.jpg) |2026-06-01 08:01:26<br>friendlyjordies<br>[Tinder Is So Bad](https://www.youtube.com/watch?v=Ai7PE3CGlG4)<br>[00:11:29] |
 |![](https://i.ytimg.com/vi/tIGYKNygtd0/maxresdefault.jpg) |2026-06-01 08:00:33<br>decodinggeopoliticspodcast<br>[Europe Has Reached a Breaking Point. The Race to Build a European Army Has Begun &#124; Reinier Lanschot](https://www.youtube.com/watch?v=tIGYKNygtd0)<br>[00:28:04] |
 |![](https://i.ytimg.com/vi/YxTg8QLTIOU/maxresdefault.jpg) |2026-06-01 03:32:57<br>felifromgermany<br>[Trump: "5,000 US Troops Leaving Germany" &#124; German Reactions & Consequences](https://www.youtube.com/watch?v=YxTg8QLTIOU)<br>[00:34:50] |
