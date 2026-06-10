@@ -1,12 +1,12 @@
 -------------------
-# 2026-06-10 13:16:07
+# 2026-06-10 13:31:01
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/kmp8yQCPTBI/maxresdefault.jpg) |2026-06-10 13:28:37<br>financialtimes<br>[The Porto Santo model: a small island’s renewable energy journey &#124; FT Energy Source](https://www.youtube.com/watch?v=kmp8yQCPTBI)<br>[00:04:37] |
 |![](https://i.ytimg.com/vi/5y6rpMtCGk4/maxresdefault.jpg) |2026-06-10 12:53:18<br>@miarosemcgrath<br>[Why I don’t use a financial advisor](https://www.youtube.com/watch?v=5y6rpMtCGk4)<br>[00:02:23] |
 |![](https://i.ytimg.com/vi/Jhn5Zz6FyGs/maxresdefault.jpg) |2026-06-10 12:30:35<br>@hutch<br>[Defending "Blue No Matter Who" in FULLY DERANGED Debate Panel](https://www.youtube.com/watch?v=Jhn5Zz6FyGs)<br>[01:56:27] |
 |![](https://i.ytimg.com/vi/FLR2S73T7-I/maxresdefault.jpg) |2026-06-10 12:30:04<br>japanesewhoyuta<br>[$17.5k Traditional 10-Room Akiya vs $13.7k Ocean View Akiya in Okayama 【Rural Japan Series 🇯🇵】](https://www.youtube.com/watch?v=FLR2S73T7-I)<br>[00:15:23] |
-|![](https://i.ytimg.com/vi/qvmi4U1gkmc/maxresdefault.jpg) |2026-06-10 12:07:06<br>financialtimes<br>[The Porto Santo model: a small island’s renewable energy journey &#124; FT Energy Source](https://www.youtube.com/watch?v=qvmi4U1gkmc)<br>[00:04:37] |
 |![](https://i.ytimg.com/vi/Coe_zcGueA4/maxresdefault.jpg) |2026-06-10 11:04:56<br>anderspuck<br>[Ukraine's drone war is isolating Crimea](https://www.youtube.com/watch?v=Coe_zcGueA4)<br>[00:10:42] |
 |![](https://i.ytimg.com/vi/FOif_C4PVXo/maxresdefault.jpg) |2026-06-10 10:57:43<br>@DenysDavydov<br>[Update from Ukraine &#124; Awesome! Ukraine Cut Supplies and Counterattacks in Lyman](https://www.youtube.com/watch?v=FOif_C4PVXo)<br>[00:18:36] |
 |![](https://i.ytimg.com/vi/D3467GJaQaw/maxresdefault.jpg) |2026-06-10 10:45:23<br>zeihanongeopolitics<br>[Insulating the President with Loyalists &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=D3467GJaQaw)<br>[00:03:12] |
