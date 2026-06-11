@@ -10,12 +10,12 @@ from utils import (
     api_get_video_duration,
     save_to_md
 )
+
 def get_channel_info(channel_info_file_path):
     """Fetch the Username and Uploads Playlist ID associated."""
     print('\nRunning: get_channel_info')
     with open(channel_info_file_path, 'r') as file:
         data = json.load(file)
-
         return data
 
 def get_latest_videos(channel_data):
@@ -24,11 +24,12 @@ def get_latest_videos(channel_data):
     all_videos = []
 
     for channel in channel_data:
+        print(f'='*10)
         username = channel['username']
-        print(f'Username: {username}')
+        print(f'Username: \t{username}')
 
         uploads_playlist_id = channel['uploads_playlist_id']
-        print(f'Uploads ID: {uploads_playlist_id}')
+        print(f'Uploads ID: \t{uploads_playlist_id}')
 
         try:
             playlist_response = api_get_playlist_items(uploads_playlist_id)
@@ -83,6 +84,7 @@ if __name__ == "__main__":
     channel_data = get_channel_info(channel_info_file_path)
 
     all_videos = get_latest_videos(channel_data)
+
 
     output_path='yt/markdowns/latest_videos.md'
     save_to_md(all_videos, file_path=output_path)
