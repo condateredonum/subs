@@ -48,9 +48,9 @@
 
 <!--[Bald Max](https://www.youtube.com/channel/  UCPYwJpuqtT_84Q-0xAe0CzQ)-->
 
-[Battles and Beers: War Stories](https://www.youtube.com/channel/UCz0M8zLRyU2kLd8rTjUkc_w)
+<!--[Battles and Beers: War Stories](https://www.youtube.com/ channel/ UCz0M8zLRyU2kLd8rTjUkc_w)-->
 
-[beacebrocess](https://www.youtube.com/channel/UCfupW8CFHKZ03TQuXQZT6Iw)
+<!--[beacebrocess](https://www.youtube.com/ channel/ UCfupW8CFHKZ03TQuXQZT6Iw)-->
 
 [becauseimmissy](https://www.youtube.com/channel/UCkTfLxwUYhLdy60HDhbya2A)
 
@@ -68,7 +68,7 @@
 
 [Bridges Podcast](https://www.youtube.com/channel/UCSNBahoyPlMUz-3U2e_Czcw)
 
-[Brit Monkey](https://www.youtube.com/@BritMonkey/videos)
+<!--[Brit Monkey](https://www.youtube.com/ @BritMonkey/ videos)-->
 
 [Brooke Cormier](https://www.youtube.com/@b-cormier/videos)
 
@@ -88,7 +88,7 @@
 
 [CaspianReport](https://www.youtube.com/channel/UCwnKziETDbHJtx78nIkfYug)
 
-[Casey Simpson](https://www.youtube.com/@caseysimpsonchannel/videos)
+<!--[Casey Simpson](https://www.youtube.com/ @ caseysimpsonchannel/videos)-->
 
 [Casual Finance](https://www.youtube.com/@CasuallyFinance/videos)
 
@@ -184,7 +184,7 @@
 
 [Ghost Gum](https://www.youtube.com/@GhostGum/videos)
 
-[Girl Gone London](https://www.youtube.com/@GirlGoneLondonofficial/videos)
+<!--[Girl Gone London](https://www.youtube.com / @ GirlGoneLondonofficial /videos)-->
 
 [Good Times Bad Times](https://www.youtube.com/channel/UCXW9oUSOwt7mcTT5d_5hQcA)
 
@@ -244,7 +244,7 @@
 
 [Joe Grand](https://www.youtube.com/channel/UCqGONXW1ORgz5Y4qK-0JdkQ)
 
-[Johnny Harris](https://www.youtube.com/channel/UCmGSJVG3mCRXVOP4yZrU1Dw)
+<!--[Johnny Harris](https://www.youtube.com / channel / UCmGSJVG3mCRXVOP4yZrU1Dw)-->
 
 [Jonathan Tam](https://www.youtube.com/@DrJonathanTam)
 
@@ -300,7 +300,7 @@
 
 [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 
-[Majesty of Reason](https://www.youtube.com/channel/UCvWRKmcplBTYQS49AVGsLgw)
+<!--[Majesty of Reason](https://www.youtube.com/ channel / UCvWRKmcplBTYQS49AVGsLgw)-->
 
 [Maneetpaul Singh](https://www.youtube.com/channel/UCC-eP3EYHMwsT1Qpn7zgg4g)
 
@@ -371,8 +371,6 @@
 [oliSUNvia](https://www.youtube.com/@oliSUNvia/videos)
 
 [Oompaville](https://www.youtube.com/@oompaville/videos)
-
-[Ottilie](https://www.youtube.com/@Ottilie/videos)
 
 [OverSimplified](https://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A)
 
@@ -450,7 +448,7 @@
 
 [ShiraShiraOnTheWall](https://www.youtube.com/channel/UCcw7PtnCzJJrvQEXbmM96mg)
 
-[Shoe0nHead](https://www.youtube.com/@Shoe0nHead/videos)
+<!--[Shoe0nHead](https://www.youtube.com / @Shoe0nHead /videos)-->
 
 [Sierra LaDuke](https://www.youtube.com/@sierraladuke/videos)
 
@@ -492,7 +490,7 @@
 
 [The Rest Is Politics US](https://www.youtube.com/channel/UCII84rxnNkEjtk1zC3qTtbg)
 
-[The Roman Orthodox](https://www.youtube.com/channel/UCk5T2YLjYI6nxV4ZTXUVdVg)
+<!--[The Roman Orthodox](https://www.youtube.com/ channel / UCk5T2YLjYI6nxV4ZTXUVdVg)-->
 
 [The Times of Israel](https://www.youtube.com/channel/UCKM3VQFIITaRegPDkLlLeKA)
 
