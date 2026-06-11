@@ -112,7 +112,7 @@ def api_get_playlist_items(uploads_playlist_id, num_videos=5):
 
     return playlist_response
 
-def save_to_md(all_videos, file_path='yt/latest.md'):
+def save_to_md(all_videos, file_path='yt/markdowns/latest.md'):
     """Save scraped video data to a Markdown file with a timestamp."""
 
     # Get the current timestamp
