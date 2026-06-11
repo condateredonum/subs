@@ -53,6 +53,9 @@ def fetch_channel_info(username):
             uploads_playlist_id = data['items'][0]['contentDetails']['relatedPlaylists']['uploads']
             print(f'Uploads id: {uploads_playlist_id}')
             return channel_id, uploads_playlist_id
+    if response.status_code == 403:
+        print('403: Rate limit exceeded.')
+        return None
     
     return None
 
@@ -81,6 +84,9 @@ def fetch_channel_info_by_id(channel_id):
             custom_url = data['items'][0]['snippet'].get('customUrl', '')
             username = custom_url.lstrip('@') if custom_url.startswith('@') else ''
             return channel_id, uploads_playlist_id, username
+    if response.status_code == 403:
+        print('403: Rate limit exceeded.')
+        return None
     
     return None
 
