@@ -163,8 +163,9 @@ def main(md_file_path, output_file):
             continue
     
     # Remove existing entries for the channels being updated (by channel_id)
-    existing_data = [entry for entry in existing_data if entry.get('channel_id') not in processed_identifiers]
-    
+    # existing_data = [entry for entry in existing_data if entry.get('channel_id') not in processed_identifiers]
+    existing_data = channel_ids 
+
     # Add updated channel entries to existing_data
     existing_data.extend(channel_ids)
     
