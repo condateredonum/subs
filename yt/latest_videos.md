@@ -1,5 +1,5 @@
 -------------------
-# 2026-06-11 17:38:33
+# 2026-06-11 17:49:46
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -214,6 +214,7 @@
 |![](https://i.ytimg.com/vi/04t7LZthGoc/maxresdefault.jpg) |2026-06-05 19:06:01<br>rationalityrules<br>[How to Debate Someone With No Principles](https://www.youtube.com/watch?v=04t7LZthGoc)<br>[00:39:09] |
 |![](https://i.ytimg.com/vi/iC-gNTfpFsA/maxresdefault.jpg) |2026-06-05 18:00:24<br>chrispalmer24<br>[Inside my £500k Portfolio: Everything I Own & Why](https://www.youtube.com/watch?v=iC-gNTfpFsA)<br>[00:20:15] |
 |![](https://i.ytimg.com/vi/j6r4t0dtFV8/maxresdefault.jpg) |2026-06-05 18:00:15<br>@PodcastCringe<br>[Joe Rogan Thinks You’re Stupid](https://www.youtube.com/watch?v=j6r4t0dtFV8)<br>[00:21:37] |
+|![](https://i.ytimg.com/vi/RWQwhjrIZ-0/maxresdefault.jpg) |2026-06-05 18:00:06<br>@thethoughtspot222<br>[Why "I Shouldn't Have to Ask" Doesn't Work for Autistic People](https://www.youtube.com/watch?v=RWQwhjrIZ-0)<br>[00:23:37] |
 |![](https://i.ytimg.com/vi/qVT_KZc631U/sddefault.jpg) |2026-06-05 17:00:30<br>orthodoxkyle<br>[Kyle Answers 63 THEOLOGY Questions](https://www.youtube.com/watch?v=qVT_KZc631U)<br>[01:08:23] |
 |![](https://i.ytimg.com/vi/wAs5bAW3Rqk/maxresdefault.jpg) |2026-06-05 17:00:19<br>@theantibot<br>[christian and atheist tiktok are at war over "hairspray girl"](https://www.youtube.com/watch?v=wAs5bAW3Rqk)<br>[00:52:48] |
 |![](https://i.ytimg.com/vi/37aKsCtTR9M/maxresdefault.jpg) |2026-06-05 16:29:19<br>redeemed_zoomer<br>[What we can LEARN from each Christian denomination](https://www.youtube.com/watch?v=37aKsCtTR9M)<br>[00:16:57] |
@@ -322,6 +323,7 @@
 |![](https://i.ytimg.com/vi/Ey1N3lzIm7c/maxresdefault.jpg) |2026-05-29 19:15:39<br>religionforbreakfast<br>[How Plato Changed Christian Theology](https://www.youtube.com/watch?v=Ey1N3lzIm7c)<br>[00:21:25] |
 |![](https://i.ytimg.com/vi/0cbTUvIu298/sddefault.jpg) |2026-05-29 19:15:09<br>toldinstone<br>[How a Forged Roman Book Remade Christianity](https://www.youtube.com/watch?v=0cbTUvIu298)<br>[00:10:23] |
 |![](https://i.ytimg.com/vi/5nvsDmwZWdM/maxresdefault.jpg) |2026-05-29 19:15:06<br>@PBoyle<br>[This Is Probably Fine!](https://www.youtube.com/watch?v=5nvsDmwZWdM)<br>[00:32:04] |
+|![](https://i.ytimg.com/vi/z7JGqzljGkc/maxresdefault.jpg) |2026-05-29 18:00:06<br>@thethoughtspot222<br>[Why "Pretty Privilege" is a Curse When You're Autistic](https://www.youtube.com/watch?v=z7JGqzljGkc)<br>[00:17:33] |
 |![](https://i.ytimg.com/vi/xyyvs6vn1qw/maxresdefault.jpg) |2026-05-29 17:30:18<br>unsolicitedadvice9198<br>[Answering your personal and philosophical questions &#124; 900k QnA](https://www.youtube.com/watch?v=xyyvs6vn1qw)<br>[01:29:28] |
 |![](https://i.ytimg.com/vi/mR4eOVo126Y/maxresdefault.jpg) |2026-05-29 17:00:20<br>theplainbagel<br>[AI Is Giving Financial Advice Now](https://www.youtube.com/watch?v=mR4eOVo126Y)<br>[00:19:26] |
 |![](https://i.ytimg.com/vi/PzPVUjEq6Cg/sddefault.jpg) |2026-05-29 17:00:06<br>bookswithemilyfox<br>[Reading Some of the Best Books of All Time… Are They Worth the Hype?](https://www.youtube.com/watch?v=PzPVUjEq6Cg)<br>[00:19:23] |
@@ -426,6 +428,7 @@
 |![](https://i.ytimg.com/vi/dWd5sJ3Ay-U/sddefault.jpg) |2026-05-22 20:00:11<br>officialbeyondtheblue<br>[The Most Terrifying Squid That Ever Lived](https://www.youtube.com/watch?v=dWd5sJ3Ay-U)<br>[00:18:10] |
 |![](https://i.ytimg.com/vi/a84J54i_na8/maxresdefault.jpg) |2026-05-22 19:00:01<br>acollierastro<br>[Wrath of Khan is a bad movie](https://www.youtube.com/watch?v=a84J54i_na8)<br>[00:51:57] |
 |![](https://i.ytimg.com/vi/f0F8941WhF8/maxresdefault.jpg) |2026-05-22 18:00:39<br>@RachelOates<br>[Is this the WORST horror book ever written?](https://www.youtube.com/watch?v=f0F8941WhF8)<br>[01:54:46] |
+|![](https://i.ytimg.com/vi/dSNC_K4NTlg/maxresdefault.jpg) |2026-05-22 18:00:06<br>@thethoughtspot222<br>[Why Female Social Dynamics Genuinely Terrify Me as an Autistic Woman](https://www.youtube.com/watch?v=dSNC_K4NTlg)<br>[00:35:34] |
 |![](https://i.ytimg.com/vi/zewSCygGaFs/maxresdefault.jpg) |2026-05-22 17:01:27<br>unsolicitedadvice9198<br>[9 novels that are better than any self-help book](https://www.youtube.com/watch?v=zewSCygGaFs)<br>[00:45:48] |
 |![](https://i.ytimg.com/vi/izEVqVufD-U/maxresdefault.jpg) |2026-05-22 16:57:14<br>yuvalnoahharari<br>[Just knowing the facts is not enough &#124; Yuval Noah Harari @bigthink](https://www.youtube.com/watch?v=izEVqVufD-U)<br>[00:02:09] |
 |![](https://i.ytimg.com/vi/OkiZE8n5Jdo/maxresdefault.jpg) |2026-05-22 15:00:30<br>economicsexplained<br>[Dubai Was An Economic Miracle, Then They Got Bombed](https://www.youtube.com/watch?v=OkiZE8n5Jdo)<br>[00:20:41] |
@@ -495,6 +498,7 @@
 |![](https://i.ytimg.com/vi/lGrKgew07IE/sddefault.jpg) |2026-05-15 20:15:03<br>toldinstone<br>[Historical Treasures that were Lost TWICE](https://www.youtube.com/watch?v=lGrKgew07IE)<br>[00:10:24] |
 |![](https://i.ytimg.com/vi/-ghKG9VV7ac/maxresdefault.jpg) |2026-05-15 20:09:14<br>@Tom_Nicholas<br>[How Israel is Dividing Eurovision](https://www.youtube.com/watch?v=-ghKG9VV7ac)<br>[00:33:50] |
 |![](https://i.ytimg.com/vi/eKcgQ0kkCqo/maxresdefault.jpg) |2026-05-15 18:00:50<br>@RachelOates<br>[Not All Men But 62 Million Of Them?](https://www.youtube.com/watch?v=eKcgQ0kkCqo)<br>[00:36:01] |
+|![](https://i.ytimg.com/vi/gryHV8tq36o/maxresdefault.jpg) |2026-05-15 18:00:06<br>@thethoughtspot222<br>[How Your Gender Shapes Your Autistic Struggles](https://www.youtube.com/watch?v=gryHV8tq36o)<br>[00:28:08] |
 |![](https://i.ytimg.com/vi/i4yTgvWb1vY/maxresdefault.jpg) |2026-05-15 17:55:49<br>@jordanatheresa<br>[Men who abandon their girlfriends on hikes](https://www.youtube.com/watch?v=i4yTgvWb1vY)<br>[00:02:43] |
 |![](https://i.ytimg.com/vi/xFxhCZd9BUU/maxresdefault.jpg) |2026-05-15 16:01:37<br>geneticallymodifiedskeptic<br>[Yes, American Christianity Is Racist On Purpose](https://www.youtube.com/watch?v=xFxhCZd9BUU)<br>[00:28:34] |
 |![](https://i.ytimg.com/vi/dB_ETb-AOz0/maxresdefault.jpg) |2026-05-15 14:01:10<br>einzelganger<br>[Some things just aren’t worth the price… (Epictetus)](https://www.youtube.com/watch?v=dB_ETb-AOz0)<br>[00:08:58] |
@@ -548,6 +552,7 @@
 |![](https://i.ytimg.com/vi/L0LNBwcDSD0/maxresdefault.jpg) |2026-05-08 20:20:01<br>@jordankang<br>[Your private life has become public entertainment](https://www.youtube.com/watch?v=L0LNBwcDSD0)<br>[00:20:15] |
 |![](https://i.ytimg.com/vi/Bez2NZGeJus/maxresdefault.jpg) |2026-05-08 19:00:22<br>jimbrowning<br>[Watching phone scammers for TWO YEARS and forcing them to leave their offices!](https://www.youtube.com/watch?v=Bez2NZGeJus)<br>[00:20:09] |
 |![](https://i.ytimg.com/vi/p6Ejmhwb8Sc/maxresdefault.jpg) |2026-05-08 18:41:06<br>acollierastro<br>[genesis mission (us government)](https://www.youtube.com/watch?v=p6Ejmhwb8Sc)<br>[00:46:46] |
+|![](https://i.ytimg.com/vi/W8PpvZLN1og/maxresdefault.jpg) |2026-05-08 18:00:06<br>@thethoughtspot222<br>[The Autistic Need to Flee: What Elopement Can Look Like in Autistic Adults](https://www.youtube.com/watch?v=W8PpvZLN1og)<br>[00:28:17] |
 |![](https://i.ytimg.com/vi/ZFNbUq_rWJM/maxresdefault.jpg) |2026-05-08 17:17:22<br>theplainbagel<br>[Canada's Getting a Sovereign Wealth Fund](https://www.youtube.com/watch?v=ZFNbUq_rWJM)<br>[00:17:53] |
 |![](https://i.ytimg.com/vi/HXv0gyZfvRc/maxresdefault.jpg) |2026-05-08 15:37:44<br>@LanaBlakely<br>[A slow spring weekend in the Swedish archipelago](https://www.youtube.com/watch?v=HXv0gyZfvRc)<br>[00:14:22] |
 |![](https://i.ytimg.com/vi/4u-Wqw2qNlE/maxresdefault.jpg) |2026-05-08 14:00:13<br>einzelganger<br>[Why you long for a past that never really existed...](https://www.youtube.com/watch?v=4u-Wqw2qNlE)<br>[00:12:23] |
