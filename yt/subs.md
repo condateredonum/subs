@@ -6,19 +6,19 @@
 
 [2lazy2try](https://www.youtube.com/@2lazy2tryYT/videos)
 
-[A Little Bit of Philosophy](https://www.youtube.com/channel/UC5W1426MgVYjyYjbl6LDqeg)
+<!-- [A Little Bit of Philosophy](https://www.youtube.com/ channel/ UC5W1426MgVYjyYjbl6LDqeg) -->
 
 [Aba n Preach](https://www.youtube.com/@AbaNPreach)
 
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
 
-[AI Search](https://www.youtube.com/@theAIsearch/videos)
+<!--[AI Search](https://www.youtube.com /@ theAIsearch/videos)-->
 
 [Alex O'Connor](https://www.youtube.com/channel/UC7kIy8fZavEni8Gzl8NLjOQ)
 
 <!--[All Things Secured](https://www.youtube.com/channel/ UCvFGf8HZGZWFzpcDCqb3Lhw)-->
 
-[AlternateHistoryHub](https://www.youtube.com/channel/UClfEht64_NrzHf8Y0slKEjw)
+<!--[AlternateHistoryHub](https://www.youtube.com/ channel/ UClfEht64_NrzHf8Y0slKEjw) -->
 
 [Alyssa Grenfell](https://www.youtube.com/@alyssadgrenfell/videos)
 
