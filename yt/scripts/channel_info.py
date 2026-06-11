@@ -105,72 +105,134 @@ def main(md_file_path, output_file):
     existing_data = load_existing_data(output_file)
     
     # Create a dictionary for fast lookup of existing channels by both username and channel_id
-    existing_dict = {}
-    for entry in existing_data:
-        if entry.get('username'):
-            existing_dict[('username', entry['username'])] = entry
-        if entry.get('channel_id'):
-            existing_dict[('channel_id', entry['channel_id'])] = entry
+    # existing_dict = {}
+    # for entry in existing_data:
+    #     if entry.get('username'):
+    #         existing_dict[('username', entry['username'])] = entry
+    #     if entry.get('channel_id'):
+    #         existing_dict[('channel_id', entry['channel_id'])] = entry
     
-    channel_ids = []
-    processed_identifiers = set()
+    # channel_ids = []
+    # processed_identifiers = set()
+
+    existing_by_username = {entry.get('username'): entry for entry in existing_data if entry.get('username')}
+    existing_by_channel_id = {entry.get('channel_id'): entry for entry in existing_data if entry.get('channel_id')}
+
+    updated_list = []
+    seen_channel_ids = set()
     
     for channel in channels:
         identifier = channel['identifier']
         channel_type = channel['type']
-        
         print(f'\n\tTry: {identifier} (type: {channel_type})')
         
-        try:
-            # Check if we already have data for this channel
-            existing_entry = existing_dict.get((channel_type, identifier))
-            
-            if existing_entry and existing_entry.get('channel_id') and existing_entry.get('uploads_playlist_id'):
-                # Use existing data
-                channel_id = existing_entry['channel_id']
-                uploads_playlist_id = existing_entry['uploads_playlist_id']
-                username = existing_entry.get('username', '')
-            else:
-                # Fetch new data
-                if channel_type == 'username':
-                    result = fetch_channel_info(identifier)
-                    if result:
-                        channel_id, uploads_playlist_id = result
-                        username = identifier
-                    else:
-                        print(f'Failed to retrieve info for username: {identifier}')
-                        continue
-                else:  # channel_id
-                    result = fetch_channel_info_by_id(identifier)
-                    if result:
-                        channel_id, uploads_playlist_id, username = result
-                    else:
-                        print(f'Failed to retrieve info for channel ID: {identifier}')
-                        continue
-            
-            # Avoid duplicates based on channel_id
-            if channel_id not in processed_identifiers:
-                channel_entry = {
-                    'username': username,
-                    'channel_id': channel_id,
-                    'uploads_playlist_id': uploads_playlist_id
-                }
-                channel_ids.append(channel_entry)
-                processed_identifiers.add(channel_id)
-            
-        except Exception as e:
-            print(f'Failed to retrieve {identifier}: {e}')
-            continue
-    
-    # Remove existing entries for the channels being updated (by channel_id)
-    # existing_data = [entry for entry in existing_data if entry.get('channel_id') not in processed_identifiers]
-    existing_data = channel_ids 
+        existing_entry = None
+        if channel_type == 'username':
+            existing_entry = existing_by_username.get(identifier)
+        else:
+            existing_entry = existing_by_channel_id.get(identifier)
 
-    # Add updated channel entries to existing_data
-    existing_data.extend(channel_ids)
+        channel_id = None
+        uploads_playlist_id = None
+        username = ''
+
+        # If we already have the Channel ID and Playlist ID, use them
+        if existing_entry and existing_entry.get('channel_id') and existing_entry.get('uploads_playlist_id'):
+            channel_id = existing_entry['channel_id']
+            uploads_playlist_id = existing_entry['uploads_playlist_id']
+            username = existing_entry.get('username', '')
+        
+        else:
+            if channel_type == 'username':
+                result = fetch_channel_info(identifier)
+                if result:
+                    channel_id, uploads_playlist_id = result
+                    username = identifier
+                else:
+                    print(f'Failed to retrieve info for username: {identifier}')
+                    continue
+            else:
+                result = fetch_channel_info_by_id(identifier)
+                if result:
+                    channel_id, uploads_playlist_id, username = result
+                else:
+                    print(f'Failed to fetch for channel id: {identifier}')
+                    continue
+
+        if channel_id in seen_channel_ids:
+            continue
+
+        # Carry forward latest_video if present in existing data, otherwise None
+        latest_video = None
+        existing = existing_by_channel_id.get(channel_id) or existing_by_username.get(username)
+        if existing and 'latest_video' in existing:
+            latest_video = existing['latest_video']
+
+        entry = {
+            'username': username,
+            'channel_id': channel_id,
+            'uploads_playlist_id': uploads_playlist_id,
+            'latest_video': latest_video
+        }
+        updated_list.append(entry)
+        seen_channel_ids.add(channel_id)
+
+    # Preserve any existing entries not present in the current markdown (carry their latest_video)
+    remaining = [e for e in existing_data if e.get('channel_id') not in seen_channel_ids]
+    final_list = updated_list + remaining
+
+    update_channel_ids(output_file, final_list)
     
-    # Update the output file with the new user data
-    update_channel_ids(output_file, list(existing_data))
+    #     try:
+    #         # Check if we already have data for this channel
+    #         existing_entry = existing_dict.get((channel_type, identifier))
+            
+    #         if existing_entry and existing_entry.get('channel_id') and existing_entry.get('uploads_playlist_id'):
+    #             # Use existing data
+    #             channel_id = existing_entry['channel_id']
+    #             uploads_playlist_id = existing_entry['uploads_playlist_id']
+    #             username = existing_entry.get('username', '')
+    #         else:
+    #             # Fetch new data
+    #             if channel_type == 'username':
+    #                 result = fetch_channel_info(identifier)
+    #                 if result:
+    #                     channel_id, uploads_playlist_id = result
+    #                     username = identifier
+    #                 else:
+    #                     print(f'Failed to retrieve info for username: {identifier}')
+    #                     continue
+    #             else:  # channel_id
+    #                 result = fetch_channel_info_by_id(identifier)
+    #                 if result:
+    #                     channel_id, uploads_playlist_id, username = result
+    #                 else:
+    #                     print(f'Failed to retrieve info for channel ID: {identifier}')
+    #                     continue
+            
+    #         # Avoid duplicates based on channel_id
+    #         if channel_id not in processed_identifiers:
+    #             channel_entry = {
+    #                 'username': username,
+    #                 'channel_id': channel_id,
+    #                 'uploads_playlist_id': uploads_playlist_id
+    #             }
+    #             channel_ids.append(channel_entry)
+    #             processed_identifiers.add(channel_id)
+            
+    #     except Exception as e:
+    #         print(f'Failed to retrieve {identifier}: {e}')
+    #         continue
+
+    # # Remove existing entries for the channels being updated (by channel_id)
+    # # existing_data = [entry for entry in existing_data if entry.get('channel_id') not in processed_identifiers]
+    # existing_data = channel_ids 
+
+    # # Add updated channel entries to existing_data
+    # existing_data.extend(channel_ids)
+    
+    # # Update the output file with the new user data
+    # update_channel_ids(output_file, list(existing_data))
 
 if __name__ == "__main__":
     md_file_path = 'yt/markdowns/subs.md'
