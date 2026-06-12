@@ -1,5 +1,5 @@
 -------------------
-# 2026-06-12 13:13:32
+# 2026-06-12 13:25:48
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -55,7 +55,6 @@
 |![](https://i.ytimg.com/vi/x0HgbGBrd90/maxresdefault.jpg) |2026-06-11 08:58:18<br>@AtriocClips<br>[Insanely Smug Fake Cowboy](https://www.youtube.com/watch?v=x0HgbGBrd90)<br>[00:10:21] |
 |![](https://i.ytimg.com/vi/v3OQIr-SYek/maxresdefault.jpg) |2026-06-11 08:14:13<br>financialtimes<br>[Is 'El Tigre' Colombia's new president? &#124; FT #shorts](https://www.youtube.com/watch?v=v3OQIr-SYek)<br>[00:02:27] |
 |![](https://i.ytimg.com/vi/RgIpsBdSsi8/maxresdefault.jpg) |2026-06-11 07:41:11<br>@DenysDavydov<br>[Update from Ukraine &#124; Wow! Chaos in Crimea! All Roads in North were Cut!](https://www.youtube.com/watch?v=RgIpsBdSsi8)<br>[00:16:51] |
-|![](https://i.ytimg.com/vi/6lFXmDk-tps/maxresdefault.jpg) |2026-06-11 06:00:31<br>financialtimes<br>[Why birth rates are falling everywhere all at once &#124; FT](https://www.youtube.com/watch?v=6lFXmDk-tps)<br>[00:12:14] |
 |![](https://i.ytimg.com/vi/c0ZzvKNIdCE/sddefault.jpg) |2026-06-11 04:00:31<br>@penguinz0<br>[H3 vs iDubbbz Lawsuit](https://www.youtube.com/watch?v=c0ZzvKNIdCE)<br>[00:36:16] |
 |![](https://i.ytimg.com/vi/PPLz8RFNZho/maxresdefault.jpg) |2026-06-11 03:21:55<br>@realchris<br>[They aren't being honest about SpaceX IPO](https://www.youtube.com/watch?v=PPLz8RFNZho)<br>[00:13:32] |
 |![](https://i.ytimg.com/vi/6Kp5INDksAc/maxresdefault.jpg) |2026-06-11 02:21:49<br>tyleroliveira<br>[I Exposed Brussels’ Immígrant Invasion!](https://www.youtube.com/watch?v=6Kp5INDksAc)<br>[00:42:07] |
