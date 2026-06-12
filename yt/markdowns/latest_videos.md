@@ -1,8 +1,10 @@
 -------------------
-# 2026-06-12 18:45:34
+# 2026-06-12 19:03:56
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/BL28sHPrDt0/maxresdefault.jpg) |2026-06-12 18:50:48<br>@AbaNPreach<br>[Guy On Top Is About To Get Knocked Out…](https://www.youtube.com/watch?v=BL28sHPrDt0)<br>[00:10:15] |
+|![](https://i.ytimg.com/vi/lZnPhQxOhMI/maxresdefault.jpg) |2026-06-12 18:49:13<br>shirashiraonthewall<br>[You Thought Tyler Catastrophe Was BAD?](https://www.youtube.com/watch?v=lZnPhQxOhMI)<br>[00:30:09] |
 |![](https://i.ytimg.com/vi/j46VE73zpPI/maxresdefault.jpg) |2026-06-12 18:42:39<br>bryonyclaire<br>[Botox and the freezing of female rage](https://www.youtube.com/watch?v=j46VE73zpPI)<br>[00:39:01] |
 |![](https://i.ytimg.com/vi/ltT7W_KSS4Y/sddefault.jpg) |2026-06-12 18:00:08<br>@penguinz0<br>[Useless](https://www.youtube.com/watch?v=ltT7W_KSS4Y)<br>[00:30:55] |
 |![](https://i.ytimg.com/vi/6-bLTsJmejI/maxresdefault.jpg) |2026-06-12 18:00:07<br>@thethoughtspot222<br>[What If We Defined Autism Without Disability?](https://www.youtube.com/watch?v=6-bLTsJmejI)<br>[00:33:54] |
@@ -47,7 +49,6 @@
 |![](https://i.ytimg.com/vi/5Uy0MGWIrnY/maxresdefault.jpg) |2026-06-11 18:21:15<br>religionforbreakfast<br>[Do Atheist Friends Make People Lose Their Faith?](https://www.youtube.com/watch?v=5Uy0MGWIrnY)<br>[00:14:10] |
 |![](https://i.ytimg.com/vi/rgsa_-u8miE/maxresdefault.jpg) |2026-06-11 18:00:24<br>coldfusion<br>[Microsoft’s $1 Billion Phone Disaster](https://www.youtube.com/watch?v=rgsa_-u8miE)<br>[00:02:28] |
 |![](https://i.ytimg.com/vi/-z8hHheLKTY/maxresdefault.jpg) |2026-06-11 17:00:34<br>prestonstewart<br>[Inside the Frontline Sector Costing Russia 60% Losses](https://www.youtube.com/watch?v=-z8hHheLKTY)<br>[00:23:29] |
-|![](https://i.ytimg.com/vi/t-BGuw15Pko/maxresdefault.jpg) |2026-06-11 17:00:27<br>therealanthonyscaramucci<br>[The Rise and Fall of a Tech Titan - Katie Prescott](https://www.youtube.com/watch?v=t-BGuw15Pko)<br>[00:27:50] |
 |![](https://i.ytimg.com/vi/T1kw049wuHc/sddefault.jpg) |2026-06-11 17:00:18<br>orthodoxkyle<br>[End Public Speaking Fear Forever](https://www.youtube.com/watch?v=T1kw049wuHc)<br>[00:11:24] |
 |![](https://i.ytimg.com/vi/erAIq1FPP_s/sddefault.jpg) |2026-06-11 17:00:17<br>@penguinz0<br>[Is This Actually the Worst Basketball Play Ever](https://www.youtube.com/watch?v=erAIq1FPP_s)<br>[00:07:27] |
 |![](https://i.ytimg.com/vi/AgBaU9mmceQ/maxresdefault.jpg) |2026-06-11 16:45:00<br>@hankschannel<br>[No Effort is Wasted](https://www.youtube.com/watch?v=AgBaU9mmceQ)<br>[00:26:26] |
@@ -73,7 +74,7 @@
 |![](https://i.ytimg.com/vi/v3OQIr-SYek/maxresdefault.jpg) |2026-06-11 08:14:13<br>financialtimes<br>[Is 'El Tigre' Colombia's new president? &#124; FT #shorts](https://www.youtube.com/watch?v=v3OQIr-SYek)<br>[00:02:27] |
 |![](https://i.ytimg.com/vi/RgIpsBdSsi8/maxresdefault.jpg) |2026-06-11 07:41:11<br>@DenysDavydov<br>[Update from Ukraine &#124; Wow! Chaos in Crimea! All Roads in North were Cut!](https://www.youtube.com/watch?v=RgIpsBdSsi8)<br>[00:16:51] |
 |![](https://i.ytimg.com/vi/c0ZzvKNIdCE/sddefault.jpg) |2026-06-11 04:00:31<br>@penguinz0<br>[H3 vs iDubbbz Lawsuit](https://www.youtube.com/watch?v=c0ZzvKNIdCE)<br>[00:36:16] |
-|![](https://i.ytimg.com/vi/6Kp5INDksAc/maxresdefault.jpg) |2026-06-11 02:21:49<br>tyleroliveira<br>[I Exposed Brussels’ Immígrant Invasion!](https://www.youtube.com/watch?v=6Kp5INDksAc)<br>[00:42:07] |
+|![](https://i.ytimg.com/vi/6Kp5INDksAc/maxresdefault.jpg) |2026-06-11 02:21:49<br>tyleroliveira<br>[Brussels Is F*cked: Mass Migration, Drug Wars, & Death](https://www.youtube.com/watch?v=6Kp5INDksAc)<br>[00:42:07] |
 |![](https://i.ytimg.com/vi/gmU_JPTSgG0/maxresdefault.jpg) |2026-06-11 01:37:33<br>someordinarygamers<br>[It's About To Get Pretty Bad...](https://www.youtube.com/watch?v=gmU_JPTSgG0)<br>[00:19:01] |
 |![](https://i.ytimg.com/vi/lDgD17SuaBw/maxresdefault.jpg) |2026-06-11 00:34:18<br>danmurrellmovies<br>[Obsession & the Realities of Indie Filmmaking - Dan's World #32](https://www.youtube.com/watch?v=lDgD17SuaBw)<br>[01:57:55] |
 |![](https://i.ytimg.com/vi/JngnYrPd6Ts/maxresdefault.jpg) |2026-06-11 00:26:16<br>@americanredact<br>[The Worst Comedy Special of The Year](https://www.youtube.com/watch?v=JngnYrPd6Ts)<br>[00:11:17] |
@@ -180,7 +181,6 @@
 |![](https://i.ytimg.com/vi/qW5ey7XMBzk/maxresdefault.jpg) |2026-06-08 08:00:01<br>decodinggeopoliticspodcast<br>[Why Russia’s Elite Is Growing Anxious - And Why Something Is About To Break &#124; Sam Greene](https://www.youtube.com/watch?v=qW5ey7XMBzk)<br>[00:29:27] |
 |![](https://i.ytimg.com/vi/HNrczaJ2XJw/maxresdefault.jpg) |2026-06-08 05:39:57<br>@Israel_Advocacy<br>[Never Ask Them What The Talmud Is](https://www.youtube.com/watch?v=HNrczaJ2XJw)<br>[00:02:34] |
 |![](https://i.ytimg.com/vi/0Wo8d4orgd8/maxresdefault.jpg) |2026-06-08 01:34:03<br>someordinarygamers<br>[This Is Very Creepy...](https://www.youtube.com/watch?v=0Wo8d4orgd8)<br>[00:15:30] |
-|![](https://i.ytimg.com/vi/ac5Lgvi-76M/maxresdefault.jpg) |2026-06-07 23:40:13<br>@AbaNPreach<br>[Filming Yourself Crying From Multiple Angles](https://www.youtube.com/watch?v=ac5Lgvi-76M)<br>[00:12:24] |
 |![](https://i.ytimg.com/vi/6PqicYT_Cis/maxresdefault.jpg) |2026-06-07 23:37:11<br>redeemed_zoomer<br>[We wrote anti-polyamory legislation in the PCUSA](https://www.youtube.com/watch?v=6PqicYT_Cis)<br>[00:09:17] |
 |![](https://i.ytimg.com/vi/O57jluIUYsM/maxresdefault.jpg) |2026-06-07 21:29:47<br>felifromgermany<br>[10 SUPER GERMAN things inside our Munich house! (Part 2) &#124; Feli from Germany](https://www.youtube.com/watch?v=O57jluIUYsM)<br>[00:13:36] |
 |![](https://i.ytimg.com/vi/WI988cauC44/maxresdefault.jpg) |2026-06-07 20:20:29<br>scottcramer<br>[Why Are Celebrities On LinkedIn?](https://www.youtube.com/watch?v=WI988cauC44)<br>[00:19:49] |
@@ -782,7 +782,6 @@
 |![](https://i.ytimg.com/vi/4nmodtJPcW0/maxresdefault.jpg) |2026-02-07 05:32:20<br>jason.rebholz<br>[Morning Bytes with Stu, Jason and Violet](https://www.youtube.com/watch?v=4nmodtJPcW0)<br>[00:29:52] |
 |![](https://i.ytimg.com/vi/KlYdw3bd7wY/maxresdefault.jpg) |2026-02-06 15:00:41<br>@DodfordYT<br>[Jim Henson Wanted More](https://www.youtube.com/watch?v=KlYdw3bd7wY)<br>[00:26:43] |
 |![](https://i.ytimg.com/vi/Fa5_g89ITUo/maxresdefault.jpg) |2026-02-06 14:00:00<br>fads<br>[The Collapse Of Grok Is Truly Spectacular...](https://www.youtube.com/watch?v=Fa5_g89ITUo)<br>[00:17:46] |
-|![](https://i.ytimg.com/vi/dDFKX0Jok_E/maxresdefault.jpg) |2026-02-06 13:13:55<br>shirashiraonthewall<br>[Men Won’t Stop RUINING Their Weddings (w/ Brooke Sharks)](https://www.youtube.com/watch?v=dDFKX0Jok_E)<br>[00:22:54] |
 |![](https://i.ytimg.com/vi/mqD34s0QbTQ/maxresdefault.jpg) |2026-02-06 06:17:36<br>suibhne<br>[I Can't Keep Doing This Without Your Help](https://www.youtube.com/watch?v=mqD34s0QbTQ)<br>[00:03:37] |
 |![](https://i.ytimg.com/vi/Ms6kvHXLzec/maxresdefault.jpg) |2026-02-04 19:34:58<br>thedorbrothers<br>[Rorschach Killer &#124; Official Trailer](https://www.youtube.com/watch?v=Ms6kvHXLzec)<br>[00:03:39] |
 |![](https://i.ytimg.com/vi/4haFPDNSuPY/maxresdefault.jpg) |2026-02-04 15:05:48<br>design.theory<br>[The System That Punishes Beautiful Design](https://www.youtube.com/watch?v=4haFPDNSuPY)<br>[00:26:41] |
