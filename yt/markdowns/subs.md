@@ -348,7 +348,7 @@
 
 [Moocake](https://www.youtube.com/@Moocake/videos)
 
-[Moon](https://www.youtube.com/channel/UCmFeOdJI3IXgTBDzqBLD8qg)
+<!-- [Moon](https://www.youtube.com / channel / UCmFeOdJI3IXgTBDzqBLD8qg) -->
 
 [Morbid Zoo](https://www.youtube.com/@themorbidzoo/videos)
 
