@@ -924,12 +924,6 @@
         "latest_video": null
     },
     {
-        "username": "moon-real",
-        "channel_id": "UCmFeOdJI3IXgTBDzqBLD8qg",
-        "uploads_playlist_id": "UUmFeOdJI3IXgTBDzqBLD8qg",
-        "latest_video": null
-    },
-    {
         "username": "@themorbidzoo",
         "channel_id": "UCOXhxpe6-cDq7SyJdxasTkQ",
         "uploads_playlist_id": "UUOXhxpe6-cDq7SyJdxasTkQ",
@@ -1461,6 +1455,12 @@
         "username": "yuvalnoahharari",
         "channel_id": "UC2m77KGMIKZCD0Kw35-4shQ",
         "uploads_playlist_id": "UU2m77KGMIKZCD0Kw35-4shQ",
+        "latest_video": null
+    },
+    {
+        "username": "moon-real",
+        "channel_id": "UCmFeOdJI3IXgTBDzqBLD8qg",
+        "uploads_playlist_id": "UUmFeOdJI3IXgTBDzqBLD8qg",
         "latest_video": null
     }
 ]
