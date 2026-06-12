@@ -1,8 +1,10 @@
 -------------------
-# 2026-06-12 11:37:57
+# 2026-06-12 13:13:32
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/6utKPtf7fuw/maxresdefault.jpg) |2026-06-12 13:00:40<br>@DrJonathanTam<br>[China is Dying.](https://www.youtube.com/watch?v=6utKPtf7fuw)<br>[00:18:07] |
+|![](https://i.ytimg.com/vi/jxBS9jHvS2s/maxresdefault.jpg) |2026-06-12 12:01:27<br>timesofisrael<br>[Steffen Seibert: Gaza won’t sever special Germany-Israel ties](https://www.youtube.com/watch?v=jxBS9jHvS2s)<br>[00:33:35] |
 |![](https://i.ytimg.com/vi/LE1-WSJ9oRA/maxresdefault.jpg) |2026-06-12 11:00:08<br>joeblogs<br>[Damage Spreads](https://www.youtube.com/watch?v=LE1-WSJ9oRA)<br>[00:12:19] |
 |![](https://i.ytimg.com/vi/312_GNWSs7k/maxresdefault.jpg) |2026-06-12 10:45:38<br>zeihanongeopolitics<br>[A Massive Energy Break Coming Soon &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=312_GNWSs7k)<br>[00:05:47] |
 |![](https://i.ytimg.com/vi/Me7fjAtUlms/maxresdefault.jpg) |2026-06-12 09:59:31<br>financialtimes<br>[A wave of tech IPOs is sweeping global markets &#124; FT #shorts](https://www.youtube.com/watch?v=Me7fjAtUlms)<br>[00:02:11] |
@@ -399,7 +401,7 @@
 |![](https://i.ytimg.com/vi/MmYETc4BxEQ/maxresdefault.jpg) |2026-05-23 16:00:08<br>@LouExtras<br>[The Most Controversial Moments in Streaming History](https://www.youtube.com/watch?v=MmYETc4BxEQ)<br>[00:35:13] |
 |![](https://i.ytimg.com/vi/yfsUNJNipn4/maxresdefault.jpg) |2026-05-23 15:58:13<br>@2lazy2tryYT<br>[Eric Weinstein Fantasizes About Jeffrey Epstein and Crashes Out On Peter Thiel](https://www.youtube.com/watch?v=yfsUNJNipn4)<br>[00:18:30] |
 |![](https://i.ytimg.com/vi/b66KHmrU8Ms/maxresdefault.jpg) |2026-05-23 15:00:41<br>@thatpracticalmom<br>[How “Mom Hacks” Became the New Clutter](https://www.youtube.com/watch?v=b66KHmrU8Ms)<br>[00:25:02] |
-|![](https://i.ytimg.com/vi/jH0rxb2_KWs/maxresdefault.jpg) |2026-05-23 14:30:28<br>einzelganger<br>[Life Is One Big Cope, According to Zapffe](https://www.youtube.com/watch?v=jH0rxb2_KWs)<br>[00:21:26] |
+|![](https://i.ytimg.com/vi/jH0rxb2_KWs/maxresdefault.jpg) |2026-05-23 14:30:28<br>einzelganger<br>[The Philosopher Who Said Life Is One Big Cope](https://www.youtube.com/watch?v=jH0rxb2_KWs)<br>[00:21:26] |
 |![](https://i.ytimg.com/vi/O3D9xrYYhGY/maxresdefault.jpg) |2026-05-23 14:00:30<br>robwords<br>[Your body parts have mad literal meanings.](https://www.youtube.com/watch?v=O3D9xrYYhGY)<br>[00:22:13] |
 |![](https://i.ytimg.com/vi/ea0X-DWVOZo/maxresdefault.jpg) |2026-05-23 12:11:14<br>@PewDiePie<br>[Ending the vlogs.](https://www.youtube.com/watch?v=ea0X-DWVOZo)<br>[00:33:54] |
 |![](https://i.ytimg.com/vi/XjUVWG0sn_s/maxresdefault.jpg) |2026-05-23 12:00:38<br>pensioncraft<br>[Physical AI: The AI Investment Everyone Is Missing](https://www.youtube.com/watch?v=XjUVWG0sn_s)<br>[00:15:09] |
