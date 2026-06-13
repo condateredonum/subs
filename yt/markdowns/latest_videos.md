@@ -1,8 +1,9 @@
 -------------------
-# 2026-06-13 18:17:52
+# 2026-06-13 19:00:47
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/oiMx6DlQiKM/maxresdefault.jpg) |2026-06-13 19:00:00<br>@oompaville<br>[The Town That Blamed Bigfoot For A Triple Murder - NSPO Ep.1](https://www.youtube.com/watch?v=oiMx6DlQiKM)<br>[00:31:00] |
 |![](https://i.ytimg.com/vi/FJbdMi9hF8A/maxresdefault.jpg) |2026-06-13 18:09:35<br>@LaelHansen<br>[THE SAD TRUTH ABOUT OZEMPIC BEAUTY...](https://www.youtube.com/watch?v=FJbdMi9hF8A)<br>[00:21:31] |
 |![](https://i.ytimg.com/vi/joILWvs_pJw/maxresdefault.jpg) |2026-06-13 18:04:29<br>yuvalnoahharari<br>[Is nationalism really about hate? &#124; Yuval Noah Harari](https://www.youtube.com/watch?v=joILWvs_pJw)<br>[00:02:13] |
 |![](https://i.ytimg.com/vi/Rbnewcci2W4/maxresdefault.jpg) |2026-06-13 17:20:58<br>nnnimroddd<br>[Young Bob debates Owen Jones](https://www.youtube.com/watch?v=Rbnewcci2W4)<br>[00:05:08] |
@@ -522,7 +523,6 @@
 |![](https://i.ytimg.com/vi/LdmNrU-xQxg/maxresdefault.jpg) |2026-05-13 17:28:00<br>damientalksmoney<br>[Council Tax Has a Hidden Crisis](https://www.youtube.com/watch?v=LdmNrU-xQxg)<br>[00:17:04] |
 |![](https://i.ytimg.com/vi/e-dYzAz60kw/maxresdefault.jpg) |2026-05-13 17:01:07<br>@theantibot<br>[no, tiktok, you can't "rich right"](https://www.youtube.com/watch?v=e-dYzAz60kw)<br>[00:40:27] |
 |![](https://i.ytimg.com/vi/Sbv0iX_EyLM/maxresdefault.jpg) |2026-05-13 16:31:35<br>cosmicskeptic<br>[AI Music is Not Music - Adam Neely](https://www.youtube.com/watch?v=Sbv0iX_EyLM)<br>[01:57:41] |
-|![](https://i.ytimg.com/vi/XB9iALVx2sA/maxresdefault.jpg) |2026-05-13 16:18:43<br>@oompaville<br>[The System That Made Epstein Possible...](https://www.youtube.com/watch?v=XB9iALVx2sA)<br>[00:50:54] |
 |![](https://i.ytimg.com/vi/bVc_xY6TWiY/maxresdefault.jpg) |2026-05-13 15:00:02<br>@nightshift_kurzgesagt<br>[The Ninjas Didn't Exist](https://www.youtube.com/watch?v=bVc_xY6TWiY)<br>[00:16:04] |
 |![](https://i.ytimg.com/vi/aVBHSTUKiUU/maxresdefault.jpg) |2026-05-13 14:29:28<br>caspianreport<br>[What if America quits NATO?](https://www.youtube.com/watch?v=aVBHSTUKiUU)<br>[00:18:00] |
 |![](https://i.ytimg.com/vi/6DBvBCIhgYI/maxresdefault.jpg) |2026-05-13 12:14:05<br>letstalkreligion<br>[Was the Sana'a Manuscript a Practice Sheet?](https://www.youtube.com/watch?v=6DBvBCIhgYI)<br>[00:02:59] |
