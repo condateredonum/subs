@@ -378,6 +378,8 @@
 
 [Patrick Boyle](https://www.youtube.com/@PBoyle/videos)
 
+[Pind Pod](https://www.youtube.com/@PindPod/videos)
+
 [Penguinz0](https://www.youtube.com/@penguinz0/videos)
 
 [PensionCraft](https://www.youtube.com/channel/UC9OIwUcx-Uss7xj7s1P5XGw)
