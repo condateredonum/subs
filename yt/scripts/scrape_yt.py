@@ -63,11 +63,11 @@ def get_latest_videos(channel_data):
                     }
                     all_videos.append(video_info)
 
-                    print(f'\t Video Title: \t\t {video_title}')
-                    print(f'\t Video Upload Date: \t {video_upload_date}')
-                    print(f'\t Video ID: \t\t {video_id}')
-                    print(f'\t Video Duration: \t {video_duration}')
-                    print(f'\t Video Thumbnail: \t {video_thumbnail} \n')
+                    print(f'\tTitle: \t\t {video_title}')
+                    print(f'\tUpload Date: \t {video_upload_date}')
+                    print(f'\tID: \t\t {video_id}')
+                    print(f'\tDuration: \t {video_duration}')
+                    print(f'\tThumbnail: \t {video_thumbnail} \n')
         else:
             return print('No videos found for {username}')
 
