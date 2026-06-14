@@ -1,10 +1,12 @@
 -------------------
-# 2026-06-14 16:11:21
+# 2026-06-14 16:36:10
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/IOmqyofNmrA/maxresdefault.jpg) |2026-06-14 16:32:28<br>perunau<br>[Europe's 6th Generation Fighter Breakup - The End of FCAS & What Next for the 6th Gen Race?](https://www.youtube.com/watch?v=IOmqyofNmrA)<br>[01:01:52] |
+|![](https://i.ytimg.com/vi/Rzgr9g2thXI/maxresdefault.jpg) |2026-06-14 16:15:19<br>@moresus<br>[Everyone Is Sick Of Pokimane…](https://www.youtube.com/watch?v=Rzgr9g2thXI)<br>[00:38:36] |
 |![](https://i.ytimg.com/vi/NZp7xUvTvNQ/maxresdefault.jpg) |2026-06-14 16:00:13<br>anawallacejohnson<br>[The books that will define my taste going forward.](https://www.youtube.com/watch?v=NZp7xUvTvNQ)<br>[00:16:48] |
-|![](https://i.ytimg.com/vi/J9PzjUlyzAY/maxresdefault.jpg) |2026-06-14 16:00:03<br>economicsexplained<br>[Why Young People Are Giving Up On the Economy](https://www.youtube.com/watch?v=J9PzjUlyzAY)<br>[00:20:00] |
+|![](https://i.ytimg.com/vi/J9PzjUlyzAY/maxresdefault.jpg) |2026-06-14 16:00:03<br>economicsexplained<br>[The Economy Gave Up On Young People ... It's Starting To Show](https://www.youtube.com/watch?v=J9PzjUlyzAY)<br>[00:20:00] |
 |![](https://i.ytimg.com/vi/GHV5EA4IzGg/maxresdefault.jpg) |2026-06-14 15:48:31<br>@CamKirkham<br>[The Most Disturbing World’s Strictest Parents Episode Ever](https://www.youtube.com/watch?v=GHV5EA4IzGg)<br>[00:51:47] |
 |![](https://i.ytimg.com/vi/XXPaAhziEgE/maxresdefault.jpg) |2026-06-14 15:37:32<br>@realchris<br>[Trump's birthday already off the rails](https://www.youtube.com/watch?v=XXPaAhziEgE)<br>[00:14:17] |
 |![](https://i.ytimg.com/vi/c033rGLFOMA/maxresdefault.jpg) |2026-06-14 15:05:30<br>bbcstever<br>[A look inside some of the lesser-known Russian newspapers](https://www.youtube.com/watch?v=c033rGLFOMA)<br>[00:04:11] |
@@ -186,7 +188,6 @@
 |![](https://i.ytimg.com/vi/yUiJdyYmvuU/maxresdefault.jpg) |2026-06-09 16:55:28<br>@themorbidzoo<br>[Backroomsession [spoilers]](https://www.youtube.com/watch?v=yUiJdyYmvuU)<br>[00:22:15] |
 |![](https://i.ytimg.com/vi/arywJRUt_r4/maxresdefault.jpg) |2026-06-09 16:24:35<br>economicshelp<br>[The AI Bubble Is Starting to Crack](https://www.youtube.com/watch?v=arywJRUt_r4)<br>[00:08:51] |
 |![](https://i.ytimg.com/vi/gl7ptce1Cpk/maxresdefault.jpg) |2026-06-09 16:19:20<br>@YishaiFleisherTV<br>["Bro, You're Crazy" — What Really Happened on the Trump-Bibi Call?](https://www.youtube.com/watch?v=gl7ptce1Cpk)<br>[00:18:20] |
-|![](https://i.ytimg.com/vi/7eh1fY_7voA/maxresdefault.jpg) |2026-06-09 16:15:39<br>@moresus<br>[The End Of The Legendary Series… #368](https://www.youtube.com/watch?v=7eh1fY_7voA)<br>[00:35:10] |
 |![](https://i.ytimg.com/vi/dUqfSHOUgP0/maxresdefault.jpg) |2026-06-09 16:00:38<br>coldfusion<br>[The Origins of DeepSeek](https://www.youtube.com/watch?v=dUqfSHOUgP0)<br>[00:02:12] |
 |![](https://i.ytimg.com/vi/C0PtcVfN5iM/maxresdefault.jpg) |2026-06-09 16:00:38<br>@LouExtras<br>[How Bill Burr Lost His Audience in 1 Night](https://www.youtube.com/watch?v=C0PtcVfN5iM)<br>[00:32:14] |
 |![](https://i.ytimg.com/vi/gFzxQFKZDA8/maxresdefault.jpg) |2026-06-09 15:19:50<br>@Israel_Advocacy<br>[Muslim Reads What Islam Says About Israel… And LOSES IT](https://www.youtube.com/watch?v=gFzxQFKZDA8)<br>[00:46:41] |
@@ -539,7 +540,6 @@
 |![](https://i.ytimg.com/vi/gbfNRfPy-ds/maxresdefault.jpg) |2026-05-12 09:00:39<br>@1420channel<br>[All Russian Regions Explained](https://www.youtube.com/watch?v=gbfNRfPy-ds)<br>[00:17:46] |
 |![](https://i.ytimg.com/vi/3Oj8QhIzGqQ/maxresdefault.jpg) |2026-05-11 21:44:36<br>@lucymoon<br>[why I quietly stopped making wardrobe videos](https://www.youtube.com/watch?v=3Oj8QhIzGqQ)<br>[00:22:33] |
 |![](https://i.ytimg.com/vi/dbeSwtGCMM8/maxresdefault.jpg) |2026-05-11 14:00:18<br>@susannahfriesenofficial<br>[James Charles Just Exposed EVERYTHING Wrong With Influencers](https://www.youtube.com/watch?v=dbeSwtGCMM8)<br>[00:30:30] |
-|![](https://i.ytimg.com/vi/6lz3vTUbClc/maxresdefault.jpg) |2026-05-11 11:53:35<br>perunau<br>[Wagering on War - How Insider Trading Destroys Armies](https://www.youtube.com/watch?v=6lz3vTUbClc)<br>[00:53:37] |
 |![](https://i.ytimg.com/vi/qTailVjzTVQ/maxresdefault.jpg) |2026-05-10 23:35:35<br>jjmccullough<br>[The New York Times’ impossible cultural literacy test](https://www.youtube.com/watch?v=qTailVjzTVQ)<br>[00:21:34] |
 |![](https://i.ytimg.com/vi/lcQiZBbxNzI/maxresdefault.jpg) |2026-05-10 18:37:54<br>@RachelOates<br>[The Dark Reality Of Being a TradWife](https://www.youtube.com/watch?v=lcQiZBbxNzI)<br>[03:27:22] |
 |![](https://i.ytimg.com/vi/mWAlD5clJtE/maxresdefault.jpg) |2026-05-10 16:22:58<br>smartmoneywithkai<br>[Interactive Brokers Tutorial: Buying ETFs the Right Way](https://www.youtube.com/watch?v=mWAlD5clJtE)<br>[00:13:36] |
