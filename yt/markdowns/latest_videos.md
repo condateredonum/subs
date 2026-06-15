@@ -1,8 +1,11 @@
 -------------------
-# 2026-06-15 11:35:41
+# 2026-06-15 13:23:24
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/-2pZa13C6dI/maxresdefault.jpg) |2026-06-15 12:40:38<br>@realchris<br>[They couldn't hide it on his birthday](https://www.youtube.com/watch?v=-2pZa13C6dI)<br>[00:12:21] |
+|![](https://i.ytimg.com/vi/eG4YC3A1TGQ/maxresdefault.jpg) |2026-06-15 12:33:22<br>ryanmcbethprogramming<br>[Going Live to Discuss Iran Peace Deal](https://www.youtube.com/watch?v=eG4YC3A1TGQ)<br>[00:12:34] |
+|![](https://i.ytimg.com/vi/xqP5wgJF-kc/maxresdefault.jpg) |2026-06-15 12:07:27<br>timesofisrael<br>[Despite Iran deal, Israel determined to hold the fort in Lebanon](https://www.youtube.com/watch?v=xqP5wgJF-kc)<br>[00:22:17] |
 |![](https://i.ytimg.com/vi/RRmqtXo6Kfs/maxresdefault.jpg) |2026-06-15 11:25:27<br>@miarosemcgrath<br>[Things I wanted but didn’t buy](https://www.youtube.com/watch?v=RRmqtXo6Kfs)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/TS1VjXAOI_4/maxresdefault.jpg) |2026-06-15 11:00:32<br>joeblogs<br>[Good News, Bad News](https://www.youtube.com/watch?v=TS1VjXAOI_4)<br>[00:08:07] |
 |![](https://i.ytimg.com/vi/tEwkR7kPLZs/maxresdefault.jpg) |2026-06-15 10:45:24<br>zeihanongeopolitics<br>[The Future of Drone Tech: Hybrid Drones &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=tEwkR7kPLZs)<br>[00:08:09] |
@@ -55,7 +58,6 @@
 |![](https://i.ytimg.com/vi/c8pYVLBaUIs/maxresdefault.jpg) |2026-06-14 05:21:04<br>channel5youtube<br>[New York Knicks Win NBA Finals](https://www.youtube.com/watch?v=c8pYVLBaUIs)<br>[00:22:10] |
 |![](https://i.ytimg.com/vi/7vtif796hjo/maxresdefault.jpg) |2026-06-14 02:27:12<br>@atrioc<br>[Would You Press The Button? (ELITE)](https://www.youtube.com/watch?v=7vtif796hjo)<br>[00:19:28] |
 |![](https://i.ytimg.com/vi/00hw57ZJQk4/sddefault.jpg) |2026-06-14 02:00:22<br>@penguinz0<br>[Not Again](https://www.youtube.com/watch?v=00hw57ZJQk4)<br>[00:10:14] |
-|![](https://i.ytimg.com/vi/mIKc8UVjgtw/maxresdefault.jpg) |2026-06-14 00:57:22<br>@realchris<br>[Trump's UFC birthday party is now in jeopardy](https://www.youtube.com/watch?v=mIKc8UVjgtw)<br>[00:11:49] |
 |![](https://i.ytimg.com/vi/rL2sP1ThDC8/maxresdefault.jpg) |2026-06-13 23:56:43<br>@IsabellaLanter<br>[Gen Z's Obsession With Plastic Surgery&#124; Botox, Lip Fillers & More](https://www.youtube.com/watch?v=rL2sP1ThDC8)<br>[00:33:24] |
 |![](https://i.ytimg.com/vi/wKXgeNwNRJ4/maxresdefault.jpg) |2026-06-13 23:00:06<br>@PBoyle<br>[How SpaceX Humiliated Wall Street](https://www.youtube.com/watch?v=wKXgeNwNRJ4)<br>[00:40:36] |
 |![](https://i.ytimg.com/vi/AgDZ0E51gGE/maxresdefault.jpg) |2026-06-13 22:42:01<br>decodingthegurus<br>[DTG Archive 011: Nassim N. Taleb- Everything these idiots, frauds, and assholes don't understand](https://www.youtube.com/watch?v=AgDZ0E51gGE)<br>[01:47:55] |
@@ -105,7 +107,6 @@
 |![](https://i.ytimg.com/vi/j46VE73zpPI/maxresdefault.jpg) |2026-06-12 18:42:39<br>bryonyclaire<br>[Fascism's controlling your face](https://www.youtube.com/watch?v=j46VE73zpPI)<br>[00:39:01] |
 |![](https://i.ytimg.com/vi/ltT7W_KSS4Y/sddefault.jpg) |2026-06-12 18:00:08<br>@penguinz0<br>[Useless](https://www.youtube.com/watch?v=ltT7W_KSS4Y)<br>[00:30:55] |
 |![](https://i.ytimg.com/vi/6-bLTsJmejI/maxresdefault.jpg) |2026-06-12 18:00:07<br>@thethoughtspot222<br>[What If We Defined Autism Without Disability?](https://www.youtube.com/watch?v=6-bLTsJmejI)<br>[00:33:54] |
-|![](https://i.ytimg.com/vi/qqeOEQTlBxo/sddefault.jpg) |2026-06-12 17:00:29<br>ryanmcbethprogramming<br>[How to Aim and Fire a Mortar](https://www.youtube.com/watch?v=qqeOEQTlBxo)<br>[00:24:45] |
 |![](https://i.ytimg.com/vi/83PjlsjfpSw/sddefault.jpg) |2026-06-12 17:00:14<br>orthodoxkyle<br>[The Satanic Origins of Feminism?](https://www.youtube.com/watch?v=83PjlsjfpSw)<br>[00:29:53] |
 |![](https://i.ytimg.com/vi/jNAAG3Ma5K8/maxresdefault.jpg) |2026-06-12 17:00:13<br>theplainbagel<br>[The SpaceX IPO Is Wild](https://www.youtube.com/watch?v=jNAAG3Ma5K8)<br>[00:22:07] |
 |![](https://i.ytimg.com/vi/A6ediFpMMio/maxresdefault.jpg) |2026-06-12 16:40:10<br>@alyssadgrenfell<br>[I can't believe a Psychic told me this...](https://www.youtube.com/watch?v=A6ediFpMMio)<br>[01:06:38] |
