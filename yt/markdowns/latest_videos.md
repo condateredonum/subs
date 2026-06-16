@@ -1,9 +1,11 @@
 -------------------
-# 2026-06-16 20:34:48
+# 2026-06-16 21:16:10
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/ULjvT2TFhZE/maxresdefault.jpg) |2026-06-16 20:21:45<br>@YishaiFleisherTV<br>[NEWS UPDATE: Are UK Sanctions On Israelis Legal?](https://www.youtube.com/watch?v=ULjvT2TFhZE)<br>[00:09:46] |
+|![](https://i.ytimg.com/vi/mzQwIu0ZWJ4/maxresdefault.jpg) |2026-06-16 21:00:49<br>@Israel_Advocacy<br>[The Luxury Cars of "Palestine"](https://www.youtube.com/watch?v=mzQwIu0ZWJ4)<br>[00:18:34] |
+|![](https://i.ytimg.com/vi/XPElw7frd1I/maxresdefault.jpg) |2026-06-16 20:51:39<br>@YishaiFleisherTV<br>[AFTER BAD DEAL - WHAT NOW?](https://www.youtube.com/watch?v=XPElw7frd1I)<br>[00:02:43] |
+|![](https://i.ytimg.com/vi/ULjvT2TFhZE/maxresdefault.jpg) |2026-06-16 20:21:45<br>@YishaiFleisherTV<br>[News Update: Why Is The British Flag Seen At Jerusalem Protest?](https://www.youtube.com/watch?v=ULjvT2TFhZE)<br>[00:09:46] |
 |![](https://i.ytimg.com/vi/4ebzXqEv2kE/maxresdefault.jpg) |2026-06-16 20:00:22<br>@BusinessInsider<br>[Are #SpaceXIPO investors betting on the company — or the person? #Tesla #SpaceX #ElonMusk #Investing](https://www.youtube.com/watch?v=4ebzXqEv2kE)<br>[00:02:03] |
 |![](https://i.ytimg.com/vi/FY5CSmL5XxM/maxresdefault.jpg) |2026-06-16 20:00:19<br>bloomberg_live<br>[Charts & Crafts](https://www.youtube.com/watch?v=FY5CSmL5XxM)<br>[00:02:21] |
 |![](https://i.ytimg.com/vi/T6GGc4_SGj0/maxresdefault.jpg) |2026-06-16 20:00:03<br>@jubilee<br>[Do you agree with Tim Miller on his opinions on the second amendment? #secondamendment #guncontrol](https://www.youtube.com/watch?v=T6GGc4_SGj0)<br>[00:02:05] |
@@ -205,7 +207,6 @@
 |![](https://i.ytimg.com/vi/J5JSn2wmxaE/maxresdefault.jpg) |2026-06-10 21:22:42<br>@MichelJanse<br>[The easiest gluten free breakfast recipe! 🍓🥞](https://www.youtube.com/watch?v=J5JSn2wmxaE)<br>[00:02:51] |
 |![](https://i.ytimg.com/vi/Zk55aWa6y3c/maxresdefault.jpg) |2026-06-10 20:46:55<br>@LaelHansen<br>[THE SAD TRUTH ABOUT HOLLYWOOD'S IT GIRLS...](https://www.youtube.com/watch?v=Zk55aWa6y3c)<br>[00:20:14] |
 |![](https://i.ytimg.com/vi/ErCm6hmdzIs/maxresdefault.jpg) |2026-06-10 20:26:02<br>tyleroliveira<br>[I Hunted Pickpockets in Milan! *attacked*](https://www.youtube.com/watch?v=ErCm6hmdzIs)<br>[00:02:15] |
-|![](https://i.ytimg.com/vi/LOlE-wq5zpQ/maxresdefault.jpg) |2026-06-10 20:25:05<br>@LemonadeStandPodcast<br>[The Tide is Turning &#124; Lemonade Stand 🍋](https://www.youtube.com/watch?v=LOlE-wq5zpQ)<br>[01:40:08] |
 |![](https://i.ytimg.com/vi/2XEUcO3fxDg/maxresdefault.jpg) |2026-06-10 19:52:30<br>mathqueensusanne<br>[Math Competition – Can You Find The Numbers?](https://www.youtube.com/watch?v=2XEUcO3fxDg)<br>[00:14:05] |
 |![](https://i.ytimg.com/vi/KQIbXFfqv7g/maxresdefault.jpg) |2026-06-10 18:51:27<br>@AbaNPreach<br>[What In Sweet Home Alabama Is This???](https://www.youtube.com/watch?v=KQIbXFfqv7g)<br>[00:12:49] |
 |![](https://i.ytimg.com/vi/Z8KhWgzaCA8/maxresdefault.jpg) |2026-06-10 18:45:03<br>@Monetary-Matters<br>[America’s $205 Billion Fund You’ve Never Heard Of &#124; Conor Coleman](https://www.youtube.com/watch?v=Z8KhWgzaCA8)<br>[00:30:28] |
@@ -264,7 +265,6 @@
 |![](https://i.ytimg.com/vi/EIQmHQ_zPOw/maxresdefault.jpg) |2026-06-08 11:36:30<br>letstalkreligion<br>[Islam's Greatest Female Saint?](https://www.youtube.com/watch?v=EIQmHQ_zPOw)<br>[00:02:59] |
 |![](https://i.ytimg.com/vi/P9cfuYpDtLQ/maxresdefault.jpg) |2026-06-08 09:08:11<br>bbcstever<br>["Petrol sales restricted in many Russian regions" Russian media reports.](https://www.youtube.com/watch?v=P9cfuYpDtLQ)<br>[00:04:16] |
 |![](https://i.ytimg.com/vi/qW5ey7XMBzk/maxresdefault.jpg) |2026-06-08 08:00:01<br>decodinggeopoliticspodcast<br>[Why Russia’s Elite Is Growing Anxious - And Why Something Is About To Break &#124; Sam Greene](https://www.youtube.com/watch?v=qW5ey7XMBzk)<br>[00:29:27] |
-|![](https://i.ytimg.com/vi/HNrczaJ2XJw/maxresdefault.jpg) |2026-06-08 05:39:57<br>@Israel_Advocacy<br>[Never Ask Them What The Talmud Is](https://www.youtube.com/watch?v=HNrczaJ2XJw)<br>[00:02:34] |
 |![](https://i.ytimg.com/vi/6PqicYT_Cis/maxresdefault.jpg) |2026-06-07 23:37:11<br>redeemed_zoomer<br>[We wrote anti-polyamory legislation in the PCUSA](https://www.youtube.com/watch?v=6PqicYT_Cis)<br>[00:09:17] |
 |![](https://i.ytimg.com/vi/O57jluIUYsM/maxresdefault.jpg) |2026-06-07 21:29:47<br>felifromgermany<br>[10 SUPER GERMAN things inside our Munich house! (Part 2) &#124; Feli from Germany](https://www.youtube.com/watch?v=O57jluIUYsM)<br>[00:13:36] |
 |![](https://i.ytimg.com/vi/WI988cauC44/maxresdefault.jpg) |2026-06-07 20:20:29<br>scottcramer<br>[Why Are Celebrities On LinkedIn?](https://www.youtube.com/watch?v=WI988cauC44)<br>[00:19:49] |
