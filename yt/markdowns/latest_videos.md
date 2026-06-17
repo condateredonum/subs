@@ -1,8 +1,9 @@
 -------------------
-# 2026-06-17 13:46:02
+# 2026-06-17 13:56:22
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/fyjJFSbdS2U/maxresdefault.jpg) |2026-06-17 13:50:41<br>financialtimes<br>[Would you borrow money to pay off your student loan? &#124; FT #shorts](https://www.youtube.com/watch?v=fyjJFSbdS2U)<br>[00:02:12] |
 |![](https://i.ytimg.com/vi/u0ISg58mqRI/maxresdefault.jpg) |2026-06-17 13:30:39<br>@BusinessInsider<br>[Why Traditional Advertising Is Dead, With Mastercard Snr Fellow &#124; CMO Insider Podcast](https://www.youtube.com/watch?v=u0ISg58mqRI)<br>[00:19:39] |
 |![](https://i.ytimg.com/vi/L7T_15CuNX8/maxresdefault.jpg) |2026-06-17 13:09:05<br>@realchris<br>[Trump panics after Iran plan leaked](https://www.youtube.com/watch?v=L7T_15CuNX8)<br>[00:10:36] |
 |![](https://i.ytimg.com/vi/k2ocggp-tYk/maxresdefault.jpg) |2026-06-17 12:18:59<br>@PindPod<br>[ਨੌਜਵਾਨਾਂ ਨੂੰ ਘਰ ਨੌਕਰੀ ਨੀਂ ਨਸ਼ਾ ਆਉਂਦਾ &#124; PIND POD &#124; RIMALJOT SINGH &#124; SATNAM SINGH](https://www.youtube.com/watch?v=k2ocggp-tYk)<br>[01:02:14] |
@@ -79,7 +80,6 @@
 |![](https://i.ytimg.com/vi/1lBenq79e3w/maxresdefault.jpg) |2026-06-15 18:00:38<br>prestonstewart<br>[Ukrainian Commander: "Russians Are Pressing Hard"](https://www.youtube.com/watch?v=1lBenq79e3w)<br>[00:15:22] |
 |![](https://i.ytimg.com/vi/yfv53-ZJtbI/maxresdefault.jpg) |2026-06-15 18:00:18<br>rationalityrules<br>[Yes, I am Desecrating this Grave](https://www.youtube.com/watch?v=yfv53-ZJtbI)<br>[00:02:59] |
 |![](https://i.ytimg.com/vi/zK28pWu-PRU/maxresdefault.jpg) |2026-06-15 18:00:06<br>@leenanorms<br>[My sustainable perfume deep dive & what I learned.](https://www.youtube.com/watch?v=zK28pWu-PRU)<br>[00:23:22] |
-|![](https://i.ytimg.com/vi/XyPbFii-fHM/maxresdefault.jpg) |2026-06-15 17:57:51<br>financialtimes<br>[Arson targeting Keir Starmer properties originated in Russia &#124; FT #shorts](https://www.youtube.com/watch?v=XyPbFii-fHM)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/BbRHnkcJ2UE/maxresdefault.jpg) |2026-06-15 17:55:14<br>@DenysDavydov<br>[Update from Ukraine &#124; Great! Total Disaster for Russia on Frontlines and Rear](https://www.youtube.com/watch?v=BbRHnkcJ2UE)<br>[00:18:44] |
 |![](https://i.ytimg.com/vi/o4U5DhpZTaE/maxresdefault.jpg) |2026-06-15 17:30:19<br>@justtree411<br>[Wizard Liz's Visa Lie Just Got Worse &#124; Ex Drama Continues](https://www.youtube.com/watch?v=o4U5DhpZTaE)<br>[00:57:35] |
 |![](https://i.ytimg.com/vi/k_xTi1J5oeM/maxresdefault.jpg) |2026-06-15 17:28:29<br>@AbaNPreach<br>[Her Son Just Murdered & Her Reaction IS INSANE](https://www.youtube.com/watch?v=k_xTi1J5oeM)<br>[00:19:20] |
