@@ -1,5 +1,5 @@
 -------------------
-# 2026-06-17 17:42:54
+# 2026-06-17 18:27:42
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -11,7 +11,7 @@
 |![](https://i.ytimg.com/vi/QH4DqEykMVk/maxresdefault.jpg) |2026-06-17 16:15:17<br>@moresus<br>[Hasan Just Got F**king Destroyed...](https://www.youtube.com/watch?v=QH4DqEykMVk)<br>[00:35:47] |
 |![](https://i.ytimg.com/vi/Xcqx-_tNb4s/maxresdefault.jpg) |2026-06-17 16:00:34<br>@thatpracticalmom<br>[Modern Organization is a Fever Dream](https://www.youtube.com/watch?v=Xcqx-_tNb4s)<br>[00:21:36] |
 |![](https://i.ytimg.com/vi/Mkd28B8J9ag/maxresdefault.jpg) |2026-06-17 16:00:22<br>@LouExtras<br>[The Kardashian Curse](https://www.youtube.com/watch?v=Mkd28B8J9ag)<br>[00:47:33] |
-|![](https://i.ytimg.com/vi/vYE81LaHZyc/maxresdefault.jpg) |2026-06-17 16:00:12<br>@oompaville<br>[The $200,000 LEGO Collection That Ruined Everyone Who Touched It](https://www.youtube.com/watch?v=vYE81LaHZyc)<br>[00:44:32] |
+|![](https://i.ytimg.com/vi/vYE81LaHZyc/maxresdefault.jpg) |2026-06-17 16:00:12<br>@oompaville<br>[The LEGO Scandal With a Cult, Police Corruption, and a 'Mormon Mafia'](https://www.youtube.com/watch?v=vYE81LaHZyc)<br>[00:44:32] |
 |![](https://i.ytimg.com/vi/yljkjJds-NY/maxresdefault.jpg) |2026-06-17 15:49:38<br>@DenysDavydov<br>[Update from Ukraine &#124; Ukraine May Soon Start Big Landing operation in Crimea](https://www.youtube.com/watch?v=yljkjJds-NY)<br>[00:24:40] |
 |![](https://i.ytimg.com/vi/aORcJfLrlA4/maxresdefault.jpg) |2026-06-17 15:17:16<br>bundeswehr<br>[Das Ehrenkreuz der Bundeswehr für Tapferkeit und seine Bedeutung &#124; Bundeswehr](https://www.youtube.com/watch?v=aORcJfLrlA4)<br>[00:04:00] |
 |![](https://i.ytimg.com/vi/kmqVR77tLu4/maxresdefault.jpg) |2026-06-17 14:55:48<br>nobodyspecialfinance<br>[Warsh Faces First FOMC, Microsoft Walks Away From Oracle Deal](https://www.youtube.com/watch?v=kmqVR77tLu4)<br>[00:36:14] |
