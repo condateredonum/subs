@@ -204,6 +204,8 @@
 
 [Horses](https://www.youtube.com/@HorsesOnYT/videos)
 
+[House of El AI](https://m.youtube.com/@HouseofEl-AI)
+
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
 
 [Hutch](https://www.youtube.com/@hutch/videos)
