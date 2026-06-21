@@ -1,8 +1,10 @@
 -------------------
-# 2026-06-21 11:36:27
+# 2026-06-21 12:40:15
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/VZR2VsfUyck/maxresdefault.jpg) |2026-06-21 12:14:00<br>jumokemi<br>[Are We Even Living Anymore or Just Working Until We die?....](https://www.youtube.com/watch?v=VZR2VsfUyck)<br>[00:15:16] |
+|![](https://i.ytimg.com/vi/QhLemIy_0ZU/maxresdefault.jpg) |2026-06-21 11:39:20<br>@DenysDavydov<br>[Update from Ukraine &#124; Breaking! Kerch in Crimea Hit Hard! Most Massive Attack!](https://www.youtube.com/watch?v=QhLemIy_0ZU)<br>[00:17:23] |
 |![](https://i.ytimg.com/vi/urqqrJg7THc/maxresdefault.jpg) |2026-06-21 11:30:39<br>@ramitsethi<br>[Stop Using Your Time to Save Money](https://www.youtube.com/watch?v=urqqrJg7THc)<br>[00:13:48] |
 |![](https://i.ytimg.com/vi/fhoaRcD9veo/maxresdefault.jpg) |2026-06-21 11:24:58<br>@miarosemcgrath<br>[Trading 212](https://www.youtube.com/watch?v=fhoaRcD9veo)<br>[00:02:10] |
 |![](https://i.ytimg.com/vi/HzQ0W6k4OVo/maxresdefault.jpg) |2026-06-21 10:47:09<br>smartmoneywithkai<br>[How I Research Any Stock Before Investing](https://www.youtube.com/watch?v=HzQ0W6k4OVo)<br>[00:20:29] |
@@ -113,7 +115,6 @@
 |![](https://i.ytimg.com/vi/BnTPpvC0t5o/maxresdefault.jpg) |2026-06-18 13:31:37<br>bundeswehr<br>[Sein letzter Flug: NH90-Pilot Hauptmann Mike nimmt Abschied &#124; Bundeswehr](https://www.youtube.com/watch?v=BnTPpvC0t5o)<br>[00:05:46] |
 |![](https://i.ytimg.com/vi/0j_Db4eWf9c/maxresdefault.jpg) |2026-06-18 12:30:14<br>@hutch<br>[The Liberal Civil War Heats Up... (feat. Destiny & WhickTV)](https://www.youtube.com/watch?v=0j_Db4eWf9c)<br>[02:23:24] |
 |![](https://i.ytimg.com/vi/BiUCsjWl_OQ/maxresdefault.jpg) |2026-06-18 10:45:13<br>zeihanongeopolitics<br>[DHS Gets Funding... A Lot of Funding &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=BiUCsjWl_OQ)<br>[00:06:01] |
-|![](https://i.ytimg.com/vi/itj7gO-1vaw/maxresdefault.jpg) |2026-06-18 10:42:11<br>@DenysDavydov<br>[Update from Ukraine &#124; This is Huge! The Most Massive Attack on Moscow!](https://www.youtube.com/watch?v=itj7gO-1vaw)<br>[00:21:03] |
 |![](https://i.ytimg.com/vi/s4tHScZK48U/maxresdefault.jpg) |2026-06-18 10:21:22<br>timesofisrael<br>[Signed and sealed, Iran-US deal launches with Trumpian fanfare](https://www.youtube.com/watch?v=s4tHScZK48U)<br>[00:24:57] |
 |![](https://i.ytimg.com/vi/-8ZYV9nH0Hg/maxresdefault.jpg) |2026-06-18 09:26:20<br>friendlyjordies<br>[Pauline's Press Club Address](https://www.youtube.com/watch?v=-8ZYV9nH0Hg)<br>[01:45:10] |
 |![](https://i.ytimg.com/vi/HjJJUQzZLv4/maxresdefault.jpg) |2026-06-18 08:07:54<br>@justtree411<br>[They Just Revoked Chud the Builder's Bond and It Gets Worse](https://www.youtube.com/watch?v=HjJJUQzZLv4)<br>[00:23:33] |
@@ -658,7 +659,6 @@
 |![](https://i.ytimg.com/vi/CH61fNxs4dA/maxresdefault.jpg) |2026-04-13 19:23:58<br>@AshleyEmbers<br>[Why Gen Z isn’t buying the wedding industry scam](https://www.youtube.com/watch?v=CH61fNxs4dA)<br>[00:26:34] |
 |![](https://i.ytimg.com/vi/hCpUB1wFQxY/maxresdefault.jpg) |2026-04-13 02:17:01<br>carneadesofcyrene<br>[Work vs Leisure (Philosophy of Work)](https://www.youtube.com/watch?v=hCpUB1wFQxY)<br>[00:13:36] |
 |![](https://i.ytimg.com/vi/MsQ-XIR7AB0/maxresdefault.jpg) |2026-04-12 21:45:49<br>fads<br>[Palantir Is Literally A CIA Psyop...](https://www.youtube.com/watch?v=MsQ-XIR7AB0)<br>[00:20:27] |
-|![](https://i.ytimg.com/vi/Ih72yy9eCJg/maxresdefault.jpg) |2026-04-12 14:25:10<br>jumokemi<br>[40% Of People Will Be In Retirement Poverty (Here are 5 Assets To Avoid This)](https://www.youtube.com/watch?v=Ih72yy9eCJg)<br>[00:17:38] |
 |![](https://i.ytimg.com/vi/POtESzTaz0k/maxresdefault.jpg) |2026-04-11 21:08:32<br>aispecies<br>[Something Strange Is Happening.](https://www.youtube.com/watch?v=POtESzTaz0k)<br>[00:21:07] |
 |![](https://i.ytimg.com/vi/DJBNELP3rO8/maxresdefault.jpg) |2026-04-11 17:00:27<br>meaningfulmoney<br>[Retirement on Autopilot: A Simple System That Runs Itself](https://www.youtube.com/watch?v=DJBNELP3rO8)<br>[00:13:46] |
 |![](https://i.ytimg.com/vi/-q_JKdJtiXI/maxresdefault.jpg) |2026-04-11 16:00:00<br>scottcramer<br>[Can I Guess How 𝐓𝐰𝐢𝐥𝐢𝐠𝐡𝐭 Ends Based on the First Movie? (ft. @AmandaTheJedi)](https://www.youtube.com/watch?v=-q_JKdJtiXI)<br>[00:35:34] |
