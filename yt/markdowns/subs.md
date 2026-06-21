@@ -214,7 +214,7 @@
 
 [Isabella Lanter](https://www.youtube.com/@IsabellaLanter)
 
-[Israel Advocacy Movement](https://www.youtube.com/@Israel_Advocacy/videos)
+<!--[Israel Advocacy Movement](https://www.youtube.com / @ Israel_Advocacy/videos)-->
 
 [Izzy Sealey](https://www.youtube.com/@IzzySealey/videos)
 
@@ -222,7 +222,7 @@
 
 [J.J. McCullough](https://www.youtube.com/channel/UCyhOl6uRlxryALlT5yifldw)
 
-[Jabzy](https://www.youtube.com/channel/UCoUkea_dZioNSJbi1vWDZkA)
+<!--[Jabzy](https://www.youtube.com / channel / UCoUkea_dZioNSJbi1vWDZkA)-->
 
 [James Hoffmann](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ)
 
@@ -334,7 +334,7 @@
 
 [Mia McGrath](https://www.youtube.com/@miarosemcgrath)
 
-[Michel Janse](https://www.youtube.com/@MichelJanse/videos)
+<!--[Michel Janse](https://www.youtube.com / @ MichelJanse/videos)-->
 
 [Mike Martin](https://www.youtube.com/channel/UCsrPjVLlyu0eo0alsJXUNVg)
 
@@ -406,8 +406,6 @@
 
 [Preston Stewart](https://www.youtube.com/channel/UC75suCpChvMVC_9ij7rUpxw)
 
-[Principles Personal Finance](https://www.youtube.com/channel/UCuCL2wCePWeblnWDnNjoy-g)
-
 [Project Liminality](https://www.youtube.com/channel/UCSUJQu0zV9bcy5Cza4U6aNw)
 
 [Psychology with Dr.Ana](https://www.youtube.com/@AnaPsychology/videos)
@@ -432,7 +430,7 @@
 
 [RobWords](https://www.youtube.com/channel/UC4a9LfdavRlVMaSSWFdIciA)
 
-[Ryan McBeth](https://www.youtube.com/channel/UC8URMa1fI4rlaLc-Lhev2fQ)
+<!--[Ryan McBeth](https://www.youtube.com/channel / UC8URMa1fI4rlaLc-Lhev2fQ)-->
 
 <!--[SaharTV](https://www.youtube.com/@ OfficialSaharTV/videos)-->
 
@@ -510,7 +508,7 @@
 
 [Tiffany Ferg](https://www.youtube.com/@tiffanyferg/videos)
 
-[Tilly](https://www.youtube.com/channel/UCulkfahBieihBhxmuB0P7XQ)
+[Tilly Middlehurst](https://www.youtube.com/channel/UCulkfahBieihBhxmuB0P7XQ)
 
 [Toby Newbatt](https://www.youtube.com/channel/UC2DCjFH0taLx6MB4a3pbLmQ)
 
@@ -530,7 +528,7 @@
 
 [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
 
-[Ur Mom Ashley](https://www.youtube.com/@urmomashley/videos)
+<!--[Ur Mom Ashley](https://www.youtube.com /@ urmomashley/videos)-->
 
 [Vanessa Wingårdh](https://www.youtube.com/@VanessaWingårdh)
 
