@@ -552,12 +552,6 @@
         "latest_video": null
     },
     {
-        "username": "@Israel_Advocacy",
-        "channel_id": "UCckMqUWHVwFWJwSVE9FQJaA",
-        "uploads_playlist_id": "UUckMqUWHVwFWJwSVE9FQJaA",
-        "latest_video": null
-    },
-    {
         "username": "@IzzySealey",
         "channel_id": "UCbOhZ3HUP0eqbQgGYSMHo1w",
         "uploads_playlist_id": "UUbOhZ3HUP0eqbQgGYSMHo1w",
@@ -573,12 +567,6 @@
         "username": "jjmccullough",
         "channel_id": "UCyhOl6uRlxryALlT5yifldw",
         "uploads_playlist_id": "UUyhOl6uRlxryALlT5yifldw",
-        "latest_video": null
-    },
-    {
-        "username": "jabzyjoe",
-        "channel_id": "UCoUkea_dZioNSJbi1vWDZkA",
-        "uploads_playlist_id": "UUoUkea_dZioNSJbi1vWDZkA",
         "latest_video": null
     },
     {
@@ -882,12 +870,6 @@
         "latest_video": null
     },
     {
-        "username": "@MichelJanse",
-        "channel_id": "UCRYQ0mlWC6tpVoH9UID0wXg",
-        "uploads_playlist_id": "UURYQ0mlWC6tpVoH9UID0wXg",
-        "latest_video": null
-    },
-    {
         "username": "mike_martin_tw",
         "channel_id": "UCsrPjVLlyu0eo0alsJXUNVg",
         "uploads_playlist_id": "UUsrPjVLlyu0eo0alsJXUNVg",
@@ -1086,12 +1068,6 @@
         "latest_video": null
     },
     {
-        "username": "principlespersonalfinance",
-        "channel_id": "UCuCL2wCePWeblnWDnNjoy-g",
-        "uploads_playlist_id": "UUuCL2wCePWeblnWDnNjoy-g",
-        "latest_video": null
-    },
-    {
         "username": "project-liminality",
         "channel_id": "UCSUJQu0zV9bcy5Cza4U6aNw",
         "uploads_playlist_id": "UUSUJQu0zV9bcy5Cza4U6aNw",
@@ -1161,12 +1137,6 @@
         "username": "robwords",
         "channel_id": "UC4a9LfdavRlVMaSSWFdIciA",
         "uploads_playlist_id": "UU4a9LfdavRlVMaSSWFdIciA",
-        "latest_video": null
-    },
-    {
-        "username": "ryanmcbethprogramming",
-        "channel_id": "UC8URMa1fI4rlaLc-Lhev2fQ",
-        "uploads_playlist_id": "UU8URMa1fI4rlaLc-Lhev2fQ",
         "latest_video": null
     },
     {
@@ -1416,12 +1386,6 @@
         "latest_video": null
     },
     {
-        "username": "@urmomashley",
-        "channel_id": "UC1zACndCursf-RTGr9YvQmQ",
-        "uploads_playlist_id": "UU1zACndCursf-RTGr9YvQmQ",
-        "latest_video": null
-    },
-    {
         "username": "@VanessaWing\u00e5rdh",
         "channel_id": "UC2Bm4qXVUx9Md-hmHz3WuXw",
         "uploads_playlist_id": "UU2Bm4qXVUx9Md-hmHz3WuXw",
@@ -1467,6 +1431,42 @@
         "username": "yuvalnoahharari",
         "channel_id": "UC2m77KGMIKZCD0Kw35-4shQ",
         "uploads_playlist_id": "UU2m77KGMIKZCD0Kw35-4shQ",
+        "latest_video": null
+    },
+    {
+        "username": "@Israel_Advocacy",
+        "channel_id": "UCckMqUWHVwFWJwSVE9FQJaA",
+        "uploads_playlist_id": "UUckMqUWHVwFWJwSVE9FQJaA",
+        "latest_video": null
+    },
+    {
+        "username": "jabzyjoe",
+        "channel_id": "UCoUkea_dZioNSJbi1vWDZkA",
+        "uploads_playlist_id": "UUoUkea_dZioNSJbi1vWDZkA",
+        "latest_video": null
+    },
+    {
+        "username": "@MichelJanse",
+        "channel_id": "UCRYQ0mlWC6tpVoH9UID0wXg",
+        "uploads_playlist_id": "UURYQ0mlWC6tpVoH9UID0wXg",
+        "latest_video": null
+    },
+    {
+        "username": "principlespersonalfinance",
+        "channel_id": "UCuCL2wCePWeblnWDnNjoy-g",
+        "uploads_playlist_id": "UUuCL2wCePWeblnWDnNjoy-g",
+        "latest_video": null
+    },
+    {
+        "username": "ryanmcbethprogramming",
+        "channel_id": "UC8URMa1fI4rlaLc-Lhev2fQ",
+        "uploads_playlist_id": "UU8URMa1fI4rlaLc-Lhev2fQ",
+        "latest_video": null
+    },
+    {
+        "username": "@urmomashley",
+        "channel_id": "UC1zACndCursf-RTGr9YvQmQ",
+        "uploads_playlist_id": "UU1zACndCursf-RTGr9YvQmQ",
         "latest_video": null
     },
     {
