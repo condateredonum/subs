@@ -1,8 +1,11 @@
 -------------------
-# 2026-06-23 10:58:14
+# 2026-06-23 12:54:33
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/cCbv-VwLzKo/maxresdefault.jpg) |2026-06-23 12:48:56<br>felifromgermany<br>[I'm back 🙌 A LOT has happened over the last few weeks and months...](https://www.youtube.com/watch?v=cCbv-VwLzKo)<br>[00:02:20] |
+|![](https://i.ytimg.com/vi/kprUPevK6i4/maxresdefault.jpg) |2026-06-23 12:30:02<br>@hutch<br>[This Take Drives Me F***ing INSANE](https://www.youtube.com/watch?v=kprUPevK6i4)<br>[01:43:00] |
+|![](https://i.ytimg.com/vi/2NdZSHmTWlE/maxresdefault.jpg) |2026-06-23 11:00:22<br>@ramitsethi<br>["We’re in our 30s fighting over $1000. Can we fix this?"](https://www.youtube.com/watch?v=2NdZSHmTWlE)<br>[02:02:32] |
 |![](https://i.ytimg.com/vi/8c1IKdlHNcU/maxresdefault.jpg) |2026-06-23 10:52:11<br>timesofisrael<br>[Underground Hezbollah base put all of Israel in range](https://www.youtube.com/watch?v=8c1IKdlHNcU)<br>[00:21:32] |
 |![](https://i.ytimg.com/vi/H7FcviH0WmM/maxresdefault.jpg) |2026-06-23 10:45:24<br>zeihanongeopolitics<br>[France and Germany's Fighter Jet Program (FCAS) Is Dead &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=H7FcviH0WmM)<br>[00:04:44] |
 |![](https://i.ytimg.com/vi/k0kAdR6Tk7w/maxresdefault.jpg) |2026-06-23 10:07:04<br>financialtimes<br>[How to make a deepfake &#124; FT #shorts](https://www.youtube.com/watch?v=k0kAdR6Tk7w)<br>[00:02:45] |
@@ -21,7 +24,7 @@
 |![](https://i.ytimg.com/vi/aW2DIb_tr6s/maxresdefault.jpg) |2026-06-22 19:39:33<br>first_class_amateur<br>[I made a knife and sheath.](https://www.youtube.com/watch?v=aW2DIb_tr6s)<br>[00:05:08] |
 |![](https://i.ytimg.com/vi/ISmuG9UU7rk/maxresdefault.jpg) |2026-06-22 19:30:08<br>@jubilee<br>[Dean Withers and MAGA Woman discuss Donald Trump's beauty pageants #donaldtrump #maga](https://www.youtube.com/watch?v=ISmuG9UU7rk)<br>[00:02:16] |
 |![](https://i.ytimg.com/vi/vbNz0CeIG3E/maxresdefault.jpg) |2026-06-22 19:00:22<br>@HouseofEl-AI<br>[OpenAI’s $1 Trillion Bullsh*t Is Falling Apart](https://www.youtube.com/watch?v=vbNz0CeIG3E)<br>[00:30:45] |
-|![](https://i.ytimg.com/vi/qFM_a4zYUZ4/maxresdefault.jpg) |2026-06-22 19:00:14<br>jamessinclairentrepreneur<br>[The Best 8 Businesses to Start, Buy & Sell in 2026](https://www.youtube.com/watch?v=qFM_a4zYUZ4)<br>[00:18:21] |
+|![](https://i.ytimg.com/vi/qFM_a4zYUZ4/maxresdefault.jpg) |2026-06-22 19:00:14<br>jamessinclairentrepreneur<br>[8 Businesses That Will Make You Rich in 2026 (Start, Buy or Sell)](https://www.youtube.com/watch?v=qFM_a4zYUZ4)<br>[00:18:21] |
 |![](https://i.ytimg.com/vi/QDaOkHmxE3s/maxresdefault.jpg) |2026-06-22 18:30:21<br>bryonyclaire<br>[Beauty standards are so unrealistic we became bullies](https://www.youtube.com/watch?v=QDaOkHmxE3s)<br>[00:36:46] |
 |![](https://i.ytimg.com/vi/FQ1HQpkc-Zg/maxresdefault.jpg) |2026-06-22 18:00:13<br>prestonstewart<br>[Attacking From All Sides - Russia Ramps Up Pressure On Kostiantynivka](https://www.youtube.com/watch?v=FQ1HQpkc-Zg)<br>[00:13:27] |
 |![](https://i.ytimg.com/vi/mfmL6KSYFCA/maxresdefault.jpg) |2026-06-22 18:00:06<br>@leenanorms<br>[Letting the internet pick my outfits for a week.](https://www.youtube.com/watch?v=mfmL6KSYFCA)<br>[00:23:11] |
@@ -302,7 +305,6 @@
 |![](https://i.ytimg.com/vi/A17GfXTZ9AU/maxresdefault.jpg) |2026-06-10 16:45:14<br>officialbeyondtheblue<br>[This Is What The Fastest Bite In The World Can Do](https://www.youtube.com/watch?v=A17GfXTZ9AU)<br>[00:19:31] |
 |![](https://i.ytimg.com/vi/UgJiXBm533c/maxresdefault.jpg) |2026-06-10 16:06:54<br>@oompaville<br>[We Never Stopped Making Cults...](https://www.youtube.com/watch?v=UgJiXBm533c)<br>[00:52:44] |
 |![](https://i.ytimg.com/vi/rfwCahGGDzM/maxresdefault.jpg) |2026-06-10 16:00:31<br>discoverconnection<br>[I Made a Friend in Every Country - Uzbekistan](https://www.youtube.com/watch?v=rfwCahGGDzM)<br>[00:29:54] |
-|![](https://i.ytimg.com/vi/Jhn5Zz6FyGs/maxresdefault.jpg) |2026-06-10 12:30:35<br>@hutch<br>[Everyone has lost the plot over Graham Platner.](https://www.youtube.com/watch?v=Jhn5Zz6FyGs)<br>[01:56:27] |
 |![](https://i.ytimg.com/vi/Coe_zcGueA4/maxresdefault.jpg) |2026-06-10 11:04:56<br>anderspuck<br>[Ukraine's drone war is isolating Crimea](https://www.youtube.com/watch?v=Coe_zcGueA4)<br>[00:10:42] |
 |![](https://i.ytimg.com/vi/BKyD_avFo3I/maxresdefault.jpg) |2026-06-10 08:27:13<br>letstalkreligion<br>[Who are the Sabians in the Qur'an?](https://www.youtube.com/watch?v=BKyD_avFo3I)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/63voiFktpUU/maxresdefault.jpg) |2026-06-10 06:00:00<br>manyhappyreturnspodcast<br>[Paws and Reflect: The Surprising Science of Who Wins at Investing](https://www.youtube.com/watch?v=63voiFktpUU)<br>[00:47:00] |
@@ -609,7 +611,6 @@
 |![](https://i.ytimg.com/vi/tiYg5cOTaDI/maxresdefault.jpg) |2026-04-28 17:11:01<br>financialinterestcom<br>[Trump Crashed the Stock Market, So I Went All In (One Year Results)](https://www.youtube.com/watch?v=tiYg5cOTaDI)<br>[00:10:33] |
 |![](https://i.ytimg.com/vi/Cl04NNVDwD0/maxresdefault.jpg) |2026-04-28 17:00:17<br>geneticallymodifiedskeptic<br>[When Texas Massacred Its “Freethinkers”](https://www.youtube.com/watch?v=Cl04NNVDwD0)<br>[00:32:21] |
 |![](https://i.ytimg.com/vi/sj1y9FDJKCM/maxresdefault.jpg) |2026-04-28 13:31:12<br>nerdwriter1<br>[The Film That Attacks You](https://www.youtube.com/watch?v=sj1y9FDJKCM)<br>[00:08:26] |
-|![](https://i.ytimg.com/vi/8Uyu72dsNlU/maxresdefault.jpg) |2026-04-27 21:18:59<br>felifromgermany<br>[WE MOVED TO GERMANY... 6 Months Later (Honest Update)](https://www.youtube.com/watch?v=8Uyu72dsNlU)<br>[00:38:29] |
 |![](https://i.ytimg.com/vi/MSXcz-kLAUk/maxresdefault.jpg) |2026-04-27 20:30:00<br>@AbbieRee<br>[Every Single KATSEYE Controversy EXPLAINED...](https://www.youtube.com/watch?v=MSXcz-kLAUk)<br>[00:37:45] |
 |![](https://i.ytimg.com/vi/klw_maSH9Ac/maxresdefault.jpg) |2026-04-27 18:00:16<br>@lucymoon<br>[finally getting my life together, resetting my home and organising my wardrobe](https://www.youtube.com/watch?v=klw_maSH9Ac)<br>[00:29:01] |
 |![](https://i.ytimg.com/vi/0HdzJz_evNw/maxresdefault.jpg) |2026-04-27 17:00:01<br>jameshoffmann<br>[The Truly Absurd Secrets of An Incredible Americano](https://www.youtube.com/watch?v=0HdzJz_evNw)<br>[00:24:51] |
