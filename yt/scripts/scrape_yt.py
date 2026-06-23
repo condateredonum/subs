@@ -24,7 +24,7 @@ def get_latest_videos(channel_data):
     all_videos = []
 
     for channel in channel_data:
-        print(f'='*10)
+        print(f'='*40)
         username = channel['username']
         print(f'Username: \t{username}')
 
