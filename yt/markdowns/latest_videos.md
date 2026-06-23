@@ -1,8 +1,9 @@
 -------------------
-# 2026-06-23 21:27:35
+# 2026-06-23 22:18:07
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/k4uqSW-HL1U/maxresdefault.jpg) |2026-06-23 21:40:20<br>@YishaiFleisherTV<br>[Are The Jews Scholars or Warriors? &#124; Yuval Noah Harari's False Dichotomy](https://www.youtube.com/watch?v=k4uqSW-HL1U)<br>[00:08:42] |
 |![](https://i.ytimg.com/vi/wBd9vqdFu0M/maxresdefault.jpg) |2026-06-23 21:11:26<br>@americanredact<br>[Joe Rogan is Losing His Credibility Fast](https://www.youtube.com/watch?v=wBd9vqdFu0M)<br>[00:20:00] |
 |![](https://i.ytimg.com/vi/9FX80horp-M/maxresdefault.jpg) |2026-06-23 21:00:02<br>prestonstewart<br>[Ukraine Just Found Russia’s Weak Point](https://www.youtube.com/watch?v=9FX80horp-M)<br>[00:15:50] |
 |![](https://i.ytimg.com/vi/IOF_J0XsCgY/maxresdefault.jpg) |2026-06-23 20:54:35<br>@BusinessInsider<br>[#Ukraine's ground #robots are replacing soldiers on the front line. #militarydefense](https://www.youtube.com/watch?v=IOF_J0XsCgY)<br>[00:02:49] |
@@ -93,7 +94,6 @@
 |![](https://i.ytimg.com/vi/l1Hr60DaY9E/sddefault.jpg) |2026-06-21 20:45:10<br>@penguinz0<br>[Didn't Think It Could Get More Pathetic](https://www.youtube.com/watch?v=l1Hr60DaY9E)<br>[00:09:53] |
 |![](https://i.ytimg.com/vi/XxixvXJoVzs/maxresdefault.jpg) |2026-06-21 20:00:04<br>mathqueensusanne<br>[The area is exactly π? 🤯](https://www.youtube.com/watch?v=XxixvXJoVzs)<br>[00:08:07] |
 |![](https://i.ytimg.com/vi/ecaSXxpSjMY/maxresdefault.jpg) |2026-06-21 19:30:39<br>@jubilee<br>[Dean Withers and MAGA Woman discuss E. Jean Carroll #donaldtrump #maga #deanwithers #surrounded](https://www.youtube.com/watch?v=ecaSXxpSjMY)<br>[00:02:30] |
-|![](https://i.ytimg.com/vi/YO4J2wQJU5c/maxresdefault.jpg) |2026-06-21 19:30:34<br>@YishaiFleisherTV<br>[STUDENTS ASK: Is "Peace" Always A Good Thing?](https://www.youtube.com/watch?v=YO4J2wQJU5c)<br>[01:06:50] |
 |![](https://i.ytimg.com/vi/jidnbcCfc-8/maxresdefault.jpg) |2026-06-21 19:18:24<br>joeblogs<br>[RUSSIA in Crisis](https://www.youtube.com/watch?v=jidnbcCfc-8)<br>[00:14:20] |
 |![](https://i.ytimg.com/vi/1qy6CL6WP7I/maxresdefault.jpg) |2026-06-21 19:00:32<br>jimbrowning<br>[Unmasking the deepfake scammers](https://www.youtube.com/watch?v=1qy6CL6WP7I)<br>[00:22:05] |
 |![](https://i.ytimg.com/vi/PrcqS44B2jw/maxresdefault.jpg) |2026-06-21 19:00:28<br>@marinamcbain<br>[You're Not A Movie Star, You're Just FAMOUS...](https://www.youtube.com/watch?v=PrcqS44B2jw)<br>[00:25:43] |
@@ -298,6 +298,7 @@
 |![](https://i.ytimg.com/vi/gABvPe8-pqY/maxresdefault.jpg) |2026-06-11 23:34:43<br>@H3PodcastHighlights<br>[Reckless Ben Is In Serious Legal Trouble...](https://www.youtube.com/watch?v=gABvPe8-pqY)<br>[00:23:19] |
 |![](https://i.ytimg.com/vi/GpgeyE4EOlE/maxresdefault.jpg) |2026-06-11 23:33:44<br>@H3PodcastHighlights<br>[Regarding The Idubbbz Lawsuit.](https://www.youtube.com/watch?v=GpgeyE4EOlE)<br>[00:17:32] |
 |![](https://i.ytimg.com/vi/EGv19bdLck4/sddefault.jpg) |2026-06-11 21:45:49<br>@JREG<br>[Post-Left, Post-Right, Post-Everything](https://www.youtube.com/watch?v=EGv19bdLck4)<br>[00:59:46] |
+|![](https://i.ytimg.com/vi/-FRhx_3aWtY/maxresdefault.jpg) |2026-06-11 20:19:36<br>@hutch<br>[Did The Platner Allegations Backfire?](https://www.youtube.com/watch?v=-FRhx_3aWtY)<br>[01:06:30] |
 |![](https://i.ytimg.com/vi/Zg2568eaIvY/maxresdefault.jpg) |2026-06-11 19:00:32<br>pitchmeetings<br>[The Mandalorian and Grogu Pitch Meeting](https://www.youtube.com/watch?v=Zg2568eaIvY)<br>[00:05:45] |
 |![](https://i.ytimg.com/vi/Ci2ouBrf6hM/maxresdefault.jpg) |2026-06-11 18:30:06<br>@HouseofEl-AI<br>[Sam Altman is Freaking Out](https://www.youtube.com/watch?v=Ci2ouBrf6hM)<br>[00:21:09] |
 |![](https://i.ytimg.com/vi/5Uy0MGWIrnY/maxresdefault.jpg) |2026-06-11 18:21:15<br>religionforbreakfast<br>[Do Atheist Friends Make People Lose Their Faith?](https://www.youtube.com/watch?v=5Uy0MGWIrnY)<br>[00:14:10] |
@@ -308,7 +309,6 @@
 |![](https://i.ytimg.com/vi/JngnYrPd6Ts/maxresdefault.jpg) |2026-06-11 00:26:16<br>@americanredact<br>[The Worst Comedy Special of The Year](https://www.youtube.com/watch?v=JngnYrPd6Ts)<br>[00:11:17] |
 |![](https://i.ytimg.com/vi/rE4B40l0nXU/maxresdefault.jpg) |2026-06-10 23:57:42<br>@IsabellaLanter<br>[$12 TikTok Coffee Scam? The Prickly Pear Coffee Controversy](https://www.youtube.com/watch?v=rE4B40l0nXU)<br>[00:29:39] |
 |![](https://i.ytimg.com/vi/2XEUcO3fxDg/maxresdefault.jpg) |2026-06-10 19:52:30<br>mathqueensusanne<br>[Math Competition – Can You Find The Numbers?](https://www.youtube.com/watch?v=2XEUcO3fxDg)<br>[00:14:05] |
-|![](https://i.ytimg.com/vi/Z8KhWgzaCA8/maxresdefault.jpg) |2026-06-10 18:45:03<br>@Monetary-Matters<br>[America’s $205 Billion Fund You’ve Never Heard Of &#124; Conor Coleman](https://www.youtube.com/watch?v=Z8KhWgzaCA8)<br>[00:30:28] |
 |![](https://i.ytimg.com/vi/OWykKXo1k7w/maxresdefault.jpg) |2026-06-10 18:20:14<br>@fern-tv<br>[How to Escape Auschwitz](https://www.youtube.com/watch?v=OWykKXo1k7w)<br>[00:38:37] |
 |![](https://i.ytimg.com/vi/7NrUaYGSZgU/maxresdefault.jpg) |2026-06-10 18:00:37<br>coldfusion<br>[How Selling A Smartphone For $4 Unsurprisingly Was a Scam](https://www.youtube.com/watch?v=7NrUaYGSZgU)<br>[00:02:26] |
 |![](https://i.ytimg.com/vi/_luud6xjHyQ/maxresdefault.jpg) |2026-06-10 17:45:16<br>@1420channel<br>[productivity mix to drop the fertility rates even lower.](https://www.youtube.com/watch?v=_luud6xjHyQ)<br>[00:22:08] |
