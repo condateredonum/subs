@@ -1,8 +1,9 @@
 -------------------
-# 2026-06-24 11:39:55
+# 2026-06-24 12:40:26
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/eAKInC5rARM/maxresdefault.jpg) |2026-06-24 12:30:04<br>@hutch<br>[Destiny vs Counterpoints Goes NUCLEAR](https://www.youtube.com/watch?v=eAKInC5rARM)<br>[01:38:16] |
 |![](https://i.ytimg.com/vi/KuPgKHa5xuA/maxresdefault.jpg) |2026-06-24 11:23:24<br>@AbaNPreach<br>[The Worst Race Baiter](https://www.youtube.com/watch?v=KuPgKHa5xuA)<br>[00:11:25] |
 |![](https://i.ytimg.com/vi/Qh_uR5qyW0k/maxresdefault.jpg) |2026-06-24 10:45:20<br>zeihanongeopolitics<br>[The Future of Drone Tech: Russian Scale &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=Qh_uR5qyW0k)<br>[00:04:35] |
 |![](https://i.ytimg.com/vi/dxd84CiaU60/maxresdefault.jpg) |2026-06-24 10:39:06<br>timesofisrael<br>[Who has Trump's ear on Iran and Lebanon: Vance or Rubio?](https://www.youtube.com/watch?v=dxd84CiaU60)<br>[00:21:48] |
@@ -122,7 +123,7 @@
 |![](https://i.ytimg.com/vi/Efwafl87Yb8/maxresdefault.jpg) |2026-06-21 14:44:00<br>economicsexplained<br>[How Has Nepal Been Going?](https://www.youtube.com/watch?v=Efwafl87Yb8)<br>[00:22:08] |
 |![](https://i.ytimg.com/vi/bICyHwj1cWY/maxresdefault.jpg) |2026-06-21 13:00:16<br>@VanessaWingårdh<br>[The Scam Industry Is Booming](https://www.youtube.com/watch?v=bICyHwj1cWY)<br>[00:15:15] |
 |![](https://i.ytimg.com/vi/VRm31LY0mnE/maxresdefault.jpg) |2026-06-21 13:00:14<br>@Lindsiann<br>[the dating advice i wish i knew in college](https://www.youtube.com/watch?v=VRm31LY0mnE)<br>[00:08:21] |
-|![](https://i.ytimg.com/vi/VZR2VsfUyck/maxresdefault.jpg) |2026-06-21 12:14:00<br>jumokemi<br>[40% of $500,000 Earners are Living "Paycheck to Paycheck"](https://www.youtube.com/watch?v=VZR2VsfUyck)<br>[00:15:16] |
+|![](https://i.ytimg.com/vi/VZR2VsfUyck/maxresdefault.jpg) |2026-06-21 12:14:00<br>jumokemi<br>[Retirement is Changing - Why More People are WORKING After Age 67](https://www.youtube.com/watch?v=VZR2VsfUyck)<br>[00:15:16] |
 |![](https://i.ytimg.com/vi/HzQ0W6k4OVo/maxresdefault.jpg) |2026-06-21 10:47:09<br>smartmoneywithkai<br>[How I Research Any Stock Before Investing](https://www.youtube.com/watch?v=HzQ0W6k4OVo)<br>[00:20:29] |
 |![](https://i.ytimg.com/vi/l9l9RfsKG3E/maxresdefault.jpg) |2026-06-21 09:00:05<br>tobynewbatt<br>[How much do people earn in the UK? (From average to rich)](https://www.youtube.com/watch?v=l9l9RfsKG3E)<br>[00:15:03] |
 |![](https://i.ytimg.com/vi/mClpHvaM59c/maxresdefault.jpg) |2026-06-21 08:00:13<br>@TypeAshton<br>[The CRAZIEST Culture Shock I Have Ever Experienced](https://www.youtube.com/watch?v=mClpHvaM59c)<br>[00:23:59] |
@@ -303,7 +304,6 @@
 |![](https://i.ytimg.com/vi/gABvPe8-pqY/maxresdefault.jpg) |2026-06-11 23:34:43<br>@H3PodcastHighlights<br>[Reckless Ben Is In Serious Legal Trouble...](https://www.youtube.com/watch?v=gABvPe8-pqY)<br>[00:23:19] |
 |![](https://i.ytimg.com/vi/GpgeyE4EOlE/maxresdefault.jpg) |2026-06-11 23:33:44<br>@H3PodcastHighlights<br>[Regarding The Idubbbz Lawsuit.](https://www.youtube.com/watch?v=GpgeyE4EOlE)<br>[00:17:32] |
 |![](https://i.ytimg.com/vi/EGv19bdLck4/sddefault.jpg) |2026-06-11 21:45:49<br>@JREG<br>[Post-Left, Post-Right, Post-Everything](https://www.youtube.com/watch?v=EGv19bdLck4)<br>[00:59:46] |
-|![](https://i.ytimg.com/vi/-FRhx_3aWtY/maxresdefault.jpg) |2026-06-11 20:19:36<br>@hutch<br>[Did The Platner Allegations Backfire?](https://www.youtube.com/watch?v=-FRhx_3aWtY)<br>[01:06:30] |
 |![](https://i.ytimg.com/vi/Zg2568eaIvY/maxresdefault.jpg) |2026-06-11 19:00:32<br>pitchmeetings<br>[The Mandalorian and Grogu Pitch Meeting](https://www.youtube.com/watch?v=Zg2568eaIvY)<br>[00:05:45] |
 |![](https://i.ytimg.com/vi/Ci2ouBrf6hM/maxresdefault.jpg) |2026-06-11 18:30:06<br>@HouseofEl-AI<br>[Sam Altman is Freaking Out](https://www.youtube.com/watch?v=Ci2ouBrf6hM)<br>[00:21:09] |
 |![](https://i.ytimg.com/vi/5Uy0MGWIrnY/maxresdefault.jpg) |2026-06-11 18:21:15<br>religionforbreakfast<br>[Do Atheist Friends Make People Lose Their Faith?](https://www.youtube.com/watch?v=5Uy0MGWIrnY)<br>[00:14:10] |
