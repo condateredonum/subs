@@ -30,6 +30,8 @@
 
 [Anders Puck Nielsen](https://www.youtube.com/channel/UCPPfK7Nq_yQR84rn1wcTXBg)
 
+[Andrei Jikh](youtube.com/@AndreiJikh/videos)
+
 [Angela Collier](https://www.youtube.com/channel/UCtscFf8VayggrDYjOwDke_Q)
 
 [Antastesiaa](https://www.youtube.com/channel/UCIBAJIVwRXYViiRXREgM44w)
