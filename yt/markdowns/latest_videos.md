@@ -1,8 +1,11 @@
 -------------------
-# 2026-06-24 18:26:30
+# 2026-06-24 18:51:23
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/MUbJcjiGd7E/maxresdefault.jpg) |2026-06-24 18:36:43<br>@DenysDavydov<br>[Update from Ukraine &#124; Big! Sevastopol Hit Hard! Madness on Frontline](https://www.youtube.com/watch?v=MUbJcjiGd7E)<br>[00:26:02] |
+|![](https://i.ytimg.com/vi/IHFVBrwt54s/maxresdefault.jpg) |2026-06-24 18:35:56<br>@Monetary-Matters<br>[The Secret to Investing Like Substack & FinTwit's Top Researchers](https://www.youtube.com/watch?v=IHFVBrwt54s)<br>[00:47:42] |
+|![](https://i.ytimg.com/vi/CugfETvuw-w/sddefault.jpg) |2026-06-24 18:30:35<br>@penguinz0<br>[GTA 6 Price Confirmed I Was Right](https://www.youtube.com/watch?v=CugfETvuw-w)<br>[00:09:14] |
 |![](https://i.ytimg.com/vi/E_Nkb2Wdz7o/maxresdefault.jpg) |2026-06-24 18:01:25<br>jjmccullough<br>[Liminal Objects: permanent things from temporary moments](https://www.youtube.com/watch?v=E_Nkb2Wdz7o)<br>[00:20:14] |
 |![](https://i.ytimg.com/vi/4qALmdcaerE/maxresdefault.jpg) |2026-06-24 18:00:23<br>@RachelOates<br>[Trigger Warning: When Your MAGA Grandad Tries To Write A Book](https://www.youtube.com/watch?v=4qALmdcaerE)<br>[02:26:33] |
 |![](https://i.ytimg.com/vi/dxiIl6LGN3g/maxresdefault.jpg) |2026-06-24 18:00:20<br>@lucymoon<br>[a very realistic week figuring out life between chapters](https://www.youtube.com/watch?v=dxiIl6LGN3g)<br>[00:17:01] |
@@ -130,11 +133,9 @@
 |![](https://i.ytimg.com/vi/EQ8nrP6PKV4/sddefault.jpg) |2026-06-22 02:45:33<br>@penguinz0<br>[What a Surprise](https://www.youtube.com/watch?v=EQ8nrP6PKV4)<br>[00:10:41] |
 |![](https://i.ytimg.com/vi/86_SBoJCqbg/maxresdefault.jpg) |2026-06-22 02:26:35<br>tyleroliveira<br>[WTF Happened to Brussels...](https://www.youtube.com/watch?v=86_SBoJCqbg)<br>[00:02:27] |
 |![](https://i.ytimg.com/vi/NMmrNYnfRfE/maxresdefault.jpg) |2026-06-22 00:04:02<br>@2lazy2tryYT<br>[The Podcaster Wars Are Completely Unhinged](https://www.youtube.com/watch?v=NMmrNYnfRfE)<br>[00:21:22] |
-|![](https://i.ytimg.com/vi/vrXoyHdbBp4/maxresdefault.jpg) |2026-06-21 23:24:37<br>@DenysDavydov<br>[Update from Ukraine &#124; Crimea Situation is Worse than we thought &#124; Kerch Bridge Next](https://www.youtube.com/watch?v=vrXoyHdbBp4)<br>[00:14:24] |
 |![](https://i.ytimg.com/vi/xFd8X7TI7Sc/maxresdefault.jpg) |2026-06-21 22:44:21<br>@Monetary-Matters<br>[Ed Zitron: The AI Bubble is Bleeding Cash, Here Are The Receipts](https://www.youtube.com/watch?v=xFd8X7TI7Sc)<br>[01:11:43] |
 |![](https://i.ytimg.com/vi/BsHnxmnGU5s/maxresdefault.jpg) |2026-06-21 21:52:29<br>@RobsMedia25<br>[Idiot Influencers - ChibiReviews](https://www.youtube.com/watch?v=BsHnxmnGU5s)<br>[00:57:11] |
 |![](https://i.ytimg.com/vi/VLjW6zuYmos/maxresdefault.jpg) |2026-06-21 20:55:02<br>@hankschannel<br>[There's a Border Closing Over Our Heads](https://www.youtube.com/watch?v=VLjW6zuYmos)<br>[00:20:43] |
-|![](https://i.ytimg.com/vi/l1Hr60DaY9E/sddefault.jpg) |2026-06-21 20:45:10<br>@penguinz0<br>[Didn't Think It Could Get More Pathetic](https://www.youtube.com/watch?v=l1Hr60DaY9E)<br>[00:09:53] |
 |![](https://i.ytimg.com/vi/XxixvXJoVzs/maxresdefault.jpg) |2026-06-21 20:00:04<br>mathqueensusanne<br>[The area is exactly π? 🤯](https://www.youtube.com/watch?v=XxixvXJoVzs)<br>[00:08:07] |
 |![](https://i.ytimg.com/vi/ecaSXxpSjMY/maxresdefault.jpg) |2026-06-21 19:30:39<br>@jubilee<br>[Dean Withers and MAGA Woman discuss E. Jean Carroll #donaldtrump #maga #deanwithers #surrounded](https://www.youtube.com/watch?v=ecaSXxpSjMY)<br>[00:02:30] |
 |![](https://i.ytimg.com/vi/jidnbcCfc-8/maxresdefault.jpg) |2026-06-21 19:18:24<br>joeblogs<br>[RUSSIA in Crisis](https://www.youtube.com/watch?v=jidnbcCfc-8)<br>[00:14:20] |
@@ -236,7 +237,7 @@
 |![](https://i.ytimg.com/vi/dkjBejDTXvI/maxresdefault.jpg) |2026-06-17 17:00:30<br>@theantibot<br>[Christian overconsumption is getting weird.](https://www.youtube.com/watch?v=dkjBejDTXvI)<br>[00:32:50] |
 |![](https://i.ytimg.com/vi/9ntwhXzuQ8o/maxresdefault.jpg) |2026-06-17 17:00:04<br>meaningfulmoney<br>[Will You Still Get Your Pension at 55? HMRC Has Finally Answered](https://www.youtube.com/watch?v=9ntwhXzuQ8o)<br>[00:13:23] |
 |![](https://i.ytimg.com/vi/xHGugv0ohpw/maxresdefault.jpg) |2026-06-17 16:40:33<br>@hutch<br>[One of the most HILARIOUS interviews I've ever seen (feat. Taylor Lorenz)](https://www.youtube.com/watch?v=xHGugv0ohpw)<br>[01:41:40] |
-|![](https://i.ytimg.com/vi/Xcqx-_tNb4s/maxresdefault.jpg) |2026-06-17 16:00:34<br>@thatpracticalmom<br>[Modern Organization is a Fever Dream](https://www.youtube.com/watch?v=Xcqx-_tNb4s)<br>[00:21:36] |
+|![](https://i.ytimg.com/vi/Xcqx-_tNb4s/maxresdefault.jpg) |2026-06-17 16:00:34<br>@thatpracticalmom<br>[Organization Content is Getting Delusional](https://www.youtube.com/watch?v=Xcqx-_tNb4s)<br>[00:21:36] |
 |![](https://i.ytimg.com/vi/Mkd28B8J9ag/maxresdefault.jpg) |2026-06-17 16:00:22<br>@LouExtras<br>[The Kardashian Curse](https://www.youtube.com/watch?v=Mkd28B8J9ag)<br>[00:47:33] |
 |![](https://i.ytimg.com/vi/vYE81LaHZyc/maxresdefault.jpg) |2026-06-17 16:00:12<br>@oompaville<br>[He Was Being Silenced](https://www.youtube.com/watch?v=vYE81LaHZyc)<br>[00:44:32] |
 |![](https://i.ytimg.com/vi/aORcJfLrlA4/maxresdefault.jpg) |2026-06-17 15:17:16<br>bundeswehr<br>[Das Ehrenkreuz der Bundeswehr für Tapferkeit und seine Bedeutung &#124; Bundeswehr](https://www.youtube.com/watch?v=aORcJfLrlA4)<br>[00:04:00] |
@@ -257,7 +258,6 @@
 |![](https://i.ytimg.com/vi/SGjInbKzh_I/maxresdefault.jpg) |2026-06-16 14:00:38<br>maneetpaul<br>[I never forget audiobooks anymore. Here's my system.](https://www.youtube.com/watch?v=SGjInbKzh_I)<br>[00:04:58] |
 |![](https://i.ytimg.com/vi/ZdbgR6jAyik/maxresdefault.jpg) |2026-06-16 11:17:19<br>martinlewis<br>[Martin Lewis: Bailiffs, debt letters, insurance, bills, scams — the system needs to work better](https://www.youtube.com/watch?v=ZdbgR6jAyik)<br>[00:06:00] |
 |![](https://i.ytimg.com/vi/DDMfLIzibnQ/maxresdefault.jpg) |2026-06-16 09:30:06<br>mathematrick<br>[Sieht einfach aus? – Löse das Gleichungssystem!](https://www.youtube.com/watch?v=DDMfLIzibnQ)<br>[00:12:42] |
-|![](https://i.ytimg.com/vi/760Bpzc1cYM/maxresdefault.jpg) |2026-06-15 21:46:28<br>@Monetary-Matters<br>[Massive AI Crackdown Is Coming (It’s Simply Too Good) &#124; David Woo](https://www.youtube.com/watch?v=760Bpzc1cYM)<br>[01:08:01] |
 |![](https://i.ytimg.com/vi/pHLEtflJRrU/maxresdefault.jpg) |2026-06-15 21:13:59<br>@LaelHansen<br>[THE WOMAN WHO DESTROYED HER FACE FOREVER...](https://www.youtube.com/watch?v=pHLEtflJRrU)<br>[00:13:06] |
 |![](https://i.ytimg.com/vi/065tBr9rNWk/sddefault.jpg) |2026-06-15 20:52:06<br>@JREG<br>[How In-Group Language Loses Its Meaning Online (E-Territorialization)](https://www.youtube.com/watch?v=065tBr9rNWk)<br>[00:21:35] |
 |![](https://i.ytimg.com/vi/8s2HsdGpCN0/maxresdefault.jpg) |2026-06-15 18:00:38<br>chrispalmer24<br>[The ISA Trick HMRC Doesn't Want You to Know](https://www.youtube.com/watch?v=8s2HsdGpCN0)<br>[00:12:15] |
