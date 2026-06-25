@@ -1,9 +1,10 @@
 -------------------
-# 2026-06-25 11:30:15
+# 2026-06-25 12:34:11
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/YhVK0AfD-fY/maxresdefault.jpg) |2026-06-25 11:11:20<br>martinlewis<br>[Martin, what’s the best age to start investing for my pension?](https://www.youtube.com/watch?v=YhVK0AfD-fY)<br>[00:04:21] |
+|![](https://i.ytimg.com/vi/SbO4iWiH0V4/maxresdefault.jpg) |2026-06-25 11:53:42<br>martinlewis<br>[Martin, what’s the best age to start investing for my pension?](https://www.youtube.com/watch?v=SbO4iWiH0V4)<br>[00:04:21] |
+|![](https://i.ytimg.com/vi/1dvQeedy7Bk/maxresdefault.jpg) |2026-06-25 11:30:16<br>@ramitsethi<br>[8 Skills High Earners Have That Most People Ignore](https://www.youtube.com/watch?v=1dvQeedy7Bk)<br>[00:20:24] |
 |![](https://i.ytimg.com/vi/zCXLKrsVRVs/maxresdefault.jpg) |2026-06-25 10:45:32<br>zeihanongeopolitics<br>[The Reality of the Global Energy Situation &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=zCXLKrsVRVs)<br>[00:03:59] |
 |![](https://i.ytimg.com/vi/1co8ZqtGLDw/maxresdefault.jpg) |2026-06-25 10:25:20<br>@AbaNPreach<br>[Cops Illegally Enter Home, Blast The Dog](https://www.youtube.com/watch?v=1co8ZqtGLDw)<br>[00:14:00] |
 |![](https://i.ytimg.com/vi/IgEhERIayJ4/maxresdefault.jpg) |2026-06-25 08:00:20<br>decodinggeopoliticspodcast<br>[John Bolton: The Real Reason Why Trump's Iran War Became Such a Disaster](https://www.youtube.com/watch?v=IgEhERIayJ4)<br>[00:05:55] |
@@ -135,7 +136,6 @@
 |![](https://i.ytimg.com/vi/vjOqYuotQYs/maxresdefault.jpg) |2026-06-22 14:33:46<br>nnnimroddd<br>[King of the North Andy Burnham Avanti train to Euston](https://www.youtube.com/watch?v=vjOqYuotQYs)<br>[00:38:04] |
 |![](https://i.ytimg.com/vi/Lbe4rDUbZ4k/maxresdefault.jpg) |2026-06-22 14:00:14<br>@susannahfriesenofficial<br>[TikTok's "Summerween" Proves We're OBSESSED With Overconsuming Holidays](https://www.youtube.com/watch?v=Lbe4rDUbZ4k)<br>[00:20:20] |
 |![](https://i.ytimg.com/vi/HB4kcCPMwvw/maxresdefault.jpg) |2026-06-22 13:47:58<br>perunau<br>[The Iran Deal (so far) - A Memorandum of Misunderstanding?](https://www.youtube.com/watch?v=HB4kcCPMwvw)<br>[00:55:00] |
-|![](https://i.ytimg.com/vi/QIovAovyrxU/maxresdefault.jpg) |2026-06-22 12:55:53<br>nnnimroddd<br>[Andy Burnham Polymarket odds quoted by Lizzy Burden on Bloomberg](https://www.youtube.com/watch?v=QIovAovyrxU)<br>[00:02:16] |
 |![](https://i.ytimg.com/vi/7u1fVgVbSrk/maxresdefault.jpg) |2026-06-22 12:27:01<br>@1420channel<br>[All the US defectors to Russia Explained](https://www.youtube.com/watch?v=7u1fVgVbSrk)<br>[00:08:22] |
 |![](https://i.ytimg.com/vi/w24Q0cLEH3Y/maxresdefault.jpg) |2026-06-22 12:01:33<br>joeblogs<br>[UK in Crisis](https://www.youtube.com/watch?v=w24Q0cLEH3Y)<br>[00:14:16] |
 |![](https://i.ytimg.com/vi/1dib2QrruB4/maxresdefault.jpg) |2026-06-22 11:07:43<br>bbcstever<br>[What are Russian papers reporting about fuel shortages and Ukrainian drone strikes?](https://www.youtube.com/watch?v=1dib2QrruB4)<br>[00:05:56] |
@@ -232,7 +232,6 @@
 |![](https://i.ytimg.com/vi/C84Lnyv0gTs/maxresdefault.jpg) |2026-06-18 16:06:40<br>hoog-youtube<br>[Is Europe Becoming the Permanent Underclass?](https://www.youtube.com/watch?v=C84Lnyv0gTs)<br>[00:42:21] |
 |![](https://i.ytimg.com/vi/R4nFEQb7kZo/maxresdefault.jpg) |2026-06-18 16:00:06<br>@HouseofEl-AI<br>[The Claude Shutdown Is a Total Sh*tshow](https://www.youtube.com/watch?v=R4nFEQb7kZo)<br>[00:22:22] |
 |![](https://i.ytimg.com/vi/_7x9YbH89-M/maxresdefault.jpg) |2026-06-18 14:37:40<br>nobodyspecialfinance<br>[Warsh Surprises Market With Succinct Hawkish Tone at First FOMC](https://www.youtube.com/watch?v=_7x9YbH89-M)<br>[00:36:47] |
-|![](https://i.ytimg.com/vi/aS6W2GJ2AzA/maxresdefault.jpg) |2026-06-18 14:00:13<br>@Monetary-Matters<br>[The Longest US Manufacturing Recession in History is Finally Over &#124; Chris Semenuk](https://www.youtube.com/watch?v=aS6W2GJ2AzA)<br>[01:19:45] |
 |![](https://i.ytimg.com/vi/BnTPpvC0t5o/maxresdefault.jpg) |2026-06-18 13:31:37<br>bundeswehr<br>[Sein letzter Flug: NH90-Pilot Hauptmann Mike nimmt Abschied &#124; Bundeswehr](https://www.youtube.com/watch?v=BnTPpvC0t5o)<br>[00:05:46] |
 |![](https://i.ytimg.com/vi/0j_Db4eWf9c/maxresdefault.jpg) |2026-06-18 12:30:14<br>@hutch<br>[The Liberal Civil War Heats Up... (feat. Destiny & WhickTV)](https://www.youtube.com/watch?v=0j_Db4eWf9c)<br>[02:23:24] |
 |![](https://i.ytimg.com/vi/-8ZYV9nH0Hg/maxresdefault.jpg) |2026-06-18 09:26:20<br>friendlyjordies<br>[Pauline's Press Club Address](https://www.youtube.com/watch?v=-8ZYV9nH0Hg)<br>[01:45:10] |
