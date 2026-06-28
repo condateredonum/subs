@@ -1,34 +1,35 @@
 import json
 import requests
 import os
+import re
 
 def get_usernames_from_md(md_file_path):
     """Extract usernames and channel IDs from the specified Markdown file."""
     channels = []
-    
+
     with open(md_file_path, 'r') as file:
         for line in file:
-            line = line.strip()  # Remove leading and trailing whitespace
-            
-            # Skip empty lines
-            if not line:
+            line = line.strip()
+            if not line or "](" not in line:
                 continue
-            
-            if "](" in line:
-                url = line.split('](')[-1].strip(')')
-                
-                # Format: https://www.youtube.com/@Channel/videos
-                if "youtube.com/@" in url:
-                    username = url.split('/')[3]
-                    if username.lower() not in [c['identifier'].lower() for c in channels if c['type'] == 'username']:
-                        channels.append({'type': 'username', 'identifier': username})
-                
-                # Format: https://www.youtube.com/channel/CHANNEL_ID
-                elif "youtube.com/channel/" in url:
-                    channel_id = url.split('/channel/')[-1].split('/')[0]
-                    if channel_id.lower() not in [c['identifier'].lower() for c in channels if c['type'] == 'channel_id']:
-                        channels.append({'type': 'channel_id', 'identifier': channel_id})
-    
+
+            url = line.split('](')[-1].strip(')').strip()
+
+            # Format: https://www.youtube.com/@Channel or .../@Channel/videos etc.
+            match = re.search(r'youtube\.com/@([^/\s]+)', url)
+            if match:
+                username = match.group(1)
+                if username.lower() not in [c['identifier'].lower() for c in channels if c['type'] == 'username']:
+                    channels.append({'type': 'username', 'identifier': username})
+                continue
+
+            # Format: https://www.youtube.com/channel/CHANNEL_ID
+            match = re.search(r'youtube\.com/channel/([^/\s]+)', url)
+            if match:
+                channel_id = match.group(1)
+                if channel_id.lower() not in [c['identifier'].lower() for c in channels if c['type'] == 'channel_id']:
+                    channels.append({'type': 'channel_id', 'identifier': channel_id})
+
     return channels
 
 def fetch_channel_info(username):
