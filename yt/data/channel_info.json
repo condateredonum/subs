@@ -1,24 +1,24 @@
 [
     {
-        "username": "@1420channel",
+        "username": "1420channel",
         "channel_id": "UCl4R4M9YVfYjjPmILU2Ie1A",
         "uploads_playlist_id": "UUl4R4M9YVfYjjPmILU2Ie1A",
         "latest_video": null
     },
     {
-        "username": "@2lazy2tryYT",
+        "username": "2lazy2tryYT",
         "channel_id": "UCUUe2Q6fFgu5Dzk_y2OyPYw",
         "uploads_playlist_id": "UUUUe2Q6fFgu5Dzk_y2OyPYw",
         "latest_video": null
     },
     {
-        "username": "@AbaNPreach",
+        "username": "AbaNPreach",
         "channel_id": "UCaiVt4r6YLPzJVgr7pOmD6w",
         "uploads_playlist_id": "UUaiVt4r6YLPzJVgr7pOmD6w",
         "latest_video": null
     },
     {
-        "username": "@AbbieRee",
+        "username": "AbbieRee",
         "channel_id": "UCXalq2bWIkFwFhyA5QFDtQw",
         "uploads_playlist_id": "UUXalq2bWIkFwFhyA5QFDtQw",
         "latest_video": null
@@ -30,13 +30,13 @@
         "latest_video": null
     },
     {
-        "username": "@alyssadgrenfell",
+        "username": "alyssadgrenfell",
         "channel_id": "UCqrqFLPh4cRM1VomUzG24sQ",
         "uploads_playlist_id": "UUqrqFLPh4cRM1VomUzG24sQ",
         "latest_video": null
     },
     {
-        "username": "@americanredact",
+        "username": "americanredact",
         "channel_id": "UCsLGW4mXzWqvtityp1T6CKQ",
         "uploads_playlist_id": "UUsLGW4mXzWqvtityp1T6CKQ",
         "latest_video": null
@@ -60,6 +60,12 @@
         "latest_video": null
     },
     {
+        "username": "AndreiJikh",
+        "channel_id": "UCGy7SkBjcIAgTiwkXEtPnYg",
+        "uploads_playlist_id": "UUGy7SkBjcIAgTiwkXEtPnYg",
+        "latest_video": null
+    },
+    {
         "username": "acollierastro",
         "channel_id": "UCtscFf8VayggrDYjOwDke_Q",
         "uploads_playlist_id": "UUtscFf8VayggrDYjOwDke_Q",
@@ -78,7 +84,7 @@
         "latest_video": null
     },
     {
-        "username": "@theantibot",
+        "username": "theantibot",
         "channel_id": "UC9LIQ1_csOAXTHOjQ_G11SA",
         "uploads_playlist_id": "UU9LIQ1_csOAXTHOjQ_G11SA",
         "latest_video": null
@@ -90,13 +96,13 @@
         "latest_video": null
     },
     {
-        "username": "@AshleyEmbers",
+        "username": "AshleyEmbers",
         "channel_id": "UCxRJFZ_0hr99TFgCe6CXKQA",
         "uploads_playlist_id": "UUxRJFZ_0hr99TFgCe6CXKQA",
         "latest_video": null
     },
     {
-        "username": "@atrioc",
+        "username": "atrioc",
         "channel_id": "UCgv4dPk_qZNAbUW9WkuLPSA",
         "uploads_playlist_id": "UUgv4dPk_qZNAbUW9WkuLPSA",
         "latest_video": null
@@ -108,7 +114,7 @@
         "latest_video": null
     },
     {
-        "username": "@berry9e",
+        "username": "berry9e",
         "channel_id": "UC7hBdoroqF0Y9DYW-41O8pg",
         "uploads_playlist_id": "UU7hBdoroqF0Y9DYW-41O8pg",
         "latest_video": null
@@ -120,7 +126,7 @@
         "latest_video": null
     },
     {
-        "username": "@AtriocClips",
+        "username": "AtriocClips",
         "channel_id": "UCdBXOyqr8cDshsp7kcKDAkg",
         "uploads_playlist_id": "UUdBXOyqr8cDshsp7kcKDAkg",
         "latest_video": null
@@ -156,7 +162,7 @@
         "latest_video": null
     },
     {
-        "username": "@BusinessInsider",
+        "username": "BusinessInsider",
         "channel_id": "UCcyq283he07B7_KUX07mmtA",
         "uploads_playlist_id": "UUcyq283he07B7_KUX07mmtA",
         "latest_video": null
@@ -174,7 +180,7 @@
         "latest_video": null
     },
     {
-        "username": "@CamKirkham",
+        "username": "CamKirkham",
         "channel_id": "UCYFEauKThJWBd8faja3vwog",
         "uploads_playlist_id": "UUYFEauKThJWBd8faja3vwog",
         "latest_video": null
@@ -192,7 +198,7 @@
         "latest_video": null
     },
     {
-        "username": "@CasuallyFinance",
+        "username": "CasuallyFinance",
         "channel_id": "UCrNfRFWnLC3tCy1TnyhVQ7g",
         "uploads_playlist_id": "UUrNfRFWnLC3tCy1TnyhVQ7g",
         "latest_video": null
@@ -216,7 +222,7 @@
         "latest_video": null
     },
     {
-        "username": "@Channel4Documentaries",
+        "username": "Channel4Documentaries",
         "channel_id": "UCooTDp-fERMGRHIQ4VL4qlg",
         "uploads_playlist_id": "UUooTDp-fERMGRHIQ4VL4qlg",
         "latest_video": null
@@ -228,7 +234,7 @@
         "latest_video": null
     },
     {
-        "username": "@realchris",
+        "username": "realchris",
         "channel_id": "UCahJ9IsvXnaQiuNyWQSkrkw",
         "uploads_playlist_id": "UUahJ9IsvXnaQiuNyWQSkrkw",
         "latest_video": null
@@ -252,7 +258,7 @@
         "latest_video": null
     },
     {
-        "username": "@ColeHastings",
+        "username": "ColeHastings",
         "channel_id": "UCwQnoax3HWID1WOzZ4mqLPQ",
         "uploads_playlist_id": "UUwQnoax3HWID1WOzZ4mqLPQ",
         "latest_video": null
@@ -276,7 +282,7 @@
         "latest_video": null
     },
     {
-        "username": "@DamiLeeArch",
+        "username": "DamiLeeArch",
         "channel_id": "UCJ_2hNMxOzNjviJBiLWHMqg",
         "uploads_playlist_id": "UUJ_2hNMxOzNjviJBiLWHMqg",
         "latest_video": null
@@ -288,7 +294,7 @@
         "latest_video": null
     },
     {
-        "username": "@DamonCassidy",
+        "username": "DamonCassidy",
         "channel_id": "UCvBy3qcISSOcrbqPhqmG4Xw",
         "uploads_playlist_id": "UUvBy3qcISSOcrbqPhqmG4Xw",
         "latest_video": null
@@ -306,7 +312,7 @@
         "latest_video": null
     },
     {
-        "username": "@DarylTalksGames",
+        "username": "DarylTalksGames",
         "channel_id": "UCJfJWct8jN1RpCuVWk3zHTA",
         "uploads_playlist_id": "UUJfJWct8jN1RpCuVWk3zHTA",
         "latest_video": null
@@ -330,7 +336,7 @@
         "latest_video": null
     },
     {
-        "username": "@DenysDavydov",
+        "username": "DenysDavydov",
         "channel_id": "UCpr-NNORb2UQYDD3k-w-OFg",
         "uploads_playlist_id": "UUpr-NNORb2UQYDD3k-w-OFg",
         "latest_video": null
@@ -348,13 +354,13 @@
         "latest_video": null
     },
     {
-        "username": "@DodfordYT",
+        "username": "DodfordYT",
         "channel_id": "UC-k1VD5K6kwizjhg-HKj1rw",
         "uploads_playlist_id": "UU-k1VD5K6kwizjhg-HKj1rw",
         "latest_video": null
     },
     {
-        "username": "@drewisgooden",
+        "username": "drewisgooden",
         "channel_id": "UCTSRIY3GLFYIpkR2QwyeklA",
         "uploads_playlist_id": "UUTSRIY3GLFYIpkR2QwyeklA",
         "latest_video": null
@@ -372,7 +378,7 @@
         "latest_video": null
     },
     {
-        "username": "@TheEfficientEngineer",
+        "username": "TheEfficientEngineer",
         "channel_id": "UCXAS_Ekkq0iFJ9dSUIkcAkw",
         "uploads_playlist_id": "UUXAS_Ekkq0iFJ9dSUIkcAkw",
         "latest_video": null
@@ -384,13 +390,13 @@
         "latest_video": null
     },
     {
-        "username": "@TheElephantGraveyardMusic",
+        "username": "TheElephantGraveyardMusic",
         "channel_id": "UCZ1q3ZqXAFCvym4jrGozdRg",
         "uploads_playlist_id": "UUZ1q3ZqXAFCvym4jrGozdRg",
         "latest_video": null
     },
     {
-        "username": "@ericamallett",
+        "username": "ericamallett",
         "channel_id": "UC1_EtmuURCpXazmVuALzvEg",
         "uploads_playlist_id": "UU1_EtmuURCpXazmVuALzvEg",
         "latest_video": null
@@ -414,7 +420,7 @@
         "latest_video": null
     },
     {
-        "username": "@fern-tv",
+        "username": "fern-tv",
         "channel_id": "UCODHrzPMGbNv67e84WDZhQQ",
         "uploads_playlist_id": "UUODHrzPMGbNv67e84WDZhQQ",
         "latest_video": null
@@ -444,7 +450,7 @@
         "latest_video": null
     },
     {
-        "username": "@Galatea-and-Acis",
+        "username": "Galatea-and-Acis",
         "channel_id": "UCPhvw06BupffcviCe6LMLgQ",
         "uploads_playlist_id": "UUPhvw06BupffcviCe6LMLgQ",
         "latest_video": null
@@ -462,7 +468,7 @@
         "latest_video": null
     },
     {
-        "username": "@GhostGum",
+        "username": "GhostGum",
         "channel_id": "UCLtnLkDf4nsXIIcr8orHUHA",
         "uploads_playlist_id": "UULtnLkDf4nsXIIcr8orHUHA",
         "latest_video": null
@@ -474,7 +480,7 @@
         "latest_video": null
     },
     {
-        "username": "@GoodWorkMB",
+        "username": "GoodWorkMB",
         "channel_id": "UC_-hYjoNe4PJNFa9iZ4lraA",
         "uploads_playlist_id": "UU_-hYjoNe4PJNFa9iZ4lraA",
         "latest_video": null
@@ -486,13 +492,13 @@
         "latest_video": null
     },
     {
-        "username": "@H3PodcastHighlights",
+        "username": "H3PodcastHighlights",
         "channel_id": "UCZZHPXsg6LopvdOKF7qM6cQ",
         "uploads_playlist_id": "UUZZHPXsg6LopvdOKF7qM6cQ",
         "latest_video": null
     },
     {
-        "username": "@hankschannel",
+        "username": "hankschannel",
         "channel_id": "UCOT2iLov0V7Re7ku_3UBtcQ",
         "uploads_playlist_id": "UUOT2iLov0V7Re7ku_3UBtcQ",
         "latest_video": null
@@ -516,43 +522,43 @@
         "latest_video": null
     },
     {
-        "username": "@HorsesOnYT",
+        "username": "HorsesOnYT",
         "channel_id": "UCrx2zrPjhGRi9TwszZiLwEg",
         "uploads_playlist_id": "UUrx2zrPjhGRi9TwszZiLwEg",
         "latest_video": null
     },
     {
-        "username": "@HouseofEl-AI",
+        "username": "HouseofEl-AI",
         "channel_id": "UCsoc5Ad-fC7wWie2PH4rPcw",
         "uploads_playlist_id": "UUsoc5Ad-fC7wWie2PH4rPcw",
         "latest_video": null
     },
     {
-        "username": "@HowMoneyWorks",
+        "username": "HowMoneyWorks",
         "channel_id": "UCkCGANrihzExmu9QiqZpPlQ",
         "uploads_playlist_id": "UUkCGANrihzExmu9QiqZpPlQ",
         "latest_video": null
     },
     {
-        "username": "@hutch",
+        "username": "hutch",
         "channel_id": "UCzRrheyUCB_qUrrfQ_sEG-Q",
         "uploads_playlist_id": "UUzRrheyUCB_qUrrfQ_sEG-Q",
         "latest_video": null
     },
     {
-        "username": "@ramitsethi",
+        "username": "ramitsethi",
         "channel_id": "UC7ZddA__ewP3AtDefjl_tWg",
         "uploads_playlist_id": "UU7ZddA__ewP3AtDefjl_tWg",
         "latest_video": null
     },
     {
-        "username": "@IsabellaLanter",
+        "username": "IsabellaLanter",
         "channel_id": "UCyKaYH9waVnGb6EvWoQrj6A",
         "uploads_playlist_id": "UUyKaYH9waVnGb6EvWoQrj6A",
         "latest_video": null
     },
     {
-        "username": "@IzzySealey",
+        "username": "IzzySealey",
         "channel_id": "UCbOhZ3HUP0eqbQgGYSMHo1w",
         "uploads_playlist_id": "UUbOhZ3HUP0eqbQgGYSMHo1w",
         "latest_video": null
@@ -594,7 +600,7 @@
         "latest_video": null
     },
     {
-        "username": "@_jared",
+        "username": "_jared",
         "channel_id": "UC2Kyj04yISmHr1V-UlJz4eg",
         "uploads_playlist_id": "UU2Kyj04yISmHr1V-UlJz4eg",
         "latest_video": null
@@ -630,43 +636,43 @@
         "latest_video": null
     },
     {
-        "username": "@DrJonathanTam",
+        "username": "DrJonathanTam",
         "channel_id": "UCcc_LE8kzIzcloTVAttch5w",
         "uploads_playlist_id": "UUcc_LE8kzIzcloTVAttch5w",
         "latest_video": null
     },
     {
-        "username": "@jordankang",
+        "username": "jordankang",
         "channel_id": "UCpPB8Jpo41yKLb5FArqbwag",
         "uploads_playlist_id": "UUpPB8Jpo41yKLb5FArqbwag",
         "latest_video": null
     },
     {
-        "username": "@jordanatheresa",
+        "username": "jordanatheresa",
         "channel_id": "UCN3FtxTrTFLni3wjRubbN4Q",
         "uploads_playlist_id": "UUN3FtxTrTFLni3wjRubbN4Q",
         "latest_video": null
     },
     {
-        "username": "@JREG",
+        "username": "JREG",
         "channel_id": "UCGSGPehp0RWfca-kENgBJ9Q",
         "uploads_playlist_id": "UUGSGPehp0RWfca-kENgBJ9Q",
         "latest_video": null
     },
     {
-        "username": "@jubilee",
+        "username": "jubilee",
         "channel_id": "UCJjSDX-jUChzOEyok9XYRJQ",
         "uploads_playlist_id": "UUJjSDX-jUChzOEyok9XYRJQ",
         "latest_video": null
     },
     {
-        "username": "@kaptainkristian",
+        "username": "kaptainkristian",
         "channel_id": "UCuPgdqQKpq4T4zeqmTelnFg",
         "uploads_playlist_id": "UUuPgdqQKpq4T4zeqmTelnFg",
         "latest_video": null
     },
     {
-        "username": "@kate.cassidy",
+        "username": "kate.cassidy",
         "channel_id": "UCAJCDTBxmvPbNAIhQULVr6g",
         "uploads_playlist_id": "UUAJCDTBxmvPbNAIhQULVr6g",
         "latest_video": null
@@ -678,7 +684,7 @@
         "latest_video": null
     },
     {
-        "username": "@KianaDocherty",
+        "username": "KianaDocherty",
         "channel_id": "UCNGkAYEhcVdlwJITJSnB73A",
         "uploads_playlist_id": "UUNGkAYEhcVdlwJITJSnB73A",
         "latest_video": null
@@ -690,7 +696,7 @@
         "latest_video": null
     },
     {
-        "username": "@Kraut_the_Parrot",
+        "username": "Kraut_the_Parrot",
         "channel_id": "UCr_Q-bPpcw5fJ-Oow1BW1NQ",
         "uploads_playlist_id": "UUr_Q-bPpcw5fJ-Oow1BW1NQ",
         "latest_video": null
@@ -702,7 +708,7 @@
         "latest_video": null
     },
     {
-        "username": "@nightshift_kurzgesagt",
+        "username": "nightshift_kurzgesagt",
         "channel_id": "UCq8ZAAsI89IoJ-fn1gYpO3g",
         "uploads_playlist_id": "UUq8ZAAsI89IoJ-fn1gYpO3g",
         "latest_video": null
@@ -714,13 +720,13 @@
         "latest_video": null
     },
     {
-        "username": "@LaelHansen",
+        "username": "LaelHansen",
         "channel_id": "UCGzjwUH82liiMJkqFFFIuBw",
         "uploads_playlist_id": "UUGzjwUH82liiMJkqFFFIuBw",
         "latest_video": null
     },
     {
-        "username": "@LanaBlakely",
+        "username": "LanaBlakely",
         "channel_id": "UCfBqaomkd7VcyOibBX2xtqA",
         "uploads_playlist_id": "UUfBqaomkd7VcyOibBX2xtqA",
         "latest_video": null
@@ -732,13 +738,13 @@
         "latest_video": null
     },
     {
-        "username": "@leenanorms",
+        "username": "leenanorms",
         "channel_id": "UCpqf-UHCeCSd0BqoxxrDv8g",
         "uploads_playlist_id": "UUpqf-UHCeCSd0BqoxxrDv8g",
         "latest_video": null
     },
     {
-        "username": "@LemonadeStandPodcast",
+        "username": "LemonadeStandPodcast",
         "channel_id": "UCwVevVbti5Uuxj6Mkl5NHRA",
         "uploads_playlist_id": "UUwVevVbti5Uuxj6Mkl5NHRA",
         "latest_video": null
@@ -750,25 +756,25 @@
         "latest_video": null
     },
     {
-        "username": "@LilAClip",
+        "username": "LilAClip",
         "channel_id": "UCo7gO5WhQXo6eD98OFlYlug",
         "uploads_playlist_id": "UUo7gO5WhQXo6eD98OFlYlug",
         "latest_video": null
     },
     {
-        "username": "@Lindsiann",
+        "username": "Lindsiann",
         "channel_id": "UCT5Jop5RID99sx5ZukHkO5g",
         "uploads_playlist_id": "UUT5Jop5RID99sx5ZukHkO5g",
         "latest_video": null
     },
     {
-        "username": "@LouExtras",
+        "username": "LouExtras",
         "channel_id": "UCsgQfxCCW0RQiwlKi6Zd9nw",
         "uploads_playlist_id": "UUsgQfxCCW0RQiwlKi6Zd9nw",
         "latest_video": null
     },
     {
-        "username": "@lucymoon",
+        "username": "lucymoon",
         "channel_id": "UCEJjmNf24-N1U9HXmr-2nYw",
         "uploads_playlist_id": "UUEJjmNf24-N1U9HXmr-2nYw",
         "latest_video": null
@@ -792,7 +798,7 @@
         "latest_video": null
     },
     {
-        "username": "@marinamcbain",
+        "username": "marinamcbain",
         "channel_id": "UCl3G-bxtbMLaKfaRq7ljHSA",
         "uploads_playlist_id": "UUl3G-bxtbMLaKfaRq7ljHSA",
         "latest_video": null
@@ -846,7 +852,7 @@
         "latest_video": null
     },
     {
-        "username": "@hellomayuko",
+        "username": "hellomayuko",
         "channel_id": "UCEDkO7wshcDZ7UZo17rPkzQ",
         "uploads_playlist_id": "UUEDkO7wshcDZ7UZo17rPkzQ",
         "latest_video": null
@@ -864,7 +870,7 @@
         "latest_video": null
     },
     {
-        "username": "@miarosemcgrath",
+        "username": "miarosemcgrath",
         "channel_id": "UC4HrgQeuQHNTsrqjSMsGO6A",
         "uploads_playlist_id": "UU4HrgQeuQHNTsrqjSMsGO6A",
         "latest_video": null
@@ -882,55 +888,55 @@
         "latest_video": null
     },
     {
-        "username": "@gremlita",
+        "username": "gremlita",
         "channel_id": "UCoOss5XiPpnLHGmLrBvNkJg",
         "uploads_playlist_id": "UUoOss5XiPpnLHGmLrBvNkJg",
         "latest_video": null
     },
     {
-        "username": "@MingLLC",
+        "username": "MingLLC",
         "channel_id": "UClrSwyZsTOqfTkN7YkCKo5Q",
         "uploads_playlist_id": "UUlrSwyZsTOqfTkN7YkCKo5Q",
         "latest_video": null
     },
     {
-        "username": "@MoneyMacro",
+        "username": "MoneyMacro",
         "channel_id": "UCCKpicnIwBP3VPxBAZWDeNA",
         "uploads_playlist_id": "UUCKpicnIwBP3VPxBAZWDeNA",
         "latest_video": null
     },
     {
-        "username": "@Monetary-Matters",
+        "username": "Monetary-Matters",
         "channel_id": "UCeyqw1Ns_cnhSJh5XvXPWgw",
         "uploads_playlist_id": "UUeyqw1Ns_cnhSJh5XvXPWgw",
         "latest_video": null
     },
     {
-        "username": "@Moocake",
+        "username": "Moocake",
         "channel_id": "UCOoLmpYHyAe5Jg1bVohsS5g",
         "uploads_playlist_id": "UUOoLmpYHyAe5Jg1bVohsS5g",
         "latest_video": null
     },
     {
-        "username": "@themorbidzoo",
+        "username": "themorbidzoo",
         "channel_id": "UCOXhxpe6-cDq7SyJdxasTkQ",
         "uploads_playlist_id": "UUOXhxpe6-cDq7SyJdxasTkQ",
         "latest_video": null
     },
     {
-        "username": "@MoreCringe",
+        "username": "MoreCringe",
         "channel_id": "UC2LQV-LPJ4UAOjGcLb668pA",
         "uploads_playlist_id": "UU2LQV-LPJ4UAOjGcLb668pA",
         "latest_video": null
     },
     {
-        "username": "@moresus",
+        "username": "moresus",
         "channel_id": "UCjuKQCmKlCtrPL2wl1uIphQ",
         "uploads_playlist_id": "UUjuKQCmKlCtrPL2wl1uIphQ",
         "latest_video": null
     },
     {
-        "username": "@naynaflorence",
+        "username": "naynaflorence",
         "channel_id": "UClH3eUwzfDTXxUjM8WIJuOg",
         "uploads_playlist_id": "UUlH3eUwzfDTXxUjM8WIJuOg",
         "latest_video": null
@@ -954,19 +960,19 @@
         "latest_video": null
     },
     {
-        "username": "@notevenemily",
+        "username": "notevenemily",
         "channel_id": "UChhyfYkhuVrzmvDr-WqpDSw",
         "uploads_playlist_id": "UUhhyfYkhuVrzmvDr-WqpDSw",
         "latest_video": null
     },
     {
-        "username": "@oliSUNvia",
+        "username": "oliSUNvia",
         "channel_id": "UCVHxJghKAB_kA_5LMM8MD3w",
         "uploads_playlist_id": "UUVHxJghKAB_kA_5LMM8MD3w",
         "latest_video": null
     },
     {
-        "username": "@oompaville",
+        "username": "oompaville",
         "channel_id": "UC6Mjg5R5QOJYjrio1JmP8Fg",
         "uploads_playlist_id": "UU6Mjg5R5QOJYjrio1JmP8Fg",
         "latest_video": null
@@ -984,19 +990,19 @@
         "latest_video": null
     },
     {
-        "username": "@PBoyle",
+        "username": "PBoyle",
         "channel_id": "UCASM0cgfkJxQ1ICmRilfHLw",
         "uploads_playlist_id": "UUASM0cgfkJxQ1ICmRilfHLw",
         "latest_video": null
     },
     {
-        "username": "@PindPod",
+        "username": "PindPod",
         "channel_id": "UCX7BeXdyzq27ZC4NBDsgK3Q",
         "uploads_playlist_id": "UUX7BeXdyzq27ZC4NBDsgK3Q",
         "latest_video": null
     },
     {
-        "username": "@penguinz0",
+        "username": "penguinz0",
         "channel_id": "UCq6VFHwMzcMXbuKyG7SQYIg",
         "uploads_playlist_id": "UUq6VFHwMzcMXbuKyG7SQYIg",
         "latest_video": null
@@ -1020,7 +1026,7 @@
         "latest_video": null
     },
     {
-        "username": "@PewDiePie",
+        "username": "PewDiePie",
         "channel_id": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
         "uploads_playlist_id": "UU-lHJZR3Gqxm24_Vd_AJ5Yw",
         "latest_video": null
@@ -1038,13 +1044,13 @@
         "latest_video": null
     },
     {
-        "username": "@PlasticPills",
+        "username": "PlasticPills",
         "channel_id": "UC9XFvuObhfVUNAGNcH8Y_fw",
         "uploads_playlist_id": "UU9XFvuObhfVUNAGNcH8Y_fw",
         "latest_video": null
     },
     {
-        "username": "@PodcastCringe",
+        "username": "PodcastCringe",
         "channel_id": "UCSmxtnPw-aVg_hQ9zLb_Fug",
         "uploads_playlist_id": "UUSmxtnPw-aVg_hQ9zLb_Fug",
         "latest_video": null
@@ -1074,19 +1080,19 @@
         "latest_video": null
     },
     {
-        "username": "@AnaPsychology",
+        "username": "AnaPsychology",
         "channel_id": "UCOxhlNofmYH-MRC36TURUGw",
         "uploads_playlist_id": "UUOxhlNofmYH-MRC36TURUGw",
         "latest_video": null
     },
     {
-        "username": "@pyrrhichos",
+        "username": "pyrrhichos",
         "channel_id": "UCkEn00DyxfkoW3LEy7qqgRw",
         "uploads_playlist_id": "UUkEn00DyxfkoW3LEy7qqgRw",
         "latest_video": null
     },
     {
-        "username": "@RachelOates",
+        "username": "RachelOates",
         "channel_id": "UCC6ue7UYt1yeS621xmTMKrQ",
         "uploads_playlist_id": "UUC6ue7UYt1yeS621xmTMKrQ",
         "latest_video": null
@@ -1098,7 +1104,7 @@
         "latest_video": null
     },
     {
-        "username": "@RealEngineering",
+        "username": "RealEngineering",
         "channel_id": "UCR1IuLEqb6UEA_zQ81kwXfg",
         "uploads_playlist_id": "UUR1IuLEqb6UEA_zQ81kwXfg",
         "latest_video": null
@@ -1128,7 +1134,7 @@
         "latest_video": null
     },
     {
-        "username": "@RobsMedia25",
+        "username": "RobsMedia25",
         "channel_id": "UCTNEyXNnGpMqpR3eb9w1hyw",
         "uploads_playlist_id": "UUTNEyXNnGpMqpR3eb9w1hyw",
         "latest_video": null
@@ -1164,7 +1170,7 @@
         "latest_video": null
     },
     {
-        "username": "@HilaryLayne",
+        "username": "HilaryLayne",
         "channel_id": "UCBmqEPwc_8yJB-nhLjm9krw",
         "uploads_playlist_id": "UUBmqEPwc_8yJB-nhLjm9krw",
         "latest_video": null
@@ -1176,13 +1182,13 @@
         "latest_video": null
     },
     {
-        "username": "@sierraladuke",
+        "username": "sierraladuke",
         "channel_id": "UCSPXleqZlLpqGnlR3L0b1Mw",
         "uploads_playlist_id": "UUSPXleqZlLpqGnlR3L0b1Mw",
         "latest_video": null
     },
     {
-        "username": "@sierraroselyn",
+        "username": "sierraroselyn",
         "channel_id": "UC2JD_xPL6VI9paxjA833Ofw",
         "uploads_playlist_id": "UU2JD_xPL6VI9paxjA833Ofw",
         "latest_video": null
@@ -1212,7 +1218,7 @@
         "latest_video": null
     },
     {
-        "username": "@StateofKait",
+        "username": "StateofKait",
         "channel_id": "UC0QkAdm98jOI_ZPsOc92_yg",
         "uploads_playlist_id": "UU0QkAdm98jOI_ZPsOc92_yg",
         "latest_video": null
@@ -1242,13 +1248,13 @@
         "latest_video": null
     },
     {
-        "username": "@susannahfriesenofficial",
+        "username": "susannahfriesenofficial",
         "channel_id": "UC2B2zhu2C0iGiRIZ6qzXg5Q",
         "uploads_playlist_id": "UU2B2zhu2C0iGiRIZ6qzXg5Q",
         "latest_video": null
     },
     {
-        "username": "@thatpracticalmom",
+        "username": "thatpracticalmom",
         "channel_id": "UCeDNVLP9jf9a2BDaLUQC7YA",
         "uploads_playlist_id": "UUeDNVLP9jf9a2BDaLUQC7YA",
         "latest_video": null
@@ -1308,19 +1314,19 @@
         "latest_video": null
     },
     {
-        "username": "@thought_bug",
+        "username": "thought_bug",
         "channel_id": "UCQlmdbSpEpRn-Qn902yIQvA",
         "uploads_playlist_id": "UUQlmdbSpEpRn-Qn902yIQvA",
         "latest_video": null
     },
     {
-        "username": "@thethoughtspot222",
+        "username": "thethoughtspot222",
         "channel_id": "UC2565grIRtpQ-Z-o9ICtfiQ",
         "uploads_playlist_id": "UU2565grIRtpQ-Z-o9ICtfiQ",
         "latest_video": null
     },
     {
-        "username": "@tiffanyferg",
+        "username": "tiffanyferg",
         "channel_id": "UCY6DpwQetygtye7GM1zVHmw",
         "uploads_playlist_id": "UUY6DpwQetygtye7GM1zVHmw",
         "latest_video": null
@@ -1344,13 +1350,13 @@
         "latest_video": null
     },
     {
-        "username": "@Tom_Nicholas",
+        "username": "Tom_Nicholas",
         "channel_id": "UCxt2r57cLastdmrReiQJkEg",
         "uploads_playlist_id": "UUxt2r57cLastdmrReiQJkEg",
         "latest_video": null
     },
     {
-        "username": "@justtree411",
+        "username": "justtree411",
         "channel_id": "UCvZODdsQoNEW7s-Wk6pn4vA",
         "uploads_playlist_id": "UUvZODdsQoNEW7s-Wk6pn4vA",
         "latest_video": null
@@ -1362,7 +1368,7 @@
         "latest_video": null
     },
     {
-        "username": "@TypeAshton",
+        "username": "TypeAshton",
         "channel_id": "UCh39lN7FQ3vG3EtPyvBf91w",
         "uploads_playlist_id": "UUh39lN7FQ3vG3EtPyvBf91w",
         "latest_video": null
@@ -1386,7 +1392,7 @@
         "latest_video": null
     },
     {
-        "username": "@VanessaWing\u00e5rdh",
+        "username": "VanessaWing\u00e5rdh",
         "channel_id": "UC2Bm4qXVUx9Md-hmHz3WuXw",
         "uploads_playlist_id": "UU2Bm4qXVUx9Md-hmHz3WuXw",
         "latest_video": null
@@ -1422,7 +1428,7 @@
         "latest_video": null
     },
     {
-        "username": "@YishaiFleisherTV",
+        "username": "YishaiFleisherTV",
         "channel_id": "UC1EasxeXGzoXJb2y3HTMsLA",
         "uploads_playlist_id": "UU1EasxeXGzoXJb2y3HTMsLA",
         "latest_video": null
