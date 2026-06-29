@@ -226,7 +226,7 @@
 
 <!--[Jabzy](https://www.youtube.com / channel / UCoUkea_dZioNSJbi1vWDZkA)-->
 
-[James Hoffmann](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ)
+<!--[James Hoffmann](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ)-->
 
 [James Sinclair](https://www.youtube.com/channel/UCTm2gK928YuBSEU0lvdFJoA)
 
@@ -490,6 +490,8 @@
 
 [The Invisible Hand](https://www.youtube.com/channel/UCW-B3YqxljqVGYChJS0FjxQ)
 
+[The Internet Reviewed](https://www.youtube.com/channel/UCQFXq97bgp86MMny1f-oYFA)
+
 [The Plain Bagel](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
 
 [The Rest Is Politics US](https://www.youtube.com/channel/UCII84rxnNkEjtk1zC3qTtbg)
@@ -498,9 +500,9 @@
 
 [The Times of Israel](https://www.youtube.com/channel/UCKM3VQFIITaRegPDkLlLeKA)
 
-<!-- [The US-China Narrative](https://www.youtube .com/channel/ UCcMZNdMHbuJ3ShI6tyK5k0g) -->
+[The Tech Report](https://www.youtube.com/@TheTechReportTR)
 
-[The Internet Reviewed](https://www.youtube.com/channel/UCQFXq97bgp86MMny1f-oYFA)
+<!-- [The US-China Narrative](https://www.youtube .com/channel/ UCcMZNdMHbuJ3ShI6tyK5k0g) -->
 
 [Thomas Flight](https://www.youtube.com/channel/UCUyvQV2JsICeLZP4c_h40kA)
 
