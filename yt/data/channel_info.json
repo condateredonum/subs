@@ -576,12 +576,6 @@
         "latest_video": null
     },
     {
-        "username": "jameshoffmann",
-        "channel_id": "UCMb0O2CdPBNi-QqPk5T3gsQ",
-        "uploads_playlist_id": "UUMb0O2CdPBNi-QqPk5T3gsQ",
-        "latest_video": null
-    },
-    {
         "username": "jamessinclairentrepreneur",
         "channel_id": "UCTm2gK928YuBSEU0lvdFJoA",
         "uploads_playlist_id": "UUTm2gK928YuBSEU0lvdFJoA",
@@ -1284,6 +1278,12 @@
         "latest_video": null
     },
     {
+        "username": "theinternetreviewed",
+        "channel_id": "UCQFXq97bgp86MMny1f-oYFA",
+        "uploads_playlist_id": "UUQFXq97bgp86MMny1f-oYFA",
+        "latest_video": null
+    },
+    {
         "username": "theplainbagel",
         "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q",
         "uploads_playlist_id": "UUFCEuCsyWP0YkP3CZ3Mr01Q",
@@ -1302,9 +1302,9 @@
         "latest_video": null
     },
     {
-        "username": "theinternetreviewed",
-        "channel_id": "UCQFXq97bgp86MMny1f-oYFA",
-        "uploads_playlist_id": "UUQFXq97bgp86MMny1f-oYFA",
+        "username": "TheTechReportTR",
+        "channel_id": "UCPiMR-Ize9p3dgjzZ8bo9ZQ",
+        "uploads_playlist_id": "UUPiMR-Ize9p3dgjzZ8bo9ZQ",
         "latest_video": null
     },
     {
@@ -1437,6 +1437,12 @@
         "username": "yuvalnoahharari",
         "channel_id": "UC2m77KGMIKZCD0Kw35-4shQ",
         "uploads_playlist_id": "UU2m77KGMIKZCD0Kw35-4shQ",
+        "latest_video": null
+    },
+    {
+        "username": "jameshoffmann",
+        "channel_id": "UCMb0O2CdPBNi-QqPk5T3gsQ",
+        "uploads_playlist_id": "UUMb0O2CdPBNi-QqPk5T3gsQ",
         "latest_video": null
     }
 ]
