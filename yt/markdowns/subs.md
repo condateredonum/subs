@@ -34,6 +34,8 @@
 
 [Angela Collier](https://www.youtube.com/channel/UCtscFf8VayggrDYjOwDke_Q)
 
+[Anna from Ukraine](https://www.youtube.com/@AnnafromUkraine/videos)
+
 [Antastesiaa](https://www.youtube.com/channel/UCIBAJIVwRXYViiRXREgM44w)
 
 [Anthony Scaramucci](https://www.youtube.com/channel/UCRnUO-S4Nh5BgF-Vg43QvBQ)
