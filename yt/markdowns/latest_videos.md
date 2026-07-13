@@ -1,5 +1,5 @@
 -------------------
-# 2026-07-13 11:27:10
+# 2026-07-13 12:04:25
 
 | Thumbnail | Title |
 |-----------|-------|
@@ -22,14 +22,13 @@
 |![](https://i.ytimg.com/vi/vKrK4AciB_0/sddefault.jpg) |2026-07-12 19:45:10<br>penguinz0<br>[Scooter Thief Situation is Deeper Than I Thought](https://www.youtube.com/watch?v=vKrK4AciB_0)<br>[00:14:36] |
 |![](https://i.ytimg.com/vi/BODu5gFKZQg/maxresdefault.jpg) |2026-07-12 19:33:51<br>realchris<br>[Just before he died Lindsey Graham said this](https://www.youtube.com/watch?v=BODu5gFKZQg)<br>[00:14:17] |
 |![](https://i.ytimg.com/vi/0lmsLujAYiI/maxresdefault.jpg) |2026-07-12 19:28:28<br>rationalityrules<br>[Why Confident Liars Can't Survive This 1 Question](https://www.youtube.com/watch?v=0lmsLujAYiI)<br>[00:41:46] |
-|![](https://i.ytimg.com/vi/Mwl01iwfOB8/maxresdefault.jpg) |2026-07-12 19:23:41<br>nnnimroddd<br>[Farage commemorates Widdecombe at the Moors](https://www.youtube.com/watch?v=Mwl01iwfOB8)<br>[00:04:26] |
 |![](https://i.ytimg.com/vi/md5g47mvCIU/maxresdefault.jpg) |2026-07-12 19:09:49<br>joeblogs<br>[RUSSIA Regresses](https://www.youtube.com/watch?v=md5g47mvCIU)<br>[00:12:34] |
 |![](https://i.ytimg.com/vi/V4aX47GMLrU/maxresdefault.jpg) |2026-07-12 19:00:15<br>prestonstewart<br>["The Situation Is Bleak" - Russians Complain About Ukrainian Strikes](https://www.youtube.com/watch?v=V4aX47GMLrU)<br>[00:11:47] |
 |![](https://i.ytimg.com/vi/1NNYaC-3TY0/maxresdefault.jpg) |2026-07-12 18:44:09<br>YishaiFleisherTV<br>[Did God Draw Israel’s Borders? &#124; Torah Study in Jerusalem](https://www.youtube.com/watch?v=1NNYaC-3TY0)<br>[00:16:37] |
 |![](https://i.ytimg.com/vi/F6tU3jVh3Mk/maxresdefault.jpg) |2026-07-12 18:31:46<br>nnnimroddd<br>[Gary Stevenson meets Andrew Henderson, founder of Nomad Capitalist](https://www.youtube.com/watch?v=F6tU3jVh3Mk)<br>[00:02:14] |
 |![](https://i.ytimg.com/vi/GsCtILOvBDc/maxresdefault.jpg) |2026-07-12 17:57:06<br>DenysDavydov<br>[Update from Ukraine &#124; Big! Russia Lost All Ferry Ships, Caolan Robertson Cancels Russian Refinery](https://www.youtube.com/watch?v=GsCtILOvBDc)<br>[00:19:01] |
 |![](https://i.ytimg.com/vi/vrUcF4ibiH8/maxresdefault.jpg) |2026-07-12 17:54:48<br>berry9e<br>[friends? in this economy?](https://www.youtube.com/watch?v=vrUcF4ibiH8)<br>[00:46:35] |
-|![](https://i.ytimg.com/vi/V6hb90czkkY/maxresdefault.jpg) |2026-07-12 17:00:24<br>Channel4Documentaries<br>[Britain’s Inequality Problem...And How To Solve It &#124; How To Get Filthy Rich &#124; Channel 4 Docs](https://www.youtube.com/watch?v=V6hb90czkkY)<br>[01:07:55] |
+|![](https://i.ytimg.com/vi/V6hb90czkkY/maxresdefault.jpg) |2026-07-12 17:00:24<br>Channel4Documentaries<br>[Britain’s Inequality Problem...And How I’d Solve It &#124; How To Get Filthy Rich &#124; Channel 4 Docs](https://www.youtube.com/watch?v=V6hb90czkkY)<br>[01:07:55] |
 |![](https://i.ytimg.com/vi/9YiBEXoP_p4/maxresdefault.jpg) |2026-07-12 17:00:19<br>ColeHastings<br>[Solarpunk Is The Solution To Late-Stage Capitalism](https://www.youtube.com/watch?v=9YiBEXoP_p4)<br>[00:17:40] |
 |![](https://i.ytimg.com/vi/zrFWSluSqCc/maxresdefault.jpg) |2026-07-12 17:00:16<br>jubilee<br>[1 Woke Liberal vs 2 MAGA  &#124; The Split](https://www.youtube.com/watch?v=zrFWSluSqCc)<br>[01:15:17] |
 |![](https://i.ytimg.com/vi/uoYZ9e0EK98/maxresdefault.jpg) |2026-07-12 16:32:13<br>justtree411<br>[Women Panel Walks Out⁨ After Alex Rosen Drops N-Bomb on @FreshFitMiami](https://www.youtube.com/watch?v=uoYZ9e0EK98)<br>[00:17:48] |
@@ -141,7 +140,7 @@
 |![](https://i.ytimg.com/vi/wzfpgd2U3BU/maxresdefault.jpg) |2026-07-09 13:00:12<br>hutch<br>[Cenk and Ana Blame Israel For Platner's Downfall](https://www.youtube.com/watch?v=wzfpgd2U3BU)<br>[00:48:54] |
 |![](https://i.ytimg.com/vi/yo5YM0QJqi0/maxresdefault.jpg) |2026-07-09 10:45:37<br>zeihanongeopolitics<br>[Korean Exports Skyrocket Thanks to AI &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=yo5YM0QJqi0)<br>[00:05:17] |
 |![](https://i.ytimg.com/vi/yeDekQKVbO8/maxresdefault.jpg) |2026-07-09 10:26:46<br>joeblogs<br>[Europe's Best Resort? Vila Vita Parc Algarve Review in 5 Minutes](https://www.youtube.com/watch?v=yeDekQKVbO8)<br>[00:05:05] |
-|![](https://i.ytimg.com/vi/lEEgY2y2PfM/maxresdefault.jpg) |2026-07-09 09:36:56<br>IzzySealey<br>[How I Escaped Burnout and Toxic Productivity (3 Mindset Shifts)](https://www.youtube.com/watch?v=lEEgY2y2PfM)<br>[00:14:51] |
+|![](https://i.ytimg.com/vi/lEEgY2y2PfM/maxresdefault.jpg) |2026-07-09 09:36:56<br>IzzySealey<br>[How to Escape Burnout and Toxic Productivity (3 Mindset Shifts)](https://www.youtube.com/watch?v=lEEgY2y2PfM)<br>[00:14:51] |
 |![](https://i.ytimg.com/vi/W4o6T1HbUOM/maxresdefault.jpg) |2026-07-09 08:49:50<br>friendlyjordies<br>[friendlyjordies: This Broke Me](https://www.youtube.com/watch?v=W4o6T1HbUOM)<br>[00:31:24] |
 |![](https://i.ytimg.com/vi/8f1o9-AMau8/maxresdefault.jpg) |2026-07-09 05:21:35<br>AtriocClips<br>[Why Is Every Gaming Company Doing This](https://www.youtube.com/watch?v=8f1o9-AMau8)<br>[00:31:22] |
 |![](https://i.ytimg.com/vi/9BZlCHjBNkg/maxresdefault.jpg) |2026-07-09 01:39:18<br>someordinarygamers<br>[The Crash Is Finally Happening...](https://www.youtube.com/watch?v=9BZlCHjBNkg)<br>[00:23:01] |
