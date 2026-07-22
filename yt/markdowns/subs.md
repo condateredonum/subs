@@ -162,6 +162,8 @@
 
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
+[Eli The Computer Guy](https://www.youtube.com/@elithecomputerguy/videos)
+
 [Erica Mallett](https://www.youtube.com/@ericamallett/videos)
 
 [Fads](https://www.youtube.com/channel/UCiTgRcnZs--vFScAQtRH5QA)
