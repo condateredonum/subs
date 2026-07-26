@@ -1,9 +1,9 @@
 -------------------
-# 2026-07-26 20:51:36
+# 2026-07-26 20:55:34
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/4quwor_CTzE/sddefault.jpg) |2026-07-26 20:49:55<br>nnnimroddd<br>[Lindsey Graham on phone with Bibi Netanyahu](https://www.youtube.com/watch?v=4quwor_CTzE)<br>[00:03:44] |
+|![](https://i.ytimg.com/vi/4quwor_CTzE/maxresdefault.jpg) |2026-07-26 20:49:55<br>nnnimroddd<br>[Lindsey Graham on speakerphone with Bibi Netanyahu](https://www.youtube.com/watch?v=4quwor_CTzE)<br>[00:03:44] |
 |![](https://i.ytimg.com/vi/xxyv_LMgFYI/maxresdefault.jpg) |2026-07-26 20:31:34<br>YishaiFleisherTV<br>[JD Vance makes EXCUSES for Miserable Results](https://www.youtube.com/watch?v=xxyv_LMgFYI)<br>[00:07:05] |
 |![](https://i.ytimg.com/vi/IgJr1Ivk6HU/maxresdefault.jpg) |2026-07-26 19:52:32<br>AbaNPreach<br>[When 6 Figures Aint Enough...](https://www.youtube.com/watch?v=IgJr1Ivk6HU)<br>[00:17:24] |
 |![](https://i.ytimg.com/vi/l7ZwszfVlMg/maxresdefault.jpg) |2026-07-26 18:43:54<br>chrispalmer24<br>[Average UK Salary By Age (2026 Edition)](https://www.youtube.com/watch?v=l7ZwszfVlMg)<br>[00:13:06] |
