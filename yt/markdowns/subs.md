@@ -8,7 +8,7 @@
 
 <!-- [A Little Bit of Philosophy](https://www.youtube.com/ channel/ UC5W1426MgVYjyYjbl6LDqeg) -->
 
-[Aba n Preach](https://www.youtube.com/@AbaNPreach)
+<!--[Aba n Preach](https://www.youtube.com/@AbaNPreach)-->
 
 [Abbie Ree](https://www.youtube.com/@AbbieRee/videos)
 
