@@ -462,6 +462,8 @@
 
 [Sierra Roselyn](https://www.youtube.com/@sierraroselyn/videos)
 
+[Sir Manatee](https://www.youtube.com/@SirManateee/videos)
+
 [Smart Money with Kai](https://www.youtube.com/channel/UC3fvxcqhSy3a2szvI6yoP6w)
 
 [SomeOrdinaryGamers](https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ)
