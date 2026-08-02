@@ -1,8 +1,9 @@
 -------------------
-# 2026-08-02 20:31:52
+# 2026-08-02 20:49:36
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/RBUg3lI7ZMg/maxresdefault.jpg) |2026-08-02 20:40:56<br>elithecomputerguy<br>[Fixed Audio - Chinese AI Defended HuggingFace from OpenAI Cyberattack - USA Tech Needs China](https://www.youtube.com/watch?v=RBUg3lI7ZMg)<br>[00:23:49] |
 |![](https://i.ytimg.com/vi/yh3g2cSrcG8/maxresdefault.jpg) |2026-08-02 20:02:00<br>casualhistorian<br>[1948: Israel vs the Arab World](https://www.youtube.com/watch?v=yh3g2cSrcG8)<br>[00:41:20] |
 |![](https://i.ytimg.com/vi/M810hD1FTHg/maxresdefault.jpg) |2026-08-02 20:00:19<br>H3PodcastHighlights<br>[The Truth About The James Charles Postcard Situation...](https://www.youtube.com/watch?v=M810hD1FTHg)<br>[00:13:08] |
 |![](https://i.ytimg.com/vi/rbzMuwtV9Pc/maxresdefault.jpg) |2026-08-02 19:30:31<br>jubilee<br>[Brandon Tatum debates medical racism and slavery #medicalracism #slavery](https://www.youtube.com/watch?v=rbzMuwtV9Pc)<br>[00:02:15] |
@@ -49,7 +50,6 @@
 |![](https://i.ytimg.com/vi/WbFk6E3Zyek/maxresdefault.jpg) |2026-08-01 17:39:26<br>channel5youtube<br>[Reckless Ben Interview (Ft. Courtney Love)](https://www.youtube.com/watch?v=WbFk6E3Zyek)<br>[01:27:38] |
 |![](https://i.ytimg.com/vi/BcNQ7iRs5fo/maxresdefault.jpg) |2026-08-01 17:28:38<br>redeemed_zoomer<br>[Why these verses do NOT prove the Papacy](https://www.youtube.com/watch?v=BcNQ7iRs5fo)<br>[00:21:23] |
 |![](https://i.ytimg.com/vi/cn9GRAahlLE/maxresdefault.jpg) |2026-08-01 17:03:57<br>yuvalnoahharari<br>[The end of lifetime careers &#124; Yuval Noah Harari](https://www.youtube.com/watch?v=cn9GRAahlLE)<br>[00:02:27] |
-|![](https://i.ytimg.com/vi/Wv5aYtad_qo/maxresdefault.jpg) |2026-08-01 17:00:24<br>elithecomputerguy<br>[Anthropic AI Agents Hacked 3 Organizations - Dario Commits Felonies Too](https://www.youtube.com/watch?v=Wv5aYtad_qo)<br>[00:13:32] |
 |![](https://i.ytimg.com/vi/ti2qiU_JTUQ/maxresdefault.jpg) |2026-08-01 16:57:07<br>stevemould<br>[The Euler Disc Is The Wrong Shape](https://www.youtube.com/watch?v=ti2qiU_JTUQ)<br>[00:20:01] |
 |![](https://i.ytimg.com/vi/SswQz7ZnoTM/maxresdefault.jpg) |2026-08-01 16:15:44<br>KianaDocherty<br>[I'm Fat Now...But It's My Age! &#124; Secret Eaters](https://www.youtube.com/watch?v=SswQz7ZnoTM)<br>[00:34:34] |
 |![](https://i.ytimg.com/vi/Fx_YmBp-cbk/maxresdefault.jpg) |2026-08-01 16:15:24<br>moresus<br>[IDubbbz Just Got F**king Destroyed..](https://www.youtube.com/watch?v=Fx_YmBp-cbk)<br>[00:34:29] |
