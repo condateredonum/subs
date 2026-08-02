@@ -116,6 +116,8 @@
 
 [Cole Hastings](https://www.youtube.com/@ColeHastings/videos)
 
+[Comedy Enforcement](https://www.youtube.com/@comedyenforcement)
+
 [communitychannel](www.youtube.com/channel/UCKHi7M_11VJmLZSq4WNHSkg)
 
 [Context Matters](https://www.youtube.com/channel/UCVWX3F3DrTvDKa0LRilQoQQ)
