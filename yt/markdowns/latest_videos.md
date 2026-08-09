@@ -1,8 +1,11 @@
 -------------------
-# 2026-08-09 19:37:36
+# 2026-08-09 20:07:52
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/ZkOFtDY2js4/maxresdefault.jpg) |2026-08-09 20:03:29<br>drewisgooden<br>[The Bashar Guy made a movie (w/ Danny Gonzalez)](https://www.youtube.com/watch?v=ZkOFtDY2js4)<br>[00:23:08] |
+|![](https://i.ytimg.com/vi/TPL49jsQguE/maxresdefault_live.jpg) |2026-08-09 20:03:18<br>YishaiFleisherTV<br>[Yishai VS Cenk LIVE](https://www.youtube.com/watch?v=TPL49jsQguE)<br>[00:47:55] |
+|![](https://i.ytimg.com/vi/3vwLN-8Br5Q/sddefault.jpg) |2026-08-09 20:00:22<br>penguinz0<br>[How to Ruin Excitement for Your Movie](https://www.youtube.com/watch?v=3vwLN-8Br5Q)<br>[00:10:51] |
 |![](https://i.ytimg.com/vi/IKWUoXj-Fs0/maxresdefault.jpg) |2026-08-09 19:29:18<br>H3PodcastHighlights<br>[The Asmongold Situation Is Disgusting.](https://www.youtube.com/watch?v=IKWUoXj-Fs0)<br>[00:31:38] |
 |![](https://i.ytimg.com/vi/7HqzeHeGE2w/maxresdefault.jpg) |2026-08-09 18:56:22<br>bryonyclaire<br>[When she out shines him - he takes her down](https://www.youtube.com/watch?v=7HqzeHeGE2w)<br>[00:41:32] |
 |![](https://i.ytimg.com/vi/OnMvhgK6Ay0/maxresdefault_live.jpg) |2026-08-09 18:32:29<br>cogitoedu<br>[Asmongold as a Rwandan DJ, Congo, Cuba, Q&A](https://www.youtube.com/watch?v=OnMvhgK6Ay0)<br>[03:34:41] |
@@ -110,7 +113,6 @@
 |![](https://i.ytimg.com/vi/jPk1MNojL7Y/maxresdefault.jpg) |2026-08-06 19:38:35<br>mathqueensusanne<br>[Can You Find The Length Of x? – Geometry Problem](https://www.youtube.com/watch?v=jPk1MNojL7Y)<br>[00:10:18] |
 |![](https://i.ytimg.com/vi/UujsLKfET6w/maxresdefault.jpg) |2026-08-06 19:00:38<br>prestonstewart<br>[Ukraine's Strike Campaign Slows Russia to a WWI Crawl](https://www.youtube.com/watch?v=UujsLKfET6w)<br>[00:13:06] |
 |![](https://i.ytimg.com/vi/XvZVsiMW450/maxresdefault.jpg) |2026-08-06 19:00:30<br>pitchmeetings<br>[Spider-Man: Brand New Day Pitch Meeting](https://www.youtube.com/watch?v=XvZVsiMW450)<br>[00:07:14] |
-|![](https://i.ytimg.com/vi/JGxGfbPAG30/sddefault.jpg) |2026-08-06 18:45:05<br>penguinz0<br>[Final Boss of Cop Larpers](https://www.youtube.com/watch?v=JGxGfbPAG30)<br>[00:24:26] |
 |![](https://i.ytimg.com/vi/AgXDMG0ZNVY/maxresdefault.jpg) |2026-08-06 18:00:22<br>joeblogs<br>[Virgin Atlantic Retreat Suite – Is It Worth £300 Extra? (London to Seattle)](https://www.youtube.com/watch?v=AgXDMG0ZNVY)<br>[00:17:40] |
 |![](https://i.ytimg.com/vi/RwCD0msOI-k/maxresdefault.jpg) |2026-08-06 17:09:36<br>smartmoneywithkai<br>[My July Portfolio Update After Selling All My Bitcoin](https://www.youtube.com/watch?v=RwCD0msOI-k)<br>[00:13:58] |
 |![](https://i.ytimg.com/vi/-pjRdciwOQo/maxresdefault.jpg) |2026-08-06 17:00:32<br>Channel4Documentaries<br>[‘We’re Like The Kardashians On Benefits’ &#124; Secret Lives of Gypsy Wives EP2 &#124; Channel 4 Documentaries](https://www.youtube.com/watch?v=-pjRdciwOQo)<br>[00:44:26] |
@@ -822,7 +824,6 @@
 |![](https://i.ytimg.com/vi/KlYdw3bd7wY/maxresdefault.jpg) |2026-02-06 15:00:41<br>DodfordYT<br>[Jim Henson Wanted More](https://www.youtube.com/watch?v=KlYdw3bd7wY)<br>[00:26:43] |
 |![](https://i.ytimg.com/vi/mqD34s0QbTQ/maxresdefault.jpg) |2026-02-06 06:17:36<br>suibhne<br>[I Can't Keep Doing This Without Your Help](https://www.youtube.com/watch?v=mqD34s0QbTQ)<br>[00:03:37] |
 |![](https://i.ytimg.com/vi/3WPx4TL5F8o/maxresdefault.jpg) |2026-01-31 21:05:00<br>jordankang<br>[The American Literacy Crisis Has Gone Too Far](https://www.youtube.com/watch?v=3WPx4TL5F8o)<br>[00:18:24] |
-|![](https://i.ytimg.com/vi/hEfyX4Wl8aM/maxresdefault.jpg) |2026-01-31 20:00:42<br>drewisgooden<br>[When you accidentally ruin your show](https://www.youtube.com/watch?v=hEfyX4Wl8aM)<br>[00:28:27] |
 |![](https://i.ytimg.com/vi/xBfBbypqq9U/maxresdefault.jpg) |2026-01-31 17:00:01<br>DarylTalksGames<br>[Games That Disguise Their Ending](https://www.youtube.com/watch?v=xBfBbypqq9U)<br>[00:25:56] |
 |![](https://i.ytimg.com/vi/mGqy_uo-UNs/maxresdefault.jpg) |2026-01-24 16:25:06<br>thehistocrat<br>[The Invasion of Africa - The First Punic War (255 - 241 BC)](https://www.youtube.com/watch?v=mGqy_uo-UNs)<br>[00:50:51] |
 |![](https://i.ytimg.com/vi/cAP47a3XOfk/maxresdefault.jpg) |2026-01-19 16:01:02<br>MoreCringe<br>[The Truth About Logan Paul vs Bradley Martyn](https://www.youtube.com/watch?v=cAP47a3XOfk)<br>[00:15:00] |
