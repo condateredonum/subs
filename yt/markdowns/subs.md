@@ -558,6 +558,8 @@
 
 [wilfur](https://www.youtube.com/channel/UC3iNdSV_RQU7DHTGpqEW96w)
 
+[Willy Mac Show](https://www.youtube.com/@WillyMacShow/videos)
+
 [Yishai Fleisher](https://www.youtube.com/@YishaiFleisherTV/videos)
 
 [Yuval Noah Harari](https://www.youtube.com/channel/UC2m77KGMIKZCD0Kw35-4shQ)
