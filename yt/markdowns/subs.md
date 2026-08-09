@@ -530,6 +530,8 @@
 
 [Tree of Logic](https://www.youtube.com/@justtree411/videos)
 
+[Turkey Tom](https://www.youtube.com/@TurkeyTom/videos)
+
 [Tyler Oliveira](https://www.youtube.com/channel/UCY8SLLJjWpS4sx1dEqECaIw)
 
 [Type Ashton](https://www.youtube.com/@TypeAshton/videos)
