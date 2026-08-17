@@ -1,9 +1,13 @@
 -------------------
-# 2026-08-17 18:36:18
+# 2026-08-17 19:22:50
 
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/l74r1s8y7uY/maxresdefault.jpg) |2026-08-17 18:00:32<br>prestonstewart<br>[Close Quarters Combat in Ukraine: Soldier Interview](https://www.youtube.com/watch?v=l74r1s8y7uY)<br>[00:23:00] |
+|![](https://i.ytimg.com/vi/fyBRQURmdO8/maxresdefault.jpg) |2026-08-17 19:00:17<br>AnaPsychology<br>[LINDSAY CLANCY CASE: What I wish everyone understood](https://www.youtube.com/watch?v=fyBRQURmdO8)<br>[00:14:36] |
+|![](https://i.ytimg.com/vi/8qAyc1f9tBc/maxresdefault.jpg) |2026-08-17 19:00:05<br>jubilee<br>[Tim Pool gives his thoughts on voting and elections #voting #elections #republicans #surrounded](https://www.youtube.com/watch?v=8qAyc1f9tBc)<br>[00:02:32] |
+|![](https://i.ytimg.com/vi/1OYU38dGlBI/sddefault.jpg) |2026-08-17 19:00:05<br>penguinz0<br>[I Can't Believe They Streamed This](https://www.youtube.com/watch?v=1OYU38dGlBI)<br>[00:19:09] |
+|![](https://i.ytimg.com/vi/dKxQ5en3wEQ/maxresdefault.jpg) |2026-08-17 18:38:16<br>joeblogs<br>[Russia Warned](https://www.youtube.com/watch?v=dKxQ5en3wEQ)<br>[00:16:15] |
+|![](https://i.ytimg.com/vi/l74r1s8y7uY/maxresdefault.jpg) |2026-08-17 18:00:32<br>prestonstewart<br>[These Are The Men Hunting Russian Soldiers](https://www.youtube.com/watch?v=l74r1s8y7uY)<br>[00:23:00] |
 |![](https://i.ytimg.com/vi/ZIwH60yW1LE/maxresdefault.jpg) |2026-08-17 18:00:22<br>jubilee<br>[Tim Pool and Santana discuss Donald Trump #donaldtrump #americanpolitics #timpool #jubilee](https://www.youtube.com/watch?v=ZIwH60yW1LE)<br>[00:02:47] |
 |![](https://i.ytimg.com/vi/RGLdOJde-JA/maxresdefault.jpg) |2026-08-17 18:00:06<br>leenanorms<br>[Turning my wardrobe 'mistakes' into my favourite outfits.](https://www.youtube.com/watch?v=RGLdOJde-JA)<br>[00:14:56] |
 |![](https://i.ytimg.com/vi/kwe6tu9AbtM/maxresdefault.jpg) |2026-08-17 17:15:11<br>theinvisiblehandco<br>[Why Russia Doesn't Want to Win the War](https://www.youtube.com/watch?v=kwe6tu9AbtM)<br>[00:21:36] |
@@ -51,7 +55,6 @@
 |![](https://i.ytimg.com/vi/Ls1kJw4bNUY/maxresdefault.jpg) |2026-08-16 17:24:01<br>mathqueensusanne<br>[This Looks Impossible… Until You See The Trick!](https://www.youtube.com/watch?v=Ls1kJw4bNUY)<br>[00:14:32] |
 |![](https://i.ytimg.com/vi/iqokUOGmeag/maxresdefault.jpg) |2026-08-16 17:00:32<br>ColeHastings<br>[Why Everything Is Slop Now](https://www.youtube.com/watch?v=iqokUOGmeag)<br>[00:13:06] |
 |![](https://i.ytimg.com/vi/HES_-mr_Y-A/sddefault.jpg) |2026-08-16 17:00:22<br>bookswithemilyfox<br>[Popular Booktube Books That Are ACTUALLY Worth the Hype](https://www.youtube.com/watch?v=HES_-mr_Y-A)<br>[00:15:33] |
-|![](https://i.ytimg.com/vi/CO_mqGbyq_Y/maxresdefault.jpg) |2026-08-16 17:00:16<br>jubilee<br>[Tim Pool vs 20 Progressives &#124; Surrounded](https://www.youtube.com/watch?v=CO_mqGbyq_Y)<br>[01:40:33] |
 |![](https://i.ytimg.com/vi/TTYTz4KNv8A/maxresdefault.jpg) |2026-08-16 17:00:01<br>theantibot<br>[christian wedding night gone wrong](https://www.youtube.com/watch?v=TTYTz4KNv8A)<br>[00:49:16] |
 |![](https://i.ytimg.com/vi/hjVfYh3KO4s/maxresdefault.jpg) |2026-08-16 16:30:30<br>moresus<br>[The Hasan Lawsuit Situation Just Got Worse..](https://www.youtube.com/watch?v=hjVfYh3KO4s)<br>[00:34:34] |
 |![](https://i.ytimg.com/vi/flXZNO_OaJ8/maxresdefault.jpg) |2026-08-16 16:19:38<br>sierraroselyn<br>[the PERFECT sweet treat for weight loss](https://www.youtube.com/watch?v=flXZNO_OaJ8)<br>[00:13:06] |
@@ -116,13 +119,11 @@
 |![](https://i.ytimg.com/vi/g9D1UdhwqYQ/maxresdefault.jpg) |2026-08-14 21:00:19<br>elithecomputerguy<br>[OpenAI Chief Revenue Officer Quits  (Denise Dresser) - IPO is Failing](https://www.youtube.com/watch?v=g9D1UdhwqYQ)<br>[00:14:17] |
 |![](https://i.ytimg.com/vi/hVm7g9NXves/maxresdefault.jpg) |2026-08-14 20:57:25<br>alyssadgrenfell<br>[The Truth About Joseph Smith’s First Vision](https://www.youtube.com/watch?v=hVm7g9NXves)<br>[01:10:44] |
 |![](https://i.ytimg.com/vi/_1vSlv32MWo/maxresdefault.jpg) |2026-08-14 19:30:17<br>TheTechReportTR<br>[AI Bubble: ‘The moment they stop spending, they crash’ &#124; Ed Zitron](https://www.youtube.com/watch?v=_1vSlv32MWo)<br>[00:39:22] |
-|![](https://i.ytimg.com/vi/6mzsUfZdPqA/maxresdefault.jpg) |2026-08-14 18:09:20<br>joeblogs<br>[Russia’s Shock Data](https://www.youtube.com/watch?v=6mzsUfZdPqA)<br>[00:19:04] |
 |![](https://i.ytimg.com/vi/Zfok5yIuekU/maxresdefault.jpg) |2026-08-14 18:00:23<br>prestonstewart<br>[What Really Happened at the Minab School Strike?](https://www.youtube.com/watch?v=Zfok5yIuekU)<br>[00:36:58] |
 |![](https://i.ytimg.com/vi/2vy2EqWRb_8/maxresdefault.jpg) |2026-08-14 18:00:07<br>thethoughtspot222<br>[Ways I Can Tell Someone's Autistic](https://www.youtube.com/watch?v=2vy2EqWRb_8)<br>[00:27:59] |
 |![](https://i.ytimg.com/vi/oLrvbPAsHMY/maxresdefault.jpg) |2026-08-14 17:57:53<br>financialtimes<br>[Can Kazakhstan’s oil boom survive Putin’s war? &#124; FT #shorts](https://www.youtube.com/watch?v=oLrvbPAsHMY)<br>[00:03:00] |
 |![](https://i.ytimg.com/vi/_6qn2Nc1WFg/maxresdefault.jpg) |2026-08-14 17:56:45<br>Galatea-and-Acis<br>[Toxic Boy Mom Thinks She's Dating Her Son](https://www.youtube.com/watch?v=_6qn2Nc1WFg)<br>[02:14:00] |
 |![](https://i.ytimg.com/vi/7PR8tGElV68/maxresdefault.jpg) |2026-08-14 17:39:21<br>americanredact<br>[Shane Gillis Gives Joe Rogan a Brutal Reality Check](https://www.youtube.com/watch?v=7PR8tGElV68)<br>[00:14:04] |
-|![](https://i.ytimg.com/vi/cfdTDZzFPso/sddefault.jpg) |2026-08-14 17:30:38<br>penguinz0<br>[Groundbreaking New Alien Information](https://www.youtube.com/watch?v=cfdTDZzFPso)<br>[00:27:14] |
 |![](https://i.ytimg.com/vi/1_oUk2cHWiQ/maxresdefault.jpg) |2026-08-14 17:07:36<br>learnwithkarl<br>[Claude Watermarking: What It Is, How It Works & What Everyone Is Missing](https://www.youtube.com/watch?v=1_oUk2cHWiQ)<br>[00:16:22] |
 |![](https://i.ytimg.com/vi/ztu11j74g5I/maxresdefault.jpg) |2026-08-14 17:06:55<br>miarosemcgrath<br>[Frugal chic fashion rules](https://www.youtube.com/watch?v=ztu11j74g5I)<br>[00:02:09] |
 |![](https://i.ytimg.com/vi/dEyQJ1luQqU/maxresdefault.jpg) |2026-08-14 17:03:05<br>tiffanyferg<br>[mormon tradwives & family vloggers are rebranding &#124; Internet Analysis](https://www.youtube.com/watch?v=dEyQJ1luQqU)<br>[00:45:56] |
