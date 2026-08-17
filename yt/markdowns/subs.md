@@ -216,7 +216,9 @@
 
 [Horses](https://www.youtube.com/@HorsesOnYT/videos)
 
-[House of El AI](https://m.youtube.com/@HouseofEl-AI)
+[House of El](https://www.youtube.com/@HouseofEl/videos)
+
+[House of El AI](https://www.youtube.com/@HouseofEl-AI)
 
 [How Money Works](https://www.youtube.com/@HowMoneyWorks/videos)
 
@@ -252,9 +254,11 @@
 
 [Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw)
 
-<!--[Jimmy the Giant](https://www.youtube.com/@ JimmyTheGiant/videos)-->⁷
+<!--[Jimmy the Giant](https://www.youtube.com/@ JimmyTheGiant/videos)-->
 
-[Joe Blogs](https://www.youtube.com/channel/UCjniKviAJH0mENoLStpQXmQ)
+<!--[Joe Blogs](https://www.youtube.com/channel/UCjniKviAJH0mENoLStpQXmQ)-->
+
+[Joe Blogs Russia](https://www.youtube.com/@joeblogsrussia/videos)
 
 [Joe Grand](https://www.youtube.com/channel/UCqGONXW1ORgz5Y4qK-0JdkQ)
 
@@ -359,6 +363,8 @@
 [Money & Macro](https://www.youtube.com/@MoneyMacro/videos)
 
 [Monetary Matters Network](https://www.youtube.com/@Monetary-Matters/videos)
+
+[Monkey Explains](https://www.youtube.com/@MonkeyExplains1999/videos)
 
 [Moocake](https://www.youtube.com/@Moocake/videos)
 
