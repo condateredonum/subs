@@ -158,6 +158,8 @@
 
 [Drew Gooden](https://www.youtube.com/@drewisgooden/videos)
 
+[Economic Shift](https://www.youtube.com/@EconomicShift/videos)
+
 [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg)
 
 [Economics Help](https://www.youtube.com/channel/UCBr2W3nb0jPSnommNbbpMAw)
