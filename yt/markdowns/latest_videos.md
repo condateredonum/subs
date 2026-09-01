@@ -1,8 +1,11 @@
 -------------------
-# 2026-09-01 10:45:28
+# 2026-09-01 11:09:28
 
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/rn86F6hV0dg/maxresdefault.jpg) |2026-09-01 11:01:29<br>joeblogsrussia<br>[RUSSIA Dumped By Turkey](https://www.youtube.com/watch?v=rn86F6hV0dg)<br>[00:13:41] |
+|![](https://i.ytimg.com/vi/Ymg71hjuZDw/maxresdefault.jpg) |2026-09-01 11:00:18<br>ramitsethi<br>["I resent carrying our finances. Can we fix this?"](https://www.youtube.com/watch?v=Ymg71hjuZDw)<br>[01:41:02] |
+|![](https://i.ytimg.com/vi/T8HAsylhBmI/maxresdefault.jpg) |2026-09-01 10:45:36<br>zeihanongeopolitics<br>[Trade War Revival: Trump, Canada, and Tariffs &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=T8HAsylhBmI)<br>[00:05:29] |
 |![](https://i.ytimg.com/vi/QC0Ux6uUNSY/maxresdefault.jpg) |2026-09-01 09:54:45<br>bbcstever<br>[Modi calls on Putin to move towards peace. How should we interpret the response?](https://www.youtube.com/watch?v=QC0Ux6uUNSY)<br>[00:04:49] |
 |![](https://i.ytimg.com/vi/66ESbuLui_o/maxresdefault.jpg) |2026-09-01 09:30:17<br>mathematrick<br>[Zinssatz mit Zinseszins berechnen – Zinsrechnung, Zinsen](https://www.youtube.com/watch?v=66ESbuLui_o)<br>[00:08:21] |
 |![](https://i.ytimg.com/vi/hlaeaiHnqaY/maxresdefault.jpg) |2026-09-01 09:01:36<br>friendlyjordies<br>[Poorest Place I've Been](https://www.youtube.com/watch?v=hlaeaiHnqaY)<br>[00:02:30] |
@@ -195,7 +198,6 @@
 |![](https://i.ytimg.com/vi/V6snQE8Po9Q/maxresdefault.jpg) |2026-08-27 19:11:06<br>hankschannel<br>[Saturn Isn't Just a Planet](https://www.youtube.com/watch?v=V6snQE8Po9Q)<br>[00:59:26] |
 |![](https://i.ytimg.com/vi/6D7iPGm820Q/maxresdefault.jpg) |2026-08-27 19:00:15<br>jamessinclairentrepreneur<br>[How Much Is My Business Worth? (and how to value yours)](https://www.youtube.com/watch?v=6D7iPGm820Q)<br>[00:15:37] |
 |![](https://i.ytimg.com/vi/ExQ-7o82HXg/maxresdefault.jpg) |2026-08-27 18:51:20<br>oompaville<br>[They Shut Down Flock...](https://www.youtube.com/watch?v=ExQ-7o82HXg)<br>[00:35:40] |
-|![](https://i.ytimg.com/vi/dqeN9nmdD_U/maxresdefault.jpg) |2026-08-27 18:37:46<br>joeblogsrussia<br>[RUSSIA's Bad Loans Explode](https://www.youtube.com/watch?v=dqeN9nmdD_U)<br>[00:15:51] |
 |![](https://i.ytimg.com/vi/QawHzVEvRyI/maxresdefault.jpg) |2026-08-27 18:29:47<br>bryonyclaire<br>[The never ending humiliation of fat women](https://www.youtube.com/watch?v=QawHzVEvRyI)<br>[00:46:24] |
 |![](https://i.ytimg.com/vi/eMrGCBa-SQw/maxresdefault.jpg) |2026-08-27 18:08:05<br>smartmoneywithkai<br>[A Smarter Dividend Portfolio? Seeking Alpha QG&I](https://www.youtube.com/watch?v=eMrGCBa-SQw)<br>[00:15:35] |
 |![](https://i.ytimg.com/vi/UJ_SNBMd6v4/maxresdefault.jpg) |2026-08-27 18:00:28<br>TheTechReportTR<br>[AI is failing to boost productivity &#124; Edward Ongweso Jr](https://www.youtube.com/watch?v=UJ_SNBMd6v4)<br>[00:42:52] |
@@ -265,7 +267,6 @@
 |![](https://i.ytimg.com/vi/D7UiJxMSrbw/maxresdefault.jpg) |2026-08-25 14:58:07<br>nobodyspecialfinance<br>[Scott Bessent vs The World](https://www.youtube.com/watch?v=D7UiJxMSrbw)<br>[00:39:11] |
 |![](https://i.ytimg.com/vi/0J5SkBNR7iI/maxresdefault.jpg) |2026-08-25 14:23:26<br>knowledgia<br>[Why was India Colonized?](https://www.youtube.com/watch?v=0J5SkBNR7iI)<br>[00:10:33] |
 |![](https://i.ytimg.com/vi/LcJTSTmnjsc/maxresdefault.jpg) |2026-08-25 14:00:34<br>Monetary-Matters<br>[It’s Time to Reduce Your Equity Market Risk &#124; Warren Pies](https://www.youtube.com/watch?v=LcJTSTmnjsc)<br>[01:04:00] |
-|![](https://i.ytimg.com/vi/GaiEDEZLcw0/maxresdefault.jpg) |2026-08-25 10:45:04<br>zeihanongeopolitics<br>[Ukraine's Flamingos Crush Russia's Space Program &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=GaiEDEZLcw0)<br>[00:04:51] |
 |![](https://i.ytimg.com/vi/UfiSzWF6OxM/maxresdefault.jpg) |2026-08-25 10:10:31<br>mathematrick<br>[Polynomdivision: Was tun, wenn ein x fehlt?](https://www.youtube.com/watch?v=UfiSzWF6OxM)<br>[00:09:05] |
 |![](https://i.ytimg.com/vi/mP8zHQo7kzU/maxresdefault.jpg) |2026-08-25 01:24:28<br>AtriocClips<br>[The Most Profitable Movie Ever](https://www.youtube.com/watch?v=mP8zHQo7kzU)<br>[00:16:15] |
 |![](https://i.ytimg.com/vi/ngPkbaZliaU/maxresdefault.jpg) |2026-08-24 21:27:50<br>mkbhd<br>[The Truth About the Bezelless Concept Phone](https://www.youtube.com/watch?v=ngPkbaZliaU)<br>[00:06:29] |
