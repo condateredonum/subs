@@ -1,7 +1,6 @@
-[Freemake](https://m.freemake.com) [OGMP3](https://ogmp3.com/anx)
 -------------------
-# 2026-09-12 08:14:55
-
+# 2026-09-12 08:41:29
+[Freemake](https://m.freemake.com/free_video_downloader_solid/) [OGMP3](https://ogmp3.com/anx)
 | Thumbnail | Title |
 |-----------|-------|
 |![](https://i.ytimg.com/vi/nMw-KdgcAZs/maxresdefault.jpg) |2026-09-12 08:00:14<br>decodinggeopoliticspodcast<br>[NATO's Ex-Military Chief: War With Russia Is Coming - And We're Running Out of Time](https://www.youtube.com/watch?v=nMw-KdgcAZs)<br>[00:38:29] |
