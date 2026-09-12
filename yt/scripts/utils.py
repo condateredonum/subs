@@ -120,9 +120,10 @@ def save_to_md(all_videos, file_path='yt/markdowns/latest.md'):
     timestamp = convert_timestamp(timestamp)
 
     # Create the new content with the video data
-    new_content = "[Freemake](https://m.freemake.com) [OGMP3](https://ogmp3.com/anx)\n"
-    new_content += "-------------------\n"
-    new_content += f"# {timestamp}\n\n"
+    
+    new_content = "-------------------\n"
+    new_content += f"# {timestamp}\n"
+    new_content += "[Freemake](https://m.freemake.com/free_video_downloader_solid/) [OGMP3](https://ogmp3.com/anx)\n"
 
     # Add the Markdown table header with the specified format
     new_content += "| Thumbnail | Title |\n"
