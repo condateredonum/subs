@@ -121,10 +121,17 @@ def save_to_md(all_videos, file_path='yt/markdowns/latest.md'):
 
     # Create the new content with the video data
     
+    links = {
+    "Freemake": "https://m.freemake.com/free_video_downloader_solid/",
+    "OGMP3": "https://ogmp3.com/anx",
+    "Comments": "https://hadzy.com/",
+    "URL": "https://youtubetoolkit.com/tools/url-finder",
+    "PullPush": "https://search.pullpush.io/",
+    }
+    
     new_content = "-------------------\n"
     new_content += f"# {timestamp}\n"
-    new_content += "[Freemake](https://m.freemake.com/free_video_downloader_solid/) [OGMP3](https://ogmp3.com/anx) [Comments](https://hadzy.com/) [URL](https://youtubetoolkit.com/tools/url-finder) \n"
-
+    new_content += " ".join(f"[{name}]({url})" for name, url in links.items()) + "\n
     # Add the Markdown table header with the specified format
     new_content += "| Thumbnail | Title |\n"
     new_content += "|-----------|-------|\n"
