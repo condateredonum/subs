@@ -131,7 +131,7 @@ def save_to_md(all_videos, file_path='yt/markdowns/latest.md'):
     
     new_content = "-------------------\n"
     new_content += f"# {timestamp}\n"
-    new_content += " ".join(f"[{name}]({url})" for name, url in links.items()) + "\n
+    new_content += " ".join(f"[{name}]({url})" for name, url in links.items()) + "\n"
     # Add the Markdown table header with the specified format
     new_content += "| Thumbnail | Title |\n"
     new_content += "|-----------|-------|\n"
