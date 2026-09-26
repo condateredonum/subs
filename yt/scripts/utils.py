@@ -126,7 +126,8 @@ def save_to_md(all_videos, file_path='yt/markdowns/latest.md'):
     "OGMP3": "https://ogmp3.com/anx",
     "URL": "https://youtubetoolkit.com/tools/url-finder",
     "[2]": "https://www.nicheprowler.com/tools/youtube/youtube-video-finder",
-    "[3]": "https://tube.archivarix.net",        
+    "[3]": "https://tube.archivarix.net",
+    "[4]": "https://skipvids.com",
     "Comments": "https://hadzy.com/",
     "PullPush": "https://search.pullpush.io/",
     }
