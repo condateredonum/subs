@@ -1,8 +1,11 @@
 -------------------
-# 2026-10-04 06:58:06
+# 2026-10-04 10:49:31
 [Freemake](https://m.freemake.com/free_video_downloader_solid/) [Y2M](https://real-y2mate.com/) [OGMP3](https://ogmp3.com/anx) [URL](https://youtubetoolkit.com/tools/url-finder) [[2]](https://www.nicheprowler.com/tools/youtube/youtube-video-finder) [[3]](https://tube.archivarix.net) [[4]](https://skipvids.com) [Comments](https://hadzy.com/) [PullPush](https://search.pullpush.io/)
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/aAXBCZKW6Lo/sddefault.jpg) |2026-10-04 10:00:30<br>naynaflorence<br>[life beyond cancer (part ii)](https://www.youtube.com/watch?v=aAXBCZKW6Lo)<br>[00:20:21] |
+|![](https://i.ytimg.com/vi/w6LG3yJinYA/maxresdefault.jpg) |2026-10-04 08:00:25<br>decodinggeopoliticspodcast<br>[Ex-CIA Covert Ops Expert: What Europe Gets Wrong About Russia’s Hybrid War](https://www.youtube.com/watch?v=w6LG3yJinYA)<br>[00:38:44] |
+|![](https://i.ytimg.com/vi/LlhdnpsADZs/maxresdefault.jpg) |2026-10-04 07:58:27<br>aispecies<br>[I’ve never made a video like this.](https://www.youtube.com/watch?v=LlhdnpsADZs)<br>[00:09:55] |
 |![](https://i.ytimg.com/vi/M_VlJbgDpnM/maxresdefault.jpg) |2026-10-04 06:53:02<br>DenysDavydov<br>[Update from Ukraine &#124; Russia Hit Main Bridges in Kyiv &#124; Will it Cut Ukrainian Logistics?](https://www.youtube.com/watch?v=M_VlJbgDpnM)<br>[00:24:18] |
 |![](https://i.ytimg.com/vi/ypmixLqoJYE/maxresdefault.jpg) |2026-10-04 05:16:06<br>justtree411<br>[Clavicular Gets Gym Mogged and Myron Gets Confronted At USC](https://www.youtube.com/watch?v=ypmixLqoJYE)<br>[02:37:49] |
 |![](https://i.ytimg.com/vi/ipmHNNhEukQ/sddefault.jpg) |2026-10-04 03:30:24<br>penguinz0<br>[Gaming Leadership is Out of Touch](https://www.youtube.com/watch?v=ipmHNNhEukQ)<br>[00:16:18] |
@@ -27,7 +30,7 @@
 |![](https://i.ytimg.com/vi/5Pb7hIuI5B0/maxresdefault.jpg) |2026-10-03 16:30:11<br>moresus<br>[Shoe0nHead Just Went Nuclear…](https://www.youtube.com/watch?v=5Pb7hIuI5B0)<br>[00:34:22] |
 |![](https://i.ytimg.com/vi/vGG15J0M0OU/maxresdefault.jpg) |2026-10-03 16:03:45<br>anawallacejohnson<br>[READING BERSERK FOR THE FIRST TIME (I fall in love with Lady Farnese and look like Griffith)](https://www.youtube.com/watch?v=vGG15J0M0OU)<br>[00:31:34] |
 |![](https://i.ytimg.com/vi/krSBUR9u_Fs/maxresdefault.jpg) |2026-10-03 16:00:04<br>letstalkreligion<br>[Alchemy in the Islamic World](https://www.youtube.com/watch?v=krSBUR9u_Fs)<br>[00:45:23] |
-|![](https://i.ytimg.com/vi/Rw2UrbymkCs/maxresdefault.jpg) |2026-10-03 15:56:19<br>IzzySealey<br>[My Ultra Evidence-Based Beauty Habits (as a Cambridge doctor)](https://www.youtube.com/watch?v=Rw2UrbymkCs)<br>[00:23:08] |
+|![](https://i.ytimg.com/vi/Rw2UrbymkCs/maxresdefault.jpg) |2026-10-03 15:56:19<br>IzzySealey<br>[My Evidence-Based Beauty Habits (as a doctor)](https://www.youtube.com/watch?v=Rw2UrbymkCs)<br>[00:23:08] |
 |![](https://i.ytimg.com/vi/2uHpdhSSe5o/maxresdefault.jpg) |2026-10-03 15:45:01<br>realchris<br>[They don't deny doing it](https://www.youtube.com/watch?v=2uHpdhSSe5o)<br>[00:15:45] |
 |![](https://i.ytimg.com/vi/3168EvMa4F4/sddefault.jpg) |2026-10-03 14:20:22<br>japanesewhoyuta<br>[Autumn Has Arrived in Northern Japan 🇯🇵](https://www.youtube.com/watch?v=3168EvMa4F4)<br>[01:23:21] |
 |![](https://i.ytimg.com/vi/kBP-bVci-IM/maxresdefault.jpg) |2026-10-03 14:00:28<br>BusinessInsider<br>[Inside America's $66 Billion Bet To Beat China's Shipbuilding Empire](https://www.youtube.com/watch?v=kBP-bVci-IM)<br>[00:31:06] |
@@ -583,7 +586,6 @@
 |![](https://i.ytimg.com/vi/1cdw9WcTdyU/maxresdefault.jpg) |2026-08-31 15:26:17<br>thomasflight<br>[The Real Villain of The Backrooms](https://www.youtube.com/watch?v=1cdw9WcTdyU)<br>[00:25:05] |
 |![](https://i.ytimg.com/vi/CyhHz23AHb4/maxresdefault.jpg) |2026-08-31 15:13:08<br>cosmicskeptic<br>[All Things Are Empty - Intro to Madhyamaka Buddhism](https://www.youtube.com/watch?v=CyhHz23AHb4)<br>[01:44:37] |
 |![](https://i.ytimg.com/vi/AcjDyzYcIkc/maxresdefault.jpg) |2026-08-31 15:00:39<br>nightshift_kurzgesagt<br>[Why These Nuns Cut off Their Noses and Lips](https://www.youtube.com/watch?v=AcjDyzYcIkc)<br>[00:07:50] |
-|![](https://i.ytimg.com/vi/eAzKeKNNTkI/maxresdefault.jpg) |2026-08-31 09:28:49<br>decodinggeopoliticspodcast<br>[Something has changed about America. It Will Reshape the World - And There’s No Going Back](https://www.youtube.com/watch?v=eAzKeKNNTkI)<br>[00:32:08] |
 |![](https://i.ytimg.com/vi/URAoOQJkhxU/maxresdefault.jpg) |2026-08-30 22:00:04<br>RobsMedia25<br>[Idiot Influencers - Hunter Avallone](https://www.youtube.com/watch?v=URAoOQJkhxU)<br>[00:41:25] |
 |![](https://i.ytimg.com/vi/nDId1K72ook/maxresdefault.jpg) |2026-08-30 18:00:33<br>RachelOates<br>[BookTok's Worst Gets More Unhinged](https://www.youtube.com/watch?v=nDId1K72ook)<br>[02:57:36] |
 |![](https://i.ytimg.com/vi/IOR883VZDtA/maxresdefault.jpg) |2026-08-30 16:18:17<br>khanubis<br>[Why Does Indonesian Use the Latin Alphabet?](https://www.youtube.com/watch?v=IOR883VZDtA)<br>[00:12:05] |
@@ -850,7 +852,6 @@
 |![](https://i.ytimg.com/vi/oEWHhK1PEBs/maxresdefault.jpg) |2026-04-21 13:18:06<br>ericamallett<br>[I am urging you to climb cringe mountain](https://www.youtube.com/watch?v=oEWHhK1PEBs)<br>[00:06:55] |
 |![](https://i.ytimg.com/vi/462eEen2_d0/maxresdefault.jpg) |2026-04-20 23:16:32<br>savagebooks7482<br>[Warner Bros reeeaally didn't want you to see my Sinners video. So they blocked it...](https://www.youtube.com/watch?v=462eEen2_d0)<br>[00:33:54] |
 |![](https://i.ytimg.com/vi/GF64afzlAQ0/maxresdefault.jpg) |2026-04-20 22:22:33<br>HilaryLayne<br>[The Book That Predicted the Destruction of Society – Analyzing The Catcher In the Rye](https://www.youtube.com/watch?v=GF64afzlAQ0)<br>[00:39:11] |
-|![](https://i.ytimg.com/vi/UgS2U-s7w60/sddefault.jpg) |2026-04-19 10:00:40<br>naynaflorence<br>[life beyond cancer](https://www.youtube.com/watch?v=UgS2U-s7w60)<br>[00:18:14] |
 |![](https://i.ytimg.com/vi/872JcpP3FEM/maxresdefault.jpg) |2026-04-18 18:00:16<br>historiacivilis<br>[The City.](https://www.youtube.com/watch?v=872JcpP3FEM)<br>[00:33:49] |
 |![](https://i.ytimg.com/vi/P6GV5_f1FLA/maxresdefault.jpg) |2026-04-14 14:00:46<br>maneetpaul<br>[This new Kindle hack is absolutely game-changing.](https://www.youtube.com/watch?v=P6GV5_f1FLA)<br>[00:10:02] |
 |![](https://i.ytimg.com/vi/zn0_AJwmVas/maxresdefault.jpg) |2026-04-13 21:41:56<br>lukesmithxyz<br>[Luke Smith Bright Monday Livestream](https://www.youtube.com/watch?v=zn0_AJwmVas)<br>[03:11:18] |
