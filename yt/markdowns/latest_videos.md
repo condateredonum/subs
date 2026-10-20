@@ -1,8 +1,11 @@
 -------------------
-# 2026-10-20 16:15:34
+# 2026-10-20 16:57:45
 [Freemake](https://m.freemake.com/free_video_downloader_solid/) [Y2M](https://real-y2mate.com/) [EZ](https://ezconv.cc/youtube-to-mp4) [OGMP3](https://ogmp3.com/anx) [URL](https://youtubetoolkit.com/tools/url-finder) [[2]](https://www.nicheprowler.com/tools/youtube/youtube-video-finder) [[3]](https://tube.archivarix.net) [[4]](https://skipvids.com) [Comments](https://hadzy.com/) [PullPush](https://search.pullpush.io/)
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/QCWeKlu2FOg/maxresdefault.jpg) |2026-10-20 16:45:31<br>moresus<br>[The Hasan Autism Situation Is Insane..](https://www.youtube.com/watch?v=QCWeKlu2FOg)<br>[00:35:39] |
+|![](https://i.ytimg.com/vi/f6itqaF5Zzw/maxresdefault.jpg) |2026-10-20 16:37:15<br>redeemed_zoomer<br>[I'm back! Here's what will change... (+ Redeemed Junior?)](https://www.youtube.com/watch?v=f6itqaF5Zzw)<br>[00:18:29] |
+|![](https://i.ytimg.com/vi/cfXahyk7mbE/maxresdefault.jpg) |2026-10-20 16:27:25<br>BusinessInsider<br>[Here's how Chicago's last remaining family-owned #drivein makes its iconic #Superdawg. #bigbusiness](https://www.youtube.com/watch?v=cfXahyk7mbE)<br>[00:02:05] |
 |![](https://i.ytimg.com/vi/AzwK-0YHgXg/maxresdefault.jpg) |2026-10-20 15:05:13<br>americanredact<br>[The Internet Broke Bert Kreischer](https://www.youtube.com/watch?v=AzwK-0YHgXg)<br>[00:16:09] |
 |![](https://i.ytimg.com/vi/oxN1SBGpRUU/maxresdefault.jpg) |2026-10-20 15:03:21<br>timesofisrael<br>[A Mandatory Listen - Yossi Klein Halevi: Spiritually coping with this Israeli election](https://www.youtube.com/watch?v=oxN1SBGpRUU)<br>[01:08:28] |
 |![](https://i.ytimg.com/vi/So0F7kpEXXs/maxresdefault.jpg) |2026-10-20 15:01:16<br>nobodyspecialfinance<br>[Amazon Has Billions in GPUs Sitting Idle in Warehouses](https://www.youtube.com/watch?v=So0F7kpEXXs)<br>[00:41:41] |
@@ -185,7 +188,6 @@
 |![](https://i.ytimg.com/vi/WZVzZMh4TBE/maxresdefault.jpg) |2026-10-15 17:00:55<br>orthodoxkyle<br>[The TRUTH About Women...](https://www.youtube.com/watch?v=WZVzZMh4TBE)<br>[00:26:29] |
 |![](https://i.ytimg.com/vi/Susw6Cf9Mqw/maxresdefault.jpg) |2026-10-15 17:00:37<br>Channel4Documentaries<br>[Competing for Head Girl and Making Prank Calls &#124; Educating Greater Manchester](https://www.youtube.com/watch?v=Susw6Cf9Mqw)<br>[00:46:53] |
 |![](https://i.ytimg.com/vi/6Rx-n--dkvw/maxresdefault.jpg) |2026-10-15 17:00:28<br>HorsesOnYT<br>[The Second Amendment](https://www.youtube.com/watch?v=6Rx-n--dkvw)<br>[00:02:50] |
-|![](https://i.ytimg.com/vi/pJnVDfPE_yg/maxresdefault.jpg) |2026-10-15 16:30:22<br>moresus<br>[Penguinz0 Just Went Nuclear..](https://www.youtube.com/watch?v=pJnVDfPE_yg)<br>[00:34:07] |
 |![](https://i.ytimg.com/vi/P8CVqDKeOKk/maxresdefault.jpg) |2026-10-15 16:30:15<br>coldfusion<br>[Bill Gates’ Daughter is in Trouble](https://www.youtube.com/watch?v=P8CVqDKeOKk)<br>[00:17:48] |
 |![](https://i.ytimg.com/vi/XzbzmOdV_TY/maxresdefault.jpg) |2026-10-15 16:14:44<br>bloomberg_live<br>[2026 Bloomberg New Economy Forum Highlights](https://www.youtube.com/watch?v=XzbzmOdV_TY)<br>[00:03:36] |
 |![](https://i.ytimg.com/vi/kGvF7ATAqoo/maxresdefault.jpg) |2026-10-15 15:00:08<br>nightshift_kurzgesagt<br>[The Real Story of the Mongolian Singing Dunes](https://www.youtube.com/watch?v=kGvF7ATAqoo)<br>[00:06:51] |
