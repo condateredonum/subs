@@ -1,9 +1,21 @@
 -------------------
-# 2026-11-12 07:02:46
+# 2026-11-12 12:54:47
 [Freemake](https://m.freemake.com/free_video_downloader_solid/) [Y2M](https://real-y2mate.com/) [EZ](https://ezconv.cc/youtube-to-mp4) [OGMP3](https://ogmp3.com/anx) [URL](https://youtubetoolkit.com/tools/url-finder) [[2]](https://www.nicheprowler.com/tools/youtube/youtube-video-finder) [[3]](https://tube.archivarix.net) [[4]](https://skipvids.com) [Comments](https://hadzy.com/) [PullPush](https://search.pullpush.io/)
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/tZ6rpI67n-Y/maxresdefault.jpg) |2026-11-12 04:52:31<br>IzzySealey<br>[The Life-Changing Science of Decluttering Your Space](https://www.youtube.com/watch?v=tZ6rpI67n-Y)<br>[00:16:42] |
+|![](https://i.ytimg.com/vi/wZYsLgita6I/maxresdefault.jpg) |2026-11-12 11:55:39<br>timesofisrael<br>[IDF strike on Hamas in hospital puts spotlight back on Gaza](https://www.youtube.com/watch?v=wZYsLgita6I)<br>[00:27:48] |
+|![](https://i.ytimg.com/vi/FWLCECpw9hY/maxresdefault.jpg) |2026-11-12 11:30:06<br>hutch<br>[The Most Hostile Debate I've Ever Done](https://www.youtube.com/watch?v=FWLCECpw9hY)<br>[02:29:19] |
+|![](https://i.ytimg.com/vi/LX4he2fL-r0/maxresdefault.jpg) |2026-11-12 10:55:51<br>realchris<br>[Their inner circle just cracked](https://www.youtube.com/watch?v=LX4he2fL-r0)<br>[00:15:02] |
+|![](https://i.ytimg.com/vi/Tgeda21vK38/maxresdefault.jpg) |2026-11-12 10:54:57<br>economicshelp<br>[Mortgage Rates Doubled. Why Haven't House Prices Crashed?](https://www.youtube.com/watch?v=Tgeda21vK38)<br>[00:10:32] |
+|![](https://i.ytimg.com/vi/RpDKc7Tm8qc/maxresdefault.jpg) |2026-11-12 10:45:15<br>bloomberg_live<br>[Alternatives on the Patient Capital Opportunity in 2026](https://www.youtube.com/watch?v=RpDKc7Tm8qc)<br>[00:25:06] |
+|![](https://i.ytimg.com/vi/yVkwt6WjIc4/maxresdefault.jpg) |2026-11-12 10:45:05<br>zeihanongeopolitics<br>[The Problem with the U.S. Power Grid &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=yVkwt6WjIc4)<br>[00:05:22] |
+|![](https://i.ytimg.com/vi/FgDXMljr9jQ/maxresdefault.jpg) |2026-11-12 10:38:13<br>bloomberg_live<br>[Cambridge Associates & KBW Ventures on Investing in 2027](https://www.youtube.com/watch?v=FgDXMljr9jQ)<br>[00:18:19] |
+|![](https://i.ytimg.com/vi/LpJUZtE60uI/maxresdefault.jpg) |2026-11-12 10:32:27<br>bloomberg_live<br>[BoA, Temasek, Citi Leaders on Where Capital is Moving](https://www.youtube.com/watch?v=LpJUZtE60uI)<br>[00:25:48] |
+|![](https://i.ytimg.com/vi/tZbjFUIwWAo/maxresdefault.jpg) |2026-11-12 10:31:27<br>bloomberg_live<br>[What We're Watching at COP31](https://www.youtube.com/watch?v=tZbjFUIwWAo)<br>[00:28:18] |
+|![](https://i.ytimg.com/vi/iDLgD5dfY60/maxresdefault.jpg) |2026-11-12 10:24:45<br>bloomberg_live<br>[What Will It Take For a Clean, Resilient Energy Economy?](https://www.youtube.com/watch?v=iDLgD5dfY60)<br>[00:14:13] |
+|![](https://i.ytimg.com/vi/IONYwAXYCRc/maxresdefault.jpg) |2026-11-12 10:17:33<br>miarosemcgrath<br>[Own your ambition](https://www.youtube.com/watch?v=IONYwAXYCRc)<br>[00:02:07] |
+|![](https://i.ytimg.com/vi/N5C15i4-7RU/maxresdefault.jpg) |2026-11-12 08:28:40<br>financialtimes<br>[Elon Musk beat Sweden’s unions - but not the Swedish model &#124; FT #shorts](https://www.youtube.com/watch?v=N5C15i4-7RU)<br>[00:02:07] |
+|![](https://i.ytimg.com/vi/tZ6rpI67n-Y/maxresdefault.jpg) |2026-11-12 04:52:31<br>IzzySealey<br>[How to Make Space for the New You in 2027](https://www.youtube.com/watch?v=tZ6rpI67n-Y)<br>[00:16:42] |
 |![](https://i.ytimg.com/vi/-ES9uP17akI/maxresdefault.jpg) |2026-11-12 04:44:54<br>friendlyjordies<br>[An update on our mate Franco Guardiani…](https://www.youtube.com/watch?v=-ES9uP17akI)<br>[00:02:03] |
 |![](https://i.ytimg.com/vi/FwQNsPt4ROs/maxresdefault.jpg) |2026-11-12 03:27:33<br>first_class_amateur<br>[I Fished My Backpack Out With a Knot [Stopper Knot]](https://www.youtube.com/watch?v=FwQNsPt4ROs)<br>[00:03:52] |
 |![](https://i.ytimg.com/vi/Ryy9hh2voLo/maxresdefault.jpg) |2026-11-12 03:11:49<br>hutch<br>[Mehdi Hasan Vs Sarah Longwell](https://www.youtube.com/watch?v=Ryy9hh2voLo)<br>[01:42:16] |
@@ -17,6 +29,7 @@
 |![](https://i.ytimg.com/vi/v5ndFMO71CU/maxresdefault.jpg) |2026-11-11 23:42:31<br>someordinarygamers<br>[I Feel Like An Idiot...](https://www.youtube.com/watch?v=v5ndFMO71CU)<br>[00:20:51] |
 |![](https://i.ytimg.com/vi/4x1M-J0BwIo/maxresdefault.jpg) |2026-11-11 23:16:39<br>nnnimroddd<br>[Kimberly Powell discuss Jensen Huang](https://www.youtube.com/watch?v=4x1M-J0BwIo)<br>[00:04:42] |
 |![](https://i.ytimg.com/vi/a0m7T5AcObM/maxresdefault.jpg) |2026-11-11 23:11:12<br>jubilee<br>[What are the dead giveaways of a real New Yorker? #newyorker #transplant #shortform ##jubilee](https://www.youtube.com/watch?v=a0m7T5AcObM)<br>[00:02:10] |
+|![](https://i.ytimg.com/vi/RYQlXSppxGw/maxresdefault.jpg) |2026-11-11 22:42:36<br>hutch<br>[Fighting SoyPill On Mehdi Hasan](https://www.youtube.com/watch?v=RYQlXSppxGw)<br>[06:36:59] |
 |![](https://i.ytimg.com/vi/bJhYc_x8Zp4/maxresdefault.jpg) |2026-11-11 22:39:38<br>philipdefranco<br>[The Ole Miss Doorbell Camera Scandal That Split America](https://www.youtube.com/watch?v=bJhYc_x8Zp4)<br>[00:31:01] |
 |![](https://i.ytimg.com/vi/FgirqyoPh5g/maxresdefault.jpg) |2026-11-11 22:14:18<br>BigABonus<br>[Is the AI Bubble Finally Popping?](https://www.youtube.com/watch?v=FgirqyoPh5g)<br>[00:42:58] |
 |![](https://i.ytimg.com/vi/ryrSZgah6Mo/maxresdefault.jpg) |2026-11-11 22:13:49<br>alyssadgrenfell<br>[Bag of Arms? S-Tier ⭐️ #exmo #exmormon  #mormon #lds #bookofmormonstories](https://www.youtube.com/watch?v=ryrSZgah6Mo)<br>[00:02:12] |
@@ -27,15 +40,12 @@
 |![](https://i.ytimg.com/vi/cvB5FyP1Pkg/maxresdefault.jpg) |2026-11-11 21:00:12<br>TheTechReportTR<br>[Nvidia is in trouble &#124; David Gerard](https://www.youtube.com/watch?v=cvB5FyP1Pkg)<br>[00:31:23] |
 |![](https://i.ytimg.com/vi/084lV89G8WU/maxresdefault.jpg) |2026-11-11 21:00:08<br>restpoliticsus<br>[What Everyone Missed In Hegseth's Impeachment Drama](https://www.youtube.com/watch?v=084lV89G8WU)<br>[00:31:50] |
 |![](https://i.ytimg.com/vi/2TF6t9RYEQU/maxresdefault.jpg) |2026-11-11 20:49:58<br>fads<br>[The CyberTruck Is FINALLY Dead](https://www.youtube.com/watch?v=2TF6t9RYEQU)<br>[00:10:19] |
-|![](https://i.ytimg.com/vi/YO_01mpLKiM/maxresdefault.jpg) |2026-11-11 20:34:22<br>bloomberg_live<br>[John Kerry on the Case for Clean Energy](https://www.youtube.com/watch?v=YO_01mpLKiM)<br>[00:27:14] |
 |![](https://i.ytimg.com/vi/UhLKiFRLB6Q/maxresdefault.jpg) |2026-11-11 20:00:32<br>LemonadeStandPodcast<br>[How The Rich Dodge Taxes &#124; Lemonade Stand🍋](https://www.youtube.com/watch?v=UhLKiFRLB6Q)<br>[01:46:24] |
 |![](https://i.ytimg.com/vi/q4Quofg-whU/maxresdefault.jpg) |2026-11-11 19:30:13<br>jubilee<br>[Looksmaxxers vs body positivity activists discuss incels #incel #looksmaxxer #bodypositivity](https://www.youtube.com/watch?v=q4Quofg-whU)<br>[00:02:24] |
 |![](https://i.ytimg.com/vi/fCKDuzCFzSI/maxresdefault.jpg) |2026-11-11 19:00:28<br>elithecomputerguy<br>[Anthropic AI Sets IPO Date for November 19 - Count Down to AI Bubble Popping](https://www.youtube.com/watch?v=fCKDuzCFzSI)<br>[00:22:32] |
-|![](https://i.ytimg.com/vi/nt1LCNKgyP8/maxresdefault.jpg) |2026-11-11 18:45:53<br>bloomberg_live<br>[Bloomberg Green at COP31](https://www.youtube.com/watch?v=nt1LCNKgyP8)<br>[03:24:03] |
 |![](https://i.ytimg.com/vi/hdMszZ2ah5Q/maxresdefault.jpg) |2026-11-11 18:43:56<br>mkbhd<br>[Macbook PROLED Review: It's Not About That](https://www.youtube.com/watch?v=hdMszZ2ah5Q)<br>[00:15:14] |
 |![](https://i.ytimg.com/vi/8m2K9y8jz4o/maxresdefault.jpg) |2026-11-11 18:33:20<br>realchris<br>[They’re now planning for disaster](https://www.youtube.com/watch?v=8m2K9y8jz4o)<br>[00:12:21] |
 |![](https://i.ytimg.com/vi/3qwBtcp2fFY/maxresdefault.jpg) |2026-11-11 18:30:20<br>jubilee<br>[Looksmaxxers vs body positivity activists discuss food addiction #looksmaxxer #bodypositivity](https://www.youtube.com/watch?v=3qwBtcp2fFY)<br>[00:02:24] |
-|![](https://i.ytimg.com/vi/jOJHEU5uIJs/maxresdefault.jpg) |2026-11-11 18:03:39<br>bloomberg_live<br>[Al Gore on the Future of Climate Action](https://www.youtube.com/watch?v=jOJHEU5uIJs)<br>[00:37:29] |
 |![](https://i.ytimg.com/vi/VsRqgoaIhQ0/maxresdefault.jpg) |2026-11-11 18:00:35<br>TheTechReportTR<br>[AI Bubble: ‘It’s a race to the bottom’ &#124; Thomas Shea](https://www.youtube.com/watch?v=VsRqgoaIhQ0)<br>[00:25:34] |
 |![](https://i.ytimg.com/vi/ga1vk2kAMb8/maxresdefault.jpg) |2026-11-11 18:00:24<br>tobynewbatt<br>[I'm Investing £200 A Month - Here's What Happened After 7 Months](https://www.youtube.com/watch?v=ga1vk2kAMb8)<br>[00:10:11] |
 |![](https://i.ytimg.com/vi/RNxPk-AylGg/maxresdefault.jpg) |2026-11-11 17:49:39<br>damientalksmoney<br>[Vanguard's New Data is a Reality Check for Investors](https://www.youtube.com/watch?v=RNxPk-AylGg)<br>[00:11:41] |
@@ -69,7 +79,6 @@
 |![](https://i.ytimg.com/vi/FYympy3t0nU/maxresdefault.jpg) |2026-11-11 10:45:16<br>zeihanongeopolitics<br>[China's Power Vacuum Worsens &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=FYympy3t0nU)<br>[00:05:18] |
 |![](https://i.ytimg.com/vi/-0hETO-Mm78/maxresdefault.jpg) |2026-11-11 10:43:16<br>DenysDavydov<br>[Update from Ukraine &#124; Huge! Ukraine Strikes Biggest Russian Oil Port Ust-Luga Rus Air Defence Failed](https://www.youtube.com/watch?v=-0hETO-Mm78)<br>[00:18:23] |
 |![](https://i.ytimg.com/vi/IeNhYGEdjaU/maxresdefault.jpg) |2026-11-11 07:15:03<br>friendlyjordies<br>[France Has Fallen](https://www.youtube.com/watch?v=IeNhYGEdjaU)<br>[00:11:55] |
-|![](https://i.ytimg.com/vi/nxlRf9XDhIw/maxresdefault.jpg) |2026-11-11 07:03:05<br>financialtimes<br>[How will El Niño affect you? &#124; FT #shorts](https://www.youtube.com/watch?v=nxlRf9XDhIw)<br>[00:02:09] |
 |![](https://i.ytimg.com/vi/amwO4GVl234/maxresdefault.jpg) |2026-11-11 06:00:00<br>manyhappyreturnspodcast<br>[Inside an Index Fund: Why “Passive” Is a Misleading Word](https://www.youtube.com/watch?v=amwO4GVl234)<br>[00:51:35] |
 |![](https://i.ytimg.com/vi/1Mvb1DqyR-w/maxresdefault.jpg) |2026-11-11 05:01:18<br>friendlyjordies<br>[Jess Wilson’s vision for Victoria is bleak](https://www.youtube.com/watch?v=1Mvb1DqyR-w)<br>[00:02:12] |
 |![](https://i.ytimg.com/vi/GdPYOEb_YPc/maxresdefault.jpg) |2026-11-11 04:15:28<br>penguinz0<br>[Scammers Continue to Exploit the System](https://www.youtube.com/watch?v=GdPYOEb_YPc)<br>[00:14:58] |
@@ -87,7 +96,6 @@
 |![](https://i.ytimg.com/vi/5KTxUdHJQJw/maxresdefault.jpg) |2026-11-10 21:10:10<br>LaelHansen<br>[EVERYONE GOT EXTENSIONS… NOW THEY'RE BALD](https://www.youtube.com/watch?v=5KTxUdHJQJw)<br>[00:29:56] |
 |![](https://i.ytimg.com/vi/WR2LOXVsZNg/maxresdefault.jpg) |2026-11-10 20:58:17<br>DenysDavydov<br>[Update from Ukraine &#124; Wow! Ukraine Nailed Russian AWACS Factory &#124; Russia lost 30% of Fuel](https://www.youtube.com/watch?v=WR2LOXVsZNg)<br>[00:24:07] |
 |![](https://i.ytimg.com/vi/WNW9uH0pzQo/sddefault.jpg) |2026-11-10 20:21:38<br>ComedyBackstage-35<br>[Why Did Brian Redban Quit Editing Kill Tony?](https://www.youtube.com/watch?v=WNW9uH0pzQo)<br>[00:23:22] |
-|![](https://i.ytimg.com/vi/XVD6mwY5ew8/maxresdefault.jpg) |2026-11-10 19:59:57<br>realchris<br>[They're freaking out in the closet](https://www.youtube.com/watch?v=XVD6mwY5ew8)<br>[00:15:51] |
 |![](https://i.ytimg.com/vi/NCZZ1YVD4hY/maxresdefault.jpg) |2026-11-10 19:00:38<br>elithecomputerguy<br>[Anthropic IPO Targets $1 TRILLION Valuation - AI Bubble Popping](https://www.youtube.com/watch?v=NCZZ1YVD4hY)<br>[00:21:21] |
 |![](https://i.ytimg.com/vi/i6pV9mpnSgA/maxresdefault.jpg) |2026-11-10 18:37:53<br>BigABonus<br>[This Is Actually Embarrassing...](https://www.youtube.com/watch?v=i6pV9mpnSgA)<br>[00:08:12] |
 |![](https://i.ytimg.com/vi/BboTz2YEs28/maxresdefault.jpg) |2026-11-10 18:00:23<br>prettypennyclub<br>[Stocks and Shares ISA Portfolio Update November 2027](https://www.youtube.com/watch?v=BboTz2YEs28)<br>[00:09:15] |
@@ -106,7 +114,7 @@
 |![](https://i.ytimg.com/vi/fEjvSbI_PT4/maxresdefault.jpg) |2026-11-10 15:00:01<br>kurzgesagt<br>[What Actually Happens When You Die?](https://www.youtube.com/watch?v=fEjvSbI_PT4)<br>[00:14:00] |
 |![](https://i.ytimg.com/vi/ROW1chIbg6I/maxresdefault.jpg) |2026-11-10 13:00:33<br>elithecomputerguy<br>[Jack Dorsey Laying Off More Tech Employees at Block After 4000 Last Spring - AI Is Killing Jobs](https://www.youtube.com/watch?v=ROW1chIbg6I)<br>[00:20:32] |
 |![](https://i.ytimg.com/vi/Q0eaHuIfd1E/maxresdefault.jpg) |2026-11-10 12:13:50<br>bundeswehr<br>[Ausrüstung im Test: die Versuchskräfte der Bundeswehr &#124; Bundeswehr](https://www.youtube.com/watch?v=Q0eaHuIfd1E)<br>[00:04:27] |
-|![](https://i.ytimg.com/vi/WXV9emaUeo0/maxresdefault.jpg) |2026-11-10 11:54:35<br>HowMoneyWorks<br>[Is The AI Bubble (finally) Popping?](https://www.youtube.com/watch?v=WXV9emaUeo0)<br>[00:26:52] |
+|![](https://i.ytimg.com/vi/WXV9emaUeo0/maxresdefault.jpg) |2026-11-10 11:54:35<br>HowMoneyWorks<br>[Why China's AI Bubble Popped... And Ours Hasn't...](https://www.youtube.com/watch?v=WXV9emaUeo0)<br>[00:26:52] |
 |![](https://i.ytimg.com/vi/VtAVu4BfvsA/maxresdefault.jpg) |2026-11-10 11:00:02<br>ramitsethi<br>["We have $40,000 in credit card debt, but I can’t say no to my kid"](https://www.youtube.com/watch?v=VtAVu4BfvsA)<br>[01:47:50] |
 |![](https://i.ytimg.com/vi/9y99dkHptoE/maxresdefault.jpg) |2026-11-10 10:45:22<br>zeihanongeopolitics<br>[Polish Politics Get Persnickety &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=9y99dkHptoE)<br>[00:03:50] |
 |![](https://i.ytimg.com/vi/DZ1xQbFJOzo/maxresdefault.jpg) |2026-11-10 09:33:33<br>caspianreport<br>[When war becomes profitable](https://www.youtube.com/watch?v=DZ1xQbFJOzo)<br>[00:13:55] |
@@ -185,7 +193,6 @@
 |![](https://i.ytimg.com/vi/ApdEv6Y1RYE/maxresdefault.jpg) |2026-11-07 19:15:07<br>marinamcbain<br>[Grown Women Are Acting Like Babies… And It's Getting DISTURBING](https://www.youtube.com/watch?v=ApdEv6Y1RYE)<br>[00:26:50] |
 |![](https://i.ytimg.com/vi/tcDgj62zCkw/maxresdefault.jpg) |2026-11-07 19:00:02<br>prestonstewart<br>[An American Journalist Just Spent 1 Year on Ukraine's Frontline](https://www.youtube.com/watch?v=tcDgj62zCkw)<br>[00:28:04] |
 |![](https://i.ytimg.com/vi/yzhUnGvPkiM/maxresdefault.jpg) |2026-11-07 18:30:17<br>RachelOates<br>[MEN COULD NEVER: Mary Fields](https://www.youtube.com/watch?v=yzhUnGvPkiM)<br>[00:13:42] |
-|![](https://i.ytimg.com/vi/MJZF1YRTsi0/maxresdefault.jpg) |2026-11-07 17:46:01<br>hutch<br>[Debating A Leftist on the 2026 Midterms](https://www.youtube.com/watch?v=MJZF1YRTsi0)<br>[01:11:23] |
 |![](https://i.ytimg.com/vi/HPrBY5Qa700/maxresdefault.jpg) |2026-11-07 17:14:26<br>oompaville<br>[5 Billion Milk Cartons Saved How Many Children?](https://www.youtube.com/watch?v=HPrBY5Qa700)<br>[00:20:56] |
 |![](https://i.ytimg.com/vi/4SvMBQ4q5NU/maxresdefault.jpg) |2026-11-07 17:09:39<br>spectacles-dm<br>[The Insanity of American Nazism](https://www.youtube.com/watch?v=4SvMBQ4q5NU)<br>[00:34:23] |
 |![](https://i.ytimg.com/vi/RtUgAqGLKpU/sddefault.jpg) |2026-11-07 17:00:25<br>bookswithemilyfox<br>[FINALLY read my most anticipated book of 2026! &#124; Reading Vlog](https://www.youtube.com/watch?v=RtUgAqGLKpU)<br>[00:17:22] |
@@ -235,7 +242,6 @@
 |![](https://i.ytimg.com/vi/5pTbE-aywu4/maxresdefault.jpg) |2026-11-06 11:02:01<br>economicshelp<br>[France Now Borrows at a Higher Rate Than Greece](https://www.youtube.com/watch?v=5pTbE-aywu4)<br>[00:09:47] |
 |![](https://i.ytimg.com/vi/TCPmH2daRA4/maxresdefault.jpg) |2026-11-06 10:45:08<br>zeihanongeopolitics<br>[Bolsonaro Flees Brazil Following Election Loss &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=TCPmH2daRA4)<br>[00:06:14] |
 |![](https://i.ytimg.com/vi/yU8JpuK5NZs/maxresdefault.jpg) |2026-11-06 06:41:48<br>PBoyle<br>[The Binance Hack Isn’t Funny!](https://www.youtube.com/watch?v=yU8JpuK5NZs)<br>[00:40:37] |
-|![](https://i.ytimg.com/vi/3LqjcZyzYEg/maxresdefault.jpg) |2026-11-06 03:57:27<br>hutch<br>[It's A Bloodbath](https://www.youtube.com/watch?v=3LqjcZyzYEg)<br>[02:01:18] |
 |![](https://i.ytimg.com/vi/5CkXJdd06Xc/maxresdefault.jpg) |2026-11-06 00:59:57<br>maxinomics<br>[A big data center running a particular cooling system all day can go through a million gallons](https://www.youtube.com/watch?v=5CkXJdd06Xc)<br>[00:02:04] |
 |![](https://i.ytimg.com/vi/oc8G53Tbsvs/maxresdefault.jpg) |2026-11-06 00:05:01<br>fern-tv<br>[How the Internet Exposed a $10,000,000 Scam](https://www.youtube.com/watch?v=oc8G53Tbsvs)<br>[00:48:10] |
 |![](https://i.ytimg.com/vi/rydkfQjHmuU/maxresdefault.jpg) |2026-11-06 00:00:18<br>fads<br>[The Midterms Just Broke Elon Musk’s Brain...](https://www.youtube.com/watch?v=rydkfQjHmuU)<br>[00:11:32] |
@@ -261,7 +267,6 @@
 |![](https://i.ytimg.com/vi/JLyrjbufgLw/maxresdefault.jpg) |2026-11-05 13:30:30<br>MoneyMacro<br>[How much do immigrants actually cost Europe's taxpayers?](https://www.youtube.com/watch?v=JLyrjbufgLw)<br>[00:22:17] |
 |![](https://i.ytimg.com/vi/a2jlDGZJRBI/maxresdefault.jpg) |2026-11-05 13:30:00<br>nerdwriter1<br>[The Worldwide Scramble to Copy Star Wars](https://www.youtube.com/watch?v=a2jlDGZJRBI)<br>[00:08:15] |
 |![](https://i.ytimg.com/vi/QsiKJm8ICSI/maxresdefault.jpg) |2026-11-05 12:00:15<br>financialinterestcom<br>[The Best Age to Build Wealth](https://www.youtube.com/watch?v=QsiKJm8ICSI)<br>[00:11:56] |
-|![](https://i.ytimg.com/vi/DK2aZ0-Jb6w/maxresdefault.jpg) |2026-11-05 10:45:04<br>zeihanongeopolitics<br>[Attacks on Russian Data Centers: It's Not About Bots &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=DK2aZ0-Jb6w)<br>[00:04:59] |
 |![](https://i.ytimg.com/vi/F4hQNmULk0U/maxresdefault.jpg) |2026-11-05 07:34:23<br>bbcstever<br>[What are today's Russian papers saying about the results of the US midterms?](https://www.youtube.com/watch?v=F4hQNmULk0U)<br>[00:07:20] |
 |![](https://i.ytimg.com/vi/lzsueY_XrfE/maxresdefault.jpg) |2026-11-05 01:33:17<br>fads<br>[Sam Altman Hates Us, And Can’t Fake It Anymore...](https://www.youtube.com/watch?v=lzsueY_XrfE)<br>[00:12:29] |
 |![](https://i.ytimg.com/vi/JigVUyYzKA0/maxresdefault.jpg) |2026-11-05 00:14:52<br>coffeezillaextras<br>[prediction market wars are crazy](https://www.youtube.com/watch?v=JigVUyYzKA0)<br>[00:18:07] |
@@ -409,7 +414,6 @@
 |![](https://i.ytimg.com/vi/eQcBUrK0DLE/sddefault.jpg) |2026-10-28 14:19:20<br>japanesewhoyuta<br>[$7 Meal Prep with Discounted Food 🇯🇵 Life in Japan](https://www.youtube.com/watch?v=eQcBUrK0DLE)<br>[01:42:02] |
 |![](https://i.ytimg.com/vi/vQodCxq7b9g/maxresdefault.jpg) |2026-10-28 14:00:07<br>economicsexplained<br>[How China Is Restarting Its Economy](https://www.youtube.com/watch?v=vQodCxq7b9g)<br>[00:13:50] |
 |![](https://i.ytimg.com/vi/GxZBsYwKbMU/maxresdefault.jpg) |2026-10-28 12:43:41<br>knowledgia<br>[How Was India Decolonized? - Explained in 12 Minutes](https://www.youtube.com/watch?v=GxZBsYwKbMU)<br>[00:12:57] |
-|![](https://i.ytimg.com/vi/MSvP8CBLT5s/maxresdefault.jpg) |2026-10-28 09:57:07<br>economicshelp<br>[The Oil Price Is Lying to You](https://www.youtube.com/watch?v=MSvP8CBLT5s)<br>[00:10:46] |
 |![](https://i.ytimg.com/vi/cNzEpeYlYeo/maxresdefault.jpg) |2026-10-28 09:56:38<br>caspianreport<br>[Why Germany is going downhill](https://www.youtube.com/watch?v=cNzEpeYlYeo)<br>[00:14:10] |
 |![](https://i.ytimg.com/vi/x0jHtPCRKaw/maxresdefault.jpg) |2026-10-28 06:00:00<br>manyhappyreturnspodcast<br>[Canary in the Data Centre: Is Credit Calling Time on AI?](https://www.youtube.com/watch?v=x0jHtPCRKaw)<br>[00:35:09] |
 |![](https://i.ytimg.com/vi/EtGLIBsJuec/maxresdefault.jpg) |2026-10-28 00:14:00<br>thearmchairhistorian<br>[Korea Under Japanese Rule](https://www.youtube.com/watch?v=EtGLIBsJuec)<br>[00:14:46] |
