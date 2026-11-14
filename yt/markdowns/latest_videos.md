@@ -1,8 +1,9 @@
 -------------------
-# 2026-11-14 09:52:32
+# 2026-11-14 11:37:26
 [Freemake](https://m.freemake.com/free_video_downloader_solid/) [Y2M](https://real-y2mate.com/) [EZ](https://ezconv.cc/youtube-to-mp4) [OGMP3](https://ogmp3.com/anx) [URL](https://youtubetoolkit.com/tools/url-finder) [[2]](https://www.nicheprowler.com/tools/youtube/youtube-video-finder) [[3]](https://tube.archivarix.net) [[4]](https://skipvids.com) [Comments](https://hadzy.com/) [PullPush](https://search.pullpush.io/)
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/oTcH2M_Hugc/maxresdefault.jpg) |2026-11-14 10:53:17<br>chrispalmer24<br>[What Did Nvidia Just Do to Index Funds?](https://www.youtube.com/watch?v=oTcH2M_Hugc)<br>[00:13:18] |
 |![](https://i.ytimg.com/vi/_b2uJdW7Ql8/maxresdefault.jpg) |2026-11-14 09:31:26<br>mathematrick<br>[Welche Kurve ist länger: BLAU oder ROT? 🤔](https://www.youtube.com/watch?v=_b2uJdW7Ql8)<br>[00:08:37] |
 |![](https://i.ytimg.com/vi/SpkR8gFmiAY/maxresdefault.jpg) |2026-11-14 08:00:01<br>decodinggeopoliticspodcast<br>[Ukraine Frontline Analyst: Russia’s Army Is Being Torn Apart - And It Just Keeps Getting Worse](https://www.youtube.com/watch?v=SpkR8gFmiAY)<br>[00:31:50] |
 |![](https://i.ytimg.com/vi/ssbDT3eb-Pc/maxresdefault.jpg) |2026-11-14 05:00:33<br>financialtimes<br>[Trump loses. European populism lives on &#124; Martin Wolf on the US midterms &#124; FT](https://www.youtube.com/watch?v=ssbDT3eb-Pc)<br>[00:40:52] |
@@ -538,7 +539,6 @@
 |![](https://i.ytimg.com/vi/PopRhk3umuI/maxresdefault.jpg) |2026-10-12 17:00:29<br>PodcastCringe<br>[Brendan Schaub Loses it After Bryan Callen Abandons TFATK](https://www.youtube.com/watch?v=PopRhk3umuI)<br>[00:20:48] |
 |![](https://i.ytimg.com/vi/x5QT5PJZ3lk/maxresdefault.jpg) |2026-10-12 14:45:02<br>theunclassifiedpod<br>[That's A Wrap](https://www.youtube.com/watch?v=x5QT5PJZ3lk)<br>[00:24:56] |
 |![](https://i.ytimg.com/vi/pafWB0-F06A/maxresdefault.jpg) |2026-10-12 00:35:17<br>theinternetreviewed<br>[Channel 5 with Andrew Callaghan REVIEWED](https://www.youtube.com/watch?v=pafWB0-F06A)<br>[00:34:22] |
-|![](https://i.ytimg.com/vi/5DiP3K10ClA/maxresdefault.jpg) |2026-10-11 18:00:07<br>chrispalmer24<br>[What’s Going On With UK Government Bonds?](https://www.youtube.com/watch?v=5DiP3K10ClA)<br>[00:17:38] |
 |![](https://i.ytimg.com/vi/OgIIxp6RErc/maxresdefault.jpg) |2026-10-11 17:30:06<br>unsolicitedadvice9198<br>[How to Journal Like History's Greatest Philosophers &#124; Parker Settecase](https://www.youtube.com/watch?v=OgIIxp6RErc)<br>[01:49:27] |
 |![](https://i.ytimg.com/vi/0ibItttPwFQ/maxresdefault.jpg) |2026-10-11 16:11:52<br>CamKirkham<br>[The Undercover Boss Episode That Ended in Disaster](https://www.youtube.com/watch?v=0ibItttPwFQ)<br>[01:10:49] |
 |![](https://i.ytimg.com/vi/dMZYoPeGyP0/maxresdefault.jpg) |2026-10-11 15:03:36<br>perunau<br>[Ukraine & Russia's War Budgets (2027) - Pressure, Priorities & Economic Pain Points](https://www.youtube.com/watch?v=dMZYoPeGyP0)<br>[01:00:52] |
