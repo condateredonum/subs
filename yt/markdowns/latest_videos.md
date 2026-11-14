@@ -1,8 +1,9 @@
 -------------------
-# 2026-11-14 05:47:29
+# 2026-11-14 09:24:03
 [Freemake](https://m.freemake.com/free_video_downloader_solid/) [Y2M](https://real-y2mate.com/) [EZ](https://ezconv.cc/youtube-to-mp4) [OGMP3](https://ogmp3.com/anx) [URL](https://youtubetoolkit.com/tools/url-finder) [[2]](https://www.nicheprowler.com/tools/youtube/youtube-video-finder) [[3]](https://tube.archivarix.net) [[4]](https://skipvids.com) [Comments](https://hadzy.com/) [PullPush](https://search.pullpush.io/)
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/SpkR8gFmiAY/maxresdefault.jpg) |2026-11-14 08:00:01<br>decodinggeopoliticspodcast<br>[Ukraine Frontline Analyst: Russia’s Army Is Being Torn Apart - And It Just Keeps Getting Worse](https://www.youtube.com/watch?v=SpkR8gFmiAY)<br>[00:31:50] |
 |![](https://i.ytimg.com/vi/ssbDT3eb-Pc/maxresdefault.jpg) |2026-11-14 05:00:33<br>financialtimes<br>[Trump loses. European populism lives on &#124; Martin Wolf on the US midterms &#124; FT](https://www.youtube.com/watch?v=ssbDT3eb-Pc)<br>[00:40:52] |
 |![](https://i.ytimg.com/vi/XEW2j65y8vg/maxresdefault.jpg) |2026-11-14 02:45:32<br>alyssadgrenfell<br>[Mormon temple rituals are plagiarized from Free Masonry](https://www.youtube.com/watch?v=XEW2j65y8vg)<br>[00:02:22] |
 |![](https://i.ytimg.com/vi/umpaCSaHxxc/maxresdefault.jpg) |2026-11-14 01:35:40<br>realchris<br>[Most F**&* Up Friday 13th ever](https://www.youtube.com/watch?v=umpaCSaHxxc)<br>[00:14:09] |
@@ -86,7 +87,7 @@
 |![](https://i.ytimg.com/vi/gUKizsBigig/maxresdefault.jpg) |2026-11-12 16:15:52<br>tyleroliveira<br>[I Investigated the City Where ONLY Jews Are Allowed to Live...](https://www.youtube.com/watch?v=gUKizsBigig)<br>[00:42:56] |
 |![](https://i.ytimg.com/vi/XJTsnOHf2qQ/maxresdefault.jpg) |2026-11-12 16:00:28<br>prestonstewart<br>[Ground Drones Are Changing the War Across the Front](https://www.youtube.com/watch?v=XJTsnOHf2qQ)<br>[00:20:42] |
 |![](https://i.ytimg.com/vi/JaAn-rwwG6w/maxresdefault.jpg) |2026-11-12 16:00:24<br>fern-tv<br>[The Scariest Religious Movement in America](https://www.youtube.com/watch?v=JaAn-rwwG6w)<br>[00:51:30] |
-|![](https://i.ytimg.com/vi/3yXPx6Ofqro/maxresdefault.jpg) |2026-11-12 16:00:05<br>officialbeyondtheblue<br>[Why You'd Never Make It to the Bottom of the Ocean](https://www.youtube.com/watch?v=3yXPx6Ofqro)<br>[00:28:33] |
+|![](https://i.ytimg.com/vi/3yXPx6Ofqro/maxresdefault.jpg) |2026-11-12 16:00:05<br>officialbeyondtheblue<br>[How Long You'd Survive in The Deepest Layers of the Ocean](https://www.youtube.com/watch?v=3yXPx6Ofqro)<br>[00:28:33] |
 |![](https://i.ytimg.com/vi/2O2x01aTifU/maxresdefault.jpg) |2026-11-12 15:54:09<br>DenysDavydov<br>[Update from Ukraine &#124; Madness! Ukraine Pressed for Capitulation By USA &#124; Strlink Cut Again](https://www.youtube.com/watch?v=2O2x01aTifU)<br>[00:52:55] |
 |![](https://i.ytimg.com/vi/og347E3kUs0/maxresdefault.jpg) |2026-11-12 15:45:25<br>moresus<br>[The Emiru Situation Just Got Worse…](https://www.youtube.com/watch?v=og347E3kUs0)<br>[00:33:54] |
 |![](https://i.ytimg.com/vi/dj90FOEq-sQ/maxresdefault.jpg) |2026-11-12 15:00:38<br>nobodyspecialfinance<br>[Jensen Huang Has Resigned as Nvidia CEO After 2nd Affair Exposed](https://www.youtube.com/watch?v=dj90FOEq-sQ)<br>[00:48:49] |
@@ -590,7 +591,6 @@
 |![](https://i.ytimg.com/vi/fdqxF75gWeE/maxresdefault.jpg) |2026-10-10 14:30:20<br>toldinstone<br>[Luxury Brands of Ancient Rome](https://www.youtube.com/watch?v=fdqxF75gWeE)<br>[00:10:14] |
 |![](https://i.ytimg.com/vi/Uje_KSCzJJc/maxresdefault.jpg) |2026-10-10 11:54:47<br>PBoyle<br>[The Bond Market Has Singled Out France](https://www.youtube.com/watch?v=Uje_KSCzJJc)<br>[00:31:45] |
 |![](https://i.ytimg.com/vi/64-coATh5Hw/maxresdefault.jpg) |2026-10-10 09:30:08<br>lucymoon<br>[how i escaped the comparison trap and found my identity](https://www.youtube.com/watch?v=64-coATh5Hw)<br>[00:25:11] |
-|![](https://i.ytimg.com/vi/zOyW_XgEvpI/maxresdefault.jpg) |2026-10-10 08:00:03<br>decodinggeopoliticspodcast<br>[Margaret MacMillan Warns: The World Order Is Collapsing - And What's Coming Is Far Worse](https://www.youtube.com/watch?v=zOyW_XgEvpI)<br>[00:29:03] |
 |![](https://i.ytimg.com/vi/F7E02qOJvlI/maxresdefault.jpg) |2026-10-10 01:00:38<br>acollierastro<br>[why do Trader Joe's employees do that?](https://www.youtube.com/watch?v=F7E02qOJvlI)<br>[01:01:52] |
 |![](https://i.ytimg.com/vi/lZh0o_X6l7I/maxresdefault.jpg) |2026-10-10 00:27:51<br>hoog-youtube<br>[The Worst Law in the UK](https://www.youtube.com/watch?v=lZh0o_X6l7I)<br>[00:23:48] |
 |![](https://i.ytimg.com/vi/_opSOTc9png/maxresdefault.jpg) |2026-10-10 00:04:28<br>H3PodcastHighlights<br>[The Brittany Broski Cheating Situation](https://www.youtube.com/watch?v=_opSOTc9png)<br>[00:50:00] |
