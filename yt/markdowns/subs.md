@@ -32,7 +32,7 @@
 
 [Andrei Jikh](youtube.com/@AndreiJikh/videos)
 
-[Angela Collier](https://www.youtube.com/channel/UCtscFf8VayggrDYjOwDke_Q)
+<!--[Angela Collier](https://www.you tube.com /chan nel/ UCtscFf8VayggrDYjOwDke_Q)-->
 
 [Anna from Ukraine](https://www.youtube.com/@AnnafromUkraine/videos)
 
@@ -58,7 +58,7 @@
 
 <!--[beacebrocess](https://www.youtube.com/ channel/ UCfupW8CFHKZ03TQuXQZT6Iw)-->
 
-[becauseimmissy](https://www.youtube.com/channel/UCkTfLxwUYhLdy60HDhbya2A)
+<!--[becauseimmissy](https://www.youtube .com / channel /UCkTfLxwUYhLdy60HDhbya2A)-->
 
 [berry9e](https://www.youtube.com/@berry9e/videos)
 
@@ -70,7 +70,7 @@
 
 <!--[BlackBeltSecrets](https://www.youtube.com/chan nel/  UCo0vc7B3CQi-NGJsCnvwfKA)-->
 
-[Bloomberg Live](https://www.youtube.com/channel/UC7UFcUbAd8oyCBWCogVpJ6g)
+<!--[Bloomberg Live](https://www.youtube .com/ channel/ UC7UFcUbAd8oyCBWCogVpJ6g)-->
 
 [Books with Emily Fox](https://www.youtube.com/channel/UCW5R53ckTBE4JJtUmc64lng)
 
@@ -82,7 +82,7 @@
 
 [Bryony Clare](https://www.youtube.com/channel/UCUA99fY1YylIrjeL9IH9SaA)
 
-[Bundeswehr](https://www.youtube.com/channel/UClCZul-nK9h8eVo7REC7RGA)
+<!-- [Bundeswehr](https://www. youtube .com/ channel /UClCZul-nK9h8eVo7REC7RGA ) -->
 
 [Business Insider](https://www.youtube.com/@BusinessInsider/videos)
 
@@ -172,7 +172,7 @@
 
 [Elephant Graveyard](https://www.youtube.com/@TheElephantGraveyardMusic/videos)
 
-[Eli The Computer Guy](https://www.youtube.com/@elithecomputerguy/videos)
+<!-- [Eli The Computer Guy](https://www.youtube. com/ @ elithecomputerguy /videos)-->
 
 [Erica Mallett](https://www.youtube.com/@ericamallett/videos)
 
@@ -230,7 +230,7 @@
 
 [I Will Teach You To Be Rich](https://www.youtube.com/@ramitsethi)
 
-[Isabella Lanter](https://www.youtube.com/@IsabellaLanter)
+<!--[Isabella Lanter](https://www.youtube .com/ @IsabellaLanter)-->
 
 <!--[Israel Advocacy Movement](https://www.youtube.com / @ Israel_Advocacy/videos)-->
 
@@ -472,7 +472,7 @@
 
 <!--[Shawna Ripari](https://www.youtube.com/ @shawnaripari/videos)-->
 
-[ShiraShiraOnTheWall](https://www.youtube.com/channel/UCcw7PtnCzJJrvQEXbmM96mg)
+<!--[ShiraShiraOnTheWall](https://www.youtube.com / channel/ UCcw7PtnCzJJrvQEXbmM96mg)-->
 
 <!--[Shoe0nHead](https://www.youtube.com / @Shoe0nHead /videos)-->
 
@@ -482,9 +482,9 @@
 
 [Sir Manatee](https://www.youtube.com/@SirManateee/videos)
 
-[Smart Money with Kai](https://www.youtube.com/channel/UC3fvxcqhSy3a2szvI6yoP6w)
+<!--[Smart Money with Kai](https://www.youtube. com/ channel/   UC3fvxcqhSy3a2szvI6yoP6w)-->
 
-[SomeOrdinaryGamers](https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ)
+<!--[SomeOrdinaryGamers](https://www.youtube.com/channel/UCtMVHI3AJD4Qk4hcbZnI9ZQ)-->
 
 [Species | Documenting AGI](https://www.youtube.com/channel/UCEENWVBdvDy-QWfuQoXC9HQ)
 
@@ -544,7 +544,7 @@
 
 [Tom Nicholas](https://www.youtube.com/@Tom_Nicholas/videos)
 
-[Tree of Logic](https://www.youtube.com/@justtree411/videos)
+<!--[Tree of Logic](https://www.youtube.com/ @ justtree411/videos)-->
 
 [Turkey Tom](https://www.youtube.com/@TurkeyTom/videos)
 
