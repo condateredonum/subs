@@ -1,9 +1,12 @@
 -------------------
-# 2026-11-22 08:23:52
+# 2026-11-22 11:14:26
 [Freemake](https://m.freemake.com/free_video_downloader_solid/) [Y2M](https://real-y2mate.com/) [EZ](https://ezconv.cc/youtube-to-mp4) [OGMP3](https://ogmp3.com/anx) [URL](https://youtubetoolkit.com/tools/url-finder) [[2]](https://www.nicheprowler.com/tools/youtube/youtube-video-finder) [[3]](https://tube.archivarix.net) [[4]](https://skipvids.com) [Comments](https://hadzy.com/) [PullPush](https://search.pullpush.io/)
 | Thumbnail | Title |
 |-----------|-------|
-|![](https://i.ytimg.com/vi/ZNvC8qTMkhw/maxresdefault.jpg) |2026-11-22 07:45:06<br>bbcstever<br>["Was it just a pretty picture?" I ask Vladimir Putin about his summit with Xi & Trump](https://www.youtube.com/watch?v=ZNvC8qTMkhw)<br>[00:04:37] |
+|![](https://i.ytimg.com/vi/4_J46s0EyrI/maxresdefault.jpg) |2026-11-22 11:03:51<br>DenysDavydov<br>[Update from Ukraine &#124; Frontline Collapse: Russia Can't Hold it &#124; Not Enough Soldiers](https://www.youtube.com/watch?v=4_J46s0EyrI)<br>[00:18:15] |
+|![](https://i.ytimg.com/vi/ueqcEQAIPFo/maxresdefault.jpg) |2026-11-22 11:00:21<br>TypeAshton<br>[Why Christianity Feels So Different in the USA vs. Germany](https://www.youtube.com/watch?v=ueqcEQAIPFo)<br>[00:25:09] |
+|![](https://i.ytimg.com/vi/wbOoCA7LN10/maxresdefault.jpg) |2026-11-22 10:00:32<br>miarosemcgrath<br>[What's in my bag &#124; Practical essentials for an effortlessly chic lifestyle](https://www.youtube.com/watch?v=wbOoCA7LN10)<br>[00:10:44] |
+|![](https://i.ytimg.com/vi/ZNvC8qTMkhw/maxresdefault.jpg) |2026-11-22 07:45:06<br>bbcstever<br>["Are you ready to end the war?" I ask Vladimir Putin.](https://www.youtube.com/watch?v=ZNvC8qTMkhw)<br>[00:04:37] |
 |![](https://i.ytimg.com/vi/ycZh7tWYu3Q/maxresdefault.jpg) |2026-11-22 06:19:41<br>redeemed_zoomer<br>[Every (moral) issue Christians DISAGREE on part 2](https://www.youtube.com/watch?v=ycZh7tWYu3Q)<br>[Duration-Error] |
 |![](https://i.ytimg.com/vi/S7mxaOczPcc/maxresdefault.jpg) |2026-11-22 03:55:47<br>DenysDavydov<br>[Update from Ukraine &#124; Kaliningrad was Hit! Ukraine Burns Rus Ships in Baltics](https://www.youtube.com/watch?v=S7mxaOczPcc)<br>[02:06:05] |
 |![](https://i.ytimg.com/vi/EZDWCtavDdQ/maxresdefault.jpg) |2026-11-22 03:45:06<br>penguinz0<br>[Psycho Bombs Video Game Store](https://www.youtube.com/watch?v=EZDWCtavDdQ)<br>[00:08:57] |
@@ -97,7 +100,6 @@
 |![](https://i.ytimg.com/vi/MSpYDIJfPZ0/maxresdefault.jpg) |2026-11-19 21:39:06<br>DrJonathanTam<br>[Why Korean Workers Can’t Escape Bullying](https://www.youtube.com/watch?v=MSpYDIJfPZ0)<br>[00:34:34] |
 |![](https://i.ytimg.com/vi/RiZKolgtOvs/maxresdefault.jpg) |2026-11-19 21:00:35<br>LemonadeStandPodcast<br>[He's a special kind of evil](https://www.youtube.com/watch?v=RiZKolgtOvs)<br>[00:02:01] |
 |![](https://i.ytimg.com/vi/KTwmlGEf0so/maxresdefault.jpg) |2026-11-19 21:00:31<br>zeihanongeopolitics<br>[The U.S.-Russia-China Summit &#124;&#124; Peter Zeihan](https://www.youtube.com/watch?v=KTwmlGEf0so)<br>[00:05:11] |
-|![](https://i.ytimg.com/vi/eEWhVmALA7M/maxresdefault.jpg) |2026-11-19 20:15:37<br>DenysDavydov<br>[Update from Ukraine &#124; Third Strike! Ukraine Hits Russia's Kerch Bridge Railway! Putin Lost It!](https://www.youtube.com/watch?v=eEWhVmALA7M)<br>[00:26:02] |
 |![](https://i.ytimg.com/vi/r3zHvEW0nbY/maxresdefault.jpg) |2026-11-19 20:12:49<br>YishaiFleisherTV<br>[Wild West Meets the Biblical Heartland](https://www.youtube.com/watch?v=r3zHvEW0nbY)<br>[00:02:42] |
 |![](https://i.ytimg.com/vi/gVd1D6qLvpc/maxresdefault.jpg) |2026-11-19 19:09:29<br>danmurrellmovies<br>[The Further Mis-Adventures of Cliff Booth - Movie Review](https://www.youtube.com/watch?v=gVd1D6qLvpc)<br>[00:08:51] |
 |![](https://i.ytimg.com/vi/X7q8jD15MFw/maxresdefault.jpg) |2026-11-19 19:00:39<br>jamessinclairentrepreneur<br>[A Week in My Life as a Business Owner. The Good, the Bad and the Expensive](https://www.youtube.com/watch?v=X7q8jD15MFw)<br>[00:24:02] |
@@ -195,7 +197,7 @@
 |![](https://i.ytimg.com/vi/atnOaR-UaT0/maxresdefault.jpg) |2026-11-16 20:06:48<br>americanredact<br>[Tony Hinchcliffe's Ego is Destroying Kill Tony](https://www.youtube.com/watch?v=atnOaR-UaT0)<br>[00:15:16] |
 |![](https://i.ytimg.com/vi/b1seE0f4IJI/maxresdefault.jpg) |2026-11-16 19:05:44<br>AshleyEmbers<br>[How social media has ruined our homes](https://www.youtube.com/watch?v=b1seE0f4IJI)<br>[00:32:17] |
 |![](https://i.ytimg.com/vi/N_sRGiMeC4Q/maxresdefault.jpg) |2026-11-16 19:00:31<br>AnaPsychology<br>[Billy Corgan demonstrates how to intellectualize creepy behavior](https://www.youtube.com/watch?v=N_sRGiMeC4Q)<br>[00:20:03] |
-|![](https://i.ytimg.com/vi/2As5pBFUfhs/maxresdefault.jpg) |2026-11-16 18:00:08<br>leenanorms<br>[I already know my best books of 2026 (& here they are).](https://www.youtube.com/watch?v=2As5pBFUfhs)<br>[00:40:44] |
+|![](https://i.ytimg.com/vi/2As5pBFUfhs/maxresdefault.jpg) |2026-11-16 18:00:08<br>leenanorms<br>[Leaking my 2026 best books 1 month early.](https://www.youtube.com/watch?v=2As5pBFUfhs)<br>[00:40:44] |
 |![](https://i.ytimg.com/vi/r2cAML1UJXo/maxresdefault.jpg) |2026-11-16 16:30:16<br>HouseofEl<br>[Europe SHUTS Trump Out - NATO SCRAPS Summit to Avoid Him, $35 BILLION Flees to Europe](https://www.youtube.com/watch?v=r2cAML1UJXo)<br>[00:13:53] |
 |![](https://i.ytimg.com/vi/9cfYZlSESFQ/maxresdefault.jpg) |2026-11-16 16:29:22<br>economicshelp<br>[Nvidia Became the Bank of the AI Boom. The Bank Is Closing.](https://www.youtube.com/watch?v=9cfYZlSESFQ)<br>[00:09:03] |
 |![](https://i.ytimg.com/vi/I87FyTxCaHA/maxresdefault.jpg) |2026-11-16 16:00:10<br>PodcastCringe<br>[The Shane Gillis SNL Situation Just Got Worse](https://www.youtube.com/watch?v=I87FyTxCaHA)<br>[00:18:56] |
@@ -672,7 +674,6 @@
 |![](https://i.ytimg.com/vi/KLNmLW4bLDk/maxresdefault.jpg) |2026-09-15 13:22:49<br>jordanatheresa<br>[Write my non-fiction book with me 🥹](https://www.youtube.com/watch?v=KLNmLW4bLDk)<br>[00:02:15] |
 |![](https://i.ytimg.com/vi/O28iv8KlvWo/maxresdefault.jpg) |2026-09-15 03:49:33<br>atrioc<br>[They Put Snoop Dogg In Hitman. Speedrunners Got High To Beat It.](https://www.youtube.com/watch?v=O28iv8KlvWo)<br>[00:30:53] |
 |![](https://i.ytimg.com/vi/EqqXhsDlNVE/maxresdefault.jpg) |2026-09-13 18:00:29<br>scottcramer<br>[The Most Absurd Competition Shows I’ve Found Recently](https://www.youtube.com/watch?v=EqqXhsDlNVE)<br>[00:30:08] |
-|![](https://i.ytimg.com/vi/GZkrhBtKFg4/maxresdefault.jpg) |2026-09-13 11:00:05<br>TypeAshton<br>[Why Americans Pay a Premium to Fly (...and Europeans Don't)](https://www.youtube.com/watch?v=GZkrhBtKFg4)<br>[00:27:26] |
 |![](https://i.ytimg.com/vi/nODb4a027Pw/maxresdefault.jpg) |2026-09-12 22:49:59<br>decodingthegurus<br>[Batya Ungar Sargon & the Fifth Column: "Tucker Carlson is Left Wing"](https://www.youtube.com/watch?v=nODb4a027Pw)<br>[00:22:14] |
 |![](https://i.ytimg.com/vi/zWGTBWln2iQ/maxresdefault.jpg) |2026-09-12 20:00:24<br>casualhistorian<br>[September 11th: The Day Terrorism Came to America](https://www.youtube.com/watch?v=zWGTBWln2iQ)<br>[00:32:53] |
 |![](https://i.ytimg.com/vi/qJIDOq0ezTs/maxresdefault.jpg) |2026-09-12 16:15:34<br>toldinstone<br>[Three Unfinished Roman Megaprojects](https://www.youtube.com/watch?v=qJIDOq0ezTs)<br>[00:12:21] |
