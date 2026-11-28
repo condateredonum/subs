@@ -1,8 +1,9 @@
 -------------------
-# 2026-11-28 07:08:09
+# 2026-11-28 11:10:41
 [Freemake](https://m.freemake.com/free_video_downloader_solid/) [Y2M](https://real-y2mate.com/) [EZ](https://ezconv.cc/youtube-to-mp4) [OGMP3](https://ogmp3.com/anx) [URL](https://youtubetoolkit.com/tools/url-finder) [[2]](https://www.nicheprowler.com/tools/youtube/youtube-video-finder) [[3]](https://tube.archivarix.net) [[4]](https://skipvids.com) [Comments](https://hadzy.com/) [PullPush](https://search.pullpush.io/)
 | Thumbnail | Title |
 |-----------|-------|
+|![](https://i.ytimg.com/vi/y10fKSMgtaI/maxresdefault.jpg) |2026-11-28 09:30:05<br>mathematrick<br>[Wie schnell findest DU die fehlenden Zahlen?](https://www.youtube.com/watch?v=y10fKSMgtaI)<br>[00:07:12] |
 |![](https://i.ytimg.com/vi/CR1nuAlsX5c/maxresdefault.jpg) |2026-11-28 06:14:50<br>DenysDavydov<br>[Update from Ukraine &#124; This is Massive! Ukraine's Big Counterattack Pushed Russia Back](https://www.youtube.com/watch?v=CR1nuAlsX5c)<br>[00:22:56] |
 |![](https://i.ytimg.com/vi/DLaOqDhbFTU/maxresdefault.jpg) |2026-11-28 06:13:38<br>first_class_amateur<br>[Trucker's Hitch That Releases INSTANTLY [Panic Hitch]](https://www.youtube.com/watch?v=DLaOqDhbFTU)<br>[00:05:38] |
 |![](https://i.ytimg.com/vi/2SYtW7NO8X8/maxresdefault.jpg) |2026-11-28 03:43:41<br>1420channel<br>[34 most outspoken Russians in our street interviews](https://www.youtube.com/watch?v=2SYtW7NO8X8)<br>[00:18:27] |
@@ -384,7 +385,6 @@
 |![](https://i.ytimg.com/vi/Qk6AuhfjvTk/maxresdefault.jpg) |2026-11-10 15:00:36<br>economicsexplained<br>[The Psychology of Inflation](https://www.youtube.com/watch?v=Qk6AuhfjvTk)<br>[00:15:59] |
 |![](https://i.ytimg.com/vi/WXV9emaUeo0/maxresdefault.jpg) |2026-11-10 11:54:35<br>HowMoneyWorks<br>[Why China's AI Bubble Popped... And Ours Hasn't...](https://www.youtube.com/watch?v=WXV9emaUeo0)<br>[00:26:52] |
 |![](https://i.ytimg.com/vi/DZ1xQbFJOzo/maxresdefault.jpg) |2026-11-10 09:33:33<br>caspianreport<br>[Why Myanmar’s civil war is so profitable](https://www.youtube.com/watch?v=DZ1xQbFJOzo)<br>[00:13:55] |
-|![](https://i.ytimg.com/vi/fXn3BdovEO0/maxresdefault.jpg) |2026-11-10 09:30:37<br>mathematrick<br>[Ich bin weg... und das ist der Grund 👀](https://www.youtube.com/watch?v=fXn3BdovEO0)<br>[00:11:43] |
 |![](https://i.ytimg.com/vi/af-aNouwKf4/maxresdefault.jpg) |2026-11-10 08:06:56<br>bbcstever<br>[Why is one Russian paper calling Ukraine talks "a victory" for Moscow?](https://www.youtube.com/watch?v=af-aNouwKf4)<br>[00:04:21] |
 |![](https://i.ytimg.com/vi/C-RdGWXSNP8/maxresdefault.jpg) |2026-11-10 04:20:20<br>VirtualReviewer<br>[Klein/11 Part 5: Ethan Drops a Content Uke](https://www.youtube.com/watch?v=C-RdGWXSNP8)<br>[00:42:20] |
 |![](https://i.ytimg.com/vi/bwZSam5Bn5Y/maxresdefault.jpg) |2026-11-09 19:00:07<br>AnaPsychology<br>[Bill Burr is a lesson on emotional repression—and how to overcome it](https://www.youtube.com/watch?v=bwZSam5Bn5Y)<br>[00:20:28] |
